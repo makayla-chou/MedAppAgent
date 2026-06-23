@@ -358,6 +358,28 @@ def _normalize_text(value: Any) -> str:
     return re.sub(r"[^a-z0-9]+", "", str(value).lower())
 
 
+def _institution_tokens(value: Any) -> set[str]:
+    if value is None:
+        return set()
+
+    stopwords = {
+        "the",
+        "main",
+        "campus",
+        "university",
+        "college",
+        "state",
+        "of",
+        "at",
+        "and",
+    }
+    return {
+        token
+        for token in re.findall(r"[a-z0-9]+", str(value).lower())
+        if token not in stopwords
+    }
+
+
 def _format_count(value: Any) -> str:
     number = _to_float(value)
     if number is None:
@@ -935,6 +957,18 @@ def _best_institution_match(
     if not exact.empty:
         return exact.iloc[0]
 
+    target_tokens = _institution_tokens(institution_name)
+    if target_tokens:
+        token_matches = dataframe[
+            dataframe["institution_name"].map(
+                lambda candidate: target_tokens.issubset(
+                    _institution_tokens(candidate)
+                )
+            )
+        ]
+        if not token_matches.empty:
+            return token_matches.iloc[0]
+
     scores = normalized.map(
         lambda candidate: SequenceMatcher(
             None,
@@ -943,9 +977,18 @@ def _best_institution_match(
         ).ratio()
     )
     best_index = scores.idxmax()
-    if float(scores.loc[best_index]) < 0.80:
+    best_candidate = dataframe.loc[best_index]
+    candidate_tokens = _institution_tokens(
+        best_candidate.get("institution_name")
+    )
+    token_overlap = (
+        len(target_tokens & candidate_tokens) / len(target_tokens)
+        if target_tokens
+        else 0
+    )
+    if float(scores.loc[best_index]) < 0.92 or token_overlap < 0.75:
         return None
-    return dataframe.loc[best_index]
+    return best_candidate
 
 
 def get_undergraduate_institution_context(

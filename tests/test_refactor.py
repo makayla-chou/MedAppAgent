@@ -9,6 +9,7 @@ from repositories.school_repository import (
     parse_average_number,
 )
 from services.aamc_data_service import get_available_tables, get_context_for_profile
+from services.aamc_data_service import get_undergraduate_institution_context
 from services.ranking_service import rank_schools
 from validation.profile_validator import validate_student_profile
 
@@ -93,6 +94,13 @@ class RefactorTests(unittest.TestCase):
         self.assertIn("Undergraduate-major aggregate context", context)
         self.assertIn("Home-state academic context", context)
         self.assertIn("Do not use demographic or access data to change school rankings", context)
+
+    def test_ohio_state_does_not_match_iowa_state(self):
+        context = get_undergraduate_institution_context("Ohio State University")
+
+        self.assertIsNotNone(context)
+        self.assertIn("The Ohio State University Main Campus", context)
+        self.assertNotIn("Iowa State University", context)
 
 
 if __name__ == "__main__":
