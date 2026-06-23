@@ -1,0 +1,127 @@
+﻿indicator_group,indicator_name,indicator_short_name,indicator_structure,application_stage,academic_year,count,percent_of_total,total_people,source_table
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2018-2019,12839,24.3,52777,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2018-2019,31617,59.9,52777,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2018-2019,8321,15.8,52777,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2019-2020,12526,23.5,53368,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2019-2020,32444,60.8,53368,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2019-2020,8398,15.7,53368,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2020-2021,12457,23.5,53030,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2020-2021,32267,60.8,53030,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2020-2021,8306,15.7,53030,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2021-2022,15304,24.5,62443,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2021-2022,36874,59.1,62443,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2021-2022,10265,16.4,62443,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2022-2023,13379,24.2,55189,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2022-2023,33237,60.2,55189,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2022-2023,8573,15.5,55189,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2023-2024,12555,23.9,52577,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2023-2024,31994,60.9,52577,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2023-2024,8028,15.3,52577,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2024-2025,12278,23.6,51946,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2024-2025,31771,61.2,51946,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2024-2025,7897,15.2,51946,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Applicants,2025-2026,12386,22.6,54699,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Applicants,2025-2026,33238,60.8,54699,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Applicants,2025-2026,9075,16.6,54699,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2018-2019,4684,20.8,22483,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2018-2019,15373,68.4,22483,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2018-2019,2426,10.8,22483,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2019-2020,4584,20.2,22687,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2019-2020,15578,68.7,22687,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2019-2020,2525,11.1,22687,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2020-2021,4826,20.9,23105,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2020-2021,15657,67.8,23105,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2020-2021,2622,11.3,23105,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2021-2022,5119,21.6,23711,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2021-2022,15843,66.8,23711,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2021-2022,2749,11.6,23711,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2022-2023,5124,21.5,23810,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2022-2023,15994,67.2,23810,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2022-2023,2692,11.3,23810,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2023-2024,5099,21.2,24014,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2023-2024,16339,68,24014,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2023-2024,2576,10.7,24014,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2024-2025,5010,20.7,24172,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2024-2025,16633,68.8,24172,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2024-2025,2529,10.5,24172,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Acceptees,2025-2026,4787,19.7,24300,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Acceptees,2025-2026,16741,68.9,24300,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Acceptees,2025-2026,2772,11.4,24300,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2018-2019,4516,20.9,21622,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2018-2019,14837,68.6,21622,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2018-2019,2269,10.5,21622,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2019-2020,4425,20.2,21869,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2019-2020,15055,68.8,21869,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2019-2020,2389,10.9,21869,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2020-2021,4650,20.9,22239,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2020-2021,15132,68,22239,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2020-2021,2457,11,22239,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2021-2022,4901,21.6,22666,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2021-2022,15192,67,22666,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2021-2022,2573,11.4,22666,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2022-2023,4887,21.5,22710,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2022-2023,15293,67.3,22710,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2022-2023,2530,11.1,22710,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2023-2024,4897,21.3,22980,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2023-2024,15647,68.1,22980,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2023-2024,2436,10.6,22980,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2024-2025,4794,20.7,23156,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2024-2025,15978,69,23156,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2024-2025,2384,10.3,23156,A-24
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,Matriculants,2025-2026,4606,19.7,23440,A-24
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,Matriculants,2025-2026,16212,69.2,23440,A-24
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,Matriculants,2025-2026,2622,11.2,23440,A-24
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2018-2019,150,0.3,52777,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2019-2020,134,0.3,53368,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2020-2021,148,0.3,53030,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2021-2022,208,0.3,62443,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2022-2023,159,0.3,55189,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2023-2024,144,0.3,52577,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2024-2025,107,0.2,51946,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Applicants,2025-2026,73,0.1,54699,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2018-2019,43,0.2,22483,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2019-2020,38,0.2,22687,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2020-2021,50,0.2,23105,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2021-2022,71,0.3,23711,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2022-2023,55,0.2,23810,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2023-2024,53,0.2,24014,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2024-2025,44,0.2,24172,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Acceptees,2025-2026,22,0.1,24300,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2018-2019,42,0.2,21622,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2019-2020,36,0.2,21869,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2020-2021,46,0.2,22239,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2021-2022,65,0.3,22666,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2022-2023,53,0.2,22710,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2023-2024,52,0.2,22980,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2024-2025,41,0.2,23156,A-25
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,Matriculants,2025-2026,20,0.1,23440,A-25
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2020-2021,7421,14,53030,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2021-2022,9616,15.4,62443,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2022-2023,7712,14,55189,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2023-2024,7260,13.8,52577,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2024-2025,7146,13.8,51946,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Applicants,2025-2026,7530,13.8,54699,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2020-2021,2647,11.5,23105,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2021-2022,2928,12.3,23711,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2022-2023,2667,11.2,23810,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2023-2024,2720,11.3,24014,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2024-2025,2669,11,24172,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Acceptees,2025-2026,2615,10.8,24300,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2020-2021,2545,11.4,22239,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2021-2022,2804,12.4,22666,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2022-2023,2543,11.2,22710,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2023-2024,2606,11.3,22980,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2024-2025,2545,11,23156,A-26
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,Matriculants,2025-2026,2498,10.7,23440,A-26
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Applicants,2022-2023,6940,12.6,55189,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Applicants,2023-2024,7129,13.6,52577,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Applicants,2024-2025,7474,14.4,51946,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Applicants,2025-2026,8251,15.1,54699,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Acceptees,2022-2023,2752,11.6,23810,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Acceptees,2023-2024,3010,12.5,24014,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Acceptees,2024-2025,3029,12.5,24172,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Acceptees,2025-2026,3151,13,24300,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Matriculants,2022-2023,2639,11.6,22710,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Matriculants,2023-2024,2896,12.6,22980,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Matriculants,2024-2025,2892,12.5,23156,A-27
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,Matriculants,2025-2026,3029,12.9,23440,A-27

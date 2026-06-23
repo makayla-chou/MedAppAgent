@@ -1,0 +1,49 @@
+1. Applicant Snapshot  
+- Name: Student 1  
+- State residency: North Carolina  
+- Citizenship: U.S. citizen  
+- Undergraduate institution: New York University  
+- Major: Biomedical Engineering  
+- Application year: 2027  
+- Overall GPA: 3.72  
+- Science GPA: 3.65  
+- MCAT taken: No  
+- MCAT score: Not available  
+- Clinical experience hours: 420  
+- Shadowing hours: 85  
+- Research hours: 650  
+- Nonclinical volunteering hours: 310  
+- Leadership hours: 180  
+- Teaching hours: 220  
+- Career interests: Pediatrics, Primary care, Academic medicine, Public health  
+- Population interest: Children and families facing healthcare barriers (income, language, transportation, insurance)  
+- School preference: MD and DO programs, Northeast region, Urban setting, no dealbreakers  
+- Geographic flexibility: Prefer schools within several hours of Virginia; open to relocating for fit  
+
+2. Evidence-Based Strengths  
+- GPA improved steadily from 3.35 first semester to above 3.8 final four semesters; recovered from C+ in Organic Chemistry I to A- in Organic Chemistry II  
+- Substantial clinical experience (420 hours) with direct patient and family interaction in an emergency department setting  
+- Extensive research experience (650 hours) in microbiology laboratory with hands-on techniques (PCR, gel electrophoresis), presentations at university symposium, and manuscript preparation/submission  
+- Varied volunteer service including leadership in community food pantry with culturally competent outreach (bilingual signage)  
+- Multiple academic honors: Dean’s List (2024–2026), Undergraduate Research Excellence Award (2026), Biology Department Academic Achievement Award (2025)  
+- Demonstrated interest in health equity, community service, and early clinical exposure aligned with goals  
+
+3. Risk Factors  
+- No MCAT score available as of application; MCAT is typically required for MD and DO admissions  
+- Warning in research outputs: research description states manuscript is "being prepared," but achievements list says "submitted" – status of publication needs verification  
+- The applicant requests DO programs, but the school dataset contains no rows for DO programs, potentially limiting matching options  
+
+4. Advising Priorities  
+- Strongly advise scheduling and completing MCAT exam as soon as possible to have a validated test score for MD and DO applications  
+- Clarify the status of the research manuscript submission to ensure consistency on application materials  
+- Because DO programs are requested but no data is available, discuss alternative MD program options or re-evaluate DO interest based on program availability and fit  
+- Focus on applying to schools with strong community service, early clinical exposure, and health equity focus in Northeast urban settings, considering preference to remain close to Virginia  
+- Reinforce highlighting upward GPA trend and leadership/service experiences in application materials for a holistic presentation  
+
+5. Missing or Conflicting Information  
+- MCAT Taken: No MCAT taken yet; MCAT total and section scores all null  
+- Research manuscript status:  
+  - Description states manuscript "being prepared for submission"  
+  - Achievements list "Publication submitted"  
+  - Status: Needs verification  
+- Dataset contains no DO program data, although applicant preferences include DO—confirmation of realistic application options is needed

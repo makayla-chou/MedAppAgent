@@ -1,0 +1,58 @@
+1. Applicant Snapshot  
+- Name: Jordan Lee  
+- State residency: North Carolina  
+- Citizenship status: U.S. citizen  
+- Undergraduate school: University of North Carolina at Charlotte  
+- Major: Biology  
+- Application year: 2027  
+- Overall GPA: 3.74  
+- Science GPA: 3.68  
+- MCAT total: 500  
+- MCAT section scores (reported in academics): Chem/Physics 125, CARS 125, Bio/Biochem 125, Psych/Soc 125  
+- MCAT section scores (academic context quote): Chem/Physics 127, CARS 126, Bio/Biochem 129, Psych/Soc 128  
+- Clinical experience hours: 480  
+- Shadowing hours: 90  
+- Research hours: 700  
+- Nonclinical volunteering hours: 340  
+- Leadership hours: 210  
+- Teaching hours: 160  
+- Research outputs: Poster presentation, Conference presentation, Publication submitted (conflicts with description)  
+- Awards: Dean’s List (2024–2026), Undergraduate Research Excellence Award (2026), Biology Department Academic Achievement Award (2025)  
+- Career interests: Pediatrics, Primary care, Public health, Academic medicine  
+- Population interests: Children and families facing healthcare barriers (income, language, transportation, insurance)  
+- School preferences: MD and DO programs (DO programs not in dataset), Southeast and Mid-Atlantic regions, Urban setting, Rural location is a dealbreaker  
+
+2. Evidence-Based Strengths  
+- Strong GPA overall (3.74) and science GPA (3.68), with noted grade improvement after the first year and strong chemistry course recovery  
+- Diverse and substantive clinical experience (480 hours) with direct patient and family interactions in an emergency department setting  
+- Considerable research experience (700 hours) with laboratory skills, data analysis, presentations, and near-submission of a manuscript  
+- Multiple leadership and teaching activities indicating engagement and responsibility (210 and 160 hours respectively)  
+- Service experience including language accessibility initiatives reflecting cultural awareness and community engagement  
+- Recognized with multiple academic and research awards  
+- Clear and well-articulated career and population focus consistent with stated school preferences  
+
+3. Risk Factors  
+- MCAT total score of 500 is at the lower end of the 498–501 range typical for GPA 3.60–3.79; also, two conflicting sets of MCAT section scores are reported: 125/125/125/125 versus 127/126/129/128 (Needs verification)  
+- Warning on research outputs: narrative states manuscript is being prepared, achievements list states manuscript was submitted (Needs verification)  
+- Preference for DO programs cannot be supported by dataset as no DO programs are included for ranking  
+- Preference against rural schools may limit applicant's options especially outside urban Southeast/Mid-Atlantic areas  
+
+4. Advising Priorities  
+- Verify the accurate MCAT section scores and confirm the status of the research publication manuscript (submitted vs. in preparation)  
+- Prepare application strategy that emphasizes strong upward academic trajectory, research productivity, and clinical experience to offset moderate MCAT score  
+- Target MD programs matching geographic, setting, and mission preferences with strong community service and health equity components  
+- Consider application to schools with early clinical exposure and public health programs as per stated preferences  
+- Develop narrative focusing on experience with underserved populations and language access initiatives to highlight commitment to health equity  
+- If applying to DO schools, note dataset limitation; additional research needed on DO schools outside this dataset  
+- Highlight leadership, teaching, and service activities in application to strengthen non-academic profile  
+
+5. Missing or Conflicting Information  
+- MCAT section scores:  
+  - Value 1: Chem/Physics 125, CARS 125, Bio/Biochem 125, Psych/Soc 125  
+  - Value 2: Chem/Physics 127, CARS 126, Bio/Biochem 129, Psych/Soc 128  
+  - Status: Needs verification.  
+- Research publication status:  
+  - Value 1: Manuscript currently being prepared (from experience description)  
+  - Value 2: Publication submitted (from achievements list)  
+  - Status: Needs verification.  
+- Dataset does not include DO programs despite applicant’s stated preference—this restricts reliable program ranking for DO.

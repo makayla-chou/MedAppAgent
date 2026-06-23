@@ -1,0 +1,7 @@
+﻿indicator_group,indicator_name,indicator_short_name,indicator_structure,applicant_count,applicant_percent_of_total,acceptee_count,acceptee_percent_of_total,matriculant_count,matriculant_percent_of_total,acceptance_ratio_percent,applicant_to_matriculant_ratio_percent,matriculant_yield_percent,academic_year
+Financial Access,Applied Fee Assistance Program Benefits,Applied Fee Assistance Program Benefits,binary_status_indicator,8251,15.1,3151,13,3029,12.9,38.19,36.71,96.13,2025-2026
+Immigration and Access,DACA Status,DACA Status,binary_status_indicator,73,0.1,22,0.1,20,0.1,30.14,27.4,90.91,2025-2026
+Socioeconomic Status Distribution,EO1/2: Lower parental education or service/clerical/skilled/unskilled occupation,EO1/2,mutually_exclusive_distribution,12386,22.6,4787,19.7,4606,19.7,38.65,37.19,96.22,2025-2026
+Socioeconomic Status Distribution,EO3/4/5: Bachelor's or higher parental education with executive/managerial/professional occupation,EO3/4/5,mutually_exclusive_distribution,33238,60.8,16741,68.9,16212,69.2,50.37,48.78,96.84,2025-2026
+Socioeconomic Status Distribution,Not Applicable or Unknown SES,Not Applicable/Unknown,mutually_exclusive_distribution,9075,16.6,2772,11.4,2622,11.2,30.55,28.89,94.59,2025-2026
+Socioeconomic and Educational Access,First Generation College Student,First Generation College Student,binary_status_indicator,7530,13.8,2615,10.8,2498,10.7,34.73,33.17,95.53,2025-2026

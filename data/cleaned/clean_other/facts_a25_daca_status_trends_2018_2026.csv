@@ -1,0 +1,25 @@
+﻿application_stage,academic_year,indicator_name,indicator_count,indicator_percent_of_total,total_people,source_table
+Applicants,2018-2019,DACA Status,150,0.3,52777,A-25
+Applicants,2019-2020,DACA Status,134,0.3,53368,A-25
+Applicants,2020-2021,DACA Status,148,0.3,53030,A-25
+Applicants,2021-2022,DACA Status,208,0.3,62443,A-25
+Applicants,2022-2023,DACA Status,159,0.3,55189,A-25
+Applicants,2023-2024,DACA Status,144,0.3,52577,A-25
+Applicants,2024-2025,DACA Status,107,0.2,51946,A-25
+Applicants,2025-2026,DACA Status,73,0.1,54699,A-25
+Acceptees,2018-2019,DACA Status,43,0.2,22483,A-25
+Acceptees,2019-2020,DACA Status,38,0.2,22687,A-25
+Acceptees,2020-2021,DACA Status,50,0.2,23105,A-25
+Acceptees,2021-2022,DACA Status,71,0.3,23711,A-25
+Acceptees,2022-2023,DACA Status,55,0.2,23810,A-25
+Acceptees,2023-2024,DACA Status,53,0.2,24014,A-25
+Acceptees,2024-2025,DACA Status,44,0.2,24172,A-25
+Acceptees,2025-2026,DACA Status,22,0.1,24300,A-25
+Matriculants,2018-2019,DACA Status,42,0.2,21622,A-25
+Matriculants,2019-2020,DACA Status,36,0.2,21869,A-25
+Matriculants,2020-2021,DACA Status,46,0.2,22239,A-25
+Matriculants,2021-2022,DACA Status,65,0.3,22666,A-25
+Matriculants,2022-2023,DACA Status,53,0.2,22710,A-25
+Matriculants,2023-2024,DACA Status,52,0.2,22980,A-25
+Matriculants,2024-2025,DACA Status,41,0.2,23156,A-25
+Matriculants,2025-2026,DACA Status,20,0.1,23440,A-25

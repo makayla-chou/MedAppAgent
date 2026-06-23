@@ -1,0 +1,164 @@
+# School Match Report
+
+## Strongest Matches
+- **Eastern Virginia Medical School at Old Dominion University (VA)**
+  - Public school in Virginia, applicant’s home state.
+  - Average GPA 3.70, average MCAT 513.
+  - Applicant’s GPA (3.8) is above average, MCAT (504) is below average but close enough that with strong other factors (research, volunteering, outreach) this could be a reasonable match.
+  - Strong fit given applicant’s interest in underserved communities and pediatric psychiatry, as EVMS has a reputation for community engagement.
+  
+- **Virginia Commonwealth University School of Medicine (VA)**
+  - Public Virginia school with average GPA 3.70 and average MCAT 512.
+  - Applicant’s GPA is above average, MCAT below average but not drastically.
+  - VCU’s mission includes serving underserved populations, aligning well with applicant’s interests.
+  
+- **Virginia Tech Carilion School of Medicine (VA)**
+  - Public Virginia school with average GPA 3.67 and average MCAT 512.
+  - Applicant’s GPA is above average; MCAT below average but close.
+  - Known for research opportunities, which fits applicant’s strong research background.
+  
+- **Medical College of Georgia at Augusta University (GA)**
+  - Public school with average GPA 3.80 and average MCAT 512.
+  - Applicant’s GPA matches average; MCAT is below average but within range.
+  - Has a mission to serve underserved populations, which aligns with applicant’s interests.
+  
+- **University of South Alabama College of Medicine (AL)**
+  - Public school with average GPA 3.85 and average MCAT 508.
+  - Applicant’s GPA matches average; MCAT is slightly below average.
+  - Out-of-state applicants minimum MCAT is 507.5 (70th percentile), so 504 is below this threshold, but it may still be worth considering if other strengths are strong.
+  
+## Reach Schools
+- **University of Virginia School of Medicine (VA)**
+  - Public Virginia school with average GPA 3.85 and average MCAT 518.
+  - Applicant’s GPA is competitive, but MCAT is well below average (504 vs 518).
+  - Very competitive school with high stats; applicant’s MCAT is a significant weakness here.
+  
+- **University of North Carolina at Chapel Hill School of Medicine (NC)**
+  - Public school with average GPA 3.79 and average MCAT 512.
+  - GPA is competitive, MCAT below average.
+  - Strong research and clinical programs; applicant’s MCAT is a weakness but GPA and activities are strong.
+  
+- **Wake Forest University School of Medicine (NC)**
+  - Private school with average GPA 3.83 and average MCAT 511.
+  - Applicant’s GPA is competitive; MCAT below average.
+  - Known for clinical training and research; MCAT is a weakness.
+  
+- **Morehouse School of Medicine (GA)**
+  - Private school with average GPA 3.64 and average MCAT 504.1.
+  - Applicant’s GPA is above average; MCAT is right at the average.
+  - Focus on underserved communities aligns well with applicant’s interests.
+  - Morehouse is a reach due to competitiveness and private status but MCAT is close.
+  
+- **Mercer University School of Medicine (GA)**
+  - Private school with average GPA 3.69 and average MCAT 503.
+  - Applicant’s GPA is above average; MCAT is slightly above average.
+  - Focus on primary care and underserved populations fits applicant’s goals.
+  - Reach due to private status and somewhat lower average GPA.
+  
+## Target Schools
+- **University of Kentucky College of Medicine (KY)**
+  - Public school with average GPA 3.84 and average MCAT 508.
+  - Applicant’s GPA is competitive; MCAT is below average but close.
+  - Public school with a mission that includes serving diverse populations.
+  
+- **University of Louisville School of Medicine (KY)**
+  - Public school with average GPA 3.78 and average MCAT 507.
+  - Applicant’s GPA above average; MCAT slightly below average.
+  - Good fit for applicant’s interests in underserved communities.
+  
+- **University of Arkansas for Medical Sciences College of Medicine (AR)**
+  - Public school with average GPA 3.85 and average MCAT 507.
+  - Applicant’s GPA matches average; MCAT below average but close.
+  - Has a mission to serve underserved populations.
+  
+- **University of Mississippi School of Medicine (MS)**
+  - Public school with average GPA 3.80 and average MCAT 506.
+  - Applicant’s GPA matches average; MCAT slightly below average.
+  - Public school with focus on rural and underserved care.
+  
+- **East Tennessee State University James H. Quillen College of Medicine (TN)**
+  - Public school with average GPA 3.85 and average MCAT 513.
+  - Applicant’s GPA matches average; MCAT below average.
+  - Strong focus on rural and underserved populations.
+  
+- **University of Oklahoma College of Medicine (OK)**
+  - Public school with average GPA 3.79 and average MCAT 511.
+  - Applicant’s GPA above average; MCAT below average.
+  - Public school with community focus.
+  
+- **University of South Dakota Sanford School of Medicine (SD)**
+  - Public school with average GPA 3.79 and average MCAT 508.
+  - Applicant’s GPA above average; MCAT below average.
+  - Focus on rural and underserved populations.
+  
+- **University of Nebraska College of Medicine (NE)**
+  - Public school with average GPA 3.87 and average MCAT 512.
+  - Applicant’s GPA slightly below average; MCAT below average.
+  - Public school with community engagement.
+  
+## Safer Schools
+- **Mercer University School of Medicine (GA)**
+  - Private school with average GPA 3.69 and average MCAT 503.
+  - Applicant’s GPA and MCAT are above average here.
+  - Focus on underserved populations; likely a safer option.
+  
+- **Morehouse School of Medicine (GA)**
+  - Average GPA 3.64 and MCAT 504.1.
+  - Applicant’s GPA and MCAT are above or at average.
+  - Mission aligns well with applicant’s interests.
+  
+- **University of Missouri-Kansas City School of Medicine (MO)**
+  - Public school with average GPA 3.78 and average MCAT 506.
+  - Applicant’s GPA and MCAT above average.
+  - Public school with community focus.
+  
+- **University of Mississippi School of Medicine (MS)**
+  - GPA 3.80, MCAT 506.
+  - Applicant’s stats above average.
+  
+- **University of South Dakota Sanford School of Medicine (SD)**
+  - GPA 3.79, MCAT 508.
+  - Applicant’s stats above average.
+  
+- **Covenant HealthCare College of Medicine at Central Michigan University (MI)**
+  - GPA 3.80, MCAT 506.
+  - Applicant’s stats above average.
+  
+- **Marshall University Joan C. Edwards School of Medicine (WV)**
+  - GPA 3.81, MCAT 506.
+  - Applicant’s stats above average.
+  
+- **Wright State University Boonshoft School of Medicine (OH)**
+  - GPA 3.68, MCAT 508.76.
+  - Applicant’s GPA above average; MCAT slightly below average but close.
+  
+## Schools to Be Careful With
+- **Highly competitive schools with average MCAT well above 510 (e.g., Johns Hopkins, Stanford, Harvard, UCSF, Washington University in St. Louis, Perelman at UPenn)**
+  - Applicant’s MCAT 504 is significantly below average.
+  - Applying here would be a reach with very low chance of admission.
+  
+- **Schools with missing data (e.g., Alice L. Walton School of Medicine, Charles R. Drew University of Medicine and Science College of Medicine, Methodist University Cape Fear Valley Health School of Medicine, Roseman University College of Medicine, Thomas F. Frist Jr. College of Medicine at Belmont University)**
+  - Lack of data on average GPA/MCAT or minimum MCAT makes it difficult to assess fit.
+  - Applying here is riskier without more info.
+  
+- **Schools with minimum MCAT requirements above 504 (e.g., University of Alabama at Birmingham minimum MCAT 494 but average 509.4; Frederick P. Whiddon College of Medicine minimum MCAT 507.5 for out-of-state)**
+  - Applicant’s MCAT is below average and sometimes below minimum for out-of-state.
+  - May not be worth applying unless applicant is in-state or has other strong compensating factors.
+  
+- **Private schools with high average MCAT and GPA (e.g., Northwestern, NYU Grossman, Columbia, Weill Cornell, Icahn Mount Sinai)**
+  - Applicant’s MCAT well below average.
+  - These are very competitive schools; low chance of admission.
+  
+## Final Recommendation
+Your GPA of 3.8 is a strong asset and aligns well with many schools. However, your MCAT score of 504 is below the average for most MD programs, especially competitive ones. This will be your main weakness in applications.
+
+**Strategy:**
+- Focus on applying to your in-state public schools (Eastern Virginia Medical School, VCU, Virginia Tech Carilion) where your GPA is above average and your MCAT is close enough to average to be considered.
+- Include a mix of target and safer public schools with average MCATs in the 506-513 range where your GPA is competitive and MCAT is slightly below average but possibly acceptable.
+- Consider private schools with missions aligned to underserved communities and research, especially those with average MCATs near or below your score (e.g., Morehouse, Mercer).
+- Avoid applying to highly competitive schools with average MCATs well above 510 unless you have a plan to significantly improve your MCAT or have extraordinary other factors.
+- Your strong research, volunteering, and outreach experiences are major strengths and should be highlighted to offset your MCAT.
+- Consider retaking the MCAT if possible before the cycle to improve chances at more competitive schools.
+- Apply broadly but realistically, prioritizing schools where your stats are at or near their averages and where your career interests align with the school’s mission.
+
+This balanced approach maximizes your chances of acceptance while acknowledging the MCAT challenge.

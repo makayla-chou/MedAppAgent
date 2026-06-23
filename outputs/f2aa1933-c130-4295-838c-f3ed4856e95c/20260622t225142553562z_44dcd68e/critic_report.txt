@@ -1,0 +1,35 @@
+1. Overall Assessment  
+The School Fit Agent report generally respects the applicant profile and dataset constraints, showing appropriate consideration of MCAT presence, preference fit, residency context, and academic scores. However, there are notable issues regarding dataset coverage (no DO programs appear), missing mission data turned into fit claims, and assumptions about out-of-state public school accessibility flagged but not fully resolved. Warnings from the applicant’s profile about contradictory research publication status were ignored. The agent also risks conflating preference fit with admission competitiveness in places.
+
+2. Logic or Classification Errors  
+- No school was classified despite a missing MCAT; all ranked schools have MCAT data available—this is appropriate.  
+- Preference fit is conflated with admission competitiveness in the sense that all schools are uniformly assigned “Strong Preference Fit” even when academic scores vary widely (Reach, High Reach, Academically Plausible). The recommendation sometimes implies strong preference despite academic challenge, which could mislead the applicant into overstating fit based solely on declared preferences rather than realistic chances. But strictly speaking, the categories are separated; the agent’s wording in recommended action can be clearer to avoid confusion.  
+- Applicant's home-state schools (NC) are all present in rankings (Brody, Wake Forest, Duke). No home-state school is omitted.  
+- The DO program type requested by the applicant is entirely absent from the dataset; this is explicitly noted but no alternative or mitigation is provided.  
+- Public out-of-state schools are flagged for verification of accessibility—this is proper caution rather than a fault. However, the agent still classifies them as "Consider" with “Strong Preference Fit” without clarifying that out-of-state admission is not guaranteed. This partially risks overstating preference fit by ignoring potential residency-related admission restrictions.  
+- Missing mission, curriculum, and outcome data is repeatedly noted (“Mission fit was not scored because curated school mission tags are unavailable”), but the report at times still claims “Strong Preference Fit” based on other preferences only. This is acceptable if clearly stated, but if the agent implies mission fit contributes to preference fit, then that is unsupported. The agent should avoid implying mission alignment when data is unavailable.  
+- The contradictory research publication status in the applicant’s profile (manuscript submitted vs. being prepared) is ignored. This should prompt a note or warning about data inconsistency in the applicant profile, affecting interpretation of experience achievements.  
+- Recommendations do not clearly caution that academic scores and averages do not guarantee admission outcomes, risking overstatement of what averages can prove. While aggregate acceptance ratios are not cited as individual chances, phrases like “Prioritize” or “Strong Preference Fit” without explicit probabilistic caveats might overstate certainty.
+
+3. Dataset and Coverage Problems  
+- No DO programs appear in the dataset despite the applicant's explicit preference for MD and DO types. This exclusion reduces the utility of the ranking list and misrepresents available options. The agent notes this but does not compensate or suggest alternatives.  
+- About 4.7% of schools have missing GPA or MCAT data, but none of these are included in the top ranked or recommendation list, so no misclassification occurred on this basis.  
+- The dataset lacks curated school mission tags for all ranked schools, leading to unscored mission fit. This limitation weakens preference fit evaluation on community/public health alignment.  
+- Several public out-of-state schools' accessibility is uncertain, noted as “Verify out-of-state accessibility with official data.” This uncertainty hampers confident recommendation for these schools.  
+- The agent did not label any school as “Safety,” despite standard ranking categories—this may reflect conservative risk assessment but deviates from typical classifications.
+
+4. Unsupported Claims  
+- Although mission fit is unscored, the report’s persistent use of “Strong Preference Fit” could be interpreted as implying alignment with mission-related preferences (community service, public health focus) absent evidence. This is unsupported unless explicitly stated as based solely on location and setting.  
+- The agent’s recommendation sometimes uses “Prioritize” or “Apply only if strongly interested” with “Strong Preference Fit” in ways that could suggest admission likelihood rather than just preference alignment. This risks overstating what academic averages and profiles prove.  
+- The inclusion of out-of-state public schools with “Strong Preference Fit” without confirmed admission policies overstates their suitability for the applicant. The report notes verification is needed but does not temper the strength of preference fit sufficiently.  
+- No mention or caveat is given regarding the contradictory research output status in the applicant’s achievements, which enables an unsupported assumption about the applicant’s academic productivity.
+
+5. Required Revisions  
+- Revise all claims of “Strong Preference Fit” to explicitly indicate they are based on region, urban setting, and degree type fit only, clarifying that mission, curriculum, and outcome data were unavailable and thus mission alignment is unconfirmed. Avoid implying mission fit.  
+- Add a clear warning or flag about the absence of DO programs in the dataset and its impact on ignoring half of the applicant’s requested program types. Consider recommending the applicant seek DO-specific data or revise preferences.  
+- In rankings and recommendations for public out-of-state schools, strengthen warnings about uncertain admission policies by scaling back the preference fit score or reframing recommendations to “Consider pending verification” rather than straightforward “Strong Preference Fit.”  
+- Add a note identifying the internal contradiction in the applicant’s research publication status and recommend verification or correction to improve applicant profile accuracy.  
+- Clarify that academic scores and averages do not equate to personal admission probabilities, and moderate language in recommendation actions to avoid overinflating admission chances based on comparative GPA/MCAT differences or aggregate data.  
+- Consider adding a “Safety” classification or explicitly state why none are recommended to avoid ambiguity.
+
+In summary: the agent must incorporate limitations of dataset coverage and missing data more explicitly, avoid implying unverified mission alignment or overconfident admission likelihood, address applicant data contradictions, and clearly flag the absence of DO programs to produce balanced, transparent school fit guidance.

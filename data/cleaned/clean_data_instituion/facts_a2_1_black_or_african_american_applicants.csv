@@ -1,0 +1,116 @@
+undergraduate_institution,institution_name,city,state_or_province,demographic_group,group_applicants,total_applicants,group_share_of_institution_pct,pct_of_all_group_applicants_nationally,academic_year,source_table,source_file,source_excel_row
+"Howard University, Washington, DC",Howard University,Washington,DC,Black or African American,127,133,95.49,2.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,6
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,Black or African American,98,430,22.79,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,7
+"Xavier University of Louisiana, New Orleans, LA",Xavier University of Louisiana,New Orleans,LA,Black or African American,98,102,96.08,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,8
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,Black or African American,94,1072,8.77,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,9
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,Black or African American,82,896,9.15,1.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,10
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,Black or African American,77,512,15.04,1.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,11
+"Georgia State University, Atlanta, GA",Georgia State University,Atlanta,GA,Black or African American,70,155,45.16,1.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,12
+"Spelman College, Atlanta, GA",Spelman College,Atlanta,GA,Black or African American,70,70,100.0,1.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,13
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,Black or African American,69,528,13.07,1.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,14
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,Black or African American,64,403,15.88,1.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,15
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,Black or African American,60,583,10.29,1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,16
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,Black or African American,59,470,12.55,1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,17
+"Florida Atlantic University-Boca Raton, Boca Raton, FL",Florida Atlantic University-Boca Raton,Boca Raton,FL,Black or African American,54,169,31.95,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,18
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,Black or African American,53,504,10.52,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,19
+"New York University, New York, NY",New York University,New York,NY,Black or African American,52,331,15.71,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,20
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,Black or African American,52,368,14.13,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,21
+"University of Maryland-Baltimore County, Baltimore, MD",University of Maryland-Baltimore County,Baltimore,MD,Black or African American,50,140,35.71,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,22
+"University of Houston, Houston, TX",University of Houston,Houston,TX,Black or African American,49,306,16.01,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,23
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,Black or African American,48,411,11.68,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,24
+"Baylor University, Waco, TX",Baylor University,Waco,TX,Black or African American,46,423,10.87,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,25
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,Black or African American,45,443,10.16,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,26
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,Black or African American,45,1272,3.54,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,27
+"University of North Texas, Denton, TX",University of North Texas,Denton,TX,Black or African American,44,130,33.85,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,28
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,Black or African American,43,385,11.17,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,29
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,Black or African American,43,368,11.68,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,30
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,Black or African American,43,415,10.36,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,31
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,Black or African American,42,289,14.53,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,32
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,Black or African American,42,478,8.79,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,33
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,Black or African American,42,319,13.17,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,34
+"Brown University, Providence, RI",Brown University,Providence,RI,Black or African American,41,320,12.81,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,35
+"Florida Agricultural and Mechanical University, Tallahassee, FL",Florida Agricultural and Mechanical University,Tallahassee,FL,Black or African American,40,40,100.0,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,36
+"Florida International University, Miami, FL",Florida International University,Miami,FL,Black or African American,40,315,12.7,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,37
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,Black or African American,40,357,11.2,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,38
+"Harvard University, Cambridge, MA",Harvard University,Cambridge,MA,Black or African American,39,257,15.18,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,39
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,Black or African American,39,351,11.11,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,40
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,Black or African American,39,245,15.92,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,41
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,Black or African American,39,864,4.51,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,42
+"The University of Texas at San Antonio, San Antonio, TX",The University of Texas at San Antonio,San Antonio,TX,Black or African American,38,144,26.39,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,43
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,Black or African American,37,228,16.23,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,44
+"Oakwood University, Huntsville, AL",Oakwood University,Huntsville,AL,Black or African American,36,36,100.0,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,45
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,Black or African American,34,370,9.19,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,46
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,Black or African American,34,362,9.39,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,47
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,Black or African American,33,204,16.18,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,48
+"Temple University, Philadelphia, PA",Temple University,Philadelphia,PA,Black or African American,33,150,22.0,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,49
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,Black or African American,32,459,6.97,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,50
+"Hampton University, Hampton, VA",Hampton University,Hampton,VA,Black or African American,32,32,100.0,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,51
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,Black or African American,32,386,8.29,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,52
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,Black or African American,32,389,8.23,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,53
+"Tennessee State University, Nashville, TN",Tennessee State University,Nashville,TN,Black or African American,31,35,88.57,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,54
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,Black or African American,31,486,6.38,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,55
+"Boston University, Boston, MA",Boston University,Boston,MA,Black or African American,30,331,9.06,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,56
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,Black or African American,30,325,9.23,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,57
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,Black or African American,30,672,4.46,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,58
+"University at Albany, SUNY, Albany, NY","University at Albany, SUNY",Albany,NY,Black or African American,30,79,37.97,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,59
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,Black or African American,29,228,12.72,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,60
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,Black or African American,29,234,12.39,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,61
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,Black or African American,28,253,11.07,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,62
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,Atlanta,GA,Black or African American,27,239,11.3,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,63
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,Black or African American,27,277,9.75,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,64
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,Black or African American,27,338,7.99,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,65
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,Black or African American,27,495,5.45,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,66
+"Duke University, Durham, NC",Duke University,Durham,NC,Black or African American,26,314,8.28,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,67
+"North Carolina Agricultural and Technical State University, Greensboro, NC",North Carolina Agricultural and Technical State University,Greensboro,NC,Black or African American,26,27,96.3,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,68
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,Black or African American,24,167,14.37,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,69
+"Kennesaw State University, Kennesaw, GA",Kennesaw State University,Kennesaw,GA,Black or African American,24,67,35.82,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,70
+"Morehouse College, Atlanta, GA",Morehouse College,Atlanta,GA,Black or African American,24,25,96.0,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,71
+"University of South Carolina Columbia, Columbia, SC",University of South Carolina Columbia,Columbia,SC,Black or African American,24,266,9.02,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,72
+"Yale University, New Haven, CT",Yale University,New Haven,CT,Black or African American,24,189,12.7,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,73
+"Augusta University, Augusta, GA",Augusta University,Augusta,GA,Black or African American,23,68,33.82,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,74
+"University at Buffalo-SUNY, Buffalo, NY",University at Buffalo-SUNY,Buffalo,NY,Black or African American,23,168,13.69,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,75
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,Black or African American,23,240,9.58,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,76
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,Black or African American,23,204,11.27,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,77
+"North Carolina State University, Raleigh, NC",North Carolina State University,Raleigh,NC,Black or African American,22,160,13.75,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,78
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,Black or African American,22,285,7.72,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,79
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,Black or African American,22,279,7.89,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,80
+"George Mason University, Fairfax, VA",George Mason University,Fairfax,VA,Black or African American,21,115,18.26,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,81
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,Black or African American,21,206,10.19,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,82
+"University of North Carolina at Charlotte, Charlotte, NC",University of North Carolina at Charlotte,Charlotte,NC,Black or African American,21,75,28.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,83
+"City University of New York Herbert H. Lehman College, Bronx, NY",City University of New York Herbert H. Lehman College,Bronx,NY,Black or African American,20,29,68.97,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,84
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,Black or African American,20,272,7.35,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,85
+"Prairie View A & M University, Prairie View, TX",Prairie View A & M University,Prairie View,TX,Black or African American,20,27,74.07,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,86
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,Black or African American,20,211,9.48,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,87
+"Towson University, Baltimore, MD",Towson University,Baltimore,MD,Black or African American,20,40,50.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,88
+"Case Western Reserve University, Cleveland, OH",Case Western Reserve University,Cleveland,OH,Black or African American,19,295,6.44,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,89
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,Black or African American,19,150,12.67,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,90
+"The University of Alabama, Tuscaloosa, AL",The University of Alabama,Tuscaloosa,AL,Black or African American,19,225,8.44,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,91
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,Black or African American,19,461,4.12,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,92
+"University of Notre Dame, Notre Dame, IN",University of Notre Dame,Notre Dame,IN,Black or African American,19,314,6.05,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,93
+"Mississippi State University, Mississippi State, MS",Mississippi State University,Mississippi State,MS,Black or African American,18,99,18.18,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,94
+"Rice University, Houston, TX",Rice University,Houston,TX,Black or African American,18,218,8.26,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,95
+"Texas State University-San Marcos, San Marcos, TX",Texas State University-San Marcos,San Marcos,TX,Black or African American,18,73,24.66,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,96
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,Black or African American,18,495,3.64,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,97
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,Black or African American,18,301,5.98,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,98
+"University of Massachusetts-Amherst, Amherst, MA",University of Massachusetts-Amherst,Amherst,MA,Black or African American,18,167,10.78,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,99
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,Black or African American,18,224,8.04,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,100
+"Virginia Polytechnic Institute and State University, Blacksburg, VA",Virginia Polytechnic Institute and State University,Blacksburg,VA,Black or African American,18,169,10.65,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,101
+"University of Delaware, Newark, DE",University of Delaware,Newark,DE,Black or African American,17,104,16.35,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,102
+"Wayne State University, Detroit, MI",Wayne State University,Detroit,MI,Black or African American,17,238,7.14,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,103
+"Amherst College, Amherst, MA",Amherst College,Amherst,MA,Black or African American,16,60,26.67,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,104
+"Old Dominion University, Norfolk, VA",Old Dominion University,Norfolk,VA,Black or African American,16,40,40.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,105
+"St. John's University, Queens, NY",St. John's University,Queens,NY,Black or African American,16,73,21.92,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,106
+"Syracuse University, Syracuse, NY",Syracuse University,Syracuse,NY,Black or African American,16,77,20.78,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,107
+"The University of Texas at Arlington, Arlington, TX",The University of Texas at Arlington,Arlington,TX,Black or African American,16,83,19.28,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,108
+"Tuskegee University, Tuskegee Inst., AL",Tuskegee University,Tuskegee Inst.,AL,Black or African American,16,16,100.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,109
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,Black or African American,16,739,2.17,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,110
+"University of Kansas Main Campus, Lawrence, KS",University of Kansas Main Campus,Lawrence,KS,Black or African American,16,181,8.84,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,111
+"University of Missouri-Columbia, Columbia, MO",University of Missouri-Columbia,Columbia,MO,Black or African American,16,194,8.25,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,112
+"University of Toronto, Toronto, ON",University of Toronto,Toronto,ON,Black or African American,16,205,7.8,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,113
+"Boston College, Chestnut Hill, MA",Boston College,Chestnut Hill,MA,Black or African American,15,177,8.47,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,114
+"Dartmouth College, Hanover, NH",Dartmouth College,Hanover,NH,Black or African American,15,139,10.79,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,115
+"East Carolina University, Greenville, NC",East Carolina University,Greenville,NC,Black or African American,15,83,18.07,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,116
+"Georgia Southern University, Statesboro, GA",Georgia Southern University,Statesboro,GA,Black or African American,15,35,42.86,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,117
+"Mercer University, Macon, GA",Mercer University,Macon,GA,Black or African American,15,76,19.74,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,118
+"Nova Southeastern University, Fort Lauderdale, FL",Nova Southeastern University,Fort Lauderdale,FL,Black or African American,15,137,10.95,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,119
+"University of Cincinnati Main Campus, Cincinnati, OH",University of Cincinnati Main Campus,Cincinnati,OH,Black or African American,15,175,8.57,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,120

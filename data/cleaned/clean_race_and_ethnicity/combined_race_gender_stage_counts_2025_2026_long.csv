@@ -1,0 +1,853 @@
+﻿gender_group,race_ethnicity_category,race_ethnicity_subcategory,row_level,application_stage,count,academic_year,source_table
+Men,American Indian or Alaska Native,,main_category,Applicants,37,2025-2026,A-12
+Men,American Indian or Alaska Native,,main_category,First-Time Applicants,28,2025-2026,A-12
+Men,American Indian or Alaska Native,,main_category,Acceptees,17,2025-2026,A-12
+Men,American Indian or Alaska Native,,main_category,Matriculants,15,2025-2026,A-12
+Men,Asian,,main_category,Applicants,6097,2025-2026,A-12
+Men,Asian,,main_category,First-Time Applicants,4740,2025-2026,A-12
+Men,Asian,,main_category,Acceptees,2889,2025-2026,A-12
+Men,Asian,,main_category,Matriculants,2802,2025-2026,A-12
+Men,Asian,Bangladeshi,subcategory,Applicants,138,2025-2026,A-12
+Men,Asian,Bangladeshi,subcategory,First-Time Applicants,109,2025-2026,A-12
+Men,Asian,Bangladeshi,subcategory,Acceptees,59,2025-2026,A-12
+Men,Asian,Bangladeshi,subcategory,Matriculants,56,2025-2026,A-12
+Men,Asian,Cambodian,subcategory,Applicants,23,2025-2026,A-12
+Men,Asian,Cambodian,subcategory,First-Time Applicants,13,2025-2026,A-12
+Men,Asian,Cambodian,subcategory,Acceptees,6,2025-2026,A-12
+Men,Asian,Cambodian,subcategory,Matriculants,6,2025-2026,A-12
+Men,Asian,Chinese,subcategory,Applicants,820,2025-2026,A-12
+Men,Asian,Chinese,subcategory,First-Time Applicants,627,2025-2026,A-12
+Men,Asian,Chinese,subcategory,Acceptees,407,2025-2026,A-12
+Men,Asian,Chinese,subcategory,Matriculants,395,2025-2026,A-12
+Men,Asian,Filipino,subcategory,Applicants,244,2025-2026,A-12
+Men,Asian,Filipino,subcategory,First-Time Applicants,187,2025-2026,A-12
+Men,Asian,Filipino,subcategory,Acceptees,75,2025-2026,A-12
+Men,Asian,Filipino,subcategory,Matriculants,75,2025-2026,A-12
+Men,Asian,Indian,subcategory,Applicants,2181,2025-2026,A-12
+Men,Asian,Indian,subcategory,First-Time Applicants,1775,2025-2026,A-12
+Men,Asian,Indian,subcategory,Acceptees,1130,2025-2026,A-12
+Men,Asian,Indian,subcategory,Matriculants,1096,2025-2026,A-12
+Men,Asian,Indonesian,subcategory,Applicants,16,2025-2026,A-12
+Men,Asian,Indonesian,subcategory,First-Time Applicants,12,2025-2026,A-12
+Men,Asian,Indonesian,subcategory,Acceptees,5,2025-2026,A-12
+Men,Asian,Indonesian,subcategory,Matriculants,5,2025-2026,A-12
+Men,Asian,Japanese,subcategory,Applicants,36,2025-2026,A-12
+Men,Asian,Japanese,subcategory,First-Time Applicants,27,2025-2026,A-12
+Men,Asian,Japanese,subcategory,Acceptees,13,2025-2026,A-12
+Men,Asian,Japanese,subcategory,Matriculants,13,2025-2026,A-12
+Men,Asian,Korean,subcategory,Applicants,526,2025-2026,A-12
+Men,Asian,Korean,subcategory,First-Time Applicants,394,2025-2026,A-12
+Men,Asian,Korean,subcategory,Acceptees,280,2025-2026,A-12
+Men,Asian,Korean,subcategory,Matriculants,268,2025-2026,A-12
+Men,Asian,Laotian,subcategory,Applicants,3,2025-2026,A-12
+Men,Asian,Laotian,subcategory,First-Time Applicants,2,2025-2026,A-12
+Men,Asian,Laotian,subcategory,Acceptees,2,2025-2026,A-12
+Men,Asian,Laotian,subcategory,Matriculants,2,2025-2026,A-12
+Men,Asian,Pakistani,subcategory,Applicants,499,2025-2026,A-12
+Men,Asian,Pakistani,subcategory,First-Time Applicants,371,2025-2026,A-12
+Men,Asian,Pakistani,subcategory,Acceptees,186,2025-2026,A-12
+Men,Asian,Pakistani,subcategory,Matriculants,182,2025-2026,A-12
+Men,Asian,Taiwanese,subcategory,Applicants,137,2025-2026,A-12
+Men,Asian,Taiwanese,subcategory,First-Time Applicants,110,2025-2026,A-12
+Men,Asian,Taiwanese,subcategory,Acceptees,83,2025-2026,A-12
+Men,Asian,Taiwanese,subcategory,Matriculants,80,2025-2026,A-12
+Men,Asian,Vietnamese,subcategory,Applicants,462,2025-2026,A-12
+Men,Asian,Vietnamese,subcategory,First-Time Applicants,335,2025-2026,A-12
+Men,Asian,Vietnamese,subcategory,Acceptees,182,2025-2026,A-12
+Men,Asian,Vietnamese,subcategory,Matriculants,179,2025-2026,A-12
+Men,Asian,Some Other Asian,subcategory,Applicants,192,2025-2026,A-12
+Men,Asian,Some Other Asian,subcategory,First-Time Applicants,142,2025-2026,A-12
+Men,Asian,Some Other Asian,subcategory,Acceptees,65,2025-2026,A-12
+Men,Asian,Some Other Asian,subcategory,Matriculants,63,2025-2026,A-12
+Men,Asian,More Than One Asian Response,subcategory,Applicants,395,2025-2026,A-12
+Men,Asian,More Than One Asian Response,subcategory,First-Time Applicants,308,2025-2026,A-12
+Men,Asian,More Than One Asian Response,subcategory,Acceptees,201,2025-2026,A-12
+Men,Asian,More Than One Asian Response,subcategory,Matriculants,189,2025-2026,A-12
+Men,Black or African American,,main_category,Applicants,1459,2025-2026,A-12
+Men,Black or African American,,main_category,First-Time Applicants,1001,2025-2026,A-12
+Men,Black or African American,,main_category,Acceptees,584,2025-2026,A-12
+Men,Black or African American,,main_category,Matriculants,552,2025-2026,A-12
+Men,Black or African American,African,subcategory,Applicants,163,2025-2026,A-12
+Men,Black or African American,African,subcategory,First-Time Applicants,105,2025-2026,A-12
+Men,Black or African American,African,subcategory,Acceptees,53,2025-2026,A-12
+Men,Black or African American,African,subcategory,Matriculants,45,2025-2026,A-12
+Men,Black or African American,African American,subcategory,Applicants,465,2025-2026,A-12
+Men,Black or African American,African American,subcategory,First-Time Applicants,310,2025-2026,A-12
+Men,Black or African American,African American,subcategory,Acceptees,181,2025-2026,A-12
+Men,Black or African American,African American,subcategory,Matriculants,172,2025-2026,A-12
+Men,Black or African American,Afro-Caribbean,subcategory,Applicants,30,2025-2026,A-12
+Men,Black or African American,Afro-Caribbean,subcategory,First-Time Applicants,20,2025-2026,A-12
+Men,Black or African American,Afro-Caribbean,subcategory,Acceptees,17,2025-2026,A-12
+Men,Black or African American,Afro-Caribbean,subcategory,Matriculants,15,2025-2026,A-12
+Men,Black or African American,Ethiopian,subcategory,Applicants,21,2025-2026,A-12
+Men,Black or African American,Ethiopian,subcategory,First-Time Applicants,14,2025-2026,A-12
+Men,Black or African American,Ethiopian,subcategory,Acceptees,11,2025-2026,A-12
+Men,Black or African American,Ethiopian,subcategory,Matriculants,10,2025-2026,A-12
+Men,Black or African American,Haitian,subcategory,Applicants,42,2025-2026,A-12
+Men,Black or African American,Haitian,subcategory,First-Time Applicants,26,2025-2026,A-12
+Men,Black or African American,Haitian,subcategory,Acceptees,11,2025-2026,A-12
+Men,Black or African American,Haitian,subcategory,Matriculants,11,2025-2026,A-12
+Men,Black or African American,Jamaican,subcategory,Applicants,31,2025-2026,A-12
+Men,Black or African American,Jamaican,subcategory,First-Time Applicants,24,2025-2026,A-12
+Men,Black or African American,Jamaican,subcategory,Acceptees,13,2025-2026,A-12
+Men,Black or African American,Jamaican,subcategory,Matriculants,13,2025-2026,A-12
+Men,Black or African American,Nigerian,subcategory,Applicants,71,2025-2026,A-12
+Men,Black or African American,Nigerian,subcategory,First-Time Applicants,58,2025-2026,A-12
+Men,Black or African American,Nigerian,subcategory,Acceptees,34,2025-2026,A-12
+Men,Black or African American,Nigerian,subcategory,Matriculants,32,2025-2026,A-12
+Men,Black or African American,Somali,subcategory,Applicants,14,2025-2026,A-12
+Men,Black or African American,Somali,subcategory,First-Time Applicants,12,2025-2026,A-12
+Men,Black or African American,Somali,subcategory,Acceptees,4,2025-2026,A-12
+Men,Black or African American,Somali,subcategory,Matriculants,4,2025-2026,A-12
+Men,Black or African American,Some Other Black or African American,subcategory,Applicants,27,2025-2026,A-12
+Men,Black or African American,Some Other Black or African American,subcategory,First-Time Applicants,19,2025-2026,A-12
+Men,Black or African American,Some Other Black or African American,subcategory,Acceptees,10,2025-2026,A-12
+Men,Black or African American,Some Other Black or African American,subcategory,Matriculants,10,2025-2026,A-12
+Men,Black or African American,More Than One Black or African American Response,subcategory,Applicants,405,2025-2026,A-12
+Men,Black or African American,More Than One Black or African American Response,subcategory,First-Time Applicants,294,2025-2026,A-12
+Men,Black or African American,More Than One Black or African American Response,subcategory,Acceptees,186,2025-2026,A-12
+Men,Black or African American,More Than One Black or African American Response,subcategory,Matriculants,177,2025-2026,A-12
+Men,Hispanic or Latino,,main_category,Applicants,1583,2025-2026,A-12
+Men,Hispanic or Latino,,main_category,First-Time Applicants,1207,2025-2026,A-12
+Men,Hispanic or Latino,,main_category,Acceptees,707,2025-2026,A-12
+Men,Hispanic or Latino,,main_category,Matriculants,673,2025-2026,A-12
+Men,Hispanic or Latino,Argentinean,subcategory,Applicants,10,2025-2026,A-12
+Men,Hispanic or Latino,Argentinean,subcategory,First-Time Applicants,9,2025-2026,A-12
+Men,Hispanic or Latino,Argentinean,subcategory,Acceptees,5,2025-2026,A-12
+Men,Hispanic or Latino,Argentinean,subcategory,Matriculants,5,2025-2026,A-12
+Men,Hispanic or Latino,Colombian,subcategory,Applicants,72,2025-2026,A-12
+Men,Hispanic or Latino,Colombian,subcategory,First-Time Applicants,54,2025-2026,A-12
+Men,Hispanic or Latino,Colombian,subcategory,Acceptees,36,2025-2026,A-12
+Men,Hispanic or Latino,Colombian,subcategory,Matriculants,34,2025-2026,A-12
+Men,Hispanic or Latino,Cuban,subcategory,Applicants,104,2025-2026,A-12
+Men,Hispanic or Latino,Cuban,subcategory,First-Time Applicants,76,2025-2026,A-12
+Men,Hispanic or Latino,Cuban,subcategory,Acceptees,58,2025-2026,A-12
+Men,Hispanic or Latino,Cuban,subcategory,Matriculants,58,2025-2026,A-12
+Men,Hispanic or Latino,Dominican,subcategory,Applicants,25,2025-2026,A-12
+Men,Hispanic or Latino,Dominican,subcategory,First-Time Applicants,19,2025-2026,A-12
+Men,Hispanic or Latino,Dominican,subcategory,Acceptees,10,2025-2026,A-12
+Men,Hispanic or Latino,Dominican,subcategory,Matriculants,10,2025-2026,A-12
+Men,Hispanic or Latino,Mexican or Mexican American,subcategory,Applicants,534,2025-2026,A-12
+Men,Hispanic or Latino,Mexican or Mexican American,subcategory,First-Time Applicants,407,2025-2026,A-12
+Men,Hispanic or Latino,Mexican or Mexican American,subcategory,Acceptees,220,2025-2026,A-12
+Men,Hispanic or Latino,Mexican or Mexican American,subcategory,Matriculants,202,2025-2026,A-12
+Men,Hispanic or Latino,Peruvian,subcategory,Applicants,47,2025-2026,A-12
+Men,Hispanic or Latino,Peruvian,subcategory,First-Time Applicants,34,2025-2026,A-12
+Men,Hispanic or Latino,Peruvian,subcategory,Acceptees,16,2025-2026,A-12
+Men,Hispanic or Latino,Peruvian,subcategory,Matriculants,15,2025-2026,A-12
+Men,Hispanic or Latino,Puerto Rican,subcategory,Applicants,285,2025-2026,A-12
+Men,Hispanic or Latino,Puerto Rican,subcategory,First-Time Applicants,241,2025-2026,A-12
+Men,Hispanic or Latino,Puerto Rican,subcategory,Acceptees,158,2025-2026,A-12
+Men,Hispanic or Latino,Puerto Rican,subcategory,Matriculants,154,2025-2026,A-12
+Men,Hispanic or Latino,Salvadoran,subcategory,Applicants,46,2025-2026,A-12
+Men,Hispanic or Latino,Salvadoran,subcategory,First-Time Applicants,36,2025-2026,A-12
+Men,Hispanic or Latino,Salvadoran,subcategory,Acceptees,22,2025-2026,A-12
+Men,Hispanic or Latino,Salvadoran,subcategory,Matriculants,21,2025-2026,A-12
+Men,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Applicants,206,2025-2026,A-12
+Men,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,First-Time Applicants,157,2025-2026,A-12
+Men,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Acceptees,83,2025-2026,A-12
+Men,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Matriculants,81,2025-2026,A-12
+Men,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Applicants,171,2025-2026,A-12
+Men,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,First-Time Applicants,124,2025-2026,A-12
+Men,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Acceptees,75,2025-2026,A-12
+Men,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Matriculants,70,2025-2026,A-12
+Men,Middle Eastern or North African,,main_category,Applicants,1257,2025-2026,A-12
+Men,Middle Eastern or North African,,main_category,First-Time Applicants,967,2025-2026,A-12
+Men,Middle Eastern or North African,,main_category,Acceptees,558,2025-2026,A-12
+Men,Middle Eastern or North African,,main_category,Matriculants,549,2025-2026,A-12
+Men,Middle Eastern or North African,Arab,subcategory,Applicants,102,2025-2026,A-12
+Men,Middle Eastern or North African,Arab,subcategory,First-Time Applicants,73,2025-2026,A-12
+Men,Middle Eastern or North African,Arab,subcategory,Acceptees,50,2025-2026,A-12
+Men,Middle Eastern or North African,Arab,subcategory,Matriculants,47,2025-2026,A-12
+Men,Middle Eastern or North African,Egyptian,subcategory,Applicants,166,2025-2026,A-12
+Men,Middle Eastern or North African,Egyptian,subcategory,First-Time Applicants,131,2025-2026,A-12
+Men,Middle Eastern or North African,Egyptian,subcategory,Acceptees,68,2025-2026,A-12
+Men,Middle Eastern or North African,Egyptian,subcategory,Matriculants,67,2025-2026,A-12
+Men,Middle Eastern or North African,Iranian,subcategory,Applicants,239,2025-2026,A-12
+Men,Middle Eastern or North African,Iranian,subcategory,First-Time Applicants,182,2025-2026,A-12
+Men,Middle Eastern or North African,Iranian,subcategory,Acceptees,99,2025-2026,A-12
+Men,Middle Eastern or North African,Iranian,subcategory,Matriculants,99,2025-2026,A-12
+Men,Middle Eastern or North African,Israeli,subcategory,Applicants,16,2025-2026,A-12
+Men,Middle Eastern or North African,Israeli,subcategory,First-Time Applicants,15,2025-2026,A-12
+Men,Middle Eastern or North African,Israeli,subcategory,Acceptees,5,2025-2026,A-12
+Men,Middle Eastern or North African,Israeli,subcategory,Matriculants,5,2025-2026,A-12
+Men,Middle Eastern or North African,Lebanese,subcategory,Applicants,84,2025-2026,A-12
+Men,Middle Eastern or North African,Lebanese,subcategory,First-Time Applicants,67,2025-2026,A-12
+Men,Middle Eastern or North African,Lebanese,subcategory,Acceptees,42,2025-2026,A-12
+Men,Middle Eastern or North African,Lebanese,subcategory,Matriculants,41,2025-2026,A-12
+Men,Middle Eastern or North African,Moroccan,subcategory,Applicants,19,2025-2026,A-12
+Men,Middle Eastern or North African,Moroccan,subcategory,First-Time Applicants,14,2025-2026,A-12
+Men,Middle Eastern or North African,Moroccan,subcategory,Acceptees,3,2025-2026,A-12
+Men,Middle Eastern or North African,Moroccan,subcategory,Matriculants,3,2025-2026,A-12
+Men,Middle Eastern or North African,Palestinian,subcategory,Applicants,40,2025-2026,A-12
+Men,Middle Eastern or North African,Palestinian,subcategory,First-Time Applicants,29,2025-2026,A-12
+Men,Middle Eastern or North African,Palestinian,subcategory,Acceptees,17,2025-2026,A-12
+Men,Middle Eastern or North African,Palestinian,subcategory,Matriculants,17,2025-2026,A-12
+Men,Middle Eastern or North African,Syrian,subcategory,Applicants,79,2025-2026,A-12
+Men,Middle Eastern or North African,Syrian,subcategory,First-Time Applicants,55,2025-2026,A-12
+Men,Middle Eastern or North African,Syrian,subcategory,Acceptees,45,2025-2026,A-12
+Men,Middle Eastern or North African,Syrian,subcategory,Matriculants,45,2025-2026,A-12
+Men,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Applicants,135,2025-2026,A-12
+Men,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,First-Time Applicants,107,2025-2026,A-12
+Men,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Acceptees,67,2025-2026,A-12
+Men,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Matriculants,65,2025-2026,A-12
+Men,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Applicants,347,2025-2026,A-12
+Men,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,First-Time Applicants,271,2025-2026,A-12
+Men,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Acceptees,148,2025-2026,A-12
+Men,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Matriculants,146,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,,main_category,Applicants,23,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,,main_category,First-Time Applicants,19,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,,main_category,Acceptees,9,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,,main_category,Matriculants,8,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Applicants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Chamorro,subcategory,First-Time Applicants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Acceptees,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Matriculants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Fijian,subcategory,Applicants,5,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Fijian,subcategory,First-Time Applicants,5,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Fijian,subcategory,Acceptees,1,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Fijian,subcategory,Matriculants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Applicants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Marshallese,subcategory,First-Time Applicants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Acceptees,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Matriculants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Applicants,7,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,First-Time Applicants,6,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Acceptees,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Matriculants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Samoan,subcategory,Applicants,1,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Samoan,subcategory,First-Time Applicants,1,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Samoan,subcategory,Acceptees,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Samoan,subcategory,Matriculants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Tongan,subcategory,Applicants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Tongan,subcategory,First-Time Applicants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Tongan,subcategory,Acceptees,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Tongan,subcategory,Matriculants,0,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Applicants,3,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,First-Time Applicants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Acceptees,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Matriculants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Applicants,2,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,First-Time Applicants,1,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Acceptees,1,2025-2026,A-12
+Men,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Matriculants,1,2025-2026,A-12
+Men,White,,main_category,Applicants,8236,2025-2026,A-12
+Men,White,,main_category,First-Time Applicants,6344,2025-2026,A-12
+Men,White,,main_category,Acceptees,4095,2025-2026,A-12
+Men,White,,main_category,Matriculants,3954,2025-2026,A-12
+Men,White,English,subcategory,Applicants,769,2025-2026,A-12
+Men,White,English,subcategory,First-Time Applicants,601,2025-2026,A-12
+Men,White,English,subcategory,Acceptees,304,2025-2026,A-12
+Men,White,English,subcategory,Matriculants,287,2025-2026,A-12
+Men,White,French,subcategory,Applicants,24,2025-2026,A-12
+Men,White,French,subcategory,First-Time Applicants,21,2025-2026,A-12
+Men,White,French,subcategory,Acceptees,13,2025-2026,A-12
+Men,White,French,subcategory,Matriculants,13,2025-2026,A-12
+Men,White,German,subcategory,Applicants,164,2025-2026,A-12
+Men,White,German,subcategory,First-Time Applicants,119,2025-2026,A-12
+Men,White,German,subcategory,Acceptees,82,2025-2026,A-12
+Men,White,German,subcategory,Matriculants,81,2025-2026,A-12
+Men,White,Irish,subcategory,Applicants,200,2025-2026,A-12
+Men,White,Irish,subcategory,First-Time Applicants,158,2025-2026,A-12
+Men,White,Irish,subcategory,Acceptees,104,2025-2026,A-12
+Men,White,Irish,subcategory,Matriculants,99,2025-2026,A-12
+Men,White,Italian,subcategory,Applicants,202,2025-2026,A-12
+Men,White,Italian,subcategory,First-Time Applicants,160,2025-2026,A-12
+Men,White,Italian,subcategory,Acceptees,88,2025-2026,A-12
+Men,White,Italian,subcategory,Matriculants,84,2025-2026,A-12
+Men,White,Polish,subcategory,Applicants,114,2025-2026,A-12
+Men,White,Polish,subcategory,First-Time Applicants,86,2025-2026,A-12
+Men,White,Polish,subcategory,Acceptees,61,2025-2026,A-12
+Men,White,Polish,subcategory,Matriculants,58,2025-2026,A-12
+Men,White,Some Other White,subcategory,Applicants,575,2025-2026,A-12
+Men,White,Some Other White,subcategory,First-Time Applicants,449,2025-2026,A-12
+Men,White,Some Other White,subcategory,Acceptees,258,2025-2026,A-12
+Men,White,Some Other White,subcategory,Matriculants,253,2025-2026,A-12
+Men,White,More Than One White Response,subcategory,Applicants,2495,2025-2026,A-12
+Men,White,More Than One White Response,subcategory,First-Time Applicants,2009,2025-2026,A-12
+Men,White,More Than One White Response,subcategory,Acceptees,1219,2025-2026,A-12
+Men,White,More Than One White Response,subcategory,Matriculants,1179,2025-2026,A-12
+Men,Some Other Race or Ethnicity,,main_category,Applicants,103,2025-2026,A-12
+Men,Some Other Race or Ethnicity,,main_category,First-Time Applicants,73,2025-2026,A-12
+Men,Some Other Race or Ethnicity,,main_category,Acceptees,34,2025-2026,A-12
+Men,Some Other Race or Ethnicity,,main_category,Matriculants,34,2025-2026,A-12
+Men,Multiple Race or Ethnicity,,main_category,Applicants,2893,2025-2026,A-12
+Men,Multiple Race or Ethnicity,,main_category,First-Time Applicants,2211,2025-2026,A-12
+Men,Multiple Race or Ethnicity,,main_category,Acceptees,1293,2025-2026,A-12
+Men,Multiple Race or Ethnicity,,main_category,Matriculants,1244,2025-2026,A-12
+Men,Unknown Race or Ethnicity,,main_category,Applicants,1384,2025-2026,A-12
+Men,Unknown Race or Ethnicity,,main_category,First-Time Applicants,772,2025-2026,A-12
+Men,Unknown Race or Ethnicity,,main_category,Acceptees,612,2025-2026,A-12
+Men,Unknown Race or Ethnicity,,main_category,Matriculants,578,2025-2026,A-12
+Men,Subtotal,,summary,Applicants,23072,2025-2026,A-12
+Men,Subtotal,,summary,First-Time Applicants,17362,2025-2026,A-12
+Men,Subtotal,,summary,Acceptees,10798,2025-2026,A-12
+Men,Subtotal,,summary,Matriculants,10409,2025-2026,A-12
+Women,American Indian or Alaska Native,,main_category,Applicants,44,2025-2026,A-12
+Women,American Indian or Alaska Native,,main_category,First-Time Applicants,34,2025-2026,A-12
+Women,American Indian or Alaska Native,,main_category,Acceptees,18,2025-2026,A-12
+Women,American Indian or Alaska Native,,main_category,Matriculants,18,2025-2026,A-12
+Women,Asian,,main_category,Applicants,8413,2025-2026,A-12
+Women,Asian,,main_category,First-Time Applicants,6762,2025-2026,A-12
+Women,Asian,,main_category,Acceptees,3741,2025-2026,A-12
+Women,Asian,,main_category,Matriculants,3648,2025-2026,A-12
+Women,Asian,Bangladeshi,subcategory,Applicants,216,2025-2026,A-12
+Women,Asian,Bangladeshi,subcategory,First-Time Applicants,173,2025-2026,A-12
+Women,Asian,Bangladeshi,subcategory,Acceptees,79,2025-2026,A-12
+Women,Asian,Bangladeshi,subcategory,Matriculants,74,2025-2026,A-12
+Women,Asian,Cambodian,subcategory,Applicants,21,2025-2026,A-12
+Women,Asian,Cambodian,subcategory,First-Time Applicants,15,2025-2026,A-12
+Women,Asian,Cambodian,subcategory,Acceptees,7,2025-2026,A-12
+Women,Asian,Cambodian,subcategory,Matriculants,7,2025-2026,A-12
+Women,Asian,Chinese,subcategory,Applicants,1116,2025-2026,A-12
+Women,Asian,Chinese,subcategory,First-Time Applicants,917,2025-2026,A-12
+Women,Asian,Chinese,subcategory,Acceptees,625,2025-2026,A-12
+Women,Asian,Chinese,subcategory,Matriculants,610,2025-2026,A-12
+Women,Asian,Filipino,subcategory,Applicants,358,2025-2026,A-12
+Women,Asian,Filipino,subcategory,First-Time Applicants,275,2025-2026,A-12
+Women,Asian,Filipino,subcategory,Acceptees,100,2025-2026,A-12
+Women,Asian,Filipino,subcategory,Matriculants,96,2025-2026,A-12
+Women,Asian,Indian,subcategory,Applicants,3138,2025-2026,A-12
+Women,Asian,Indian,subcategory,First-Time Applicants,2598,2025-2026,A-12
+Women,Asian,Indian,subcategory,Acceptees,1432,2025-2026,A-12
+Women,Asian,Indian,subcategory,Matriculants,1401,2025-2026,A-12
+Women,Asian,Indonesian,subcategory,Applicants,17,2025-2026,A-12
+Women,Asian,Indonesian,subcategory,First-Time Applicants,13,2025-2026,A-12
+Women,Asian,Indonesian,subcategory,Acceptees,7,2025-2026,A-12
+Women,Asian,Indonesian,subcategory,Matriculants,7,2025-2026,A-12
+Women,Asian,Japanese,subcategory,Applicants,59,2025-2026,A-12
+Women,Asian,Japanese,subcategory,First-Time Applicants,48,2025-2026,A-12
+Women,Asian,Japanese,subcategory,Acceptees,35,2025-2026,A-12
+Women,Asian,Japanese,subcategory,Matriculants,34,2025-2026,A-12
+Women,Asian,Korean,subcategory,Applicants,670,2025-2026,A-12
+Women,Asian,Korean,subcategory,First-Time Applicants,495,2025-2026,A-12
+Women,Asian,Korean,subcategory,Acceptees,332,2025-2026,A-12
+Women,Asian,Korean,subcategory,Matriculants,319,2025-2026,A-12
+Women,Asian,Laotian,subcategory,Applicants,7,2025-2026,A-12
+Women,Asian,Laotian,subcategory,First-Time Applicants,5,2025-2026,A-12
+Women,Asian,Laotian,subcategory,Acceptees,2,2025-2026,A-12
+Women,Asian,Laotian,subcategory,Matriculants,2,2025-2026,A-12
+Women,Asian,Pakistani,subcategory,Applicants,573,2025-2026,A-12
+Women,Asian,Pakistani,subcategory,First-Time Applicants,437,2025-2026,A-12
+Women,Asian,Pakistani,subcategory,Acceptees,191,2025-2026,A-12
+Women,Asian,Pakistani,subcategory,Matriculants,187,2025-2026,A-12
+Women,Asian,Taiwanese,subcategory,Applicants,192,2025-2026,A-12
+Women,Asian,Taiwanese,subcategory,First-Time Applicants,151,2025-2026,A-12
+Women,Asian,Taiwanese,subcategory,Acceptees,108,2025-2026,A-12
+Women,Asian,Taiwanese,subcategory,Matriculants,105,2025-2026,A-12
+Women,Asian,Vietnamese,subcategory,Applicants,602,2025-2026,A-12
+Women,Asian,Vietnamese,subcategory,First-Time Applicants,483,2025-2026,A-12
+Women,Asian,Vietnamese,subcategory,Acceptees,236,2025-2026,A-12
+Women,Asian,Vietnamese,subcategory,Matriculants,232,2025-2026,A-12
+Women,Asian,Some Other Asian,subcategory,Applicants,335,2025-2026,A-12
+Women,Asian,Some Other Asian,subcategory,First-Time Applicants,261,2025-2026,A-12
+Women,Asian,Some Other Asian,subcategory,Acceptees,95,2025-2026,A-12
+Women,Asian,Some Other Asian,subcategory,Matriculants,93,2025-2026,A-12
+Women,Asian,More Than One Asian Response,subcategory,Applicants,522,2025-2026,A-12
+Women,Asian,More Than One Asian Response,subcategory,First-Time Applicants,414,2025-2026,A-12
+Women,Asian,More Than One Asian Response,subcategory,Acceptees,230,2025-2026,A-12
+Women,Asian,More Than One Asian Response,subcategory,Matriculants,223,2025-2026,A-12
+Women,Black or African American,,main_category,Applicants,3554,2025-2026,A-12
+Women,Black or African American,,main_category,First-Time Applicants,2415,2025-2026,A-12
+Women,Black or African American,,main_category,Acceptees,1056,2025-2026,A-12
+Women,Black or African American,,main_category,Matriculants,1004,2025-2026,A-12
+Women,Black or African American,African,subcategory,Applicants,336,2025-2026,A-12
+Women,Black or African American,African,subcategory,First-Time Applicants,234,2025-2026,A-12
+Women,Black or African American,African,subcategory,Acceptees,77,2025-2026,A-12
+Women,Black or African American,African,subcategory,Matriculants,68,2025-2026,A-12
+Women,Black or African American,African American,subcategory,Applicants,1183,2025-2026,A-12
+Women,Black or African American,African American,subcategory,First-Time Applicants,793,2025-2026,A-12
+Women,Black or African American,African American,subcategory,Acceptees,355,2025-2026,A-12
+Women,Black or African American,African American,subcategory,Matriculants,338,2025-2026,A-12
+Women,Black or African American,Afro-Caribbean,subcategory,Applicants,108,2025-2026,A-12
+Women,Black or African American,Afro-Caribbean,subcategory,First-Time Applicants,67,2025-2026,A-12
+Women,Black or African American,Afro-Caribbean,subcategory,Acceptees,26,2025-2026,A-12
+Women,Black or African American,Afro-Caribbean,subcategory,Matriculants,24,2025-2026,A-12
+Women,Black or African American,Ethiopian,subcategory,Applicants,55,2025-2026,A-12
+Women,Black or African American,Ethiopian,subcategory,First-Time Applicants,42,2025-2026,A-12
+Women,Black or African American,Ethiopian,subcategory,Acceptees,23,2025-2026,A-12
+Women,Black or African American,Ethiopian,subcategory,Matriculants,22,2025-2026,A-12
+Women,Black or African American,Haitian,subcategory,Applicants,142,2025-2026,A-12
+Women,Black or African American,Haitian,subcategory,First-Time Applicants,90,2025-2026,A-12
+Women,Black or African American,Haitian,subcategory,Acceptees,21,2025-2026,A-12
+Women,Black or African American,Haitian,subcategory,Matriculants,21,2025-2026,A-12
+Women,Black or African American,Jamaican,subcategory,Applicants,105,2025-2026,A-12
+Women,Black or African American,Jamaican,subcategory,First-Time Applicants,79,2025-2026,A-12
+Women,Black or African American,Jamaican,subcategory,Acceptees,29,2025-2026,A-12
+Women,Black or African American,Jamaican,subcategory,Matriculants,28,2025-2026,A-12
+Women,Black or African American,Nigerian,subcategory,Applicants,190,2025-2026,A-12
+Women,Black or African American,Nigerian,subcategory,First-Time Applicants,139,2025-2026,A-12
+Women,Black or African American,Nigerian,subcategory,Acceptees,70,2025-2026,A-12
+Women,Black or African American,Nigerian,subcategory,Matriculants,65,2025-2026,A-12
+Women,Black or African American,Somali,subcategory,Applicants,24,2025-2026,A-12
+Women,Black or African American,Somali,subcategory,First-Time Applicants,19,2025-2026,A-12
+Women,Black or African American,Somali,subcategory,Acceptees,6,2025-2026,A-12
+Women,Black or African American,Somali,subcategory,Matriculants,6,2025-2026,A-12
+Women,Black or African American,Some Other Black or African American,subcategory,Applicants,58,2025-2026,A-12
+Women,Black or African American,Some Other Black or African American,subcategory,First-Time Applicants,42,2025-2026,A-12
+Women,Black or African American,Some Other Black or African American,subcategory,Acceptees,16,2025-2026,A-12
+Women,Black or African American,Some Other Black or African American,subcategory,Matriculants,14,2025-2026,A-12
+Women,Black or African American,More Than One Black or African American Response,subcategory,Applicants,892,2025-2026,A-12
+Women,Black or African American,More Than One Black or African American Response,subcategory,First-Time Applicants,632,2025-2026,A-12
+Women,Black or African American,More Than One Black or African American Response,subcategory,Acceptees,321,2025-2026,A-12
+Women,Black or African American,More Than One Black or African American Response,subcategory,Matriculants,307,2025-2026,A-12
+Women,Hispanic or Latino,,main_category,Applicants,2157,2025-2026,A-12
+Women,Hispanic or Latino,,main_category,First-Time Applicants,1702,2025-2026,A-12
+Women,Hispanic or Latino,,main_category,Acceptees,818,2025-2026,A-12
+Women,Hispanic or Latino,,main_category,Matriculants,781,2025-2026,A-12
+Women,Hispanic or Latino,Argentinean,subcategory,Applicants,17,2025-2026,A-12
+Women,Hispanic or Latino,Argentinean,subcategory,First-Time Applicants,16,2025-2026,A-12
+Women,Hispanic or Latino,Argentinean,subcategory,Acceptees,8,2025-2026,A-12
+Women,Hispanic or Latino,Argentinean,subcategory,Matriculants,8,2025-2026,A-12
+Women,Hispanic or Latino,Colombian,subcategory,Applicants,114,2025-2026,A-12
+Women,Hispanic or Latino,Colombian,subcategory,First-Time Applicants,86,2025-2026,A-12
+Women,Hispanic or Latino,Colombian,subcategory,Acceptees,42,2025-2026,A-12
+Women,Hispanic or Latino,Colombian,subcategory,Matriculants,39,2025-2026,A-12
+Women,Hispanic or Latino,Cuban,subcategory,Applicants,155,2025-2026,A-12
+Women,Hispanic or Latino,Cuban,subcategory,First-Time Applicants,125,2025-2026,A-12
+Women,Hispanic or Latino,Cuban,subcategory,Acceptees,59,2025-2026,A-12
+Women,Hispanic or Latino,Cuban,subcategory,Matriculants,56,2025-2026,A-12
+Women,Hispanic or Latino,Dominican,subcategory,Applicants,35,2025-2026,A-12
+Women,Hispanic or Latino,Dominican,subcategory,First-Time Applicants,30,2025-2026,A-12
+Women,Hispanic or Latino,Dominican,subcategory,Acceptees,8,2025-2026,A-12
+Women,Hispanic or Latino,Dominican,subcategory,Matriculants,8,2025-2026,A-12
+Women,Hispanic or Latino,Mexican or Mexican American,subcategory,Applicants,659,2025-2026,A-12
+Women,Hispanic or Latino,Mexican or Mexican American,subcategory,First-Time Applicants,497,2025-2026,A-12
+Women,Hispanic or Latino,Mexican or Mexican American,subcategory,Acceptees,219,2025-2026,A-12
+Women,Hispanic or Latino,Mexican or Mexican American,subcategory,Matriculants,205,2025-2026,A-12
+Women,Hispanic or Latino,Peruvian,subcategory,Applicants,61,2025-2026,A-12
+Women,Hispanic or Latino,Peruvian,subcategory,First-Time Applicants,47,2025-2026,A-12
+Women,Hispanic or Latino,Peruvian,subcategory,Acceptees,30,2025-2026,A-12
+Women,Hispanic or Latino,Peruvian,subcategory,Matriculants,30,2025-2026,A-12
+Women,Hispanic or Latino,Puerto Rican,subcategory,Applicants,411,2025-2026,A-12
+Women,Hispanic or Latino,Puerto Rican,subcategory,First-Time Applicants,356,2025-2026,A-12
+Women,Hispanic or Latino,Puerto Rican,subcategory,Acceptees,191,2025-2026,A-12
+Women,Hispanic or Latino,Puerto Rican,subcategory,Matriculants,189,2025-2026,A-12
+Women,Hispanic or Latino,Salvadoran,subcategory,Applicants,57,2025-2026,A-12
+Women,Hispanic or Latino,Salvadoran,subcategory,First-Time Applicants,45,2025-2026,A-12
+Women,Hispanic or Latino,Salvadoran,subcategory,Acceptees,17,2025-2026,A-12
+Women,Hispanic or Latino,Salvadoran,subcategory,Matriculants,16,2025-2026,A-12
+Women,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Applicants,269,2025-2026,A-12
+Women,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,First-Time Applicants,199,2025-2026,A-12
+Women,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Acceptees,95,2025-2026,A-12
+Women,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Matriculants,87,2025-2026,A-12
+Women,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Applicants,275,2025-2026,A-12
+Women,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,First-Time Applicants,225,2025-2026,A-12
+Women,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Acceptees,112,2025-2026,A-12
+Women,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Matriculants,108,2025-2026,A-12
+Women,Middle Eastern or North African,,main_category,Applicants,1276,2025-2026,A-12
+Women,Middle Eastern or North African,,main_category,First-Time Applicants,976,2025-2026,A-12
+Women,Middle Eastern or North African,,main_category,Acceptees,445,2025-2026,A-12
+Women,Middle Eastern or North African,,main_category,Matriculants,424,2025-2026,A-12
+Women,Middle Eastern or North African,Arab,subcategory,Applicants,87,2025-2026,A-12
+Women,Middle Eastern or North African,Arab,subcategory,First-Time Applicants,65,2025-2026,A-12
+Women,Middle Eastern or North African,Arab,subcategory,Acceptees,30,2025-2026,A-12
+Women,Middle Eastern or North African,Arab,subcategory,Matriculants,30,2025-2026,A-12
+Women,Middle Eastern or North African,Egyptian,subcategory,Applicants,162,2025-2026,A-12
+Women,Middle Eastern or North African,Egyptian,subcategory,First-Time Applicants,132,2025-2026,A-12
+Women,Middle Eastern or North African,Egyptian,subcategory,Acceptees,50,2025-2026,A-12
+Women,Middle Eastern or North African,Egyptian,subcategory,Matriculants,48,2025-2026,A-12
+Women,Middle Eastern or North African,Iranian,subcategory,Applicants,271,2025-2026,A-12
+Women,Middle Eastern or North African,Iranian,subcategory,First-Time Applicants,194,2025-2026,A-12
+Women,Middle Eastern or North African,Iranian,subcategory,Acceptees,100,2025-2026,A-12
+Women,Middle Eastern or North African,Iranian,subcategory,Matriculants,94,2025-2026,A-12
+Women,Middle Eastern or North African,Israeli,subcategory,Applicants,15,2025-2026,A-12
+Women,Middle Eastern or North African,Israeli,subcategory,First-Time Applicants,12,2025-2026,A-12
+Women,Middle Eastern or North African,Israeli,subcategory,Acceptees,4,2025-2026,A-12
+Women,Middle Eastern or North African,Israeli,subcategory,Matriculants,4,2025-2026,A-12
+Women,Middle Eastern or North African,Lebanese,subcategory,Applicants,93,2025-2026,A-12
+Women,Middle Eastern or North African,Lebanese,subcategory,First-Time Applicants,73,2025-2026,A-12
+Women,Middle Eastern or North African,Lebanese,subcategory,Acceptees,31,2025-2026,A-12
+Women,Middle Eastern or North African,Lebanese,subcategory,Matriculants,30,2025-2026,A-12
+Women,Middle Eastern or North African,Moroccan,subcategory,Applicants,29,2025-2026,A-12
+Women,Middle Eastern or North African,Moroccan,subcategory,First-Time Applicants,22,2025-2026,A-12
+Women,Middle Eastern or North African,Moroccan,subcategory,Acceptees,7,2025-2026,A-12
+Women,Middle Eastern or North African,Moroccan,subcategory,Matriculants,7,2025-2026,A-12
+Women,Middle Eastern or North African,Palestinian,subcategory,Applicants,32,2025-2026,A-12
+Women,Middle Eastern or North African,Palestinian,subcategory,First-Time Applicants,24,2025-2026,A-12
+Women,Middle Eastern or North African,Palestinian,subcategory,Acceptees,11,2025-2026,A-12
+Women,Middle Eastern or North African,Palestinian,subcategory,Matriculants,10,2025-2026,A-12
+Women,Middle Eastern or North African,Syrian,subcategory,Applicants,41,2025-2026,A-12
+Women,Middle Eastern or North African,Syrian,subcategory,First-Time Applicants,32,2025-2026,A-12
+Women,Middle Eastern or North African,Syrian,subcategory,Acceptees,20,2025-2026,A-12
+Women,Middle Eastern or North African,Syrian,subcategory,Matriculants,20,2025-2026,A-12
+Women,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Applicants,202,2025-2026,A-12
+Women,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,First-Time Applicants,152,2025-2026,A-12
+Women,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Acceptees,69,2025-2026,A-12
+Women,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Matriculants,67,2025-2026,A-12
+Women,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Applicants,302,2025-2026,A-12
+Women,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,First-Time Applicants,237,2025-2026,A-12
+Women,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Acceptees,108,2025-2026,A-12
+Women,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Matriculants,102,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,,main_category,Applicants,27,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,,main_category,First-Time Applicants,21,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,,main_category,Acceptees,5,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,,main_category,Matriculants,5,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Applicants,8,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Chamorro,subcategory,First-Time Applicants,7,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Acceptees,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Matriculants,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Fijian,subcategory,Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Fijian,subcategory,First-Time Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Fijian,subcategory,Acceptees,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Fijian,subcategory,Matriculants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Applicants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Marshallese,subcategory,First-Time Applicants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Acceptees,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Matriculants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Applicants,6,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,First-Time Applicants,4,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Acceptees,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Matriculants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Samoan,subcategory,Applicants,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Samoan,subcategory,First-Time Applicants,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Samoan,subcategory,Acceptees,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Samoan,subcategory,Matriculants,1,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Tongan,subcategory,Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Tongan,subcategory,First-Time Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Tongan,subcategory,Acceptees,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Tongan,subcategory,Matriculants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Applicants,3,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,First-Time Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Acceptees,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Matriculants,0,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Applicants,3,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,First-Time Applicants,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Acceptees,2,2025-2026,A-12
+Women,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Matriculants,2,2025-2026,A-12
+Women,White,,main_category,Applicants,10237,2025-2026,A-12
+Women,White,,main_category,First-Time Applicants,8208,2025-2026,A-12
+Women,White,,main_category,Acceptees,4953,2025-2026,A-12
+Women,White,,main_category,Matriculants,4769,2025-2026,A-12
+Women,White,English,subcategory,Applicants,740,2025-2026,A-12
+Women,White,English,subcategory,First-Time Applicants,597,2025-2026,A-12
+Women,White,English,subcategory,Acceptees,269,2025-2026,A-12
+Women,White,English,subcategory,Matriculants,257,2025-2026,A-12
+Women,White,French,subcategory,Applicants,46,2025-2026,A-12
+Women,White,French,subcategory,First-Time Applicants,33,2025-2026,A-12
+Women,White,French,subcategory,Acceptees,25,2025-2026,A-12
+Women,White,French,subcategory,Matriculants,24,2025-2026,A-12
+Women,White,German,subcategory,Applicants,192,2025-2026,A-12
+Women,White,German,subcategory,First-Time Applicants,150,2025-2026,A-12
+Women,White,German,subcategory,Acceptees,83,2025-2026,A-12
+Women,White,German,subcategory,Matriculants,80,2025-2026,A-12
+Women,White,Irish,subcategory,Applicants,212,2025-2026,A-12
+Women,White,Irish,subcategory,First-Time Applicants,168,2025-2026,A-12
+Women,White,Irish,subcategory,Acceptees,106,2025-2026,A-12
+Women,White,Irish,subcategory,Matriculants,103,2025-2026,A-12
+Women,White,Italian,subcategory,Applicants,273,2025-2026,A-12
+Women,White,Italian,subcategory,First-Time Applicants,218,2025-2026,A-12
+Women,White,Italian,subcategory,Acceptees,116,2025-2026,A-12
+Women,White,Italian,subcategory,Matriculants,113,2025-2026,A-12
+Women,White,Polish,subcategory,Applicants,192,2025-2026,A-12
+Women,White,Polish,subcategory,First-Time Applicants,158,2025-2026,A-12
+Women,White,Polish,subcategory,Acceptees,94,2025-2026,A-12
+Women,White,Polish,subcategory,Matriculants,92,2025-2026,A-12
+Women,White,Some Other White,subcategory,Applicants,729,2025-2026,A-12
+Women,White,Some Other White,subcategory,First-Time Applicants,584,2025-2026,A-12
+Women,White,Some Other White,subcategory,Acceptees,332,2025-2026,A-12
+Women,White,Some Other White,subcategory,Matriculants,322,2025-2026,A-12
+Women,White,More Than One White Response,subcategory,Applicants,2787,2025-2026,A-12
+Women,White,More Than One White Response,subcategory,First-Time Applicants,2330,2025-2026,A-12
+Women,White,More Than One White Response,subcategory,Acceptees,1337,2025-2026,A-12
+Women,White,More Than One White Response,subcategory,Matriculants,1270,2025-2026,A-12
+Women,Some Other Race or Ethnicity,,main_category,Applicants,147,2025-2026,A-12
+Women,Some Other Race or Ethnicity,,main_category,First-Time Applicants,107,2025-2026,A-12
+Women,Some Other Race or Ethnicity,,main_category,Acceptees,48,2025-2026,A-12
+Women,Some Other Race or Ethnicity,,main_category,Matriculants,46,2025-2026,A-12
+Women,Multiple Race or Ethnicity,,main_category,Applicants,3886,2025-2026,A-12
+Women,Multiple Race or Ethnicity,,main_category,First-Time Applicants,3039,2025-2026,A-12
+Women,Multiple Race or Ethnicity,,main_category,Acceptees,1616,2025-2026,A-12
+Women,Multiple Race or Ethnicity,,main_category,Matriculants,1566,2025-2026,A-12
+Women,Unknown Race or Ethnicity,,main_category,Applicants,1551,2025-2026,A-12
+Women,Unknown Race or Ethnicity,,main_category,First-Time Applicants,950,2025-2026,A-12
+Women,Unknown Race or Ethnicity,,main_category,Acceptees,664,2025-2026,A-12
+Women,Unknown Race or Ethnicity,,main_category,Matriculants,639,2025-2026,A-12
+Women,Subtotal,,summary,Applicants,31292,2025-2026,A-12
+Women,Subtotal,,summary,First-Time Applicants,24214,2025-2026,A-12
+Women,Subtotal,,summary,Acceptees,13364,2025-2026,A-12
+Women,Subtotal,,summary,Matriculants,12900,2025-2026,A-12
+All,American Indian or Alaska Native,,main_category,Applicants,81,2025-2026,A-12
+All,American Indian or Alaska Native,,main_category,First-Time Applicants,62,2025-2026,A-12
+All,American Indian or Alaska Native,,main_category,Acceptees,35,2025-2026,A-12
+All,American Indian or Alaska Native,,main_category,Matriculants,33,2025-2026,A-12
+All,Asian,,main_category,Applicants,14585,2025-2026,A-12
+All,Asian,,main_category,First-Time Applicants,11560,2025-2026,A-12
+All,Asian,,main_category,Acceptees,6664,2025-2026,A-12
+All,Asian,,main_category,Matriculants,6484,2025-2026,A-12
+All,Asian,Bangladeshi,subcategory,Applicants,355,2025-2026,A-12
+All,Asian,Bangladeshi,subcategory,First-Time Applicants,283,2025-2026,A-12
+All,Asian,Bangladeshi,subcategory,Acceptees,138,2025-2026,A-12
+All,Asian,Bangladeshi,subcategory,Matriculants,130,2025-2026,A-12
+All,Asian,Cambodian,subcategory,Applicants,44,2025-2026,A-12
+All,Asian,Cambodian,subcategory,First-Time Applicants,28,2025-2026,A-12
+All,Asian,Cambodian,subcategory,Acceptees,13,2025-2026,A-12
+All,Asian,Cambodian,subcategory,Matriculants,13,2025-2026,A-12
+All,Asian,Chinese,subcategory,Applicants,1955,2025-2026,A-12
+All,Asian,Chinese,subcategory,First-Time Applicants,1556,2025-2026,A-12
+All,Asian,Chinese,subcategory,Acceptees,1040,2025-2026,A-12
+All,Asian,Chinese,subcategory,Matriculants,1013,2025-2026,A-12
+All,Asian,Filipino,subcategory,Applicants,610,2025-2026,A-12
+All,Asian,Filipino,subcategory,First-Time Applicants,468,2025-2026,A-12
+All,Asian,Filipino,subcategory,Acceptees,180,2025-2026,A-12
+All,Asian,Filipino,subcategory,Matriculants,176,2025-2026,A-12
+All,Asian,Indian,subcategory,Applicants,5338,2025-2026,A-12
+All,Asian,Indian,subcategory,First-Time Applicants,4391,2025-2026,A-12
+All,Asian,Indian,subcategory,Acceptees,2575,2025-2026,A-12
+All,Asian,Indian,subcategory,Matriculants,2510,2025-2026,A-12
+All,Asian,Indonesian,subcategory,Applicants,33,2025-2026,A-12
+All,Asian,Indonesian,subcategory,First-Time Applicants,25,2025-2026,A-12
+All,Asian,Indonesian,subcategory,Acceptees,12,2025-2026,A-12
+All,Asian,Indonesian,subcategory,Matriculants,12,2025-2026,A-12
+All,Asian,Japanese,subcategory,Applicants,95,2025-2026,A-12
+All,Asian,Japanese,subcategory,First-Time Applicants,75,2025-2026,A-12
+All,Asian,Japanese,subcategory,Acceptees,48,2025-2026,A-12
+All,Asian,Japanese,subcategory,Matriculants,47,2025-2026,A-12
+All,Asian,Korean,subcategory,Applicants,1201,2025-2026,A-12
+All,Asian,Korean,subcategory,First-Time Applicants,893,2025-2026,A-12
+All,Asian,Korean,subcategory,Acceptees,615,2025-2026,A-12
+All,Asian,Korean,subcategory,Matriculants,590,2025-2026,A-12
+All,Asian,Laotian,subcategory,Applicants,10,2025-2026,A-12
+All,Asian,Laotian,subcategory,First-Time Applicants,7,2025-2026,A-12
+All,Asian,Laotian,subcategory,Acceptees,4,2025-2026,A-12
+All,Asian,Laotian,subcategory,Matriculants,4,2025-2026,A-12
+All,Asian,Pakistani,subcategory,Applicants,1075,2025-2026,A-12
+All,Asian,Pakistani,subcategory,First-Time Applicants,810,2025-2026,A-12
+All,Asian,Pakistani,subcategory,Acceptees,377,2025-2026,A-12
+All,Asian,Pakistani,subcategory,Matriculants,369,2025-2026,A-12
+All,Asian,Taiwanese,subcategory,Applicants,332,2025-2026,A-12
+All,Asian,Taiwanese,subcategory,First-Time Applicants,262,2025-2026,A-12
+All,Asian,Taiwanese,subcategory,Acceptees,193,2025-2026,A-12
+All,Asian,Taiwanese,subcategory,Matriculants,187,2025-2026,A-12
+All,Asian,Vietnamese,subcategory,Applicants,1069,2025-2026,A-12
+All,Asian,Vietnamese,subcategory,First-Time Applicants,822,2025-2026,A-12
+All,Asian,Vietnamese,subcategory,Acceptees,419,2025-2026,A-12
+All,Asian,Vietnamese,subcategory,Matriculants,412,2025-2026,A-12
+All,Asian,Some Other Asian,subcategory,Applicants,528,2025-2026,A-12
+All,Asian,Some Other Asian,subcategory,First-Time Applicants,404,2025-2026,A-12
+All,Asian,Some Other Asian,subcategory,Acceptees,160,2025-2026,A-12
+All,Asian,Some Other Asian,subcategory,Matriculants,156,2025-2026,A-12
+All,Asian,More Than One Asian Response,subcategory,Applicants,927,2025-2026,A-12
+All,Asian,More Than One Asian Response,subcategory,First-Time Applicants,730,2025-2026,A-12
+All,Asian,More Than One Asian Response,subcategory,Acceptees,433,2025-2026,A-12
+All,Asian,More Than One Asian Response,subcategory,Matriculants,414,2025-2026,A-12
+All,Black or African American,,main_category,Applicants,5022,2025-2026,A-12
+All,Black or African American,,main_category,First-Time Applicants,3419,2025-2026,A-12
+All,Black or African American,,main_category,Acceptees,1643,2025-2026,A-12
+All,Black or African American,,main_category,Matriculants,1558,2025-2026,A-12
+All,Black or African American,African,subcategory,Applicants,500,2025-2026,A-12
+All,Black or African American,African,subcategory,First-Time Applicants,339,2025-2026,A-12
+All,Black or African American,African,subcategory,Acceptees,130,2025-2026,A-12
+All,Black or African American,African,subcategory,Matriculants,113,2025-2026,A-12
+All,Black or African American,African American,subcategory,Applicants,1650,2025-2026,A-12
+All,Black or African American,African American,subcategory,First-Time Applicants,1105,2025-2026,A-12
+All,Black or African American,African American,subcategory,Acceptees,536,2025-2026,A-12
+All,Black or African American,African American,subcategory,Matriculants,510,2025-2026,A-12
+All,Black or African American,Afro-Caribbean,subcategory,Applicants,138,2025-2026,A-12
+All,Black or African American,Afro-Caribbean,subcategory,First-Time Applicants,87,2025-2026,A-12
+All,Black or African American,Afro-Caribbean,subcategory,Acceptees,43,2025-2026,A-12
+All,Black or African American,Afro-Caribbean,subcategory,Matriculants,39,2025-2026,A-12
+All,Black or African American,Ethiopian,subcategory,Applicants,76,2025-2026,A-12
+All,Black or African American,Ethiopian,subcategory,First-Time Applicants,56,2025-2026,A-12
+All,Black or African American,Ethiopian,subcategory,Acceptees,34,2025-2026,A-12
+All,Black or African American,Ethiopian,subcategory,Matriculants,32,2025-2026,A-12
+All,Black or African American,Haitian,subcategory,Applicants,184,2025-2026,A-12
+All,Black or African American,Haitian,subcategory,First-Time Applicants,116,2025-2026,A-12
+All,Black or African American,Haitian,subcategory,Acceptees,32,2025-2026,A-12
+All,Black or African American,Haitian,subcategory,Matriculants,32,2025-2026,A-12
+All,Black or African American,Jamaican,subcategory,Applicants,136,2025-2026,A-12
+All,Black or African American,Jamaican,subcategory,First-Time Applicants,103,2025-2026,A-12
+All,Black or African American,Jamaican,subcategory,Acceptees,42,2025-2026,A-12
+All,Black or African American,Jamaican,subcategory,Matriculants,41,2025-2026,A-12
+All,Black or African American,Nigerian,subcategory,Applicants,262,2025-2026,A-12
+All,Black or African American,Nigerian,subcategory,First-Time Applicants,197,2025-2026,A-12
+All,Black or African American,Nigerian,subcategory,Acceptees,104,2025-2026,A-12
+All,Black or African American,Nigerian,subcategory,Matriculants,97,2025-2026,A-12
+All,Black or African American,Somali,subcategory,Applicants,38,2025-2026,A-12
+All,Black or African American,Somali,subcategory,First-Time Applicants,31,2025-2026,A-12
+All,Black or African American,Somali,subcategory,Acceptees,10,2025-2026,A-12
+All,Black or African American,Somali,subcategory,Matriculants,10,2025-2026,A-12
+All,Black or African American,Some Other Black or African American,subcategory,Applicants,86,2025-2026,A-12
+All,Black or African American,Some Other Black or African American,subcategory,First-Time Applicants,62,2025-2026,A-12
+All,Black or African American,Some Other Black or African American,subcategory,Acceptees,26,2025-2026,A-12
+All,Black or African American,Some Other Black or African American,subcategory,Matriculants,24,2025-2026,A-12
+All,Black or African American,More Than One Black or African American Response,subcategory,Applicants,1301,2025-2026,A-12
+All,Black or African American,More Than One Black or African American Response,subcategory,First-Time Applicants,926,2025-2026,A-12
+All,Black or African American,More Than One Black or African American Response,subcategory,Acceptees,510,2025-2026,A-12
+All,Black or African American,More Than One Black or African American Response,subcategory,Matriculants,486,2025-2026,A-12
+All,Hispanic or Latino,,main_category,Applicants,3752,2025-2026,A-12
+All,Hispanic or Latino,,main_category,First-Time Applicants,2917,2025-2026,A-12
+All,Hispanic or Latino,,main_category,Acceptees,1530,2025-2026,A-12
+All,Hispanic or Latino,,main_category,Matriculants,1459,2025-2026,A-12
+All,Hispanic or Latino,Argentinean,subcategory,Applicants,27,2025-2026,A-12
+All,Hispanic or Latino,Argentinean,subcategory,First-Time Applicants,25,2025-2026,A-12
+All,Hispanic or Latino,Argentinean,subcategory,Acceptees,13,2025-2026,A-12
+All,Hispanic or Latino,Argentinean,subcategory,Matriculants,13,2025-2026,A-12
+All,Hispanic or Latino,Colombian,subcategory,Applicants,186,2025-2026,A-12
+All,Hispanic or Latino,Colombian,subcategory,First-Time Applicants,140,2025-2026,A-12
+All,Hispanic or Latino,Colombian,subcategory,Acceptees,78,2025-2026,A-12
+All,Hispanic or Latino,Colombian,subcategory,Matriculants,73,2025-2026,A-12
+All,Hispanic or Latino,Cuban,subcategory,Applicants,260,2025-2026,A-12
+All,Hispanic or Latino,Cuban,subcategory,First-Time Applicants,202,2025-2026,A-12
+All,Hispanic or Latino,Cuban,subcategory,Acceptees,118,2025-2026,A-12
+All,Hispanic or Latino,Cuban,subcategory,Matriculants,115,2025-2026,A-12
+All,Hispanic or Latino,Dominican,subcategory,Applicants,60,2025-2026,A-12
+All,Hispanic or Latino,Dominican,subcategory,First-Time Applicants,49,2025-2026,A-12
+All,Hispanic or Latino,Dominican,subcategory,Acceptees,18,2025-2026,A-12
+All,Hispanic or Latino,Dominican,subcategory,Matriculants,18,2025-2026,A-12
+All,Hispanic or Latino,Mexican or Mexican American,subcategory,Applicants,1198,2025-2026,A-12
+All,Hispanic or Latino,Mexican or Mexican American,subcategory,First-Time Applicants,908,2025-2026,A-12
+All,Hispanic or Latino,Mexican or Mexican American,subcategory,Acceptees,439,2025-2026,A-12
+All,Hispanic or Latino,Mexican or Mexican American,subcategory,Matriculants,407,2025-2026,A-12
+All,Hispanic or Latino,Peruvian,subcategory,Applicants,108,2025-2026,A-12
+All,Hispanic or Latino,Peruvian,subcategory,First-Time Applicants,81,2025-2026,A-12
+All,Hispanic or Latino,Peruvian,subcategory,Acceptees,46,2025-2026,A-12
+All,Hispanic or Latino,Peruvian,subcategory,Matriculants,45,2025-2026,A-12
+All,Hispanic or Latino,Puerto Rican,subcategory,Applicants,696,2025-2026,A-12
+All,Hispanic or Latino,Puerto Rican,subcategory,First-Time Applicants,597,2025-2026,A-12
+All,Hispanic or Latino,Puerto Rican,subcategory,Acceptees,349,2025-2026,A-12
+All,Hispanic or Latino,Puerto Rican,subcategory,Matriculants,343,2025-2026,A-12
+All,Hispanic or Latino,Salvadoran,subcategory,Applicants,105,2025-2026,A-12
+All,Hispanic or Latino,Salvadoran,subcategory,First-Time Applicants,83,2025-2026,A-12
+All,Hispanic or Latino,Salvadoran,subcategory,Acceptees,40,2025-2026,A-12
+All,Hispanic or Latino,Salvadoran,subcategory,Matriculants,38,2025-2026,A-12
+All,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Applicants,477,2025-2026,A-12
+All,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,First-Time Applicants,357,2025-2026,A-12
+All,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Acceptees,179,2025-2026,A-12
+All,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,Matriculants,169,2025-2026,A-12
+All,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Applicants,447,2025-2026,A-12
+All,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,First-Time Applicants,349,2025-2026,A-12
+All,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Acceptees,188,2025-2026,A-12
+All,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,Matriculants,179,2025-2026,A-12
+All,Middle Eastern or North African,,main_category,Applicants,2539,2025-2026,A-12
+All,Middle Eastern or North African,,main_category,First-Time Applicants,1949,2025-2026,A-12
+All,Middle Eastern or North African,,main_category,Acceptees,1006,2025-2026,A-12
+All,Middle Eastern or North African,,main_category,Matriculants,976,2025-2026,A-12
+All,Middle Eastern or North African,Arab,subcategory,Applicants,189,2025-2026,A-12
+All,Middle Eastern or North African,Arab,subcategory,First-Time Applicants,138,2025-2026,A-12
+All,Middle Eastern or North African,Arab,subcategory,Acceptees,80,2025-2026,A-12
+All,Middle Eastern or North African,Arab,subcategory,Matriculants,77,2025-2026,A-12
+All,Middle Eastern or North African,Egyptian,subcategory,Applicants,328,2025-2026,A-12
+All,Middle Eastern or North African,Egyptian,subcategory,First-Time Applicants,263,2025-2026,A-12
+All,Middle Eastern or North African,Egyptian,subcategory,Acceptees,118,2025-2026,A-12
+All,Middle Eastern or North African,Egyptian,subcategory,Matriculants,115,2025-2026,A-12
+All,Middle Eastern or North African,Iranian,subcategory,Applicants,511,2025-2026,A-12
+All,Middle Eastern or North African,Iranian,subcategory,First-Time Applicants,377,2025-2026,A-12
+All,Middle Eastern or North African,Iranian,subcategory,Acceptees,200,2025-2026,A-12
+All,Middle Eastern or North African,Iranian,subcategory,Matriculants,194,2025-2026,A-12
+All,Middle Eastern or North African,Israeli,subcategory,Applicants,31,2025-2026,A-12
+All,Middle Eastern or North African,Israeli,subcategory,First-Time Applicants,27,2025-2026,A-12
+All,Middle Eastern or North African,Israeli,subcategory,Acceptees,9,2025-2026,A-12
+All,Middle Eastern or North African,Israeli,subcategory,Matriculants,9,2025-2026,A-12
+All,Middle Eastern or North African,Lebanese,subcategory,Applicants,177,2025-2026,A-12
+All,Middle Eastern or North African,Lebanese,subcategory,First-Time Applicants,140,2025-2026,A-12
+All,Middle Eastern or North African,Lebanese,subcategory,Acceptees,73,2025-2026,A-12
+All,Middle Eastern or North African,Lebanese,subcategory,Matriculants,71,2025-2026,A-12
+All,Middle Eastern or North African,Moroccan,subcategory,Applicants,48,2025-2026,A-12
+All,Middle Eastern or North African,Moroccan,subcategory,First-Time Applicants,36,2025-2026,A-12
+All,Middle Eastern or North African,Moroccan,subcategory,Acceptees,10,2025-2026,A-12
+All,Middle Eastern or North African,Moroccan,subcategory,Matriculants,10,2025-2026,A-12
+All,Middle Eastern or North African,Palestinian,subcategory,Applicants,72,2025-2026,A-12
+All,Middle Eastern or North African,Palestinian,subcategory,First-Time Applicants,53,2025-2026,A-12
+All,Middle Eastern or North African,Palestinian,subcategory,Acceptees,28,2025-2026,A-12
+All,Middle Eastern or North African,Palestinian,subcategory,Matriculants,27,2025-2026,A-12
+All,Middle Eastern or North African,Syrian,subcategory,Applicants,120,2025-2026,A-12
+All,Middle Eastern or North African,Syrian,subcategory,First-Time Applicants,87,2025-2026,A-12
+All,Middle Eastern or North African,Syrian,subcategory,Acceptees,65,2025-2026,A-12
+All,Middle Eastern or North African,Syrian,subcategory,Matriculants,65,2025-2026,A-12
+All,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Applicants,341,2025-2026,A-12
+All,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,First-Time Applicants,263,2025-2026,A-12
+All,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Acceptees,137,2025-2026,A-12
+All,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,Matriculants,133,2025-2026,A-12
+All,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Applicants,650,2025-2026,A-12
+All,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,First-Time Applicants,509,2025-2026,A-12
+All,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Acceptees,257,2025-2026,A-12
+All,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,Matriculants,249,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,,main_category,Applicants,51,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,,main_category,First-Time Applicants,41,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,,main_category,Acceptees,14,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,,main_category,Matriculants,13,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Applicants,10,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Chamorro,subcategory,First-Time Applicants,9,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Acceptees,3,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Chamorro,subcategory,Matriculants,3,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Fijian,subcategory,Applicants,7,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Fijian,subcategory,First-Time Applicants,7,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Fijian,subcategory,Acceptees,1,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Fijian,subcategory,Matriculants,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Applicants,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Marshallese,subcategory,First-Time Applicants,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Acceptees,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Marshallese,subcategory,Matriculants,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Applicants,13,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,First-Time Applicants,10,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Acceptees,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,Matriculants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Samoan,subcategory,Applicants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Samoan,subcategory,First-Time Applicants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Samoan,subcategory,Acceptees,1,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Samoan,subcategory,Matriculants,1,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Tongan,subcategory,Applicants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Tongan,subcategory,First-Time Applicants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Tongan,subcategory,Acceptees,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Tongan,subcategory,Matriculants,0,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Applicants,7,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,First-Time Applicants,5,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Acceptees,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,Matriculants,2,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Applicants,5,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,First-Time Applicants,3,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Acceptees,3,2025-2026,A-12
+All,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,Matriculants,3,2025-2026,A-12
+All,White,,main_category,Applicants,18597,2025-2026,A-12
+All,White,,main_category,First-Time Applicants,14655,2025-2026,A-12
+All,White,,main_category,Acceptees,9100,2025-2026,A-12
+All,White,,main_category,Matriculants,8773,2025-2026,A-12
+All,White,English,subcategory,Applicants,1512,2025-2026,A-12
+All,White,English,subcategory,First-Time Applicants,1201,2025-2026,A-12
+All,White,English,subcategory,Acceptees,574,2025-2026,A-12
+All,White,English,subcategory,Matriculants,545,2025-2026,A-12
+All,White,French,subcategory,Applicants,72,2025-2026,A-12
+All,White,French,subcategory,First-Time Applicants,55,2025-2026,A-12
+All,White,French,subcategory,Acceptees,38,2025-2026,A-12
+All,White,French,subcategory,Matriculants,37,2025-2026,A-12
+All,White,German,subcategory,Applicants,359,2025-2026,A-12
+All,White,German,subcategory,First-Time Applicants,272,2025-2026,A-12
+All,White,German,subcategory,Acceptees,165,2025-2026,A-12
+All,White,German,subcategory,Matriculants,161,2025-2026,A-12
+All,White,Irish,subcategory,Applicants,422,2025-2026,A-12
+All,White,Irish,subcategory,First-Time Applicants,336,2025-2026,A-12
+All,White,Irish,subcategory,Acceptees,214,2025-2026,A-12
+All,White,Irish,subcategory,Matriculants,206,2025-2026,A-12
+All,White,Italian,subcategory,Applicants,481,2025-2026,A-12
+All,White,Italian,subcategory,First-Time Applicants,383,2025-2026,A-12
+All,White,Italian,subcategory,Acceptees,205,2025-2026,A-12
+All,White,Italian,subcategory,Matriculants,198,2025-2026,A-12
+All,White,Polish,subcategory,Applicants,307,2025-2026,A-12
+All,White,Polish,subcategory,First-Time Applicants,245,2025-2026,A-12
+All,White,Polish,subcategory,Acceptees,156,2025-2026,A-12
+All,White,Polish,subcategory,Matriculants,151,2025-2026,A-12
+All,White,Some Other White,subcategory,Applicants,1314,2025-2026,A-12
+All,White,Some Other White,subcategory,First-Time Applicants,1042,2025-2026,A-12
+All,White,Some Other White,subcategory,Acceptees,595,2025-2026,A-12
+All,White,Some Other White,subcategory,Matriculants,580,2025-2026,A-12
+All,White,More Than One White Response,subcategory,Applicants,5325,2025-2026,A-12
+All,White,More Than One White Response,subcategory,First-Time Applicants,4378,2025-2026,A-12
+All,White,More Than One White Response,subcategory,Acceptees,2570,2025-2026,A-12
+All,White,More Than One White Response,subcategory,Matriculants,2463,2025-2026,A-12
+All,Some Other Race or Ethnicity,,main_category,Applicants,253,2025-2026,A-12
+All,Some Other Race or Ethnicity,,main_category,First-Time Applicants,182,2025-2026,A-12
+All,Some Other Race or Ethnicity,,main_category,Acceptees,82,2025-2026,A-12
+All,Some Other Race or Ethnicity,,main_category,Matriculants,80,2025-2026,A-12
+All,Multiple Race or Ethnicity,,main_category,Applicants,6847,2025-2026,A-12
+All,Multiple Race or Ethnicity,,main_category,First-Time Applicants,5298,2025-2026,A-12
+All,Multiple Race or Ethnicity,,main_category,Acceptees,2938,2025-2026,A-12
+All,Multiple Race or Ethnicity,,main_category,Matriculants,2837,2025-2026,A-12
+All,Unknown Race or Ethnicity,,main_category,Applicants,2972,2025-2026,A-12
+All,Unknown Race or Ethnicity,,main_category,First-Time Applicants,1747,2025-2026,A-12
+All,Unknown Race or Ethnicity,,main_category,Acceptees,1288,2025-2026,A-12
+All,Unknown Race or Ethnicity,,main_category,Matriculants,1227,2025-2026,A-12
+All,Total,,summary,Applicants,54699,2025-2026,A-12
+All,Total,,summary,First-Time Applicants,41830,2025-2026,A-12
+All,Total,,summary,Acceptees,24300,2025-2026,A-12
+All,Total,,summary,Matriculants,23440,2025-2026,A-12

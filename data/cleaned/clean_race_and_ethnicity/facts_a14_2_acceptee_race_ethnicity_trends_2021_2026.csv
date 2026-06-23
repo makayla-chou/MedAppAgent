@@ -1,0 +1,55 @@
+﻿application_stage,measure,race_ethnicity_category,response_type,row_type,2021-2022,2022-2023,2023-2024,2024-2025,2025-2026,source_table
+Acceptees,count,American Indian or Alaska Native,Alone,race_ethnicity,47,49,41,36,35,A-14.2
+Acceptees,count,American Indian or Alaska Native,In Combination,race_ethnicity,199,201,236,175,192,A-14.2
+Acceptees,count,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,246,250,277,211,227,A-14.2
+Acceptees,count,Asian,Alone,race_ethnicity,5478,5943,6197,6732,6664,A-14.2
+Acceptees,count,Asian,In Combination,race_ethnicity,895,980,906,978,1050,A-14.2
+Acceptees,count,Asian,Alone or In Combination,race_ethnicity,6373,6923,7103,7710,7714,A-14.2
+Acceptees,count,Black or African American,Alone,race_ethnicity,2303,2022,2003,1774,1643,A-14.2
+Acceptees,count,Black or African American,In Combination,race_ethnicity,465,475,486,433,434,A-14.2
+Acceptees,count,Black or African American,Alone or In Combination,race_ethnicity,2768,2497,2489,2207,2077,A-14.2
+Acceptees,count,Hispanic or Latino,Alone,race_ethnicity,1700,1560,1608,1445,1530,A-14.2
+Acceptees,count,Hispanic or Latino,In Combination,race_ethnicity,1367,1428,1478,1305,1280,A-14.2
+Acceptees,count,Hispanic or Latino,Alone or In Combination,race_ethnicity,3067,2988,3086,2750,2810,A-14.2
+Acceptees,count,Middle Eastern or North African,Alone,race_ethnicity,,,,,1006,A-14.2
+Acceptees,count,Middle Eastern or North African,In Combination,race_ethnicity,,,,,526,A-14.2
+Acceptees,count,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,1532,A-14.2
+Acceptees,count,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,14,25,21,16,14,A-14.2
+Acceptees,count,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,77,84,80,80,91,A-14.2
+Acceptees,count,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,91,109,101,96,105,A-14.2
+Acceptees,count,White,Alone,race_ethnicity,10064,10118,10032,9996,9100,A-14.2
+Acceptees,count,White,In Combination,race_ethnicity,2228,2341,2356,2348,2389,A-14.2
+Acceptees,count,White,Alone or In Combination,race_ethnicity,12292,12459,12388,12344,11489,A-14.2
+Acceptees,count,Some Other Race or Ethnicity,Alone,race_ethnicity,511,532,521,583,82,A-14.2
+Acceptees,count,Some Other Race or Ethnicity,In Combination,race_ethnicity,424,455,449,500,152,A-14.2
+Acceptees,count,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,935,987,970,1083,234,A-14.2
+Acceptees,count,Unknown Race or Ethnicity,,unknown,871,692,721,779,1288,A-14.2
+Acceptees,count,Unduplicated Total URiM Acceptees,,urim_total,5907,5567,5666,5015,4984,A-14.2
+Acceptees,count,Unduplicated Total Acceptees,,unduplicated_total,23711,23810,24014,24172,24300,A-14.2
+Acceptees,percent,American Indian or Alaska Native,Alone,race_ethnicity,19.1,19.6,14.8,17.1,15.4,A-14.2
+Acceptees,percent,American Indian or Alaska Native,In Combination,race_ethnicity,80.9,80.4,85.2,82.9,84.6,A-14.2
+Acceptees,percent,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,1,1,1.2,0.9,0.9,A-14.2
+Acceptees,percent,Asian,Alone,race_ethnicity,86,85.8,87.2,87.3,86.4,A-14.2
+Acceptees,percent,Asian,In Combination,race_ethnicity,14,14.2,12.8,12.7,13.6,A-14.2
+Acceptees,percent,Asian,Alone or In Combination,race_ethnicity,26.9,29.1,29.6,31.9,31.7,A-14.2
+Acceptees,percent,Black or African American,Alone,race_ethnicity,83.2,81,80.5,80.4,79.1,A-14.2
+Acceptees,percent,Black or African American,In Combination,race_ethnicity,16.8,19,19.5,19.6,20.9,A-14.2
+Acceptees,percent,Black or African American,Alone or In Combination,race_ethnicity,11.7,10.5,10.4,9.1,8.5,A-14.2
+Acceptees,percent,Hispanic or Latino,Alone,race_ethnicity,55.4,52.2,52.1,52.5,54.4,A-14.2
+Acceptees,percent,Hispanic or Latino,In Combination,race_ethnicity,44.6,47.8,47.9,47.5,45.6,A-14.2
+Acceptees,percent,Hispanic or Latino,Alone or In Combination,race_ethnicity,12.9,12.5,12.9,11.4,11.6,A-14.2
+Acceptees,percent,Middle Eastern or North African,Alone,race_ethnicity,,,,,65.7,A-14.2
+Acceptees,percent,Middle Eastern or North African,In Combination,race_ethnicity,,,,,34.3,A-14.2
+Acceptees,percent,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,6.3,A-14.2
+Acceptees,percent,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,15.4,22.9,20.8,16.7,13.3,A-14.2
+Acceptees,percent,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,84.6,77.1,79.2,83.3,86.7,A-14.2
+Acceptees,percent,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,0.4,0.5,0.4,0.4,0.4,A-14.2
+Acceptees,percent,White,Alone,race_ethnicity,81.9,81.2,81,81,79.2,A-14.2
+Acceptees,percent,White,In Combination,race_ethnicity,18.1,18.8,19,19,20.8,A-14.2
+Acceptees,percent,White,Alone or In Combination,race_ethnicity,51.8,52.3,51.6,51.1,47.3,A-14.2
+Acceptees,percent,Some Other Race or Ethnicity,Alone,race_ethnicity,54.7,53.9,53.7,53.8,35,A-14.2
+Acceptees,percent,Some Other Race or Ethnicity,In Combination,race_ethnicity,45.3,46.1,46.3,46.2,65,A-14.2
+Acceptees,percent,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,3.9,4.1,4,4.5,1,A-14.2
+Acceptees,percent,Unknown Race or Ethnicity,,unknown,3.7,2.9,3,3.2,5.3,A-14.2
+Acceptees,percent,Unduplicated Total URiM Acceptees,,urim_total,24.9,23.4,23.6,20.7,20.5,A-14.2
+Acceptees,percent,Unduplicated Total Acceptees,,unduplicated_total,100,100,100,100,100,A-14.2

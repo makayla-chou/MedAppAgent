@@ -1,0 +1,71 @@
+{
+  "basic_information": {
+    "name": "Student 1",
+    "state_residency": "North Carolina",
+    "citizenship_status": "U.S. citizen",
+    "undergraduate_school": "New York University",
+    "major": "Biomedial Engineering",
+    "application_year": 2027
+  },
+  "academics": {
+    "overall_gpa": 3.72,
+    "science_gpa": 3.65,
+    "mcat_taken": false,
+    "mcat_total": null,
+    "mcat_sections": {
+      "chem_physics": null,
+      "cars": null,
+      "bio_biochem": null,
+      "psych_social": null
+    },
+    "academic_context": "My GPA improved steadily after my first year. I earned a 3.35 GPA during my first semester while adjusting to college, but maintained above a 3.8 during my final four semesters. I received one C+ in Organic Chemistry I and later earned an A- in Organic Chemistry II."
+  },
+  "experience_hours": {
+    "clinical": 420,
+    "shadowing": 85,
+    "research": 650,
+    "nonclinical_volunteering": 310,
+    "leadership": 180,
+    "teaching": 220
+  },
+  "experience_descriptions": {
+    "clinical": "I volunteered in the emergency department at Inova Fairfax Hospital, where I helped transport patients, restocked rooms, provided blankets and water, and supported staff during busy shifts. I regularly interacted with patients and family members who were anxious or waiting for updates. This experience showed me how important communication and small acts of support can be in a clinical environment.",
+    "research": "I worked in a microbiology laboratory studying antibiotic resistance in E. coli. I prepared bacterial cultures, performed PCR and gel electrophoresis, maintained laboratory records, and analyzed growth data. I presented the project at my university's undergraduate research symposium and contributed to a manuscript currently being prepared for submission.\n",
+    "service": "I volunteered with a community food pantry serving low-income families in Northern Virginia. I organized food distributions, helped families complete intake forms, and trained new volunteers. After noticing that many families spoke Spanish, I helped create bilingual signs and instructions to make the check-in process easier."
+  },
+  "achievements": {
+    "research_outputs": [
+      "Publication submitted",
+      "Internal presentation",
+      "Poster presentation"
+    ],
+    "awards": [
+      "Dean's List, 2024–2026",
+      "Undergraduate Research Excellence Award, 2026",
+      "Biology Department Academic Achievement Award, 2025"
+    ]
+  },
+  "goals": {
+    "career_interests": [
+      "Pediatrics",
+      "Primary care",
+      "Academic medicine",
+      "Public health"
+    ],
+    "populations_of_interest": "I am interested in working with children and families who experience barriers to healthcare because of income, language, transportation, or insurance status. I am especially interested in pediatric primary care and community health programs."
+  },
+  "school_preferences": {
+    "school_types": [
+      "MD",
+      "DO"
+    ],
+    "preferred_regions": [
+      "Northeast"
+    ],
+    "setting_preference": "Urban",
+    "dealbreakers": [
+      "Rural location"
+    ]
+  },
+  "additional_context": "I prefer schools with strong community service opportunities, early clinical exposure, and programs focused on health equity. I would like to remain within several hours of Virginia, but I am open to relocating for a program that strongly fits my goals."
+}

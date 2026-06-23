@@ -1,0 +1,50 @@
+1. Applicant Snapshot  
+- Name: Jordan Lee  
+- State residency: North Carolina  
+- Citizenship: U.S. citizen  
+- Undergraduate institution: University of North Carolina at Charlotte  
+- Major: Biology  
+- Application year: 2027  
+- Overall GPA: 3.74  
+- Science GPA: 3.68  
+- MCAT total: 500 (Sections: Chem/Phys 125, CARS 125, Bio/Biochem 125, Psych/Soc 125 reported; applicant later stated improved section scores Chem/Phys 127, CARS 126, Bio/Biochem 129, Psych/Soc 128)  
+- Clinical experience: 480 hours (ED volunteer)  
+- Shadowing hours: 90  
+- Research hours: 700 (microbiology lab, antibiotic resistance study)  
+- Nonclinical volunteering: 340 hours (food pantry volunteer with bilingual signage initiative)  
+- Leadership: 210 hours  
+- Teaching: 160 hours  
+- Career interests: Pediatrics, primary care, public health, academic medicine  
+- Intended populations: Children and families facing healthcare access barriers  
+- School preferences: MD and DO programs (dataset lacks DO schools), Southeast and Mid-Atlantic regions, urban setting, no rural locations  
+- Preference for programs with community service, early clinical exposure, public health focus, and health equity emphasis  
+
+2. Evidence-Based Strengths  
+- Academic performance improved significantly after freshman year, with GPA rising from 3.38 first semester to above 3.8 in final four semesters (documented improvement).  
+- Consistent Dean’s List honors (2024–2026) and academic awards demonstrating sustained academic achievement.  
+- Research experience includes technical lab work, data analysis, research presentations, and manuscript preparation—strong, documented research involvement with outputs including poster and conference presentations.  
+- Clinical volunteering in an emergency department with documented patient and family interaction; experience with communication and patient support noted.  
+- Volunteer leadership in community service with initiative to improve accessibility for Spanish-speaking families, showing cultural sensitivity and community engagement.  
+- Well-defined career and population interests aligned with stated experiences and goals.  
+
+3. Risk Factors  
+- MCAT score of 500 total is slightly below the applicant’s stated improved section scores (127-129 range); discrepancy in reported MCAT sectional and total scores needs clarification. The 500 total is aligned with the lower range of reported AAMC data but may be below scores generally considered competitive for many MD programs.  
+- Research manuscript status conflict: research description states manuscript is still being prepared, but achievements list it as submitted (validation warning).  
+- The dataset includes no DO programs, which conflicts with applicant's preference to apply to DO schools; this limits program options matching preferences.  
+- Some schools in dataset have missing GPA, MCAT, or degree data (4.7% each), which may affect comprehensive school selection.  
+
+4. Advising Priorities  
+- Clarify and confirm MCAT total and section scores to ensure accurate representation; consider retaking if scores do not reflect applicant’s potential.  
+- Resolve discrepancy regarding manuscript submission to confirm research output status for application materials.  
+- Prepare to target MD programs in Southeast and Mid-Atlantic regions, especially urban schools with strong community service and public health focus to align with stated preferences and goals.  
+- Given lack of DO programs in dataset, explore additional resources or databases for DO program options if DO schools remain a priority.  
+- Emphasize upward academic trajectory and leadership/service efforts in application components to strengthen candidacy.  
+- Highlight experience working with diverse populations and language access initiatives to support interest in health equity and pediatric primary care.  
+
+5. Missing or Conflicting Information  
+- MCAT scores conflict: initial section scores sum to 504 but reported total is 500; applicant later reports higher section scores (averaging ~510 total equivalent), causing inconsistency.  
+- Manuscript submission status unclear: described as "being prepared" vs. "submitted."  
+- No detailed GPA trend data beyond semester-level commentary; cumulative GPA trends help but semester-by-semester transcripts were not supplied.  
+- No mention of official class rank or percentile, which may aid context.  
+- Shadowing experience description is minimal and not elaborated.  
+- No explicit letters of recommendation or interview progress information included.

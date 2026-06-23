@@ -1,0 +1,205 @@
+﻿check_group,check_name,expected,actual,difference,severity_if_failed,passed
+Chart 1 arithmetic,1980-1981: first-time plus re-applicants,36083,36083,0,error,True
+Chart 1 arithmetic,1981-1982: first-time plus re-applicants,36717,36717,0,error,True
+Chart 1 arithmetic,1982-1983: first-time plus re-applicants,35719,35719,0,error,True
+Chart 1 arithmetic,1983-1984: first-time plus re-applicants,35187,35187,0,error,True
+Chart 1 arithmetic,1984-1985: first-time plus re-applicants,35917,35917,0,error,True
+Chart 1 arithmetic,1985-1986: first-time plus re-applicants,32885,32885,0,error,True
+Chart 1 arithmetic,1986-1987: first-time plus re-applicants,31313,31313,0,error,True
+Chart 1 arithmetic,1987-1988: first-time plus re-applicants,28118,28118,0,error,True
+Chart 1 arithmetic,1988-1989: first-time plus re-applicants,26702,26702,0,error,True
+Chart 1 arithmetic,1989-1990: first-time plus re-applicants,26909,26909,0,error,True
+Chart 1 arithmetic,1990-1991: first-time plus re-applicants,29241,29241,0,error,True
+Chart 1 arithmetic,1991-1992: first-time plus re-applicants,33296,33296,0,error,True
+Chart 1 arithmetic,1992-1993: first-time plus re-applicants,37402,37402,0,error,True
+Chart 1 arithmetic,1993-1994: first-time plus re-applicants,42806,42806,0,error,True
+Chart 1 arithmetic,1994-1995: first-time plus re-applicants,45360,45360,0,error,True
+Chart 1 arithmetic,1995-1996: first-time plus re-applicants,46586,46586,0,error,True
+Chart 1 arithmetic,1996-1997: first-time plus re-applicants,46965,46965,0,error,True
+Chart 1 arithmetic,1997-1998: first-time plus re-applicants,43016,43016,0,error,True
+Chart 1 arithmetic,1998-1999: first-time plus re-applicants,40995,40995,0,error,True
+Chart 1 arithmetic,1999-2000: first-time plus re-applicants,38442,38442,0,error,True
+Chart 1 arithmetic,2000-2001: first-time plus re-applicants,37088,37088,0,error,True
+Chart 1 arithmetic,2001-2002: first-time plus re-applicants,34860,34860,0,error,True
+Chart 1 arithmetic,2002-2003: first-time plus re-applicants,33623,33623,0,error,True
+Chart 1 arithmetic,2003-2004: first-time plus re-applicants,34791,34791,0,error,True
+Chart 1 arithmetic,2004-2005: first-time plus re-applicants,35735,35735,0,error,True
+Chart 1 arithmetic,2005-2006: first-time plus re-applicants,37371,37371,0,error,True
+Chart 1 arithmetic,2006-2007: first-time plus re-applicants,39108,39108,0,error,True
+Chart 1 arithmetic,2007-2008: first-time plus re-applicants,42315,42315,0,error,True
+Chart 1 arithmetic,2008-2009: first-time plus re-applicants,42231,42231,0,error,True
+Chart 1 arithmetic,2009-2010: first-time plus re-applicants,42268,42268,0,error,True
+Chart 1 arithmetic,2010-2011: first-time plus re-applicants,42741,42741,0,error,True
+Chart 1 arithmetic,2011-2012: first-time plus re-applicants,43919,43919,0,error,True
+Chart 1 arithmetic,2012-2013: first-time plus re-applicants,45266,45266,0,error,True
+Chart 1 arithmetic,2013-2014: first-time plus re-applicants,48014,48014,0,error,True
+Chart 1 arithmetic,2014-2015: first-time plus re-applicants,49480,49480,0,error,True
+Chart 1 arithmetic,2015-2016: first-time plus re-applicants,52549,52549,0,error,True
+Chart 1 arithmetic,2016-2017: first-time plus re-applicants,53042,53042,0,error,True
+Chart 1 arithmetic,2017-2018: first-time plus re-applicants,51680,51680,0,error,True
+Chart 1 arithmetic,2018-2019: first-time plus re-applicants,52777,52777,0,error,True
+Chart 1 arithmetic,2019-2020: first-time plus re-applicants,53369,53369,0,error,True
+Chart 1 arithmetic,2020-2021: first-time plus re-applicants,53030,53030,0,error,True
+Chart 1 arithmetic,2021-2022: first-time plus re-applicants,62443,62443,0,error,True
+Chart 1 arithmetic,2022-2023: first-time plus re-applicants,55189,55189,0,error,True
+Chart 1 arithmetic,2023-2024: first-time plus re-applicants,52577,52577,0,error,True
+Chart 1 arithmetic,2024-2025: first-time plus re-applicants,51946,51946,0,error,True
+Chart 1 arithmetic,2025-2026: first-time plus re-applicants,54699,54699,0,error,True
+Chart 1 vs Chart 2 totals,1980-1981: all applicants,36083,36083,0,error,True
+Chart 2 gender remainder,1980-1981: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1981-1982: all applicants,36717,36717,0,error,True
+Chart 2 gender remainder,1981-1982: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1982-1983: all applicants,35719,35719,0,error,True
+Chart 2 gender remainder,1982-1983: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1983-1984: all applicants,35187,35187,0,error,True
+Chart 2 gender remainder,1983-1984: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1984-1985: all applicants,35917,35917,0,error,True
+Chart 2 gender remainder,1984-1985: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1985-1986: all applicants,32885,32885,0,error,True
+Chart 2 gender remainder,1985-1986: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1986-1987: all applicants,31313,31313,0,error,True
+Chart 2 gender remainder,1986-1987: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1987-1988: all applicants,28118,28118,0,error,True
+Chart 2 gender remainder,1987-1988: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1988-1989: all applicants,26702,26702,0,error,True
+Chart 2 gender remainder,1988-1989: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1989-1990: all applicants,26909,26909,0,error,True
+Chart 2 gender remainder,1989-1990: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1990-1991: all applicants,29241,29241,0,error,True
+Chart 2 gender remainder,1990-1991: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1991-1992: all applicants,33296,33296,0,error,True
+Chart 2 gender remainder,1991-1992: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1992-1993: all applicants,37402,37402,0,error,True
+Chart 2 gender remainder,1992-1993: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1993-1994: all applicants,42806,42806,0,error,True
+Chart 2 gender remainder,1993-1994: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1994-1995: all applicants,45360,45360,0,error,True
+Chart 2 gender remainder,1994-1995: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1995-1996: all applicants,46586,46586,0,error,True
+Chart 2 gender remainder,1995-1996: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1996-1997: all applicants,46965,46965,0,error,True
+Chart 2 gender remainder,1996-1997: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1997-1998: all applicants,43016,43016,0,error,True
+Chart 2 gender remainder,1997-1998: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1998-1999: all applicants,40995,40995,0,error,True
+Chart 2 gender remainder,1998-1999: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,1999-2000: all applicants,38442,38442,0,error,True
+Chart 2 gender remainder,1999-2000: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2000-2001: all applicants,37088,37088,0,error,True
+Chart 2 gender remainder,2000-2001: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2001-2002: all applicants,34860,34860,0,error,True
+Chart 2 gender remainder,2001-2002: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2002-2003: all applicants,33623,33623,0,error,True
+Chart 2 gender remainder,2002-2003: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2003-2004: all applicants,34791,34791,0,error,True
+Chart 2 gender remainder,2003-2004: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2004-2005: all applicants,35735,35735,0,error,True
+Chart 2 gender remainder,2004-2005: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2005-2006: all applicants,37371,37371,0,error,True
+Chart 2 gender remainder,2005-2006: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2006-2007: all applicants,39108,39108,0,error,True
+Chart 2 gender remainder,2006-2007: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2007-2008: all applicants,42315,42315,0,error,True
+Chart 2 gender remainder,2007-2008: nonnegative remainder,>=0,0,,error,True
+Chart 1 vs Chart 2 totals,2008-2009: all applicants,42231,42231,0,error,True
+Chart 2 gender remainder,2008-2009: nonnegative remainder,>=0,1,,error,True
+Chart 1 vs Chart 2 totals,2009-2010: all applicants,42268,42268,0,error,True
+Chart 2 gender remainder,2009-2010: nonnegative remainder,>=0,3,,error,True
+Chart 1 vs Chart 2 totals,2010-2011: all applicants,42741,42741,0,error,True
+Chart 2 gender remainder,2010-2011: nonnegative remainder,>=0,1,,error,True
+Chart 1 vs Chart 2 totals,2011-2012: all applicants,43919,43919,0,error,True
+Chart 2 gender remainder,2011-2012: nonnegative remainder,>=0,4,,error,True
+Chart 1 vs Chart 2 totals,2012-2013: all applicants,45266,45266,0,error,True
+Chart 2 gender remainder,2012-2013: nonnegative remainder,>=0,6,,error,True
+Chart 1 vs Chart 2 totals,2013-2014: all applicants,48014,48014,0,error,True
+Chart 2 gender remainder,2013-2014: nonnegative remainder,>=0,4,,error,True
+Chart 1 vs Chart 2 totals,2014-2015: all applicants,49480,49480,0,error,True
+Chart 2 gender remainder,2014-2015: nonnegative remainder,>=0,6,,error,True
+Chart 1 vs Chart 2 totals,2015-2016: all applicants,52549,52549,0,error,True
+Chart 2 gender remainder,2015-2016: nonnegative remainder,>=0,14,,error,True
+Chart 1 vs Chart 2 totals,2016-2017: all applicants,53042,53042,0,error,True
+Chart 2 gender remainder,2016-2017: nonnegative remainder,>=0,13,,error,True
+Chart 1 vs Chart 2 totals,2017-2018: all applicants,51680,51680,0,error,True
+Chart 2 gender remainder,2017-2018: nonnegative remainder,>=0,22,,error,True
+Chart 1 vs Chart 2 totals,2018-2019: all applicants,52777,52777,0,error,True
+Chart 2 gender remainder,2018-2019: nonnegative remainder,>=0,20,,error,True
+Chart 1 vs Chart 2 totals,2019-2020: all applicants,53369,53369,0,error,True
+Chart 2 gender remainder,2019-2020: nonnegative remainder,>=0,29,,error,True
+Chart 1 vs Chart 2 totals,2020-2021: all applicants,53030,53030,0,error,True
+Chart 2 gender remainder,2020-2021: nonnegative remainder,>=0,67,,error,True
+Chart 1 vs Chart 2 totals,2021-2022: all applicants,62443,62443,0,error,True
+Chart 2 gender remainder,2021-2022: nonnegative remainder,>=0,57,,error,True
+Chart 1 vs Chart 2 totals,2022-2023: all applicants,55189,55189,0,error,True
+Chart 2 gender remainder,2022-2023: nonnegative remainder,>=0,74,,error,True
+Chart 1 vs Chart 2 totals,2023-2024: all applicants,52577,52577,0,error,True
+Chart 2 gender remainder,2023-2024: nonnegative remainder,>=0,240,,error,True
+Chart 1 vs Chart 2 totals,2024-2025: all applicants,51946,51946,0,error,True
+Chart 2 gender remainder,2024-2025: nonnegative remainder,>=0,330,,error,True
+Chart 1 vs Chart 2 totals,2025-2026: all applicants,54699,54699,0,error,True
+Chart 2 gender remainder,2025-2026: nonnegative remainder,>=0,336,,error,True
+Chart 3 gender remainder,1980-1981: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1981-1982: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1982-1983: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1983-1984: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1984-1985: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1985-1986: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1986-1987: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1987-1988: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1988-1989: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1989-1990: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1990-1991: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1991-1992: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1992-1993: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1993-1994: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1994-1995: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1995-1996: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1996-1997: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1997-1998: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1998-1999: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,1999-2000: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2000-2001: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2001-2002: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2002-2003: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2003-2004: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2004-2005: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2005-2006: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2006-2007: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2007-2008: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2008-2009: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2009-2010: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2010-2011: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2011-2012: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2012-2013: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2013-2014: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2014-2015: nonnegative remainder,>=0,0,,error,True
+Chart 3 gender remainder,2015-2016: nonnegative remainder,>=0,4,,error,True
+Chart 3 gender remainder,2016-2017: nonnegative remainder,>=0,5,,error,True
+Chart 3 gender remainder,2017-2018: nonnegative remainder,>=0,12,,error,True
+Chart 3 gender remainder,2018-2019: nonnegative remainder,>=0,8,,error,True
+Chart 3 gender remainder,2019-2020: nonnegative remainder,>=0,6,,error,True
+Chart 3 gender remainder,2020-2021: nonnegative remainder,>=0,42,,error,True
+Chart 3 gender remainder,2021-2022: nonnegative remainder,>=0,19,,error,True
+Chart 3 gender remainder,2022-2023: nonnegative remainder,>=0,20,,error,True
+Chart 3 gender remainder,2023-2024: nonnegative remainder,>=0,97,,error,True
+Chart 3 gender remainder,2024-2025: nonnegative remainder,>=0,146,,error,True
+Chart 3 gender remainder,2025-2026: nonnegative remainder,>=0,131,,error,True
+Table 1 vs Chart 1,2016-2017: applicants,53042,53042,0,warning,True
+Table 1 vs Chart 3,2016-2017: matriculants,21030,21030,0,warning,True
+Table 1 vs Chart 1,2017-2018: applicants,51680,51680,0,warning,True
+Table 1 vs Chart 3,2017-2018: matriculants,21338,21338,0,warning,True
+Table 1 vs Chart 1,2018-2019: applicants,52777,52777,0,warning,True
+Table 1 vs Chart 3,2018-2019: matriculants,21622,21622,0,warning,True
+Table 1 vs Chart 1,2019-2020: applicants,53369,53368,-1,warning,False
+Table 1 vs Chart 3,2019-2020: matriculants,21869,21869,0,warning,True
+Table 1 vs Chart 1,2020-2021: applicants,53030,53030,0,warning,True
+Table 1 vs Chart 3,2020-2021: matriculants,22239,22239,0,warning,True
+Table 1 vs Chart 1,2021-2022: applicants,62443,62443,0,warning,True
+Table 1 vs Chart 3,2021-2022: matriculants,22666,22666,0,warning,True
+Table 1 vs Chart 1,2022-2023: applicants,55189,55189,0,warning,True
+Table 1 vs Chart 3,2022-2023: matriculants,22710,22710,0,warning,True
+Table 1 vs Chart 1,2023-2024: applicants,52577,52577,0,warning,True
+Table 1 vs Chart 3,2023-2024: matriculants,22980,22980,0,warning,True
+Table 1 vs Chart 1,2024-2025: applicants,51946,51946,0,warning,True
+Table 1 vs Chart 3,2024-2025: matriculants,23156,23156,0,warning,True
+Table 1 vs Chart 1,2025-2026: applicants,54699,54699,0,warning,True
+Table 1 vs Chart 3,2025-2026: matriculants,23441,23440,-1,warning,False

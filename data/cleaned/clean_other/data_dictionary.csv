@@ -1,0 +1,12 @@
+﻿file_group,column,definition
+A-24 SES,eo1_2,"AAMC EO1/2 category: parental education below a bachelor's degree, or any degree with service, clerical, skilled, or unskilled occupation."
+A-24 SES,eo3_4_5,"AAMC EO3/4/5 category: bachelor's, master's, or doctoral parental education with executive, managerial, or professional occupation."
+A-24 SES,not_applicable_unknown,"SES could not be assigned or was unknown, including categories described in the source note."
+Combined indicators,indicator_structure,"mutually_exclusive_distribution for the three A-24 SES categories; binary_status_indicator for DACA, first-generation, and fee-assistance indicators."
+Combined indicators,percent_of_total,"Published percentage points. For example, 13.8 means 13.8% of the applicable stage total."
+Derived outcomes,acceptance_ratio_percent,"Acceptees with the indicator divided by applicants with the same indicator. This is a descriptive aggregate ratio, not an individual school's acceptance rate."
+Derived outcomes,applicant_to_matriculant_ratio_percent,Matriculants with the indicator divided by applicants with the same indicator.
+Derived outcomes,matriculant_yield_percent,Matriculants with the indicator divided by acceptees with the same indicator.
+All,application_stage,"Applicants, Acceptees, or Matriculants."
+All,academic_year,The entering medical-school academic year reported by AAMC.
+All,source_table,Original AAMC FACTS table identifier.

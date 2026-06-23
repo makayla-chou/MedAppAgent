@@ -1,0 +1,69 @@
+{
+    "basic_information": {
+        "name": "Elena Rodriguez",
+        "state_residency": "California",
+        "citizenship_status": "U.S. citizen",
+        "undergraduate_school": "California State University, Long Beach",
+        "major": "Biology",
+        "application_year": 2027
+    },
+    "academics": {
+        "overall_gpa": 3.42,
+        "science_gpa": 3.31,
+        "mcat_taken": true,
+        "mcat_total": 501,
+        "mcat_sections": {
+            "chem_physics": 124,
+            "cars": 125,
+            "bio_biochem": 126,
+            "psych_social": 126
+        },
+        "academic_context": "My academic record was affected by substantial family caregiving responsibilities during my sophomore year. After reducing my work hours and adjusting my schedule, I completed my final three semesters with a 3.78 GPA, including strong grades in physiology, microbiology, and biochemistry."
+    },
+    "experience_hours": {
+        "clinical": 1250,
+        "shadowing": 45,
+        "research": 0,
+        "nonclinical_volunteering": 510,
+        "leadership": 300,
+        "teaching": 140
+    },
+    "experience_descriptions": {
+        "clinical": "I worked as a medical assistant in a community primary care clinic serving many uninsured and Spanish-speaking patients. I took vital signs, prepared patients for visits, assisted with referrals, and helped explain follow-up instructions in Spanish when appropriate.",
+        "research": "I have not yet participated in formal research. My undergraduate responsibilities and work schedule limited my availability for laboratory work.",
+        "service": "I organized health education events through a neighborhood community center. I coordinated blood pressure screenings, invited local health professionals, and created bilingual materials on preventive care and insurance enrollment."
+    },
+    "achievements": {
+        "research_outputs": [
+            "No formal research output"
+        ],
+        "awards": [
+            "Community Service Leadership Award, 2026",
+            "Dean's List, Fall 2025 and Spring 2026"
+        ]
+    },
+    "goals": {
+        "career_interests": [
+            "Family medicine",
+            "Primary care",
+            "Health equity",
+            "Underserved communities"
+        ],
+        "populations_of_interest": "I am interested in serving Spanish-speaking, uninsured, and working-class families who experience barriers to consistent primary care."
+    },
+    "school_preferences": {
+        "school_types": [
+            "MD",
+            "DO"
+        ],
+        "preferred_regions": [
+            "West Coast",
+            "Southwest"
+        ],
+        "setting_preference": "Urban",
+        "dealbreakers": [
+            "Very high tuition"
+        ]
+    },
+    "additional_context": "I would prefer to remain in California or the western United States, but I am open to mission-driven programs elsewhere."
+}

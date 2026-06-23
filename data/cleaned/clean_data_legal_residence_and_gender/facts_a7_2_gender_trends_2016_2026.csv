@@ -1,0 +1,29 @@
+﻿application_stage,gender,measure,2016-2017,2017-2018,2018-2019,2019-2020,2020-2021,2021-2022,2022-2023,2023-2024,2024-2025,2025-2026,percent_change_latest_year,source_table
+Applicants,Men,number,27250,26058,25875,25492,24620,26948,23924,22574,22088,23072,4.5,A-7.2
+Applicants,Men,percent,51.4,50.4,49,47.8,46.4,43.2,43.3,42.9,42.5,42.2,-0.3,A-7.2
+Applicants,Women,number,25779,25600,26882,27847,28343,35438,31191,29763,29528,31292,6,A-7.2
+Applicants,Women,percent,48.6,49.5,50.9,52.2,53.4,56.8,56.5,56.6,56.8,57.2,0.4,A-7.2
+Applicants,Another Gender Identity,number,,,,,,,,193,266,265,-0.4,A-7.2
+Applicants,Another Gender Identity,percent,,,,,,,,0.4,0.5,0.5,0,A-7.2
+Applicants,Total,number,53042,51680,52777,53368,53030,62443,55189,52577,51946,54699,5.3,A-7.2
+First-Time Applicants,Men,number,19090,18072,18220,17962,17101,19421,16210,15907,16107,17362,7.8,A-7.2
+First-Time Applicants,Men,percent,49.2,48.4,47.3,45.8,44.3,41.5,41.9,42.2,41.7,41.5,-0.2,A-7.2
+First-Time Applicants,Women,number,19682,19272,20247,21248,21420,27288,22449,21651,22252,24214,8.8,A-7.2
+First-Time Applicants,Women,percent,50.8,51.6,52.6,54.2,55.5,58.4,58,57.4,57.6,57.9,0.3,A-7.2
+First-Time Applicants,Another Gender Identity,number,,,,,,,,130,184,196,6.5,A-7.2
+First-Time Applicants,Another Gender Identity,percent,,,,,,,,0.3,0.5,0.5,0,A-7.2
+First-Time Applicants,Total,number,38781,37364,38483,39234,38579,46756,38721,37725,38599,41830,8.4,A-7.2
+Acceptees,Men,number,11091,10966,10864,10787,10644,10537,10520,10609,10667,10798,1.2,A-7.2
+Acceptees,Men,percent,50.3,49.2,48.3,47.5,46.1,44.4,44.2,44.2,44.1,44.4,0.3,A-7.2
+Acceptees,Women,number,10940,11287,11611,11893,12417,13152,13268,13298,13341,13364,0.2,A-7.2
+Acceptees,Women,percent,49.6,50.7,51.6,52.4,53.7,55.5,55.7,55.4,55.2,55,-0.2,A-7.2
+Acceptees,Another Gender Identity,number,,,,,,,,90,137,112,-18.2,A-7.2
+Acceptees,Another Gender Identity,percent,,,,,,,,0.4,0.6,0.5,-0.1,A-7.2
+Acceptees,Total,number,22036,22266,22483,22687,23105,23711,23810,24014,24172,24300,0.5,A-7.2
+Matriculants,Men,number,10551,10516,10454,10402,10271,10057,10060,10160,10261,10409,1.4,A-7.2
+Matriculants,Men,percent,50.2,49.3,48.3,47.6,46.2,44.4,44.3,44.2,44.3,44.4,0.1,A-7.2
+Matriculants,Women,number,10474,10810,11160,11461,11926,12590,12630,12723,12749,12900,1.2,A-7.2
+Matriculants,Women,percent,49.8,50.7,51.6,52.4,53.6,55.5,55.6,55.4,55.1,55,-0.1,A-7.2
+Matriculants,Another Gender Identity,number,,,,,,,,82,123,106,-13.8,A-7.2
+Matriculants,Another Gender Identity,percent,,,,,,,,0.4,0.5,0.5,0,A-7.2
+Matriculants,Total,number,21030,21338,21622,21869,22239,22666,22710,22980,23156,23440,1.2,A-7.2

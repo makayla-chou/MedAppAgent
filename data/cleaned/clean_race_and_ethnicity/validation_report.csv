@@ -1,0 +1,53 @@
+﻿check_group,check_name,expected,actual,passed
+A-10 vs A-12,All applicants: American Indian or Alaska Native,81,81,True
+A-11 vs A-12,All matriculants: American Indian or Alaska Native,33,33,True
+A-10 vs A-12,All applicants: Asian,14585,14585,True
+A-11 vs A-12,All matriculants: Asian,6484,6484,True
+A-10 vs A-12,All applicants: Black or African American,5022,5022,True
+A-11 vs A-12,All matriculants: Black or African American,1558,1558,True
+A-10 vs A-12,All applicants: Hispanic or Latino,3752,3752,True
+A-11 vs A-12,All matriculants: Hispanic or Latino,1459,1459,True
+A-10 vs A-12,All applicants: Middle Eastern or North African,2539,2539,True
+A-11 vs A-12,All matriculants: Middle Eastern or North African,976,976,True
+A-10 vs A-12,All applicants: Native Hawaiian or Pacific Islander,51,51,True
+A-11 vs A-12,All matriculants: Native Hawaiian or Pacific Islander,13,13,True
+A-10 vs A-12,All applicants: White,18597,18597,True
+A-11 vs A-12,All matriculants: White,8773,8773,True
+A-10 vs A-12,All applicants: Some Other Race or Ethnicity,253,253,True
+A-11 vs A-12,All matriculants: Some Other Race or Ethnicity,80,80,True
+A-10 vs A-12,All applicants: Multiple Race or Ethnicity,6847,6847,True
+A-11 vs A-12,All matriculants: Multiple Race or Ethnicity,2837,2837,True
+A-10 vs A-12,All applicants: Unknown Race or Ethnicity,2972,2972,True
+A-11 vs A-12,All matriculants: Unknown Race or Ethnicity,1227,1227,True
+A-10 vs A-12,All applicants: total,54699,54699,True
+A-11 vs A-12,All matriculants: total,23440,23440,True
+A-12 vs A-14,Applicants: American Indian or Alaska Native alone,81,81,True
+A-12 vs A-14,Acceptees: American Indian or Alaska Native alone,35,35,True
+A-12 vs A-14,Matriculants: American Indian or Alaska Native alone,33,33,True
+A-12 vs A-14,Applicants: Asian alone,14585,14585,True
+A-12 vs A-14,Acceptees: Asian alone,6664,6664,True
+A-12 vs A-14,Matriculants: Asian alone,6484,6484,True
+A-12 vs A-14,Applicants: Black or African American alone,5022,5022,True
+A-12 vs A-14,Acceptees: Black or African American alone,1643,1643,True
+A-12 vs A-14,Matriculants: Black or African American alone,1558,1558,True
+A-12 vs A-14,Applicants: Hispanic or Latino alone,3752,3752,True
+A-12 vs A-14,Acceptees: Hispanic or Latino alone,1530,1530,True
+A-12 vs A-14,Matriculants: Hispanic or Latino alone,1459,1459,True
+A-12 vs A-14,Applicants: Middle Eastern or North African alone,2539,2539,True
+A-12 vs A-14,Acceptees: Middle Eastern or North African alone,1006,1006,True
+A-12 vs A-14,Matriculants: Middle Eastern or North African alone,976,976,True
+A-12 vs A-14,Applicants: Native Hawaiian or Pacific Islander alone,51,51,True
+A-12 vs A-14,Acceptees: Native Hawaiian or Pacific Islander alone,14,14,True
+A-12 vs A-14,Matriculants: Native Hawaiian or Pacific Islander alone,13,13,True
+A-12 vs A-14,Applicants: White alone,18597,18597,True
+A-12 vs A-14,Acceptees: White alone,9100,9100,True
+A-12 vs A-14,Matriculants: White alone,8773,8773,True
+A-12 vs A-14,Applicants: Some Other Race or Ethnicity alone,253,253,True
+A-12 vs A-14,Acceptees: Some Other Race or Ethnicity alone,82,82,True
+A-12 vs A-14,Matriculants: Some Other Race or Ethnicity alone,80,80,True
+A-12 vs A-14,Applicants: unknown race or ethnicity,2972,2972,True
+A-12 vs A-14,Applicants: unduplicated total,54699,54699,True
+A-12 vs A-14,Acceptees: unknown race or ethnicity,1288,1288,True
+A-12 vs A-14,Acceptees: unduplicated total,24300,24300,True
+A-12 vs A-14,Matriculants: unknown race or ethnicity,1227,1227,True
+A-12 vs A-14,Matriculants: unduplicated total,23440,23440,True

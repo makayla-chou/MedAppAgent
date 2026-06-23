@@ -1,0 +1,243 @@
+undergraduate_institution,institution_name,city,state_or_province,total_applicants,listed_in_overall_50_plus_table,black_or_african_american_applicants,black_or_african_american_share_of_institution_pct,black_or_african_american_pct_of_all_group_applicants_nationally,american_indian_or_alaska_native_applicants,american_indian_or_alaska_native_share_of_institution_pct,american_indian_or_alaska_native_pct_of_all_group_applicants_nationally,hispanic_or_latino_applicants,hispanic_or_latino_share_of_institution_pct,hispanic_or_latino_pct_of_all_group_applicants_nationally,asian_applicants,asian_share_of_institution_pct,asian_pct_of_all_group_applicants_nationally,white_applicants,white_share_of_institution_pct,white_pct_of_all_group_applicants_nationally,middle_eastern_or_north_african_applicants,middle_eastern_or_north_african_share_of_institution_pct,middle_eastern_or_north_african_pct_of_all_group_applicants_nationally,academic_year
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,1272,True,45,3.54,0.7,9,0.71,1.4,172,13.52,2.5,657,51.65,3.9,304,23.9,1.3,163,12.81,4.4,2025-2026
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,1072,True,94,8.77,1.6,9,0.84,1.4,159,14.83,2.3,520,48.51,3.1,385,35.91,1.6,30,2.8,0.8,2025-2026
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,896,True,82,9.15,1.4,10,1.12,1.5,240,26.79,3.5,233,26.0,1.4,395,44.08,1.7,53,5.92,1.4,2025-2026
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,864,True,39,4.51,0.6,6,0.69,0.9,33,3.82,0.5,335,38.77,2,373,43.17,1.6,114,13.19,3.1,2025-2026
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,739,True,16,2.17,0.3,6,0.81,0.9,99,13.4,1.4,411,55.62,2.5,157,21.24,0.7,82,11.1,2.2,2025-2026
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,689,True,,,,5,0.73,0.8,68,9.87,1,399,57.91,2.4,149,21.63,0.6,62,9.0,1.7,2025-2026
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,672,True,30,4.46,0.5,5,0.74,0.8,126,18.75,1.8,206,30.65,1.2,379,56.4,1.6,15,2.23,0.4,2025-2026
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,583,True,60,10.29,1,,,,20,3.43,0.3,190,32.59,1.1,273,46.83,1.1,58,9.95,1.6,2025-2026
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,547,True,,,,5,0.91,0.8,33,6.03,0.5,132,24.13,0.8,376,68.74,1.6,18,3.29,0.5,2025-2026
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,528,True,69,13.07,1.1,6,1.14,0.9,24,4.55,0.3,152,28.79,0.9,253,47.92,1.1,25,4.73,0.7,2025-2026
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,512,True,77,15.04,1.3,5,0.98,0.8,107,20.9,1.6,152,29.69,0.9,175,34.18,0.7,48,9.38,1.3,2025-2026
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,504,True,53,10.52,0.9,,,,41,8.13,0.6,173,34.33,1,218,43.25,0.9,21,4.17,0.6,2025-2026
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,495,True,18,3.64,0.3,5,1.01,0.8,70,14.14,1,279,56.36,1.7,109,22.02,0.5,49,9.9,1.3,2025-2026
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,495,True,27,5.45,0.4,8,1.62,1.2,44,8.89,0.6,251,50.71,1.5,176,35.56,0.7,35,7.07,1,2025-2026
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,486,True,31,6.38,0.5,,,,20,4.12,0.3,340,69.96,2,,,,25,5.14,0.7,2025-2026
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,478,True,42,8.79,0.7,5,1.05,0.8,25,5.23,0.4,149,31.17,0.9,235,49.16,1,29,6.07,0.8,2025-2026
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,470,True,59,12.55,1,,,,83,17.66,1.2,249,52.98,1.5,108,22.98,0.5,,,,2025-2026
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,461,True,19,4.12,0.3,,,,64,13.88,0.9,252,54.66,1.5,,,,84,18.22,2.3,2025-2026
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,459,True,32,6.97,0.5,9,1.96,1.4,88,19.17,1.3,124,27.02,0.7,230,50.11,1,48,10.46,1.3,2025-2026
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,443,True,45,10.16,0.7,,,,30,6.77,0.4,244,55.08,1.5,,,,55,12.42,1.5,2025-2026
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,430,True,98,22.79,1.6,,,,130,30.23,1.9,100,23.26,0.6,123,28.6,0.5,37,8.6,1,2025-2026
+"Baylor University, Waco, TX",Baylor University,Waco,TX,423,True,46,10.87,0.8,,,,72,17.02,1,113,26.71,0.7,224,52.96,0.9,,,,2025-2026
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,415,True,43,10.36,0.7,,,,25,6.02,0.4,179,43.13,1.1,160,38.55,0.7,20,4.82,0.5,2025-2026
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,411,True,48,11.68,0.8,,,,33,8.03,0.5,219,53.28,1.3,106,25.79,0.4,19,4.62,0.5,2025-2026
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,403,True,64,15.88,1.1,,,,28,6.95,0.4,176,43.67,1.1,122,30.27,0.5,26,6.45,0.7,2025-2026
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,389,True,32,8.23,0.5,,,,20,5.14,0.3,178,45.76,1.1,151,38.82,0.6,16,4.11,0.4,2025-2026
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,386,True,32,8.29,0.5,10,2.59,1.5,80,20.73,1.2,89,23.06,0.5,213,55.18,0.9,24,6.22,0.7,2025-2026
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,385,True,43,11.17,0.7,,,,48,12.47,0.7,162,42.08,1,137,35.58,0.6,25,6.49,0.7,2025-2026
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,370,True,34,9.19,0.6,7,1.89,1.1,22,5.95,0.3,82,22.16,0.5,199,53.78,0.8,45,12.16,1.2,2025-2026
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,368,True,43,11.68,0.7,,,,17,4.62,0.2,111,30.16,0.7,192,52.17,0.8,18,4.89,0.5,2025-2026
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,368,True,52,14.13,0.9,,,,27,7.34,0.4,179,48.64,1.1,101,27.45,0.4,23,6.25,0.6,2025-2026
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,362,True,34,9.39,0.6,,,,39,10.77,0.6,155,42.82,0.9,128,35.36,0.5,23,6.35,0.6,2025-2026
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,357,True,40,11.2,0.7,5,1.4,0.8,102,28.57,1.5,,,,202,56.58,0.8,,,,2025-2026
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,351,True,39,11.11,0.6,,,,21,5.98,0.3,,,,244,69.52,1,15,4.27,0.4,2025-2026
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,338,True,27,7.99,0.4,,,,29,8.58,0.4,194,57.4,1.2,,,,30,8.88,0.8,2025-2026
+"Brigham Young University, Provo, UT",Brigham Young University,Provo,UT,334,True,,,,,,,25,7.49,0.4,,,,298,89.22,1.2,,,,2025-2026
+"Boston University, Boston, MA",Boston University,Boston,MA,331,True,30,9.06,0.5,,,,40,12.08,0.6,141,42.6,0.8,115,34.74,0.5,19,5.74,0.5,2025-2026
+"New York University, New York, NY",New York University,New York,NY,331,True,52,15.71,0.9,,,,53,16.01,0.8,145,43.81,0.9,,,,24,7.25,0.7,2025-2026
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,325,True,30,9.23,0.5,,,,33,10.15,0.5,180,55.38,1.1,,,,16,4.92,0.4,2025-2026
+"Brown University, Providence, RI",Brown University,Providence,RI,320,True,41,12.81,0.7,,,,35,10.94,0.5,125,39.06,0.8,110,34.38,0.5,,,,2025-2026
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,319,True,42,13.17,0.7,,,,31,9.72,0.5,131,41.07,0.8,127,39.81,0.5,19,5.96,0.5,2025-2026
+"Florida International University, Miami, FL",Florida International University,Miami,FL,315,True,40,12.7,0.7,,,,242,76.83,3.5,,,,,,,16,5.08,0.4,2025-2026
+"Duke University, Durham, NC",Duke University,Durham,NC,314,True,26,8.28,0.4,6,1.91,0.9,35,11.15,0.5,144,45.86,0.9,120,38.22,0.5,,,,2025-2026
+"University of Notre Dame, Notre Dame, IN",University of Notre Dame,Notre Dame,IN,314,True,19,6.05,0.3,,,,38,12.1,0.6,,,,225,71.66,0.9,,,,2025-2026
+"University of Houston, Houston, TX",University of Houston,Houston,TX,306,True,49,16.01,0.8,,,,40,13.07,0.6,164,53.59,1,,,,22,7.19,0.6,2025-2026
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,301,True,18,5.98,0.3,,,,51,16.94,0.7,156,51.83,0.9,,,,57,18.94,1.6,2025-2026
+"Case Western Reserve University, Cleveland, OH",Case Western Reserve University,Cleveland,OH,295,True,19,6.44,0.3,,,,16,5.42,0.2,168,56.95,1,,,,,,,2025-2026
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,289,True,42,14.53,0.7,5,1.73,0.8,80,27.68,1.2,59,20.42,0.4,129,44.64,0.5,,,,2025-2026
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,285,True,22,7.72,0.4,,,,35,12.28,0.5,107,37.54,0.6,124,43.51,0.5,16,5.61,0.4,2025-2026
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,279,True,22,7.89,0.4,,,,32,11.47,0.5,119,42.65,0.7,,,,49,17.56,1.3,2025-2026
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,277,True,27,9.75,0.4,,,,24,8.66,0.3,84,30.32,0.5,137,49.46,0.6,,,,2025-2026
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,272,True,20,7.35,0.3,,,,23,8.46,0.3,65,23.9,0.4,168,61.76,0.7,,,,2025-2026
+"University of South Carolina Columbia, Columbia, SC",University of South Carolina Columbia,Columbia,SC,266,True,24,9.02,0.4,,,,,,,,,,183,68.8,0.8,,,,2025-2026
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,258,True,,,,6,2.33,0.9,27,10.47,0.4,103,39.92,0.6,114,44.19,0.5,39,15.12,1.1,2025-2026
+"Harvard University, Cambridge, MA",Harvard University,Cambridge,MA,257,True,39,15.18,0.6,,,,34,13.23,0.5,104,40.47,0.6,,,,,,,2025-2026
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,253,True,28,11.07,0.5,,,,20,7.91,0.3,107,42.29,0.6,,,,15,5.93,0.4,2025-2026
+"University of Kentucky, Lexington, KY",University of Kentucky,Lexington,KY,246,True,,,,,,,12,4.88,0.2,54,21.95,0.3,167,67.89,0.7,,,,2025-2026
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,245,True,39,15.92,0.6,6,2.45,0.9,16,6.53,0.2,94,38.37,0.6,,,,,,,2025-2026
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,240,True,23,9.58,0.4,,,,30,12.5,0.4,81,33.75,0.5,105,43.75,0.4,,,,2025-2026
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,Atlanta,GA,239,True,27,11.3,0.4,,,,14,5.86,0.2,100,41.84,0.6,,,,,,,2025-2026
+"Wayne State University, Detroit, MI",Wayne State University,Detroit,MI,238,True,17,7.14,0.3,,,,,,,57,23.95,0.3,,,,105,44.12,2.9,2025-2026
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,234,True,29,12.39,0.5,5,2.14,0.8,58,24.79,0.8,,,,137,58.55,0.6,,,,2025-2026
+"The University of Utah, Salt Lake City, UT",The University of Utah,Salt Lake City,UT,233,True,,,,5,2.15,0.8,22,9.44,0.3,,,,168,72.1,0.7,,,,2025-2026
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,228,True,29,12.72,0.5,11,4.82,1.7,38,16.67,0.6,89,39.04,0.5,,,,18,7.89,0.5,2025-2026
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,228,True,37,16.23,0.6,,,,14,6.14,0.2,119,52.19,0.7,,,,26,11.4,0.7,2025-2026
+"The University of Alabama, Tuscaloosa, AL",The University of Alabama,Tuscaloosa,AL,225,True,19,8.44,0.3,,,,,,,,,,175,77.78,0.7,,,,2025-2026
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,224,True,18,8.04,0.3,21,9.38,3.2,30,13.39,0.4,65,29.02,0.4,118,52.68,0.5,16,7.14,0.4,2025-2026
+"Purdue University-Main Campus, West Lafayette, IN",Purdue University-Main Campus,West Lafayette,IN,218,True,,,,,,,15,6.88,0.2,69,31.65,0.4,115,52.75,0.5,,,,2025-2026
+"Rice University, Houston, TX",Rice University,Houston,TX,218,True,18,8.26,0.3,,,,25,11.47,0.4,136,62.39,0.8,,,,,,,2025-2026
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,211,True,20,9.48,0.3,,,,16,7.58,0.2,54,25.59,0.3,117,55.45,0.5,,,,2025-2026
+"Clemson University, Clemson, SC",Clemson University,Clemson,SC,209,True,,,,,,,14,6.7,0.2,,,,161,77.03,0.7,,,,2025-2026
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,206,True,21,10.19,0.3,,,,19,9.22,0.3,54,26.21,0.3,127,61.65,0.5,,,,2025-2026
+"University of Toronto, Toronto, ON",University of Toronto,Toronto,ON,205,True,16,7.8,0.3,,,,,,,97,47.32,0.6,,,,42,20.49,1.1,2025-2026
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,204,True,33,16.18,0.5,5,2.45,0.8,30,14.71,0.4,77,37.75,0.5,,,,,,,2025-2026
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,204,True,23,11.27,0.4,,,,10,4.9,0.1,,,,125,61.27,0.5,15,7.35,0.4,2025-2026
+"Loyola University Chicago, Chicago, IL",Loyola University Chicago,Chicago,IL,201,True,,,,,,,24,11.94,0.3,68,33.83,0.4,,,,,,,2025-2026
+"Tufts University, Medford, MA",Tufts University,Medford,MA,200,True,,,,,,,23,11.5,0.3,66,33.0,0.4,111,55.5,0.5,,,,2025-2026
+"University of Iowa, Iowa City, IA",University of Iowa,Iowa City,IA,196,True,,,,5,2.55,0.8,17,8.67,0.2,,,,139,70.92,0.6,,,,2025-2026
+"University of Missouri-Columbia, Columbia, MO",University of Missouri-Columbia,Columbia,MO,194,True,16,8.25,0.3,,,,10,5.15,0.1,,,,142,73.2,0.6,,,,2025-2026
+"Georgetown University, Washington, DC",Georgetown University,Washington,DC,189,True,,,,,,,14,7.41,0.2,62,32.8,0.4,,,,,,,2025-2026
+"Yale University, New Haven, CT",Yale University,New Haven,CT,189,True,24,12.7,0.4,5,2.65,0.8,21,11.11,0.3,84,44.44,0.5,,,,,,,2025-2026
+"Wake Forest University, Winston-Salem, NC",Wake Forest University,Winston-Salem,NC,188,True,,,,,,,14,7.45,0.2,,,,126,67.02,0.5,,,,2025-2026
+"McMaster University, Hamilton, ON",McMaster University,Hamilton,ON,187,True,,,,,,,,,,116,62.03,0.7,,,,28,14.97,0.8,2025-2026
+"University of Chicago, Chicago, IL",University of Chicago,Chicago,IL,186,True,,,,,,,26,13.98,0.4,71,38.17,0.4,,,,,,,2025-2026
+"University of Western Ontario, London, ON",University of Western Ontario,London,ON,184,True,,,,,,,,,,100,54.35,0.6,,,,28,15.22,0.8,2025-2026
+"University of Kansas Main Campus, Lawrence, KS",University of Kansas Main Campus,Lawrence,KS,181,True,16,8.84,0.3,,,,12,6.63,0.2,,,,105,58.01,0.4,,,,2025-2026
+"Saint Louis University, St. Louis, MO",Saint Louis University,St. Louis,MO,179,True,,,,,,,,,,88,49.16,0.5,,,,,,,2025-2026
+"Boston College, Chestnut Hill, MA",Boston College,Chestnut Hill,MA,177,True,15,8.47,0.2,,,,28,15.82,0.4,,,,110,62.15,0.5,,,,2025-2026
+"University of Cincinnati Main Campus, Cincinnati, OH",University of Cincinnati Main Campus,Cincinnati,OH,175,True,15,8.57,0.2,,,,,,,59,33.71,0.4,,,,16,9.14,0.4,2025-2026
+"University of Colorado at Boulder, Boulder, CO",University of Colorado at Boulder,Boulder,CO,172,True,,,,,,,16,9.3,0.2,,,,119,69.19,0.5,,,,2025-2026
+"College of William & Mary, Williamsburg, VA",College of William & Mary,Williamsburg,VA,169,True,,,,,,,14,8.28,0.2,59,34.91,0.4,,,,,,,2025-2026
+"Florida Atlantic University-Boca Raton, Boca Raton, FL",Florida Atlantic University-Boca Raton,Boca Raton,FL,169,True,54,31.95,0.9,,,,35,20.71,0.5,,,,,,,22,13.02,0.6,2025-2026
+"Virginia Polytechnic Institute and State University, Blacksburg, VA",Virginia Polytechnic Institute and State University,Blacksburg,VA,169,True,18,10.65,0.3,,,,10,5.92,0.1,,,,,,,20,11.83,0.5,2025-2026
+"University at Buffalo-SUNY, Buffalo, NY",University at Buffalo-SUNY,Buffalo,NY,168,True,23,13.69,0.4,,,,11,6.55,0.2,66,39.29,0.4,,,,,,,2025-2026
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,167,True,24,14.37,0.4,,,,25,14.97,0.4,66,39.52,0.4,,,,24,14.37,0.7,2025-2026
+"University of Massachusetts-Amherst, Amherst, MA",University of Massachusetts-Amherst,Amherst,MA,167,True,18,10.78,0.3,,,,10,5.99,0.1,52,31.14,0.3,,,,,,,2025-2026
+"Auburn University, Auburn, AL",Auburn University,Auburn,AL,161,True,,,,,,,11,6.83,0.2,,,,139,86.34,0.6,,,,2025-2026
+"North Carolina State University, Raleigh, NC",North Carolina State University,Raleigh,NC,160,True,22,13.75,0.4,,,,15,9.38,0.2,,,,,,,,,,2025-2026
+"University of Puerto Rico-Rio Piedras Campus, San Juan, PR",University of Puerto Rico-Rio Piedras Campus,San Juan,PR,159,True,,,,,,,153,96.23,2.2,,,,,,,,,,2025-2026
+"University of Arkansas Main Campus, Fayetteville, AR",University of Arkansas Main Campus,Fayetteville,AR,157,True,,,,9,5.73,1.4,20,12.74,0.3,,,,113,71.97,0.5,,,,2025-2026
+"Georgia State University, Atlanta, GA",Georgia State University,Atlanta,GA,155,True,70,45.16,1.2,,,,12,7.74,0.2,,,,,,,,,,2025-2026
+"University of Rochester, Rochester, NY",University of Rochester,Rochester,NY,151,True,,,,,,,11,7.28,0.2,64,42.38,0.4,,,,,,,2025-2026
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,150,True,19,12.67,0.3,,,,16,10.67,0.2,53,35.33,0.3,,,,15,10.0,0.4,2025-2026
+"Temple University, Philadelphia, PA",Temple University,Philadelphia,PA,150,True,33,22.0,0.5,,,,,,,58,38.67,0.3,,,,15,10.0,0.4,2025-2026
+"George Washington University, Washington, DC",George Washington University,Washington,DC,147,True,,,,,,,17,11.56,0.2,61,41.5,0.4,,,,,,,2025-2026
+"The University of Texas at San Antonio, San Antonio, TX",The University of Texas at San Antonio,San Antonio,TX,144,True,38,26.39,0.6,,,,48,33.33,0.7,,,,,,,,,,2025-2026
+"University of Mississippi, University, MS",University of Mississippi,University,MS,144,True,,,,,,,,,,,,,109,75.69,0.5,,,,2025-2026
+"Miami University, Oxford, OH",Miami University,Oxford,OH,140,True,,,,,,,,,,,,,110,78.57,0.5,,,,2025-2026
+"University of Maryland-Baltimore County, Baltimore, MD",University of Maryland-Baltimore County,Baltimore,MD,140,True,50,35.71,0.8,,,,,,,56,40.0,0.3,,,,,,,2025-2026
+"Dartmouth College, Hanover, NH",Dartmouth College,Hanover,NH,139,True,15,10.79,0.2,,,,11,7.91,0.2,,,,,,,,,,2025-2026
+"University of California-Santa Cruz, Santa Cruz, CA",University of California-Santa Cruz,Santa Cruz,CA,139,True,,,,,,,30,21.58,0.4,56,40.29,0.3,,,,,,,2025-2026
+"Nova Southeastern University, Fort Lauderdale, FL",Nova Southeastern University,Fort Lauderdale,FL,137,True,15,10.95,0.2,,,,22,16.06,0.3,75,54.74,0.5,,,,,,,2025-2026
+"University of Nebraska - Lincoln, Lincoln, NE",University of Nebraska - Lincoln,Lincoln,NE,135,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Howard University, Washington, DC",Howard University,Washington,DC,133,True,127,95.49,2.1,,,,,,,,,,,,,,,,2025-2026
+"University of North Texas, Denton, TX",University of North Texas,Denton,TX,130,True,44,33.85,0.7,,,,12,9.23,0.2,,,,,,,,,,2025-2026
+"University of New Mexico-Main Campus, Albuquerque, NM",University of New Mexico-Main Campus,Albuquerque,NM,129,True,,,,6,4.65,0.9,54,41.86,0.8,,,,,,,,,,2025-2026
+"University of Nevada-Reno, Reno, NV",University of Nevada-Reno,Reno,NV,128,True,,,,,,,19,14.84,0.3,53,41.41,0.3,,,,,,,2025-2026
+"University of Puerto Rico-Mayaguez Campus, Mayaguez, PR",University of Puerto Rico-Mayaguez Campus,Mayaguez,PR,123,True,,,,,,,119,96.75,1.7,,,,,,,,,,2025-2026
+"Creighton University, Omaha, NE",Creighton University,Omaha,NE,117,True,,,,,,,,,,,,,,,,,,,2025-2026
+"George Mason University, Fairfax, VA",George Mason University,Fairfax,VA,115,True,21,18.26,0.3,,,,12,10.43,0.2,,,,,,,28,24.35,0.8,2025-2026
+"University of Oregon, Eugene, OR",University of Oregon,Eugene,OR,114,True,,,,,,,11,9.65,0.2,,,,,,,,,,2025-2026
+"West Virginia University, Morgantown, WV",West Virginia University,Morgantown,WV,111,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Drexel University, Philadelphia, PA",Drexel University,Philadelphia,PA,106,True,,,,,,,,,,50,47.17,0.3,,,,,,,2025-2026
+"University of British Columbia, Vancouver, BC",University of British Columbia,Vancouver,BC,105,True,,,,,,,,,,57,54.29,0.3,,,,,,,2025-2026
+"University of Delaware, Newark, DE",University of Delaware,Newark,DE,104,True,17,16.35,0.3,,,,,,,,,,,,,,,,2025-2026
+"University of Louisville, Louisville, KY",University of Louisville,Louisville,KY,104,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Xavier University of Louisiana, New Orleans, LA",Xavier University of Louisiana,New Orleans,LA,102,True,98,96.08,1.6,,,,,,,,,,,,,,,,2025-2026
+"University of Nevada-Las Vegas, Las Vegas, NV",University of Nevada-Las Vegas,Las Vegas,NV,100,True,,,,,,,19,19.0,0.3,,,,,,,18,18.0,0.5,2025-2026
+"McGill University, Montreal, QC",McGill University,Montreal,QC,99,True,,,,,,,,,,,,,,,,18,18.18,0.5,2025-2026
+"Mississippi State University, Mississippi State, MS",Mississippi State University,Mississippi State,MS,99,True,18,18.18,0.3,,,,,,,,,,,,,,,,2025-2026
+"Colorado State University, Fort Collins, CO",Colorado State University,Fort Collins,CO,96,True,,,,,,,15,15.62,0.2,,,,,,,,,,2025-2026
+"The University of Texas Rio Grande Valley, Edinburg, TX",The University of Texas Rio Grande Valley,Edinburg,TX,96,True,,,,,,,79,82.29,1.1,,,,,,,,,,2025-2026
+"Oakland University, Rochester, MI",Oakland University,Rochester,MI,91,True,,,,,,,,,,,,,,,,34,37.36,0.9,2025-2026
+"Villanova University, Villanova, PA",Villanova University,Villanova,PA,91,True,,,,,,,13,14.29,0.2,,,,,,,,,,2025-2026
+"Brandeis University, Waltham, MA",Brandeis University,Waltham,MA,89,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Oregon State University, Corvallis, OR",Oregon State University,Corvallis,OR,89,True,,,,,,,15,16.85,0.2,,,,,,,,,,2025-2026
+"San Diego State University, San Diego, CA",San Diego State University,San Diego,CA,87,True,,,,,,,17,19.54,0.2,,,,,,,,,,2025-2026
+"Texas Christian University, Fort Worth, TX",Texas Christian University,Fort Worth,TX,86,True,,,,,,,10,11.63,0.1,,,,,,,,,,2025-2026
+"Utah State University, Logan, UT",Utah State University,Logan,UT,86,True,,,,,,,,,,,,,,,,,,,2025-2026
+"East Carolina University, Greenville, NC",East Carolina University,Greenville,NC,83,True,15,18.07,0.2,,,,,,,,,,,,,,,,2025-2026
+"The University of Texas at Arlington, Arlington, TX",The University of Texas at Arlington,Arlington,TX,83,True,16,19.28,0.3,,,,,,,,,,,,,,,,2025-2026
+"Barnard College, New York, NY",Barnard College,New York,NY,81,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of Hawaii at Manoa, Honolulu, HI",University of Hawaii at Manoa,Honolulu,HI,81,True,,,,,,,,,,57,70.37,0.3,,,,,,,2025-2026
+"University at Albany, SUNY, Albany, NY","University at Albany, SUNY",Albany,NY,79,True,30,37.97,0.5,,,,,,,,,,,,,,,,2025-2026
+"Marquette University, Milwaukee, WI",Marquette University,Milwaukee,WI,77,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Queen's University at Kingston, Kingston, ON",Queen's University at Kingston,Kingston,ON,77,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Syracuse University, Syracuse, NY",Syracuse University,Syracuse,NY,77,True,16,20.78,0.3,,,,15,19.48,0.2,,,,,,,,,,2025-2026
+"Mercer University, Macon, GA",Mercer University,Macon,GA,76,True,15,19.74,0.2,,,,,,,,,,,,,,,,2025-2026
+"Montana State University-Bozeman, Bozeman, MT",Montana State University-Bozeman,Bozeman,MT,76,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of North Carolina at Charlotte, Charlotte, NC",University of North Carolina at Charlotte,Charlotte,NC,75,True,21,28.0,0.3,,,,,,,,,,,,,,,,2025-2026
+"California Polytechnic State University-San Luis Obispo, San Luis Obispo, CA",California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,74,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Fordham University, Bronx, NY",Fordham University,Bronx,NY,74,True,,,,,,,16,21.62,0.2,,,,,,,,,,2025-2026
+"University of Vermont, Burlington, VT",University of Vermont,Burlington,VT,74,True,,,,,,,,,,,,,,,,,,,2025-2026
+"St. John's University, Queens, NY",St. John's University,Queens,NY,73,True,16,21.92,0.3,,,,13,17.81,0.2,,,,,,,,,,2025-2026
+"Texas State University-San Marcos, San Marcos, TX",Texas State University-San Marcos,San Marcos,TX,73,True,18,24.66,0.3,,,,28,38.36,0.4,,,,,,,,,,2025-2026
+"University of Toledo, Toledo, OH",University of Toledo,Toledo,OH,73,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Washington State University, Pullman, WA",Washington State University,Pullman,WA,73,True,,,,,,,10,13.7,0.1,,,,,,,,,,2025-2026
+"Indiana University Indianapolis, Indianapolis, IN",Indiana University Indianapolis,Indianapolis,IN,72,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Rhodes College, Memphis, TN",Rhodes College,Memphis,TN,72,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Southern Methodist University, Dallas, TX",Southern Methodist University,Dallas,TX,71,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Spelman College, Atlanta, GA",Spelman College,Atlanta,GA,70,True,70,100.0,1.2,,,,,,,,,,,,,,,,2025-2026
+"Augusta University, Augusta, GA",Augusta University,Augusta,GA,68,True,23,33.82,0.4,,,,,,,,,,,,,,,,2025-2026
+"University of Michigan-Dearborn, Dearborn, MI",University of Michigan-Dearborn,Dearborn,MI,68,True,,,,,,,,,,,,,,,,44,64.71,1.2,2025-2026
+"California State University-Long Beach, Long Beach, CA",California State University-Long Beach,Long Beach,CA,67,True,,,,,,,22,32.84,0.3,,,,,,,,,,2025-2026
+"Kennesaw State University, Kennesaw, GA",Kennesaw State University,Kennesaw,GA,67,True,24,35.82,0.4,,,,,,,,,,,,,,,,2025-2026
+"Massachusetts Institute of Technology, Cambridge, MA",Massachusetts Institute of Technology,Cambridge,MA,67,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Iowa State University, Ames, IA",Iowa State University,Ames,IA,66,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Oklahoma State University, Stillwater, OK",Oklahoma State University,Stillwater,OK,65,True,,,,18,27.69,2.7,,,,,,,,,,,,,2025-2026
+"Hofstra University, Hempstead, NY",Hofstra University,Hempstead,NY,64,True,,,,,,,10,15.62,0.1,,,,,,,,,,2025-2026
+"Kansas State University, Manhattan, KS",Kansas State University,Manhattan,KS,64,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Carnegie Mellon University, Pittsburgh, PA",Carnegie Mellon University,Pittsburgh,PA,62,True,,,,,,,,,,,,,,,,,,,2025-2026
+"City University of New York Brooklyn College, Brooklyn, NY",City University of New York Brooklyn College,Brooklyn,NY,62,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Grand Valley State University, Allendale, MI",Grand Valley State University,Allendale,MI,62,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Middlebury College, Middlebury, VT",Middlebury College,Middlebury,VT,62,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of Colorado Denver Anschutz Medical Campus, Aurora, CO",University of Colorado Denver Anschutz Medical Campus,Aurora,CO,61,True,,,,,,,15,24.59,0.2,,,,,,,,,,2025-2026
+"University of Texas at El Paso, El Paso, TX",University of Texas at El Paso,El Paso,TX,61,True,,,,,,,54,88.52,0.8,,,,,,,,,,2025-2026
+"Amherst College, Amherst, MA",Amherst College,Amherst,MA,60,True,16,26.67,0.3,,,,,,,,,,,,,,,,2025-2026
+"California State University-Northridge, Northridge, CA",California State University-Northridge,Northridge,CA,60,True,,,,,,,19,31.67,0.3,,,,,,,19,31.67,0.5,2025-2026
+"College of Charleston, Charleston, SC",College of Charleston,Charleston,SC,60,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Davidson College, Davidson, NC",Davidson College,Davidson,NC,59,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of San Diego, San Diego, CA",University of San Diego,San Diego,CA,59,True,,,,,,,13,22.03,0.2,,,,,,,,,,2025-2026
+"Wesleyan University, Middletown, CT",Wesleyan University,Middletown,CT,59,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Southern Adventist University, Collegedale, TN",Southern Adventist University,Collegedale,TN,58,True,,,,,,,17,29.31,0.2,,,,,,,,,,2025-2026
+"University of Missouri-Kansas City, Kansas City, MO",University of Missouri-Kansas City,Kansas City,MO,57,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Colgate University, Hamilton, NY",Colgate University,Hamilton,NY,56,True,,,,,,,,,,,,,,,,,,,2025-2026
+"The College Of New Jersey, Ewing, NJ",The College Of New Jersey,Ewing,NJ,56,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Gonzaga University, Spokane, WA",Gonzaga University,Spokane,WA,55,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Wellesley College, Wellesley, MA",Wellesley College,Wellesley,MA,55,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Bowdoin College, Brunswick, ME",Bowdoin College,Brunswick,ME,54,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Trinity University, San Antonio, TX",Trinity University,San Antonio,TX,54,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of North Dakota, Grand Forks, ND",University of North Dakota,Grand Forks,ND,54,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Brigham Young University-Idaho, Rexburg, ID",Brigham Young University-Idaho,Rexburg,ID,53,True,,,,,,,,,,,,,,,,,,,2025-2026
+"DePaul University, Chicago, IL",DePaul University,Chicago,IL,52,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Rowan University, Glassboro, NJ",Rowan University,Glassboro,NJ,52,True,,,,,,,10,19.23,0.1,,,,,,,,,,2025-2026
+"Rutgers University - Newark, Newark, NJ",Rutgers University - Newark,Newark,NJ,52,True,,,,,,,11,21.15,0.2,,,,,,,,,,2025-2026
+"University of California-Merced, Merced, CA",University of California-Merced,Merced,CA,52,True,,,,,,,23,44.23,0.3,,,,,,,,,,2025-2026
+"St. Olaf College, Northfield, MN",St. Olaf College,Northfield,MN,51,True,,,,,,,,,,,,,,,,,,,2025-2026
+"California State University-Fresno, Fresno, CA",California State University-Fresno,Fresno,CA,50,True,,,,,,,17,34.0,0.2,,,,,,,,,,2025-2026
+"Louisiana Tech University, Ruston, LA",Louisiana Tech University,Ruston,LA,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Loyola Marymount University, Los Angeles, CA",Loyola Marymount University,Los Angeles,CA,50,True,,,,,,,13,26.0,0.2,,,,,,,,,,2025-2026
+"Pomona College, Claremont, CA",Pomona College,Claremont,CA,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"Seton Hall University, South Orange, NJ",Seton Hall University,South Orange,NJ,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of Dayton, Dayton, OH",University of Dayton,Dayton,OH,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of Nebraska at Omaha, Omaha, NE",University of Nebraska at Omaha,Omaha,NE,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"University of Ottawa, Ottawa, ON",University of Ottawa,Ottawa,ON,50,True,,,,,,,,,,,,,,,,,,,2025-2026
+"The Pontifical Catholic University of Puerto Rico, Ponce, PR",The Pontifical Catholic University of Puerto Rico,Ponce,PR,49,False,,,,,,,49,100.0,0.7,,,,,,,,,,2025-2026
+"Utah Valley University, Orem, UT",Utah Valley University,Orem,UT,49,False,,,,,,,10,20.41,0.1,,,,,,,,,,2025-2026
+"Grand Canyon University, Phoenix, AZ",Grand Canyon University,Phoenix,AZ,48,False,,,,,,,15,31.25,0.2,,,,,,,,,,2025-2026
+"San Francisco State University, San Francisco, CA",San Francisco State University,San Francisco,CA,46,False,,,,,,,14,30.43,0.2,,,,,,,,,,2025-2026
+"York University, Toronto, ON",York University,Toronto,ON,45,False,,,,,,,,,,,,,,,,17,37.78,0.5,2025-2026
+"California State University-Fullerton, Fullerton, CA",California State University-Fullerton,Fullerton,CA,42,False,,,,,,,15,35.71,0.2,,,,,,,,,,2025-2026
+"University of Puerto Rico at Cayey, Cayey, PR",University of Puerto Rico at Cayey,Cayey,PR,42,False,,,,,,,41,97.62,0.6,,,,,,,,,,2025-2026
+"Florida Agricultural and Mechanical University, Tallahassee, FL",Florida Agricultural and Mechanical University,Tallahassee,FL,40,False,40,100.0,0.7,,,,,,,,,,,,,,,,2025-2026
+"Old Dominion University, Norfolk, VA",Old Dominion University,Norfolk,VA,40,False,16,40.0,0.3,,,,,,,,,,,,,,,,2025-2026
+"Towson University, Baltimore, MD",Towson University,Baltimore,MD,40,False,20,50.0,0.3,,,,,,,,,,,,,,,,2025-2026
+"Middle Tennessee State University, Murfreesboro, TN",Middle Tennessee State University,Murfreesboro,TN,39,False,,,,,,,,,,,,,,,,15,38.46,0.4,2025-2026
+"California State Polytechnic University-Pomona, Pomona, CA",California State Polytechnic University-Pomona,Pomona,CA,38,False,,,,,,,13,34.21,0.2,,,,,,,,,,2025-2026
+"Florida Gulf Coast University, Fort Myers, FL",Florida Gulf Coast University,Fort Myers,FL,37,False,,,,,,,10,27.03,0.1,,,,,,,,,,2025-2026
+"California State University-Los Angeles, Los Angeles, CA",California State University-Los Angeles,Los Angeles,CA,36,False,,,,,,,15,41.67,0.2,,,,,,,,,,2025-2026
+"Oakwood University, Huntsville, AL",Oakwood University,Huntsville,AL,36,False,36,100.0,0.6,,,,,,,,,,,,,,,,2025-2026
+"Georgia Southern University, Statesboro, GA",Georgia Southern University,Statesboro,GA,35,False,15,42.86,0.2,,,,,,,,,,,,,,,,2025-2026
+"Tennessee State University, Nashville, TN",Tennessee State University,Nashville,TN,35,False,31,88.57,0.5,,,,,,,,,,,,,,,,2025-2026
+"Hampton University, Hampton, VA",Hampton University,Hampton,VA,32,False,32,100.0,0.5,,,,,,,,,,,,,,,,2025-2026
+"City University of New York Herbert H. Lehman College, Bronx, NY",City University of New York Herbert H. Lehman College,Bronx,NY,29,False,20,68.97,0.3,,,,,,,,,,,,,,,,2025-2026
+"California Baptist University, Riverside, CA",California Baptist University,Riverside,CA,27,False,,,,,,,10,37.04,0.1,,,,,,,,,,2025-2026
+"New Mexico State University-Main Campus, Las Cruces, NM",New Mexico State University-Main Campus,Las Cruces,NM,27,False,,,,,,,17,62.96,0.2,,,,,,,,,,2025-2026
+"North Carolina Agricultural and Technical State University, Greensboro, NC",North Carolina Agricultural and Technical State University,Greensboro,NC,27,False,26,96.3,0.4,,,,,,,,,,,,,,,,2025-2026
+"Prairie View A & M University, Prairie View, TX",Prairie View A & M University,Prairie View,TX,27,False,20,74.07,0.3,,,,,,,,,,,,,,,,2025-2026
+"Morehouse College, Atlanta, GA",Morehouse College,Atlanta,GA,25,False,24,96.0,0.4,,,,,,,,,,,,,,,,2025-2026
+"University of Puerto Rico at Bayamon, Bayamon, PR",University of Puerto Rico at Bayamon,Bayamon,PR,23,False,,,,,,,23,100.0,0.3,,,,,,,,,,2025-2026
+"California State University-San Bernardino, San Bernardino, CA",California State University-San Bernardino,San Bernardino,CA,22,False,,,,,,,15,68.18,0.2,,,,,,,,,,2025-2026
+"Texas A & M University-Corpus Christi, Corpus Christi, TX",Texas A & M University-Corpus Christi,Corpus Christi,TX,22,False,,,,,,,11,50.0,0.2,,,,,,,,,,2025-2026
+"University of the Incarnate Word, San Antonio, TX",University of the Incarnate Word,San Antonio,TX,21,False,,,,,,,12,57.14,0.2,,,,,,,,,,2025-2026
+"University of Puerto Rico at Arecibo, Arecibo, PR",University of Puerto Rico at Arecibo,Arecibo,PR,20,False,,,,,,,18,90.0,0.3,,,,,,,,,,2025-2026
+"University of Puerto Rico-Aguadilla, Aguadilla, PR",University of Puerto Rico-Aguadilla,Aguadilla,PR,20,False,,,,,,,20,100.0,0.3,,,,,,,,,,2025-2026
+"Univ of Puerto Rico-Ponce, Ponce, PR",Univ of Puerto Rico-Ponce,Ponce,PR,19,False,,,,,,,18,94.74,0.3,,,,,,,,,,2025-2026
+"California State University-Monterey Bay, Seaside, CA",California State University-Monterey Bay,Seaside,CA,16,False,,,,,,,10,62.5,0.1,,,,,,,,,,2025-2026
+"Tuskegee University, Tuskegee Inst., AL",Tuskegee University,Tuskegee Inst.,AL,16,False,16,100.0,0.3,,,,,,,,,,,,,,,,2025-2026
+"Inter American University of Puerto Rico San German Campus, San German, PR",Inter American University of Puerto Rico San German Campus,San German,PR,15,False,,,,,,,14,93.33,0.2,,,,,,,,,,2025-2026
+"St. Mary's University, San Antonio, TX",St. Mary's University,San Antonio,TX,13,False,,,,,,,10,76.92,0.1,,,,,,,,,,2025-2026
+"University of Puerto Rico-Humacao, Humacao, PR",University of Puerto Rico-Humacao,Humacao,PR,11,False,,,,,,,11,100.0,0.2,,,,,,,,,,2025-2026
+"Fort Lewis College, Durango, CO",Fort Lewis College,Durango,CO,8,False,,,,5,62.5,0.8,,,,,,,,,,,,,2025-2026

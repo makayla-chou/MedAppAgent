@@ -1,0 +1,28 @@
+1. Overall Assessment  
+The School Fit Agent report correctly avoids assigning academic competitiveness categories due to the missing MCAT. It includes the applicant’s in-state home schools (all in North Carolina) and out-of-state Northeast schools per stated preference. Preference fit scores are presented without conflating with admissions competitiveness, and dealbreakers are properly identified and verified. However, the agent does not address the absence of DO programs in the dataset despite the applicant’s explicit DO request. It also assumes out-of-state accessibility without clarifying that the applicant prioritizes remaining near Virginia and prefers Northeast schools. Missing mission and curriculum data are clearly noted as unavailable, and no unsupported claims of mission fit are made. Contradictory applicant details (e.g., research manuscript status) are not reflected in recommendations but appear outside school-fit outputs. Recommendations consistently advise waiting for MCAT completion, correctly reflecting data limitations.  
+
+2. Logic or Classification Errors  
+- No school was classified with an academic competitiveness category despite missing MCAT scores, which is correct.  
+- Preference fit is clearly separated from admissions competitiveness; the agent uses a “Basic Preference Match” score based on degree type, region, setting, and proximity without implying admission likelihood.  
+- In-state schools from North Carolina are all included and clearly shown with residency context and preference match.  
+- No logic errors detected in eligibility or preference scoring.  
+
+3. Dataset and Coverage Problems  
+- The dataset includes only MD programs; the applicant requests both MD and DO schools, but DO programs are completely absent from the dataset. This is a critical coverage gap which is not mentioned in the report’s main body—only visible in dataset warnings. The report should explicitly state no DO programs are present and that DO options cannot be ranked or recommended until this is resolved.  
+- Some schools have incomplete MCAT or GPA data, but these are appropriately noted without erroneous classifications.  
+- No unsupported assumption is made about accessibility of public out-of-state schools; the proximity is given as border hops and not translated into guaranteed accessibility or admissions likelihood.  
+
+4. Unsupported Claims  
+- No claims about school fit due to mission, curriculum, or outcome data are made because the agent notes that mission tags are unavailable and fit regarding mission is not scored.  
+- No unsupported claims regarding academic competitiveness are made; the agent explicitly flags “Insufficient Data” and recommends reassessment after MCAT scores are available.  
+- Recommendations to “Consider after MCAT” are appropriately cautious and do not overstate what averages or preference scores prove.  
+- The report misses noting the applicant’s home-state schools are in Southeast (NC) while the preferred region selected is Northeast, which causes a preference mismatch. This could lead to implicit assumptions about priority for in-state schools vs preferred region that might need clarification but is not overstated here.  
+
+5. Required Revisions  
+- Add an explicit statement in the report’s summary or limitation section that no DO programs are present in the underlying dataset and therefore none can be recommended or ranked, despite the applicant’s stated preference for DO programs.  
+- Highlight the applicant’s preference discrepancy regarding location: the applicant prefers Northeast and proximity to Virginia but included in-state NC schools (Southeast) which are shown with lower preference scores; clarify that geographic preference impacts eligibility scoring and that applicants should verify regional preferences.  
+- Clarify for the applicant or user of the report that proximity is an estimated geographic measure and does not guarantee accessibility or admissions advantage at out-of-state public schools.  
+- Correct the contradiction noted outside the school fit report about research output: The agent should flag the inconsistency between the manuscript "being prepared" in the experience versus "submitted" in achievements, or at minimum note this inconsistency somewhere in the broader guidance. Although this is outside the school fit output, it affects application completeness.  
+- Ensure consistent advice that all outcomes are provisional until MCAT scores are obtained and included in further modeling.  
+
+Summary: The School Fit Agent output is mostly appropriate and avoids major logic errors but must explicitly communicate the absence of DO program data and clarify assumptions about region and accessibility to avoid misleading the applicant.

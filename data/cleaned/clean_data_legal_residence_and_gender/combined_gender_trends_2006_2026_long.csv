@@ -1,0 +1,481 @@
+﻿application_stage,gender,measure,academic_year,value,source_table
+Applicants,Men,number,2006-2007,19815,A-7.1
+Applicants,Men,number,2007-2008,21580,A-7.1
+Applicants,Men,number,2008-2009,21870,A-7.1
+Applicants,Men,number,2009-2010,22013,A-7.1
+Applicants,Men,number,2010-2011,22533,A-7.1
+Applicants,Men,number,2011-2012,23135,A-7.1
+Applicants,Men,number,2012-2013,24338,A-7.1
+Applicants,Men,number,2013-2014,25760,A-7.1
+Applicants,Men,number,2014-2015,26455,A-7.1
+Applicants,Men,number,2015-2016,27927,A-7.1
+Applicants,Men,percent,2006-2007,50.7,A-7.1
+Applicants,Men,percent,2007-2008,51,A-7.1
+Applicants,Men,percent,2008-2009,51.8,A-7.1
+Applicants,Men,percent,2009-2010,52.1,A-7.1
+Applicants,Men,percent,2010-2011,52.7,A-7.1
+Applicants,Men,percent,2011-2012,52.7,A-7.1
+Applicants,Men,percent,2012-2013,53.8,A-7.1
+Applicants,Men,percent,2013-2014,53.7,A-7.1
+Applicants,Men,percent,2014-2015,53.5,A-7.1
+Applicants,Men,percent,2015-2016,53.1,A-7.1
+Applicants,Women,number,2006-2007,19293,A-7.1
+Applicants,Women,number,2007-2008,20735,A-7.1
+Applicants,Women,number,2008-2009,20360,A-7.1
+Applicants,Women,number,2009-2010,20252,A-7.1
+Applicants,Women,number,2010-2011,20207,A-7.1
+Applicants,Women,number,2011-2012,20780,A-7.1
+Applicants,Women,number,2012-2013,20922,A-7.1
+Applicants,Women,number,2013-2014,22250,A-7.1
+Applicants,Women,number,2014-2015,23019,A-7.1
+Applicants,Women,number,2015-2016,24608,A-7.1
+Applicants,Women,percent,2006-2007,49.3,A-7.1
+Applicants,Women,percent,2007-2008,49,A-7.1
+Applicants,Women,percent,2008-2009,48.2,A-7.1
+Applicants,Women,percent,2009-2010,47.9,A-7.1
+Applicants,Women,percent,2010-2011,47.3,A-7.1
+Applicants,Women,percent,2011-2012,47.3,A-7.1
+Applicants,Women,percent,2012-2013,46.2,A-7.1
+Applicants,Women,percent,2013-2014,46.3,A-7.1
+Applicants,Women,percent,2014-2015,46.5,A-7.1
+Applicants,Women,percent,2015-2016,46.8,A-7.1
+Applicants,Total,number,2006-2007,39108,A-7.1
+Applicants,Total,number,2007-2008,42315,A-7.1
+Applicants,Total,number,2008-2009,42231,A-7.1
+Applicants,Total,number,2009-2010,42268,A-7.1
+Applicants,Total,number,2010-2011,42741,A-7.1
+Applicants,Total,number,2011-2012,43919,A-7.1
+Applicants,Total,number,2012-2013,45266,A-7.1
+Applicants,Total,number,2013-2014,48014,A-7.1
+Applicants,Total,number,2014-2015,49480,A-7.1
+Applicants,Total,number,2015-2016,52549,A-7.1
+First-Time Applicants,Men,number,2006-2007,14624,A-7.1
+First-Time Applicants,Men,number,2007-2008,15925,A-7.1
+First-Time Applicants,Men,number,2008-2009,15662,A-7.1
+First-Time Applicants,Men,number,2009-2010,15815,A-7.1
+First-Time Applicants,Men,number,2010-2011,16352,A-7.1
+First-Time Applicants,Men,number,2011-2012,16671,A-7.1
+First-Time Applicants,Men,number,2012-2013,17776,A-7.1
+First-Time Applicants,Men,number,2013-2014,18643,A-7.1
+First-Time Applicants,Men,number,2014-2015,19031,A-7.1
+First-Time Applicants,Men,number,2015-2016,19687,A-7.1
+First-Time Applicants,Men,percent,2006-2007,49.6,A-7.1
+First-Time Applicants,Men,percent,2007-2008,49.9,A-7.1
+First-Time Applicants,Men,percent,2008-2009,50.6,A-7.1
+First-Time Applicants,Men,percent,2009-2010,51,A-7.1
+First-Time Applicants,Men,percent,2010-2011,51.5,A-7.1
+First-Time Applicants,Men,percent,2011-2012,51.2,A-7.1
+First-Time Applicants,Men,percent,2012-2013,52.7,A-7.1
+First-Time Applicants,Men,percent,2013-2014,52.3,A-7.1
+First-Time Applicants,Men,percent,2014-2015,52,A-7.1
+First-Time Applicants,Men,percent,2015-2016,51.3,A-7.1
+First-Time Applicants,Women,number,2006-2007,14867,A-7.1
+First-Time Applicants,Women,number,2007-2008,15966,A-7.1
+First-Time Applicants,Women,number,2008-2009,15284,A-7.1
+First-Time Applicants,Women,number,2009-2010,15183,A-7.1
+First-Time Applicants,Women,number,2010-2011,15413,A-7.1
+First-Time Applicants,Women,number,2011-2012,15913,A-7.1
+First-Time Applicants,Women,number,2012-2013,15929,A-7.1
+First-Time Applicants,Women,number,2013-2014,17022,A-7.1
+First-Time Applicants,Women,number,2014-2015,17588,A-7.1
+First-Time Applicants,Women,number,2015-2016,18696,A-7.1
+First-Time Applicants,Women,percent,2006-2007,50.4,A-7.1
+First-Time Applicants,Women,percent,2007-2008,50.1,A-7.1
+First-Time Applicants,Women,percent,2008-2009,49.4,A-7.1
+First-Time Applicants,Women,percent,2009-2010,49,A-7.1
+First-Time Applicants,Women,percent,2010-2011,48.5,A-7.1
+First-Time Applicants,Women,percent,2011-2012,48.8,A-7.1
+First-Time Applicants,Women,percent,2012-2013,47.3,A-7.1
+First-Time Applicants,Women,percent,2013-2014,47.7,A-7.1
+First-Time Applicants,Women,percent,2014-2015,48,A-7.1
+First-Time Applicants,Women,percent,2015-2016,48.7,A-7.1
+First-Time Applicants,Total,number,2006-2007,29491,A-7.1
+First-Time Applicants,Total,number,2007-2008,31891,A-7.1
+First-Time Applicants,Total,number,2008-2009,30947,A-7.1
+First-Time Applicants,Total,number,2009-2010,31001,A-7.1
+First-Time Applicants,Total,number,2010-2011,31766,A-7.1
+First-Time Applicants,Total,number,2011-2012,32587,A-7.1
+First-Time Applicants,Total,number,2012-2013,33711,A-7.1
+First-Time Applicants,Total,number,2013-2014,35668,A-7.1
+First-Time Applicants,Total,number,2014-2015,36625,A-7.1
+First-Time Applicants,Total,number,2015-2016,38394,A-7.1
+Acceptees,Men,number,2006-2007,9475,A-7.1
+Acceptees,Men,number,2007-2008,9751,A-7.1
+Acceptees,Men,number,2008-2009,9954,A-7.1
+Acceptees,Men,number,2009-2010,10067,A-7.1
+Acceptees,Men,number,2010-2011,10404,A-7.1
+Acceptees,Men,number,2011-2012,10681,A-7.1
+Acceptees,Men,number,2012-2013,10964,A-7.1
+Acceptees,Men,number,2013-2014,11093,A-7.1
+Acceptees,Men,number,2014-2015,11161,A-7.1
+Acceptees,Men,number,2015-2016,11271,A-7.1
+Acceptees,Men,percent,2006-2007,51.4,A-7.1
+Acceptees,Men,percent,2007-2008,51.7,A-7.1
+Acceptees,Men,percent,2008-2009,52,A-7.1
+Acceptees,Men,percent,2009-2010,52.1,A-7.1
+Acceptees,Men,percent,2010-2011,53,A-7.1
+Acceptees,Men,percent,2011-2012,52.9,A-7.1
+Acceptees,Men,percent,2012-2013,53.5,A-7.1
+Acceptees,Men,percent,2013-2014,52.6,A-7.1
+Acceptees,Men,percent,2014-2015,52.3,A-7.1
+Acceptees,Men,percent,2015-2016,52.1,A-7.1
+Acceptees,Women,number,2006-2007,8943,A-7.1
+Acceptees,Women,number,2007-2008,9107,A-7.1
+Acceptees,Women,number,2008-2009,9181,A-7.1
+Acceptees,Women,number,2009-2010,9264,A-7.1
+Acceptees,Women,number,2010-2011,9237,A-7.1
+Acceptees,Women,number,2011-2012,9495,A-7.1
+Acceptees,Women,number,2012-2013,9514,A-7.1
+Acceptees,Women,number,2013-2014,9977,A-7.1
+Acceptees,Women,number,2014-2015,10194,A-7.1
+Acceptees,Women,number,2015-2016,10372,A-7.1
+Acceptees,Women,percent,2006-2007,48.6,A-7.1
+Acceptees,Women,percent,2007-2008,48.3,A-7.1
+Acceptees,Women,percent,2008-2009,48,A-7.1
+Acceptees,Women,percent,2009-2010,47.9,A-7.1
+Acceptees,Women,percent,2010-2011,47,A-7.1
+Acceptees,Women,percent,2011-2012,47.1,A-7.1
+Acceptees,Women,percent,2012-2013,46.5,A-7.1
+Acceptees,Women,percent,2013-2014,47.4,A-7.1
+Acceptees,Women,percent,2014-2015,47.7,A-7.1
+Acceptees,Women,percent,2015-2016,47.9,A-7.1
+Acceptees,Total,number,2006-2007,18418,A-7.1
+Acceptees,Total,number,2007-2008,18858,A-7.1
+Acceptees,Total,number,2008-2009,19135,A-7.1
+Acceptees,Total,number,2009-2010,19331,A-7.1
+Acceptees,Total,number,2010-2011,19641,A-7.1
+Acceptees,Total,number,2011-2012,20176,A-7.1
+Acceptees,Total,number,2012-2013,20479,A-7.1
+Acceptees,Total,number,2013-2014,21070,A-7.1
+Acceptees,Total,number,2014-2015,21355,A-7.1
+Acceptees,Total,number,2015-2016,21647,A-7.1
+Matriculants,Men,number,2006-2007,8923,A-7.1
+Matriculants,Men,number,2007-2008,9177,A-7.1
+Matriculants,Men,number,2008-2009,9422,A-7.1
+Matriculants,Men,number,2009-2010,9573,A-7.1
+Matriculants,Men,number,2010-2011,9909,A-7.1
+Matriculants,Men,number,2011-2012,10193,A-7.1
+Matriculants,Men,number,2012-2013,10453,A-7.1
+Matriculants,Men,number,2013-2014,10588,A-7.1
+Matriculants,Men,number,2014-2015,10625,A-7.1
+Matriculants,Men,number,2015-2016,10766,A-7.1
+Matriculants,Men,percent,2006-2007,51.4,A-7.1
+Matriculants,Men,percent,2007-2008,51.7,A-7.1
+Matriculants,Men,percent,2008-2009,52.2,A-7.1
+Matriculants,Men,percent,2009-2010,52.1,A-7.1
+Matriculants,Men,percent,2010-2011,53.1,A-7.1
+Matriculants,Men,percent,2011-2012,53,A-7.1
+Matriculants,Men,percent,2012-2013,53.6,A-7.1
+Matriculants,Men,percent,2013-2014,52.8,A-7.1
+Matriculants,Men,percent,2014-2015,52.2,A-7.1
+Matriculants,Men,percent,2015-2016,52.2,A-7.1
+Matriculants,Women,number,2006-2007,8438,A-7.1
+Matriculants,Women,number,2007-2008,8582,A-7.1
+Matriculants,Women,number,2008-2009,8614,A-7.1
+Matriculants,Women,number,2009-2010,8817,A-7.1
+Matriculants,Women,number,2010-2011,8756,A-7.1
+Matriculants,Women,number,2011-2012,9037,A-7.1
+Matriculants,Women,number,2012-2013,9064,A-7.1
+Matriculants,Women,number,2013-2014,9467,A-7.1
+Matriculants,Women,number,2014-2015,9718,A-7.1
+Matriculants,Women,number,2015-2016,9861,A-7.1
+Matriculants,Women,percent,2006-2007,48.6,A-7.1
+Matriculants,Women,percent,2007-2008,48.3,A-7.1
+Matriculants,Women,percent,2008-2009,47.8,A-7.1
+Matriculants,Women,percent,2009-2010,47.9,A-7.1
+Matriculants,Women,percent,2010-2011,46.9,A-7.1
+Matriculants,Women,percent,2011-2012,47,A-7.1
+Matriculants,Women,percent,2012-2013,46.4,A-7.1
+Matriculants,Women,percent,2013-2014,47.2,A-7.1
+Matriculants,Women,percent,2014-2015,47.8,A-7.1
+Matriculants,Women,percent,2015-2016,47.8,A-7.1
+Matriculants,Total,number,2006-2007,17361,A-7.1
+Matriculants,Total,number,2007-2008,17759,A-7.1
+Matriculants,Total,number,2008-2009,18036,A-7.1
+Matriculants,Total,number,2009-2010,18390,A-7.1
+Matriculants,Total,number,2010-2011,18665,A-7.1
+Matriculants,Total,number,2011-2012,19230,A-7.1
+Matriculants,Total,number,2012-2013,19517,A-7.1
+Matriculants,Total,number,2013-2014,20055,A-7.1
+Matriculants,Total,number,2014-2015,20343,A-7.1
+Matriculants,Total,number,2015-2016,20631,A-7.1
+Applicants,Men,number,2016-2017,27250,A-7.2
+Applicants,Men,number,2017-2018,26058,A-7.2
+Applicants,Men,number,2018-2019,25875,A-7.2
+Applicants,Men,number,2019-2020,25492,A-7.2
+Applicants,Men,number,2020-2021,24620,A-7.2
+Applicants,Men,number,2021-2022,26948,A-7.2
+Applicants,Men,number,2022-2023,23924,A-7.2
+Applicants,Men,number,2023-2024,22574,A-7.2
+Applicants,Men,number,2024-2025,22088,A-7.2
+Applicants,Men,number,2025-2026,23072,A-7.2
+Applicants,Men,percent,2016-2017,51.4,A-7.2
+Applicants,Men,percent,2017-2018,50.4,A-7.2
+Applicants,Men,percent,2018-2019,49,A-7.2
+Applicants,Men,percent,2019-2020,47.8,A-7.2
+Applicants,Men,percent,2020-2021,46.4,A-7.2
+Applicants,Men,percent,2021-2022,43.2,A-7.2
+Applicants,Men,percent,2022-2023,43.3,A-7.2
+Applicants,Men,percent,2023-2024,42.9,A-7.2
+Applicants,Men,percent,2024-2025,42.5,A-7.2
+Applicants,Men,percent,2025-2026,42.2,A-7.2
+Applicants,Women,number,2016-2017,25779,A-7.2
+Applicants,Women,number,2017-2018,25600,A-7.2
+Applicants,Women,number,2018-2019,26882,A-7.2
+Applicants,Women,number,2019-2020,27847,A-7.2
+Applicants,Women,number,2020-2021,28343,A-7.2
+Applicants,Women,number,2021-2022,35438,A-7.2
+Applicants,Women,number,2022-2023,31191,A-7.2
+Applicants,Women,number,2023-2024,29763,A-7.2
+Applicants,Women,number,2024-2025,29528,A-7.2
+Applicants,Women,number,2025-2026,31292,A-7.2
+Applicants,Women,percent,2016-2017,48.6,A-7.2
+Applicants,Women,percent,2017-2018,49.5,A-7.2
+Applicants,Women,percent,2018-2019,50.9,A-7.2
+Applicants,Women,percent,2019-2020,52.2,A-7.2
+Applicants,Women,percent,2020-2021,53.4,A-7.2
+Applicants,Women,percent,2021-2022,56.8,A-7.2
+Applicants,Women,percent,2022-2023,56.5,A-7.2
+Applicants,Women,percent,2023-2024,56.6,A-7.2
+Applicants,Women,percent,2024-2025,56.8,A-7.2
+Applicants,Women,percent,2025-2026,57.2,A-7.2
+Applicants,Another Gender Identity,number,2016-2017,,A-7.2
+Applicants,Another Gender Identity,number,2017-2018,,A-7.2
+Applicants,Another Gender Identity,number,2018-2019,,A-7.2
+Applicants,Another Gender Identity,number,2019-2020,,A-7.2
+Applicants,Another Gender Identity,number,2020-2021,,A-7.2
+Applicants,Another Gender Identity,number,2021-2022,,A-7.2
+Applicants,Another Gender Identity,number,2022-2023,,A-7.2
+Applicants,Another Gender Identity,number,2023-2024,193,A-7.2
+Applicants,Another Gender Identity,number,2024-2025,266,A-7.2
+Applicants,Another Gender Identity,number,2025-2026,265,A-7.2
+Applicants,Another Gender Identity,percent,2016-2017,,A-7.2
+Applicants,Another Gender Identity,percent,2017-2018,,A-7.2
+Applicants,Another Gender Identity,percent,2018-2019,,A-7.2
+Applicants,Another Gender Identity,percent,2019-2020,,A-7.2
+Applicants,Another Gender Identity,percent,2020-2021,,A-7.2
+Applicants,Another Gender Identity,percent,2021-2022,,A-7.2
+Applicants,Another Gender Identity,percent,2022-2023,,A-7.2
+Applicants,Another Gender Identity,percent,2023-2024,0.4,A-7.2
+Applicants,Another Gender Identity,percent,2024-2025,0.5,A-7.2
+Applicants,Another Gender Identity,percent,2025-2026,0.5,A-7.2
+Applicants,Total,number,2016-2017,53042,A-7.2
+Applicants,Total,number,2017-2018,51680,A-7.2
+Applicants,Total,number,2018-2019,52777,A-7.2
+Applicants,Total,number,2019-2020,53368,A-7.2
+Applicants,Total,number,2020-2021,53030,A-7.2
+Applicants,Total,number,2021-2022,62443,A-7.2
+Applicants,Total,number,2022-2023,55189,A-7.2
+Applicants,Total,number,2023-2024,52577,A-7.2
+Applicants,Total,number,2024-2025,51946,A-7.2
+Applicants,Total,number,2025-2026,54699,A-7.2
+First-Time Applicants,Men,number,2016-2017,19090,A-7.2
+First-Time Applicants,Men,number,2017-2018,18072,A-7.2
+First-Time Applicants,Men,number,2018-2019,18220,A-7.2
+First-Time Applicants,Men,number,2019-2020,17962,A-7.2
+First-Time Applicants,Men,number,2020-2021,17101,A-7.2
+First-Time Applicants,Men,number,2021-2022,19421,A-7.2
+First-Time Applicants,Men,number,2022-2023,16210,A-7.2
+First-Time Applicants,Men,number,2023-2024,15907,A-7.2
+First-Time Applicants,Men,number,2024-2025,16107,A-7.2
+First-Time Applicants,Men,number,2025-2026,17362,A-7.2
+First-Time Applicants,Men,percent,2016-2017,49.2,A-7.2
+First-Time Applicants,Men,percent,2017-2018,48.4,A-7.2
+First-Time Applicants,Men,percent,2018-2019,47.3,A-7.2
+First-Time Applicants,Men,percent,2019-2020,45.8,A-7.2
+First-Time Applicants,Men,percent,2020-2021,44.3,A-7.2
+First-Time Applicants,Men,percent,2021-2022,41.5,A-7.2
+First-Time Applicants,Men,percent,2022-2023,41.9,A-7.2
+First-Time Applicants,Men,percent,2023-2024,42.2,A-7.2
+First-Time Applicants,Men,percent,2024-2025,41.7,A-7.2
+First-Time Applicants,Men,percent,2025-2026,41.5,A-7.2
+First-Time Applicants,Women,number,2016-2017,19682,A-7.2
+First-Time Applicants,Women,number,2017-2018,19272,A-7.2
+First-Time Applicants,Women,number,2018-2019,20247,A-7.2
+First-Time Applicants,Women,number,2019-2020,21248,A-7.2
+First-Time Applicants,Women,number,2020-2021,21420,A-7.2
+First-Time Applicants,Women,number,2021-2022,27288,A-7.2
+First-Time Applicants,Women,number,2022-2023,22449,A-7.2
+First-Time Applicants,Women,number,2023-2024,21651,A-7.2
+First-Time Applicants,Women,number,2024-2025,22252,A-7.2
+First-Time Applicants,Women,number,2025-2026,24214,A-7.2
+First-Time Applicants,Women,percent,2016-2017,50.8,A-7.2
+First-Time Applicants,Women,percent,2017-2018,51.6,A-7.2
+First-Time Applicants,Women,percent,2018-2019,52.6,A-7.2
+First-Time Applicants,Women,percent,2019-2020,54.2,A-7.2
+First-Time Applicants,Women,percent,2020-2021,55.5,A-7.2
+First-Time Applicants,Women,percent,2021-2022,58.4,A-7.2
+First-Time Applicants,Women,percent,2022-2023,58,A-7.2
+First-Time Applicants,Women,percent,2023-2024,57.4,A-7.2
+First-Time Applicants,Women,percent,2024-2025,57.6,A-7.2
+First-Time Applicants,Women,percent,2025-2026,57.9,A-7.2
+First-Time Applicants,Another Gender Identity,number,2016-2017,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2017-2018,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2018-2019,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2019-2020,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2020-2021,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2021-2022,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2022-2023,,A-7.2
+First-Time Applicants,Another Gender Identity,number,2023-2024,130,A-7.2
+First-Time Applicants,Another Gender Identity,number,2024-2025,184,A-7.2
+First-Time Applicants,Another Gender Identity,number,2025-2026,196,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2016-2017,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2017-2018,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2018-2019,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2019-2020,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2020-2021,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2021-2022,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2022-2023,,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2023-2024,0.3,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2024-2025,0.5,A-7.2
+First-Time Applicants,Another Gender Identity,percent,2025-2026,0.5,A-7.2
+First-Time Applicants,Total,number,2016-2017,38781,A-7.2
+First-Time Applicants,Total,number,2017-2018,37364,A-7.2
+First-Time Applicants,Total,number,2018-2019,38483,A-7.2
+First-Time Applicants,Total,number,2019-2020,39234,A-7.2
+First-Time Applicants,Total,number,2020-2021,38579,A-7.2
+First-Time Applicants,Total,number,2021-2022,46756,A-7.2
+First-Time Applicants,Total,number,2022-2023,38721,A-7.2
+First-Time Applicants,Total,number,2023-2024,37725,A-7.2
+First-Time Applicants,Total,number,2024-2025,38599,A-7.2
+First-Time Applicants,Total,number,2025-2026,41830,A-7.2
+Acceptees,Men,number,2016-2017,11091,A-7.2
+Acceptees,Men,number,2017-2018,10966,A-7.2
+Acceptees,Men,number,2018-2019,10864,A-7.2
+Acceptees,Men,number,2019-2020,10787,A-7.2
+Acceptees,Men,number,2020-2021,10644,A-7.2
+Acceptees,Men,number,2021-2022,10537,A-7.2
+Acceptees,Men,number,2022-2023,10520,A-7.2
+Acceptees,Men,number,2023-2024,10609,A-7.2
+Acceptees,Men,number,2024-2025,10667,A-7.2
+Acceptees,Men,number,2025-2026,10798,A-7.2
+Acceptees,Men,percent,2016-2017,50.3,A-7.2
+Acceptees,Men,percent,2017-2018,49.2,A-7.2
+Acceptees,Men,percent,2018-2019,48.3,A-7.2
+Acceptees,Men,percent,2019-2020,47.5,A-7.2
+Acceptees,Men,percent,2020-2021,46.1,A-7.2
+Acceptees,Men,percent,2021-2022,44.4,A-7.2
+Acceptees,Men,percent,2022-2023,44.2,A-7.2
+Acceptees,Men,percent,2023-2024,44.2,A-7.2
+Acceptees,Men,percent,2024-2025,44.1,A-7.2
+Acceptees,Men,percent,2025-2026,44.4,A-7.2
+Acceptees,Women,number,2016-2017,10940,A-7.2
+Acceptees,Women,number,2017-2018,11287,A-7.2
+Acceptees,Women,number,2018-2019,11611,A-7.2
+Acceptees,Women,number,2019-2020,11893,A-7.2
+Acceptees,Women,number,2020-2021,12417,A-7.2
+Acceptees,Women,number,2021-2022,13152,A-7.2
+Acceptees,Women,number,2022-2023,13268,A-7.2
+Acceptees,Women,number,2023-2024,13298,A-7.2
+Acceptees,Women,number,2024-2025,13341,A-7.2
+Acceptees,Women,number,2025-2026,13364,A-7.2
+Acceptees,Women,percent,2016-2017,49.6,A-7.2
+Acceptees,Women,percent,2017-2018,50.7,A-7.2
+Acceptees,Women,percent,2018-2019,51.6,A-7.2
+Acceptees,Women,percent,2019-2020,52.4,A-7.2
+Acceptees,Women,percent,2020-2021,53.7,A-7.2
+Acceptees,Women,percent,2021-2022,55.5,A-7.2
+Acceptees,Women,percent,2022-2023,55.7,A-7.2
+Acceptees,Women,percent,2023-2024,55.4,A-7.2
+Acceptees,Women,percent,2024-2025,55.2,A-7.2
+Acceptees,Women,percent,2025-2026,55,A-7.2
+Acceptees,Another Gender Identity,number,2016-2017,,A-7.2
+Acceptees,Another Gender Identity,number,2017-2018,,A-7.2
+Acceptees,Another Gender Identity,number,2018-2019,,A-7.2
+Acceptees,Another Gender Identity,number,2019-2020,,A-7.2
+Acceptees,Another Gender Identity,number,2020-2021,,A-7.2
+Acceptees,Another Gender Identity,number,2021-2022,,A-7.2
+Acceptees,Another Gender Identity,number,2022-2023,,A-7.2
+Acceptees,Another Gender Identity,number,2023-2024,90,A-7.2
+Acceptees,Another Gender Identity,number,2024-2025,137,A-7.2
+Acceptees,Another Gender Identity,number,2025-2026,112,A-7.2
+Acceptees,Another Gender Identity,percent,2016-2017,,A-7.2
+Acceptees,Another Gender Identity,percent,2017-2018,,A-7.2
+Acceptees,Another Gender Identity,percent,2018-2019,,A-7.2
+Acceptees,Another Gender Identity,percent,2019-2020,,A-7.2
+Acceptees,Another Gender Identity,percent,2020-2021,,A-7.2
+Acceptees,Another Gender Identity,percent,2021-2022,,A-7.2
+Acceptees,Another Gender Identity,percent,2022-2023,,A-7.2
+Acceptees,Another Gender Identity,percent,2023-2024,0.4,A-7.2
+Acceptees,Another Gender Identity,percent,2024-2025,0.6,A-7.2
+Acceptees,Another Gender Identity,percent,2025-2026,0.5,A-7.2
+Acceptees,Total,number,2016-2017,22036,A-7.2
+Acceptees,Total,number,2017-2018,22266,A-7.2
+Acceptees,Total,number,2018-2019,22483,A-7.2
+Acceptees,Total,number,2019-2020,22687,A-7.2
+Acceptees,Total,number,2020-2021,23105,A-7.2
+Acceptees,Total,number,2021-2022,23711,A-7.2
+Acceptees,Total,number,2022-2023,23810,A-7.2
+Acceptees,Total,number,2023-2024,24014,A-7.2
+Acceptees,Total,number,2024-2025,24172,A-7.2
+Acceptees,Total,number,2025-2026,24300,A-7.2
+Matriculants,Men,number,2016-2017,10551,A-7.2
+Matriculants,Men,number,2017-2018,10516,A-7.2
+Matriculants,Men,number,2018-2019,10454,A-7.2
+Matriculants,Men,number,2019-2020,10402,A-7.2
+Matriculants,Men,number,2020-2021,10271,A-7.2
+Matriculants,Men,number,2021-2022,10057,A-7.2
+Matriculants,Men,number,2022-2023,10060,A-7.2
+Matriculants,Men,number,2023-2024,10160,A-7.2
+Matriculants,Men,number,2024-2025,10261,A-7.2
+Matriculants,Men,number,2025-2026,10409,A-7.2
+Matriculants,Men,percent,2016-2017,50.2,A-7.2
+Matriculants,Men,percent,2017-2018,49.3,A-7.2
+Matriculants,Men,percent,2018-2019,48.3,A-7.2
+Matriculants,Men,percent,2019-2020,47.6,A-7.2
+Matriculants,Men,percent,2020-2021,46.2,A-7.2
+Matriculants,Men,percent,2021-2022,44.4,A-7.2
+Matriculants,Men,percent,2022-2023,44.3,A-7.2
+Matriculants,Men,percent,2023-2024,44.2,A-7.2
+Matriculants,Men,percent,2024-2025,44.3,A-7.2
+Matriculants,Men,percent,2025-2026,44.4,A-7.2
+Matriculants,Women,number,2016-2017,10474,A-7.2
+Matriculants,Women,number,2017-2018,10810,A-7.2
+Matriculants,Women,number,2018-2019,11160,A-7.2
+Matriculants,Women,number,2019-2020,11461,A-7.2
+Matriculants,Women,number,2020-2021,11926,A-7.2
+Matriculants,Women,number,2021-2022,12590,A-7.2
+Matriculants,Women,number,2022-2023,12630,A-7.2
+Matriculants,Women,number,2023-2024,12723,A-7.2
+Matriculants,Women,number,2024-2025,12749,A-7.2
+Matriculants,Women,number,2025-2026,12900,A-7.2
+Matriculants,Women,percent,2016-2017,49.8,A-7.2
+Matriculants,Women,percent,2017-2018,50.7,A-7.2
+Matriculants,Women,percent,2018-2019,51.6,A-7.2
+Matriculants,Women,percent,2019-2020,52.4,A-7.2
+Matriculants,Women,percent,2020-2021,53.6,A-7.2
+Matriculants,Women,percent,2021-2022,55.5,A-7.2
+Matriculants,Women,percent,2022-2023,55.6,A-7.2
+Matriculants,Women,percent,2023-2024,55.4,A-7.2
+Matriculants,Women,percent,2024-2025,55.1,A-7.2
+Matriculants,Women,percent,2025-2026,55,A-7.2
+Matriculants,Another Gender Identity,number,2016-2017,,A-7.2
+Matriculants,Another Gender Identity,number,2017-2018,,A-7.2
+Matriculants,Another Gender Identity,number,2018-2019,,A-7.2
+Matriculants,Another Gender Identity,number,2019-2020,,A-7.2
+Matriculants,Another Gender Identity,number,2020-2021,,A-7.2
+Matriculants,Another Gender Identity,number,2021-2022,,A-7.2
+Matriculants,Another Gender Identity,number,2022-2023,,A-7.2
+Matriculants,Another Gender Identity,number,2023-2024,82,A-7.2
+Matriculants,Another Gender Identity,number,2024-2025,123,A-7.2
+Matriculants,Another Gender Identity,number,2025-2026,106,A-7.2
+Matriculants,Another Gender Identity,percent,2016-2017,,A-7.2
+Matriculants,Another Gender Identity,percent,2017-2018,,A-7.2
+Matriculants,Another Gender Identity,percent,2018-2019,,A-7.2
+Matriculants,Another Gender Identity,percent,2019-2020,,A-7.2
+Matriculants,Another Gender Identity,percent,2020-2021,,A-7.2
+Matriculants,Another Gender Identity,percent,2021-2022,,A-7.2
+Matriculants,Another Gender Identity,percent,2022-2023,,A-7.2
+Matriculants,Another Gender Identity,percent,2023-2024,0.4,A-7.2
+Matriculants,Another Gender Identity,percent,2024-2025,0.5,A-7.2
+Matriculants,Another Gender Identity,percent,2025-2026,0.5,A-7.2
+Matriculants,Total,number,2016-2017,21030,A-7.2
+Matriculants,Total,number,2017-2018,21338,A-7.2
+Matriculants,Total,number,2018-2019,21622,A-7.2
+Matriculants,Total,number,2019-2020,21869,A-7.2
+Matriculants,Total,number,2020-2021,22239,A-7.2
+Matriculants,Total,number,2021-2022,22666,A-7.2
+Matriculants,Total,number,2022-2023,22710,A-7.2
+Matriculants,Total,number,2023-2024,22980,A-7.2
+Matriculants,Total,number,2024-2025,23156,A-7.2
+Matriculants,Total,number,2025-2026,23440,A-7.2

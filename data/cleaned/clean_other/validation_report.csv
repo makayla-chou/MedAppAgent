@@ -1,0 +1,205 @@
+﻿check_group,check_name,expected,actual,tolerance,passed
+A-24 percent distribution,Applicants 2018-2019: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Applicants 2018-2019: EO1/2,24.3,24.3,0.01,True
+A-24 published percentage,Applicants 2018-2019: EO3/4/5,59.9,59.9,0.01,True
+A-24 published percentage,Applicants 2018-2019: Not Applicable/Unknown,15.8,15.8,0.01,True
+A-24 percent distribution,Applicants 2019-2020: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Applicants 2019-2020: EO1/2,23.5,23.5,0.01,True
+A-24 published percentage,Applicants 2019-2020: EO3/4/5,60.8,60.8,0.01,True
+A-24 published percentage,Applicants 2019-2020: Not Applicable/Unknown,15.7,15.7,0.01,True
+A-24 percent distribution,Applicants 2020-2021: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Applicants 2020-2021: EO1/2,23.5,23.5,0.01,True
+A-24 published percentage,Applicants 2020-2021: EO3/4/5,60.8,60.8,0.01,True
+A-24 published percentage,Applicants 2020-2021: Not Applicable/Unknown,15.7,15.7,0.01,True
+A-24 percent distribution,Applicants 2021-2022: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Applicants 2021-2022: EO1/2,24.5,24.5,0.01,True
+A-24 published percentage,Applicants 2021-2022: EO3/4/5,59.1,59.1,0.01,True
+A-24 published percentage,Applicants 2021-2022: Not Applicable/Unknown,16.4,16.4,0.01,True
+A-24 percent distribution,Applicants 2022-2023: percentages sum to 100,100.0,99.9,0.11,True
+A-24 published percentage,Applicants 2022-2023: EO1/2,24.2,24.2,0.01,True
+A-24 published percentage,Applicants 2022-2023: EO3/4/5,60.2,60.2,0.01,True
+A-24 published percentage,Applicants 2022-2023: Not Applicable/Unknown,15.5,15.5,0.01,True
+A-24 percent distribution,Applicants 2023-2024: percentages sum to 100,100.0,100.1,0.11,True
+A-24 published percentage,Applicants 2023-2024: EO1/2,23.9,23.9,0.01,True
+A-24 published percentage,Applicants 2023-2024: EO3/4/5,60.9,60.9,0.01,True
+A-24 published percentage,Applicants 2023-2024: Not Applicable/Unknown,15.3,15.3,0.01,True
+A-24 percent distribution,Applicants 2024-2025: percentages sum to 100,100.0,100.00000000000001,0.11,True
+A-24 published percentage,Applicants 2024-2025: EO1/2,23.6,23.6,0.01,True
+A-24 published percentage,Applicants 2024-2025: EO3/4/5,61.2,61.2,0.01,True
+A-24 published percentage,Applicants 2024-2025: Not Applicable/Unknown,15.2,15.2,0.01,True
+A-24 percent distribution,Applicants 2025-2026: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Applicants 2025-2026: EO1/2,22.6,22.6,0.01,True
+A-24 published percentage,Applicants 2025-2026: EO3/4/5,60.8,60.8,0.01,True
+A-24 published percentage,Applicants 2025-2026: Not Applicable/Unknown,16.6,16.6,0.01,True
+A-24 percent distribution,Acceptees 2018-2019: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Acceptees 2018-2019: EO1/2,20.8,20.8,0.01,True
+A-24 published percentage,Acceptees 2018-2019: EO3/4/5,68.4,68.4,0.01,True
+A-24 published percentage,Acceptees 2018-2019: Not Applicable/Unknown,10.8,10.8,0.01,True
+A-24 percent distribution,Acceptees 2019-2020: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Acceptees 2019-2020: EO1/2,20.2,20.2,0.01,True
+A-24 published percentage,Acceptees 2019-2020: EO3/4/5,68.7,68.7,0.01,True
+A-24 published percentage,Acceptees 2019-2020: Not Applicable/Unknown,11.1,11.1,0.01,True
+A-24 percent distribution,Acceptees 2020-2021: percentages sum to 100,100.0,99.99999999999999,0.11,True
+A-24 published percentage,Acceptees 2020-2021: EO1/2,20.9,20.9,0.01,True
+A-24 published percentage,Acceptees 2020-2021: EO3/4/5,67.8,67.8,0.01,True
+A-24 published percentage,Acceptees 2020-2021: Not Applicable/Unknown,11.3,11.3,0.01,True
+A-24 percent distribution,Acceptees 2021-2022: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Acceptees 2021-2022: EO1/2,21.6,21.6,0.01,True
+A-24 published percentage,Acceptees 2021-2022: EO3/4/5,66.8,66.8,0.01,True
+A-24 published percentage,Acceptees 2021-2022: Not Applicable/Unknown,11.6,11.6,0.01,True
+A-24 percent distribution,Acceptees 2022-2023: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Acceptees 2022-2023: EO1/2,21.5,21.5,0.01,True
+A-24 published percentage,Acceptees 2022-2023: EO3/4/5,67.2,67.2,0.01,True
+A-24 published percentage,Acceptees 2022-2023: Not Applicable/Unknown,11.3,11.3,0.01,True
+A-24 percent distribution,Acceptees 2023-2024: percentages sum to 100,100.0,99.9,0.11,True
+A-24 published percentage,Acceptees 2023-2024: EO1/2,21.2,21.2,0.01,True
+A-24 published percentage,Acceptees 2023-2024: EO3/4/5,68,68.0,0.01,True
+A-24 published percentage,Acceptees 2023-2024: Not Applicable/Unknown,10.7,10.7,0.01,True
+A-24 percent distribution,Acceptees 2024-2025: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Acceptees 2024-2025: EO1/2,20.7,20.7,0.01,True
+A-24 published percentage,Acceptees 2024-2025: EO3/4/5,68.8,68.8,0.01,True
+A-24 published percentage,Acceptees 2024-2025: Not Applicable/Unknown,10.5,10.5,0.01,True
+A-24 percent distribution,Acceptees 2025-2026: percentages sum to 100,100.0,100.00000000000001,0.11,True
+A-24 published percentage,Acceptees 2025-2026: EO1/2,19.7,19.7,0.01,True
+A-24 published percentage,Acceptees 2025-2026: EO3/4/5,68.9,68.9,0.01,True
+A-24 published percentage,Acceptees 2025-2026: Not Applicable/Unknown,11.4,11.4,0.01,True
+A-24 percent distribution,Matriculants 2018-2019: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Matriculants 2018-2019: EO1/2,20.9,20.9,0.01,True
+A-24 published percentage,Matriculants 2018-2019: EO3/4/5,68.6,68.6,0.01,True
+A-24 published percentage,Matriculants 2018-2019: Not Applicable/Unknown,10.5,10.5,0.01,True
+A-24 percent distribution,Matriculants 2019-2020: percentages sum to 100,100.0,99.9,0.11,True
+A-24 published percentage,Matriculants 2019-2020: EO1/2,20.2,20.2,0.01,True
+A-24 published percentage,Matriculants 2019-2020: EO3/4/5,68.8,68.8,0.01,True
+A-24 published percentage,Matriculants 2019-2020: Not Applicable/Unknown,10.9,10.9,0.01,True
+A-24 percent distribution,Matriculants 2020-2021: percentages sum to 100,100.0,99.9,0.11,True
+A-24 published percentage,Matriculants 2020-2021: EO1/2,20.9,20.9,0.01,True
+A-24 published percentage,Matriculants 2020-2021: EO3/4/5,68,68.0,0.01,True
+A-24 published percentage,Matriculants 2020-2021: Not Applicable/Unknown,11,11.0,0.01,True
+A-24 percent distribution,Matriculants 2021-2022: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Matriculants 2021-2022: EO1/2,21.6,21.6,0.01,True
+A-24 published percentage,Matriculants 2021-2022: EO3/4/5,67,67.0,0.01,True
+A-24 published percentage,Matriculants 2021-2022: Not Applicable/Unknown,11.4,11.4,0.01,True
+A-24 percent distribution,Matriculants 2022-2023: percentages sum to 100,100.0,99.89999999999999,0.11,True
+A-24 published percentage,Matriculants 2022-2023: EO1/2,21.5,21.5,0.01,True
+A-24 published percentage,Matriculants 2022-2023: EO3/4/5,67.3,67.3,0.01,True
+A-24 published percentage,Matriculants 2022-2023: Not Applicable/Unknown,11.1,11.1,0.01,True
+A-24 percent distribution,Matriculants 2023-2024: percentages sum to 100,100.0,99.99999999999999,0.11,True
+A-24 published percentage,Matriculants 2023-2024: EO1/2,21.3,21.3,0.01,True
+A-24 published percentage,Matriculants 2023-2024: EO3/4/5,68.1,68.1,0.01,True
+A-24 published percentage,Matriculants 2023-2024: Not Applicable/Unknown,10.6,10.6,0.01,True
+A-24 percent distribution,Matriculants 2024-2025: percentages sum to 100,100.0,100.0,0.11,True
+A-24 published percentage,Matriculants 2024-2025: EO1/2,20.7,20.7,0.01,True
+A-24 published percentage,Matriculants 2024-2025: EO3/4/5,69,69.0,0.01,True
+A-24 published percentage,Matriculants 2024-2025: Not Applicable/Unknown,10.3,10.3,0.01,True
+A-24 percent distribution,Matriculants 2025-2026: percentages sum to 100,100.0,100.10000000000001,0.11,True
+A-24 published percentage,Matriculants 2025-2026: EO1/2,19.7,19.7,0.01,True
+A-24 published percentage,Matriculants 2025-2026: EO3/4/5,69.2,69.2,0.01,True
+A-24 published percentage,Matriculants 2025-2026: Not Applicable/Unknown,11.2,11.2,0.01,True
+A-25 published percentage,Applicants 2018-2019,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2019-2020,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2020-2021,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2021-2022,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2022-2023,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2023-2024,0.3,0.3,0.01,True
+A-25 published percentage,Applicants 2024-2025,0.2,0.2,0.01,True
+A-25 published percentage,Applicants 2025-2026,0.1,0.1,0.01,True
+A-25 published percentage,Acceptees 2018-2019,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2019-2020,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2020-2021,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2021-2022,0.3,0.3,0.01,True
+A-25 published percentage,Acceptees 2022-2023,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2023-2024,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2024-2025,0.2,0.2,0.01,True
+A-25 published percentage,Acceptees 2025-2026,0.1,0.1,0.01,True
+A-25 published percentage,Matriculants 2018-2019,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2019-2020,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2020-2021,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2021-2022,0.3,0.3,0.01,True
+A-25 published percentage,Matriculants 2022-2023,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2023-2024,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2024-2025,0.2,0.2,0.01,True
+A-25 published percentage,Matriculants 2025-2026,0.1,0.1,0.01,True
+A-26 published percentage,Applicants 2020-2021,14,14.0,0.01,True
+A-26 published percentage,Applicants 2021-2022,15.4,15.4,0.01,True
+A-26 published percentage,Applicants 2022-2023,14,14.0,0.01,True
+A-26 published percentage,Applicants 2023-2024,13.8,13.8,0.01,True
+A-26 published percentage,Applicants 2024-2025,13.8,13.8,0.01,True
+A-26 published percentage,Applicants 2025-2026,13.8,13.8,0.01,True
+A-26 published percentage,Acceptees 2020-2021,11.5,11.5,0.01,True
+A-26 published percentage,Acceptees 2021-2022,12.3,12.3,0.01,True
+A-26 published percentage,Acceptees 2022-2023,11.2,11.2,0.01,True
+A-26 published percentage,Acceptees 2023-2024,11.3,11.3,0.01,True
+A-26 published percentage,Acceptees 2024-2025,11,11.0,0.01,True
+A-26 published percentage,Acceptees 2025-2026,10.8,10.8,0.01,True
+A-26 published percentage,Matriculants 2020-2021,11.4,11.4,0.01,True
+A-26 published percentage,Matriculants 2021-2022,12.4,12.4,0.01,True
+A-26 published percentage,Matriculants 2022-2023,11.2,11.2,0.01,True
+A-26 published percentage,Matriculants 2023-2024,11.3,11.3,0.01,True
+A-26 published percentage,Matriculants 2024-2025,11,11.0,0.01,True
+A-26 published percentage,Matriculants 2025-2026,10.7,10.7,0.01,True
+A-27 published percentage,Applicants 2022-2023,12.6,12.6,0.01,True
+A-27 published percentage,Applicants 2023-2024,13.6,13.6,0.01,True
+A-27 published percentage,Applicants 2024-2025,14.4,14.4,0.01,True
+A-27 published percentage,Applicants 2025-2026,15.1,15.1,0.01,True
+A-27 published percentage,Acceptees 2022-2023,11.6,11.6,0.01,True
+A-27 published percentage,Acceptees 2023-2024,12.5,12.5,0.01,True
+A-27 published percentage,Acceptees 2024-2025,12.5,12.5,0.01,True
+A-27 published percentage,Acceptees 2025-2026,13,13.0,0.01,True
+A-27 published percentage,Matriculants 2022-2023,11.6,11.6,0.01,True
+A-27 published percentage,Matriculants 2023-2024,12.6,12.6,0.01,True
+A-27 published percentage,Matriculants 2024-2025,12.5,12.5,0.01,True
+A-27 published percentage,Matriculants 2025-2026,12.9,12.9,0.01,True
+Cross-table total population,Applicants 2018-2019: A-24 vs A-25,52777,52777,0,True
+Cross-table total population,Applicants 2019-2020: A-24 vs A-25,53368,53368,0,True
+Cross-table total population,Applicants 2020-2021: A-24 vs A-25,53030,53030,0,True
+Cross-table total population,Applicants 2020-2021: A-24 vs A-26,53030,53030,0,True
+Cross-table total population,Applicants 2021-2022: A-24 vs A-25,62443,62443,0,True
+Cross-table total population,Applicants 2021-2022: A-24 vs A-26,62443,62443,0,True
+Cross-table total population,Applicants 2022-2023: A-24 vs A-25,55189,55189,0,True
+Cross-table total population,Applicants 2022-2023: A-24 vs A-26,55189,55189,0,True
+Cross-table total population,Applicants 2022-2023: A-24 vs A-27,55189,55189,0,True
+Cross-table total population,Applicants 2023-2024: A-24 vs A-25,52577,52577,0,True
+Cross-table total population,Applicants 2023-2024: A-24 vs A-26,52577,52577,0,True
+Cross-table total population,Applicants 2023-2024: A-24 vs A-27,52577,52577,0,True
+Cross-table total population,Applicants 2024-2025: A-24 vs A-25,51946,51946,0,True
+Cross-table total population,Applicants 2024-2025: A-24 vs A-26,51946,51946,0,True
+Cross-table total population,Applicants 2024-2025: A-24 vs A-27,51946,51946,0,True
+Cross-table total population,Applicants 2025-2026: A-24 vs A-25,54699,54699,0,True
+Cross-table total population,Applicants 2025-2026: A-24 vs A-26,54699,54699,0,True
+Cross-table total population,Applicants 2025-2026: A-24 vs A-27,54699,54699,0,True
+Cross-table total population,Acceptees 2018-2019: A-24 vs A-25,22483,22483,0,True
+Cross-table total population,Acceptees 2019-2020: A-24 vs A-25,22687,22687,0,True
+Cross-table total population,Acceptees 2020-2021: A-24 vs A-25,23105,23105,0,True
+Cross-table total population,Acceptees 2020-2021: A-24 vs A-26,23105,23105,0,True
+Cross-table total population,Acceptees 2021-2022: A-24 vs A-25,23711,23711,0,True
+Cross-table total population,Acceptees 2021-2022: A-24 vs A-26,23711,23711,0,True
+Cross-table total population,Acceptees 2022-2023: A-24 vs A-25,23810,23810,0,True
+Cross-table total population,Acceptees 2022-2023: A-24 vs A-26,23810,23810,0,True
+Cross-table total population,Acceptees 2022-2023: A-24 vs A-27,23810,23810,0,True
+Cross-table total population,Acceptees 2023-2024: A-24 vs A-25,24014,24014,0,True
+Cross-table total population,Acceptees 2023-2024: A-24 vs A-26,24014,24014,0,True
+Cross-table total population,Acceptees 2023-2024: A-24 vs A-27,24014,24014,0,True
+Cross-table total population,Acceptees 2024-2025: A-24 vs A-25,24172,24172,0,True
+Cross-table total population,Acceptees 2024-2025: A-24 vs A-26,24172,24172,0,True
+Cross-table total population,Acceptees 2024-2025: A-24 vs A-27,24172,24172,0,True
+Cross-table total population,Acceptees 2025-2026: A-24 vs A-25,24300,24300,0,True
+Cross-table total population,Acceptees 2025-2026: A-24 vs A-26,24300,24300,0,True
+Cross-table total population,Acceptees 2025-2026: A-24 vs A-27,24300,24300,0,True
+Cross-table total population,Matriculants 2018-2019: A-24 vs A-25,21622,21622,0,True
+Cross-table total population,Matriculants 2019-2020: A-24 vs A-25,21869,21869,0,True
+Cross-table total population,Matriculants 2020-2021: A-24 vs A-25,22239,22239,0,True
+Cross-table total population,Matriculants 2020-2021: A-24 vs A-26,22239,22239,0,True
+Cross-table total population,Matriculants 2021-2022: A-24 vs A-25,22666,22666,0,True
+Cross-table total population,Matriculants 2021-2022: A-24 vs A-26,22666,22666,0,True
+Cross-table total population,Matriculants 2022-2023: A-24 vs A-25,22710,22710,0,True
+Cross-table total population,Matriculants 2022-2023: A-24 vs A-26,22710,22710,0,True
+Cross-table total population,Matriculants 2022-2023: A-24 vs A-27,22710,22710,0,True
+Cross-table total population,Matriculants 2023-2024: A-24 vs A-25,22980,22980,0,True
+Cross-table total population,Matriculants 2023-2024: A-24 vs A-26,22980,22980,0,True
+Cross-table total population,Matriculants 2023-2024: A-24 vs A-27,22980,22980,0,True
+Cross-table total population,Matriculants 2024-2025: A-24 vs A-25,23156,23156,0,True
+Cross-table total population,Matriculants 2024-2025: A-24 vs A-26,23156,23156,0,True
+Cross-table total population,Matriculants 2024-2025: A-24 vs A-27,23156,23156,0,True
+Cross-table total population,Matriculants 2025-2026: A-24 vs A-25,23440,23440,0,True
+Cross-table total population,Matriculants 2025-2026: A-24 vs A-26,23440,23440,0,True
+Cross-table total population,Matriculants 2025-2026: A-24 vs A-27,23440,23440,0,True

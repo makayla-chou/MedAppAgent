@@ -1,0 +1,72 @@
+{
+    "basic_information": {
+        "name": "Owen Mitchell",
+        "state_residency": "Ohio",
+        "citizenship_status": "U.S. citizen",
+        "undergraduate_school": "Ohio State University",
+        "major": "Biomedical Engineering",
+        "application_year": 2027
+    },
+    "academics": {
+        "overall_gpa": 3.94,
+        "science_gpa": 3.92,
+        "mcat_taken": true,
+        "mcat_total": 522,
+        "mcat_sections": {
+            "chem_physics": 131,
+            "cars": 129,
+            "bio_biochem": 131,
+            "psych_social": 131
+        },
+        "academic_context": "I maintained a strong academic record in a rigorous engineering curriculum and completed additional advanced coursework in biochemistry, physiology, and statistics."
+    },
+    "experience_hours": {
+        "clinical": 140,
+        "shadowing": 35,
+        "research": 1650,
+        "nonclinical_volunteering": 90,
+        "leadership": 210,
+        "teaching": 260
+    },
+    "experience_descriptions": {
+        "clinical": "I volunteered in a surgical waiting area, helping families navigate the hospital, locate updates, and access support services. Although the role provided patient and family interaction, it involved limited direct clinical responsibility.",
+        "research": "I worked in a biomedical engineering laboratory developing a microfluidic platform for studying tumor cell migration. I designed experiments, fabricated devices, analyzed microscopy images, and contributed to a peer-reviewed publication and two conference presentations.",
+        "service": "I volunteered with a STEM mentorship program for high school students. I taught basic coding and engineering design and helped students prepare projects for a regional science fair."
+    },
+    "achievements": {
+        "research_outputs": [
+            "Publication published",
+            "Conference presentation",
+            "Poster presentation"
+        ],
+        "awards": [
+            "Goldwater Scholarship Honorable Mention, 2026",
+            "Biomedical Engineering Research Award, 2025",
+            "Dean's List, 2023\u20132026"
+        ]
+    },
+    "goals": {
+        "career_interests": [
+            "Surgery",
+            "Medical research",
+            "Academic medicine",
+            "Oncology"
+        ],
+        "populations_of_interest": "I am interested in combining clinical care with translational cancer research and medical device development."
+    },
+    "school_preferences": {
+        "school_types": [
+            "MD",
+            "MD/PhD"
+        ],
+        "preferred_regions": [
+            "Midwest",
+            "Northeast"
+        ],
+        "setting_preference": "Urban",
+        "dealbreakers": [
+            "No research opportunities"
+        ]
+    },
+    "additional_context": "I prefer research-intensive institutions with strong engineering collaborations, but I recognize that my clinical exposure is less extensive than my research experience."
+}

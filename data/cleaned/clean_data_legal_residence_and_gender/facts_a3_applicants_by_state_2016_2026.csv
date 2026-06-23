@@ -1,0 +1,61 @@
+﻿region,entity_name,entity_type,2016-2017,2017-2018,2018-2019,2019-2020,2020-2021,2021-2022,2022-2023,2023-2024,2024-2025,2025-2026,percent_change_2024_2025_to_2025_2026,source_table
+Northeast,Connecticut,state_or_territory,592,589,533,615,574,710,540,542,527,585,11.0,A-3
+Northeast,Delaware,state_or_territory,109,108,100,101,115,123,117,105,110,124,12.7,A-3
+Northeast,District of Columbia,state_or_territory,86,116,105,103,118,122,96,96,102,118,15.7,A-3
+Northeast,Maine,state_or_territory,129,115,119,99,103,101,107,75,81,85,4.9,A-3
+Northeast,Maryland,state_or_territory,1176,1157,1160,1173,1169,1449,1231,1270,1223,1359,11.1,A-3
+Northeast,Massachusetts,state_or_territory,1411,1250,1269,1298,1311,1550,1479,1380,1373,1465,6.7,A-3
+Northeast,New Hampshire,state_or_territory,131,120,118,117,119,162,135,109,100,129,29.0,A-3
+Northeast,New Jersey,state_or_territory,1806,1846,1957,1934,1892,2228,2021,1911,1885,2009,6.6,A-3
+Northeast,New York,state_or_territory,3621,3371,3471,3530,3459,4142,3662,3521,3521,3595,2.1,A-3
+Northeast,Pennsylvania,state_or_territory,1744,1665,1646,1642,1643,1912,1672,1566,1554,1626,4.6,A-3
+Northeast,Rhode Island,state_or_territory,107,102,93,117,91,136,125,102,110,107,-2.7,A-3
+Northeast,Vermont,state_or_territory,96,102,104,104,82,93,101,85,84,76,-9.5,A-3
+Northeast,Total for the Region,region_total,11008,10541,10675,10833,10676,12728,11286,10762,10670,11278,5.7,A-3
+Central,Illinois,state_or_territory,2285,2224,2261,2241,2132,2476,2197,2030,2041,2163,6.0,A-3
+Central,Indiana,state_or_territory,775,772,826,765,743,938,868,792,697,730,4.7,A-3
+Central,Iowa,state_or_territory,413,363,386,368,352,368,334,328,327,327,0.0,A-3
+Central,Kansas,state_or_territory,571,560,577,524,545,595,497,465,468,459,-1.9,A-3
+Central,Michigan,state_or_territory,1912,1888,2066,1974,2003,2280,2037,1888,1867,1918,2.7,A-3
+Central,Minnesota,state_or_territory,969,971,1006,997,1002,1198,1015,975,879,954,8.5,A-3
+Central,Missouri,state_or_territory,751,729,724,771,733,921,825,740,713,757,6.2,A-3
+Central,Nebraska,state_or_territory,321,310,303,309,324,321,268,270,288,323,12.2,A-3
+Central,North Dakota,state_or_territory,122,118,157,155,117,123,100,116,102,113,10.8,A-3
+Central,Ohio,state_or_territory,1758,1720,1630,1794,1676,1891,1721,1581,1627,1643,1.0,A-3
+Central,South Dakota,state_or_territory,151,162,163,164,152,154,148,135,138,135,-2.2,A-3
+Central,Wisconsin,state_or_territory,838,861,813,827,836,924,831,787,782,797,1.9,A-3
+Central,Total for the Region,region_total,10866,10678,10912,10889,10615,12189,10841,10107,9929,10319,3.9,A-3
+South,Alabama,state_or_territory,576,569,619,579,602,701,647,634,583,617,5.8,A-3
+South,Arkansas,state_or_territory,407,355,352,374,374,399,367,337,311,339,9.0,A-3
+South,Florida,state_or_territory,3321,3340,3509,3493,3468,4248,3595,3508,3532,3712,5.1,A-3
+South,Georgia,state_or_territory,1594,1572,1584,1616,1688,2085,1914,1825,1785,1838,3.0,A-3
+South,Kentucky,state_or_territory,516,533,539,613,624,655,633,628,595,619,4.0,A-3
+South,Louisiana,state_or_territory,853,830,864,869,838,911,847,816,759,759,0.0,A-3
+South,Mississippi,state_or_territory,419,438,475,457,432,478,454,400,378,355,-6.1,A-3
+South,North Carolina,state_or_territory,1263,1239,1311,1322,1244,1520,1429,1377,1406,1409,0.2,A-3
+South,Oklahoma,state_or_territory,471,421,415,446,457,489,407,364,322,368,14.3,A-3
+South,Puerto Rico,state_or_territory,659,671,590,636,621,694,604,558,576,643,11.6,A-3
+South,South Carolina,state_or_territory,692,691,712,724,674,767,660,633,654,663,1.4,A-3
+South,Tennessee,state_or_territory,945,851,875,857,844,1052,882,778,853,847,-0.7,A-3
+South,Texas,state_or_territory,4531,4515,4559,4892,4888,5894,5235,5039,5078,5446,7.2,A-3
+South,Virginia,state_or_territory,1357,1340,1438,1407,1423,1648,1592,1536,1502,1574,4.8,A-3
+South,West Virginia,state_or_territory,250,207,262,247,267,256,201,229,179,184,2.8,A-3
+South,Total for the Region,region_total,17854,17572,18104,18532,18444,21797,19467,18662,18513,19373,4.6,A-3
+West,Alaska,state_or_territory,96,88,75,95,89,94,89,77,73,77,5.5,A-3
+West,Arizona,state_or_territory,972,963,966,916,912,1077,927,859,848,957,12.9,A-3
+West,California,state_or_territory,6437,5984,6237,6228,6652,7940,6879,6708,6700,7216,7.7,A-3
+West,Colorado,state_or_territory,782,842,800,845,762,947,769,776,723,709,-1.9,A-3
+West,Hawaii,state_or_territory,280,260,259,265,273,287,218,235,226,230,1.8,A-3
+West,Idaho,state_or_territory,171,170,182,201,209,226,203,192,183,165,-9.8,A-3
+West,Montana,state_or_territory,111,113,136,126,134,134,138,116,104,137,31.7,A-3
+West,Nevada,state_or_territory,241,348,368,341,352,402,396,349,308,346,12.3,A-3
+West,New Mexico,state_or_territory,343,310,311,265,252,271,251,211,199,214,7.5,A-3
+West,Oregon,state_or_territory,512,541,509,572,554,656,559,477,481,506,5.2,A-3
+West,Utah,state_or_territory,583,606,594,632,651,712,673,593,635,637,0.3,A-3
+West,Washington,state_or_territory,1052,1072,1066,1135,1068,1352,1119,1067,1003,1051,4.8,A-3
+West,Wyoming,state_or_territory,63,63,67,70,65,65,58,54,54,44,-18.5,A-3
+West,Total for the Region,region_total,11643,11360,11570,11691,11973,14163,12279,11714,11537,12289,6.5,A-3
+,U.S. Territories and Possessions,special_category,19,17,20,17,19,22,22,14,13,22,69.2,A-3
+,Legal Residence is Not in the U.S.,special_category,1324,1182,1195,1325,1264,1450,1268,1297,1255,1390,10.8,A-3
+,Legal Residence is Unknown,special_category,328,330,301,81,39,94,26,21,29,28,-3.4,A-3
+,Total Applicants,overall_total,53042,51680,52777,53368,53030,62443,55189,52577,51946,54699,5.3,A-3

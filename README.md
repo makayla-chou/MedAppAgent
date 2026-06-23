@@ -1,18 +1,72 @@
-# Medical School Application Agent
+# MedAppAgent
 
-This project is an agentic AI system designed to help medical school applicants analyze their profile, compare themselves to medical school data, and generate a realistic application strategy.
+MedAppAgent is a medical-school application advising prototype. It combines structured applicant data, a local medical-school dataset, deterministic comparison logic, and three LLM agents.
 
-The system uses multiple specialized agents that work together to review an applicant profile, evaluate school fit, critique recommendations, and generate a final report. The agents are grounded in structured medical school data from CSV files rather than relying only on general model knowledge.
+## Current architecture
 
-## Project Overview
+- `repositories/`: loading and saving profile and school data
+- `validation/`: applicant and school-data quality checks
+- `scoring/`: separate academic, preference, residency, and mission components
+- `services/`: ranking, AAMC context, agent orchestration, and report saving
+- `agents/`: profile, school-fit, and critic agents
+- `reports/`: final report construction and table formatting
+- `scripts/data_builders/`: scraping and dataset-building utilities
 
-The goal of this project is to demonstrate how agentic AI can be used to support pre-medical advising. The system takes in an applicant profile and a cleaned medical school dataset, then produces a written report with school recommendations and application strategy feedback.
+## Important scoring behavior
 
-The project currently includes:
+The system does not use one mixed match score.
 
-- A profile agent that summarizes the applicant’s strengths and weaknesses
-- A school fit agent that compares the applicant to medical school data
-- A critic agent that reviews the school recommendations for realism
-- A school match agent that recommends reach, target, and safer schools
-- A report builder that combines all agent outputs into one final Markdown report
+- Academic comparison uses GPA and MCAT distance from reported school averages.
+- Missing MCAT produces `Insufficient Data`, not a Target or Reach label.
+- Personal preference fit is scored separately from competitiveness.
+- Residency is reported as categorical context.
+- Data completeness is reported separately.
+- All classifications are planning aids, not acceptance probabilities.
 
+## Setup
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+```
+
+Fill in the keys in `.env`.
+
+## Run from the terminal
+
+```bash
+python main.py data/student_profiles/student1_profile.json
+```
+
+Optional arguments:
+
+```bash
+python main.py data/student_profiles/student1_profile.json \
+  --schools data/final_med_school_data.csv \
+  --top 25 \
+  --output outputs
+```
+
+## Run the Streamlit interface
+
+```bash
+streamlit run app.py
+```
+
+## Current dataset limitation
+
+`data/final_med_school_data.csv` currently contains MD schools only. The validator will warn when an applicant requests DO or MD/PhD programs that are absent from the dataset.
+
+## Test without spending API credits
+
+```bash
+python main.py data/student_profiles/student1_profile.json --skip-agents
+```
+
+This runs validation, normalization, scoring, ranking, and report saving without calling the LLM agents.
+
+## Security
+
+Never commit or upload `.env`. The project includes only `.env.example`; copy it locally and add real credentials there.

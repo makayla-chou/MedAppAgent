@@ -1,0 +1,53 @@
+1. Applicant Snapshot
+- Name: Student 1
+- State residency: North Carolina
+- Citizenship status: U.S. citizen
+- Undergraduate school: New York University
+- Major: Biomedical Engineering
+- Application year: 2027
+- Overall GPA: 3.72
+- Science GPA: 3.65
+- MCAT: Not taken, no scores reported
+- Clinical experience hours: 420
+- Shadowing hours: 85
+- Research hours: 650
+- Nonclinical volunteering hours: 310
+- Leadership hours: 180
+- Teaching hours: 220
+- Career interests: Pediatrics, Primary care, Academic medicine, Public health
+- Preferred medical school types: MD and DO
+- Preferred school region: Northeast
+- Preferred setting: Urban
+- Dealbreakers: Rural location
+
+2. Evidence-Based Strengths
+- GPA steadily improved, from 3.35 first semester to above 3.8 final four semesters
+- Experience with patient interaction and clinical support in emergency department volunteer role
+- Research experience in microbiology with lab techniques and data analysis; presented research at university symposium and contributed to manuscript preparation
+- Received multiple academic awards including Dean’s List (2024–2026), Undergraduate Research Excellence Award (2026), Biology Department Academic Achievement Award (2025)
+- Nonclinical volunteering involving community food pantry and efforts to improve accessibility for Spanish-speaking families
+- Diverse experience including leadership (180 hours) and teaching (220 hours)
+- Clear commitment to working with underserved pediatric populations and interest in health equity and community health programs
+
+3. Risk Factors
+- No MCAT taken or reported; lacks this standardized academic metric for evaluation
+- Research description states manuscript "being prepared for submission" but achievements list "Publication submitted."  
+- The dataset contains no data for DO programs requested by applicant, limiting program choices matching stated preferences
+
+4. Advising Priorities
+- Strongly encourage taking MCAT soon to provide critical academic evaluation data and match typical medical school application requirements
+- Clarify publication status to resolve conflict between manuscript preparation and publication submitted
+- Consider focusing on MD programs if DO programs are not available in school dataset or identify alternative data sources for DO schools
+- Emphasize urban, northeast-region MD programs with strong community service, early clinical experience, and health equity focus due to applicant’s stated goals and preferences
+- Highlight applicant’s improved academic trajectory and diverse experience as positive narrative points
+- Confirm no conflict exists between dealbreaker (rural school location) and programs considered
+
+5. Missing or Conflicting Information
+- MCAT score: Not taken, no results available
+- Research output status:
+  - Value 1: Manuscript currently being prepared for submission (experience descriptions)
+  - Value 2: Publication submitted (achievements.research_outputs)
+  - Status: Needs verification
+- No school dataset rows for requested DO program type (school availability for DO programs is missing)
+- No information on letters of recommendation or personal statement
+- No information on specific timing of clinical, research, or volunteer activities beyond general descriptions

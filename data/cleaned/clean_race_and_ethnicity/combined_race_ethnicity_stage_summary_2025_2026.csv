@@ -1,0 +1,32 @@
+﻿race_ethnicity_category,response_type,row_type,applicants,applicant_percent,acceptees,acceptee_percent,matriculants,matriculant_percent,acceptance_ratio_percent,applicant_to_matriculant_ratio_percent,matriculant_yield_percent,academic_year
+American Indian or Alaska Native,Alone,race_ethnicity,81,12.1,35,15.4,33,15.3,43.21,40.74,94.29,2025-2026
+American Indian or Alaska Native,Alone or In Combination,race_ethnicity,667,1.2,227,0.9,215,0.9,34.03,32.23,94.71,2025-2026
+American Indian or Alaska Native,In Combination,race_ethnicity,586,87.9,192,84.6,182,84.7,32.76,31.06,94.79,2025-2026
+Asian,Alone,race_ethnicity,14585,86.6,6664,86.4,6484,86.4,45.69,44.46,97.3,2025-2026
+Asian,Alone or In Combination,race_ethnicity,16837,30.8,7714,31.7,7505,32,45.82,44.57,97.29,2025-2026
+Asian,In Combination,race_ethnicity,2252,13.4,1050,13.6,1021,13.6,46.63,45.34,97.24,2025-2026
+Black or African American,Alone,race_ethnicity,5022,81.4,1643,79.1,1558,79.1,32.72,31.02,94.83,2025-2026
+Black or African American,Alone or In Combination,race_ethnicity,6167,11.3,2077,8.5,1970,8.4,33.68,31.94,94.85,2025-2026
+Black or African American,In Combination,race_ethnicity,1145,18.6,434,20.9,412,20.9,37.9,35.98,94.93,2025-2026
+Hispanic or Latino,Alone,race_ethnicity,3752,54.2,1530,54.4,1459,54.1,40.78,38.89,95.36,2025-2026
+Hispanic or Latino,Alone or In Combination,race_ethnicity,6921,12.7,2810,11.6,2695,11.5,40.6,38.94,95.91,2025-2026
+Hispanic or Latino,In Combination,race_ethnicity,3169,45.8,1280,45.6,1236,45.9,40.39,39.0,96.56,2025-2026
+Middle Eastern or North African,Alone,race_ethnicity,2539,68.5,1006,65.7,976,64,39.62,38.44,97.02,2025-2026
+Middle Eastern or North African,Alone or In Combination,race_ethnicity,3707,6.8,1532,6.3,1485,6.5,41.33,40.06,96.93,2025-2026
+Middle Eastern or North African,In Combination,race_ethnicity,1168,31.5,526,34.3,509,36,45.03,43.58,96.77,2025-2026
+Native Hawaiian or Pacific Islander,Alone,race_ethnicity,51,19.4,14,13.3,13,12.7,27.45,25.49,92.86,2025-2026
+Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,263,0.5,105,0.4,102,0.4,39.92,38.78,97.14,2025-2026
+Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,212,80.6,91,86.7,89,87.3,42.92,41.98,97.8,2025-2026
+Some Other Race or Ethnicity,Alone,race_ethnicity,253,38.3,82,35,80,35.4,32.41,31.62,97.56,2025-2026
+Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,661,1.2,234,1,226,1,35.4,34.19,96.58,2025-2026
+Some Other Race or Ethnicity,In Combination,race_ethnicity,408,61.7,152,65,146,64.6,37.25,35.78,96.05,2025-2026
+White,Alone,race_ethnicity,18597,77.5,9100,79.2,8773,79.2,48.93,47.17,96.41,2025-2026
+White,Alone or In Combination,race_ethnicity,24009,43.9,11489,47.3,11081,47.3,47.85,46.15,96.45,2025-2026
+White,In Combination,race_ethnicity,5412,22.5,2389,20.8,2308,20.8,44.14,42.65,96.61,2025-2026
+Unduplicated Total Acceptees,,unduplicated_total,,,24300,100,,,,,,2025-2026
+Unduplicated Total Applicants,,unduplicated_total,54699,100,,,,,,,,2025-2026
+Unduplicated Total Matriculants,,unduplicated_total,,,,,23440,100,,,,2025-2026
+Unknown Race or Ethnicity,,unknown,2972,5.4,1288,5.3,1227,5.2,43.34,41.29,95.26,2025-2026
+Unduplicated Total URiM Acceptees,,urim_total,,,4984,20.5,,,,,,2025-2026
+Unduplicated Total URiM Applicants,,urim_total,13277,24.3,,,,,,,,2025-2026
+Unduplicated Total URiM Matriculants,,urim_total,,,,,4760,20.3,,,,2025-2026

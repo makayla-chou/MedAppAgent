@@ -1,0 +1,61 @@
+﻿region,entity_name,entity_type,applicants,matriculated_in_state_number,matriculated_in_state_percent,matriculated_out_of_state_number,matriculated_out_of_state_percent,did_not_matriculate_number,did_not_matriculate_percent,source_table
+Northeast,Connecticut,state_or_territory,585,89,15.2,175,29.9,321,54.9,A-5
+Northeast,Delaware,state_or_territory,124,0,0,57,46,67,54,A-5
+Northeast,District of Columbia,state_or_territory,118,14,11.9,37,31.4,67,56.8,A-5
+Northeast,Maine,state_or_territory,85,0,0,40,47.1,45,52.9,A-5
+Northeast,Maryland,state_or_territory,1359,146,10.7,448,33,765,56.3,A-5
+Northeast,Massachusetts,state_or_territory,1465,266,18.2,478,32.6,721,49.2,A-5
+Northeast,New Hampshire,state_or_territory,129,4,3.1,57,44.2,68,52.7,A-5
+Northeast,New Jersey,state_or_territory,2009,446,22.2,490,24.4,1073,53.4,A-5
+Northeast,New York,state_or_territory,3595,1120,31.2,560,15.6,1915,53.3,A-5
+Northeast,Pennsylvania,state_or_territory,1626,448,27.6,325,20,853,52.5,A-5
+Northeast,Rhode Island,state_or_territory,107,15,14,37,34.6,55,51.4,A-5
+Northeast,Vermont,state_or_territory,76,32,42.1,12,15.8,32,42.1,A-5
+Northeast,Total for the Region,region_total,11278,2580,22.9,2716,24.1,5982,53,A-5
+Central,Illinois,state_or_territory,2163,522,24.1,468,21.6,1173,54.2,A-5
+Central,Indiana,state_or_territory,730,317,43.4,76,10.4,337,46.2,A-5
+Central,Iowa,state_or_territory,327,98,30,46,14.1,183,56,A-5
+Central,Kansas,state_or_territory,459,172,37.5,52,11.3,235,51.2,A-5
+Central,Michigan,state_or_territory,1918,612,31.9,218,11.4,1088,56.7,A-5
+Central,Minnesota,state_or_territory,954,233,24.4,185,19.4,536,56.2,A-5
+Central,Missouri,state_or_territory,757,259,34.2,111,14.7,387,51.1,A-5
+Central,Nebraska,state_or_territory,323,130,40.2,33,10.2,160,49.5,A-5
+Central,North Dakota,state_or_territory,113,48,42.5,8,7.1,57,50.4,A-5
+Central,Ohio,state_or_territory,1643,628,38.2,198,12.1,817,49.7,A-5
+Central,South Dakota,state_or_territory,135,56,41.5,11,8.1,68,50.4,A-5
+Central,Wisconsin,state_or_territory,797,269,33.8,119,14.9,409,51.3,A-5
+Central,Total for the Region,region_total,10319,3344,32.4,1525,14.8,5450,52.8,A-5
+South,Alabama,state_or_territory,617,235,38.1,41,6.6,341,55.3,A-5
+South,Arkansas,state_or_territory,339,160,47.2,19,5.6,160,47.2,A-5
+South,Florida,state_or_territory,3712,674,18.2,609,16.4,2429,65.4,A-5
+South,Georgia,state_or_territory,1838,572,31.1,280,15.2,986,53.6,A-5
+South,Kentucky,state_or_territory,619,283,45.7,49,7.9,287,46.4,A-5
+South,Louisiana,state_or_territory,759,322,42.4,45,5.9,392,51.6,A-5
+South,Mississippi,state_or_territory,355,170,47.9,29,8.2,156,43.9,A-5
+South,North Carolina,state_or_territory,1409,350,24.8,271,19.2,788,55.9,A-5
+South,Oklahoma,state_or_territory,368,111,30.2,18,4.9,239,64.9,A-5
+South,Puerto Rico,state_or_territory,643,327,50.9,11,1.7,305,47.4,A-5
+South,South Carolina,state_or_territory,663,311,46.9,39,5.9,313,47.2,A-5
+South,Tennessee,state_or_territory,847,250,29.5,123,14.5,474,56,A-5
+South,Texas,state_or_territory,5446,1700,31.2,402,7.4,3344,61.4,A-5
+South,Virginia,state_or_territory,1574,285,18.1,378,24,911,57.9,A-5
+South,West Virginia,state_or_territory,184,102,55.4,6,3.3,76,41.3,A-5
+South,Total for the Region,region_total,19373,5852,30.2,2320,12,11201,57.8,A-5
+West,Alaska,state_or_territory,77,0,0,45,58.4,32,41.6,A-5
+West,Arizona,state_or_territory,957,171,17.9,173,18.1,613,64.1,A-5
+West,California,state_or_territory,7216,1184,16.4,1749,24.2,4283,59.4,A-5
+West,Colorado,state_or_territory,709,87,12.3,175,24.7,447,63,A-5
+West,Hawaii,state_or_territory,230,61,26.5,30,13,139,60.4,A-5
+West,Idaho,state_or_territory,165,0,0,79,47.9,86,52.1,A-5
+West,Montana,state_or_territory,137,0,0,60,43.8,77,56.2,A-5
+West,Nevada,state_or_territory,346,108,31.2,39,11.3,199,57.5,A-5
+West,New Mexico,state_or_territory,214,81,37.9,23,10.7,110,51.4,A-5
+West,Oregon,state_or_territory,506,114,22.5,93,18.4,299,59.1,A-5
+West,Utah,state_or_territory,637,91,14.3,139,21.8,407,63.9,A-5
+West,Washington,state_or_territory,1051,224,21.3,223,21.2,604,57.5,A-5
+West,Wyoming,state_or_territory,44,0,0,30,68.2,14,31.8,A-5
+West,Total for the Region,region_total,12289,2121,17.3,2858,23.3,7310,59.5,A-5
+,U.S. Territories and Possessions,special_category,22,0,0,10,45.5,12,54.5,A-5
+,Legal Residence is Not in the U.S.,special_category,1390,0,0,105,7.6,1285,92.4,A-5
+,Legal Residence is Unknown,special_category,28,0,0,9,32.1,19,67.9,A-5
+,Total Applicants,overall_total,54699,13897,25.4,9543,17.4,31259,57.1,A-5

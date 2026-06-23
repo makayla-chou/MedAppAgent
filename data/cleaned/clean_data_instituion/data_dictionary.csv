@@ -1,0 +1,142 @@
+dataset,column,data_type,description
+facts_a2_undergraduate_institutions_total_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_undergraduate_institutions_total_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_undergraduate_institutions_total_applicants.csv,city,string,City parsed from the source label.
+facts_a2_undergraduate_institutions_total_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_undergraduate_institutions_total_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_1_black_or_african_american_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_1_black_or_african_american_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_1_black_or_african_american_applicants.csv,city,string,City parsed from the source label.
+facts_a2_1_black_or_african_american_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_1_black_or_african_american_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,city,string,City parsed from the source label.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_3_hispanic_or_latino_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_3_hispanic_or_latino_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_3_hispanic_or_latino_applicants.csv,city,string,City parsed from the source label.
+facts_a2_3_hispanic_or_latino_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_3_hispanic_or_latino_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_4_asian_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_4_asian_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_4_asian_applicants.csv,city,string,City parsed from the source label.
+facts_a2_4_asian_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_4_asian_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_5_white_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_5_white_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_5_white_applicants.csv,city,string,City parsed from the source label.
+facts_a2_5_white_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_5_white_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,institution_name,string,Institution name parsed from the source label.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,city,string,City parsed from the source label.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+combined_undergraduate_demographics_long.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+combined_undergraduate_demographics_long.csv,institution_name,string,Institution name parsed from the source label.
+combined_undergraduate_demographics_long.csv,city,string,City parsed from the source label.
+combined_undergraduate_demographics_long.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+combined_undergraduate_demographics_long.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+combined_undergraduate_applicant_demographics_wide.csv,undergraduate_institution,string,Original full institution and location label from the source table.
+combined_undergraduate_applicant_demographics_wide.csv,institution_name,string,Institution name parsed from the source label.
+combined_undergraduate_applicant_demographics_wide.csv,city,string,City parsed from the source label.
+combined_undergraduate_applicant_demographics_wide.csv,state_or_province,string,"Two-letter U.S. state, district, territory, or Canadian province code parsed from the source label."
+combined_undergraduate_applicant_demographics_wide.csv,total_applicants,integer,Total applicants from the undergraduate institution in academic year 2025-2026.
+facts_a2_1_black_or_african_american_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_1_black_or_african_american_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_1_black_or_african_american_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_1_black_or_african_american_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a2_3_hispanic_or_latino_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_3_hispanic_or_latino_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_3_hispanic_or_latino_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_3_hispanic_or_latino_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a2_4_asian_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_4_asian_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_4_asian_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_4_asian_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a2_5_white_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_5_white_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_5_white_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_5_white_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+combined_undergraduate_demographics_long.csv,demographic_group,string,Standardized source demographic category; source includes people identifying alone or in combination.
+combined_undergraduate_demographics_long.csv,group_applicants,integer,Applicants from the institution included in the demographic category.
+combined_undergraduate_demographics_long.csv,group_share_of_institution_pct,number,"Derived as group_applicants / total_applicants × 100. Categories can overlap, so shares should not be summed."
+combined_undergraduate_demographics_long.csv,pct_of_all_group_applicants_nationally,number,"Source percentage: institution's share of all applicants nationally in that demographic group, expressed in percentage points."
+facts_a1_medical_school_applications_matriculants.csv,state,string,State or territory code. Blank source cells were forward-filled for schools listed under the same state.
+facts_a1_medical_school_applications_matriculants.csv,medical_school,string,Medical school label used in the source table.
+facts_a1_medical_school_applications_matriculants.csv,applications_total,integer,Number of applications received by the medical school.
+facts_a1_medical_school_applications_matriculants.csv,applications_in_state_pct,number,Percent of applications from in-state applicants.
+facts_a1_medical_school_applications_matriculants.csv,applications_out_of_state_pct,number,Percent of applications from out-of-state applicants.
+facts_a1_medical_school_applications_matriculants.csv,applications_men_pct,number,Percent of applications from men.
+facts_a1_medical_school_applications_matriculants.csv,applications_women_pct,number,Percent of applications from women.
+facts_a1_medical_school_applications_matriculants.csv,matriculants_total,integer,Number of matriculants at the medical school.
+facts_a1_medical_school_applications_matriculants.csv,matriculants_in_state_pct,number,Percent of matriculants who were in-state.
+facts_a1_medical_school_applications_matriculants.csv,matriculants_out_of_state_pct,number,Percent of matriculants who were out-of-state.
+facts_a1_medical_school_applications_matriculants.csv,matriculants_men_pct,number,Percent of matriculants who were men.
+facts_a1_medical_school_applications_matriculants.csv,matriculants_women_pct,number,Percent of matriculants who were women.
+facts_a1_medical_school_applications_matriculants.csv,academic_year,string,Academic year represented by the source data.
+facts_a1_medical_school_applications_matriculants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a1_medical_school_applications_matriculants.csv,source_file,string,Original uploaded workbook filename.
+facts_a1_medical_school_applications_matriculants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_undergraduate_institutions_total_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_undergraduate_institutions_total_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_undergraduate_institutions_total_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_undergraduate_institutions_total_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_1_black_or_african_american_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_1_black_or_african_american_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_1_black_or_african_american_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_1_black_or_african_american_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_3_hispanic_or_latino_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_3_hispanic_or_latino_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_3_hispanic_or_latino_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_3_hispanic_or_latino_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_4_asian_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_4_asian_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_4_asian_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_4_asian_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_5_white_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_5_white_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_5_white_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_5_white_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,academic_year,string,Academic year represented by the source data.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,source_table,string,AAMC FACTS table identifier.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,source_file,string,Original uploaded workbook filename.
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+combined_undergraduate_demographics_long.csv,academic_year,string,Academic year represented by the source data.
+combined_undergraduate_demographics_long.csv,source_table,string,AAMC FACTS table identifier.
+combined_undergraduate_demographics_long.csv,source_file,string,Original uploaded workbook filename.
+combined_undergraduate_demographics_long.csv,source_excel_row,integer,Original one-based Excel row number for traceability.
+combined_undergraduate_applicant_demographics_wide.csv,listed_in_overall_50_plus_table,boolean,"True when the institution appears in Table A-2, which only publishes institutions with at least 50 total applicants."
+combined_undergraduate_applicant_demographics_wide.csv,academic_year,string,Academic year represented by the source data.
+combined_undergraduate_applicant_demographics_wide.csv,black_or_african_american_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,black_or_african_american_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,black_or_african_american_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."
+combined_undergraduate_applicant_demographics_wide.csv,american_indian_or_alaska_native_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,american_indian_or_alaska_native_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,american_indian_or_alaska_native_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."
+combined_undergraduate_applicant_demographics_wide.csv,hispanic_or_latino_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,hispanic_or_latino_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,hispanic_or_latino_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."
+combined_undergraduate_applicant_demographics_wide.csv,asian_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,asian_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,asian_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."
+combined_undergraduate_applicant_demographics_wide.csv,white_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,white_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,white_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."
+combined_undergraduate_applicant_demographics_wide.csv,middle_eastern_or_north_african_applicants,integer,"Published applicant count for this demographic category; blank means not published in the thresholded source table, not necessarily zero."
+combined_undergraduate_applicant_demographics_wide.csv,middle_eastern_or_north_african_share_of_institution_pct,number,Derived demographic count divided by total applicants × 100; blank when the count was not published.
+combined_undergraduate_applicant_demographics_wide.csv,middle_eastern_or_north_african_pct_of_all_group_applicants_nationally,number,"Source institution share of all national applicants in the demographic category, in percentage points."

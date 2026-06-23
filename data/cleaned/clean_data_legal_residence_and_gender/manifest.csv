@@ -1,0 +1,14 @@
+﻿filename,rows,purpose
+README.txt,,Package guide and interpretation cautions.
+combined_gender_trends_2006_2026_long.csv,480,"Best gender file for SQL, filtering, charts, and model context retrieval."
+combined_gender_trends_2006_2026_wide.csv,28,Best gender file for year-to-year feature lookup.
+combined_state_applicant_matriculant_trends_2016_2026_long.csv,600,Best state trend file for analysis and charts.
+combined_state_outcomes_2025_2026_wide.csv,60,Best current state-level file for direct app lookup.
+data_dictionary.csv,9,Definitions and interpretation cautions.
+facts_a3_applicants_by_state_2016_2026.csv,60,Clean source table: applicant counts by legal residence.
+facts_a4_matriculants_by_state_2016_2026.csv,60,Clean source table: matriculant counts by legal residence.
+facts_a5_applicant_matriculation_status_by_state_2025_2026.csv,60,"Clean source table: current-year in-state, out-of-state, and non-matriculation outcomes."
+facts_a7_1_gender_trends_2006_2016.csv,20,Clean source table: gender trends for 2006-2007 through 2015-2016.
+facts_a7_2_gender_trends_2016_2026.csv,28,Clean source table: gender trends for 2016-2017 through 2025-2026.
+manifest.csv,12,Supporting file
+source_metadata.csv,5,"Titles, descriptions, notes, and source workbook names."

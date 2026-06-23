@@ -1,0 +1,601 @@
+﻿region,entity_name,entity_type,academic_year,applicants,matriculants,matriculation_rate_percent
+,United States Total,overall_total,2016-2017,53042,21030,39.65
+,United States Total,overall_total,2017-2018,51680,21338,41.29
+,United States Total,overall_total,2018-2019,52777,21622,40.97
+,United States Total,overall_total,2019-2020,53368,21869,40.98
+,United States Total,overall_total,2020-2021,53030,22239,41.94
+,United States Total,overall_total,2021-2022,62443,22666,36.3
+,United States Total,overall_total,2022-2023,55189,22710,41.15
+,United States Total,overall_total,2023-2024,52577,22980,43.71
+,United States Total,overall_total,2024-2025,51946,23156,44.58
+,United States Total,overall_total,2025-2026,54699,23440,42.85
+Central,Total for the Region,region_total,2016-2017,10866,4595,42.29
+Central,Total for the Region,region_total,2017-2018,10678,4617,43.24
+Central,Total for the Region,region_total,2018-2019,10912,4607,42.22
+Central,Total for the Region,region_total,2019-2020,10889,4700,43.16
+Central,Total for the Region,region_total,2020-2021,10615,4669,43.98
+Central,Total for the Region,region_total,2021-2022,12189,4711,38.65
+Central,Total for the Region,region_total,2022-2023,10841,4739,43.71
+Central,Total for the Region,region_total,2023-2024,10107,4675,46.26
+Central,Total for the Region,region_total,2024-2025,9929,4826,48.61
+Central,Total for the Region,region_total,2025-2026,10319,4869,47.18
+Northeast,Total for the Region,region_total,2016-2017,11008,4895,44.47
+Northeast,Total for the Region,region_total,2017-2018,10541,5007,47.5
+Northeast,Total for the Region,region_total,2018-2019,10675,4942,46.3
+Northeast,Total for the Region,region_total,2019-2020,10833,5043,46.55
+Northeast,Total for the Region,region_total,2020-2021,10676,5142,48.16
+Northeast,Total for the Region,region_total,2021-2022,12728,5199,40.85
+Northeast,Total for the Region,region_total,2022-2023,11286,5219,46.24
+Northeast,Total for the Region,region_total,2023-2024,10762,5166,48.0
+Northeast,Total for the Region,region_total,2024-2025,10670,5193,48.67
+Northeast,Total for the Region,region_total,2025-2026,11278,5296,46.96
+South,Total for the Region,region_total,2016-2017,17854,6909,38.7
+South,Total for the Region,region_total,2017-2018,17572,7061,40.18
+South,Total for the Region,region_total,2018-2019,18104,7368,40.7
+South,Total for the Region,region_total,2019-2020,18532,7333,39.57
+South,Total for the Region,region_total,2020-2021,18444,7552,40.95
+South,Total for the Region,region_total,2021-2022,21797,7812,35.84
+South,Total for the Region,region_total,2022-2023,19467,7848,40.31
+South,Total for the Region,region_total,2023-2024,18662,8047,43.12
+South,Total for the Region,region_total,2024-2025,18513,8109,43.8
+South,Total for the Region,region_total,2025-2026,19373,8172,42.18
+West,Total for the Region,region_total,2016-2017,11643,4441,38.14
+West,Total for the Region,region_total,2017-2018,11360,4453,39.2
+West,Total for the Region,region_total,2018-2019,11570,4515,39.02
+West,Total for the Region,region_total,2019-2020,11691,4636,39.65
+West,Total for the Region,region_total,2020-2021,11973,4724,39.46
+West,Total for the Region,region_total,2021-2022,14163,4784,33.78
+West,Total for the Region,region_total,2022-2023,12279,4737,38.58
+West,Total for the Region,region_total,2023-2024,11714,4940,42.17
+West,Total for the Region,region_total,2024-2025,11537,4883,42.32
+West,Total for the Region,region_total,2025-2026,12289,4979,40.52
+,Legal Residence is Not in the U.S.,special_category,2016-2017,1324,112,8.46
+,Legal Residence is Not in the U.S.,special_category,2017-2018,1182,106,8.97
+,Legal Residence is Not in the U.S.,special_category,2018-2019,1195,97,8.12
+,Legal Residence is Not in the U.S.,special_category,2019-2020,1325,124,9.36
+,Legal Residence is Not in the U.S.,special_category,2020-2021,1264,131,10.36
+,Legal Residence is Not in the U.S.,special_category,2021-2022,1450,136,9.38
+,Legal Residence is Not in the U.S.,special_category,2022-2023,1268,153,12.07
+,Legal Residence is Not in the U.S.,special_category,2023-2024,1297,143,11.03
+,Legal Residence is Not in the U.S.,special_category,2024-2025,1255,130,10.36
+,Legal Residence is Not in the U.S.,special_category,2025-2026,1390,105,7.55
+,Legal Residence is Unknown,special_category,2016-2017,328,73,22.26
+,Legal Residence is Unknown,special_category,2017-2018,330,85,25.76
+,Legal Residence is Unknown,special_category,2018-2019,301,86,28.57
+,Legal Residence is Unknown,special_category,2019-2020,81,27,33.33
+,Legal Residence is Unknown,special_category,2020-2021,39,13,33.33
+,Legal Residence is Unknown,special_category,2021-2022,94,17,18.09
+,Legal Residence is Unknown,special_category,2022-2023,26,8,30.77
+,Legal Residence is Unknown,special_category,2023-2024,21,6,28.57
+,Legal Residence is Unknown,special_category,2024-2025,29,9,31.03
+,Legal Residence is Unknown,special_category,2025-2026,28,9,32.14
+,U.S. Territories and Possessions,special_category,2016-2017,19,5,26.32
+,U.S. Territories and Possessions,special_category,2017-2018,17,9,52.94
+,U.S. Territories and Possessions,special_category,2018-2019,20,7,35.0
+,U.S. Territories and Possessions,special_category,2019-2020,17,6,35.29
+,U.S. Territories and Possessions,special_category,2020-2021,19,8,42.11
+,U.S. Territories and Possessions,special_category,2021-2022,22,7,31.82
+,U.S. Territories and Possessions,special_category,2022-2023,22,6,27.27
+,U.S. Territories and Possessions,special_category,2023-2024,14,3,21.43
+,U.S. Territories and Possessions,special_category,2024-2025,13,6,46.15
+,U.S. Territories and Possessions,special_category,2025-2026,22,10,45.45
+Central,Illinois,state_or_territory,2016-2017,2285,949,41.53
+Central,Illinois,state_or_territory,2017-2018,2224,912,41.01
+Central,Illinois,state_or_territory,2018-2019,2261,977,43.21
+Central,Illinois,state_or_territory,2019-2020,2241,934,41.68
+Central,Illinois,state_or_territory,2020-2021,2132,954,44.75
+Central,Illinois,state_or_territory,2021-2022,2476,895,36.15
+Central,Illinois,state_or_territory,2022-2023,2197,921,41.92
+Central,Illinois,state_or_territory,2023-2024,2030,936,46.11
+Central,Illinois,state_or_territory,2024-2025,2041,960,47.04
+Central,Illinois,state_or_territory,2025-2026,2163,990,45.77
+Central,Indiana,state_or_territory,2016-2017,775,358,46.19
+Central,Indiana,state_or_territory,2017-2018,772,372,48.19
+Central,Indiana,state_or_territory,2018-2019,826,388,46.97
+Central,Indiana,state_or_territory,2019-2020,765,379,49.54
+Central,Indiana,state_or_territory,2020-2021,743,366,49.26
+Central,Indiana,state_or_territory,2021-2022,938,410,43.71
+Central,Indiana,state_or_territory,2022-2023,868,392,45.16
+Central,Indiana,state_or_territory,2023-2024,792,360,45.45
+Central,Indiana,state_or_territory,2024-2025,697,411,58.97
+Central,Indiana,state_or_territory,2025-2026,730,393,53.84
+Central,Iowa,state_or_territory,2016-2017,413,141,34.14
+Central,Iowa,state_or_territory,2017-2018,363,151,41.6
+Central,Iowa,state_or_territory,2018-2019,386,141,36.53
+Central,Iowa,state_or_territory,2019-2020,368,128,34.78
+Central,Iowa,state_or_territory,2020-2021,352,141,40.06
+Central,Iowa,state_or_territory,2021-2022,368,136,36.96
+Central,Iowa,state_or_territory,2022-2023,334,151,45.21
+Central,Iowa,state_or_territory,2023-2024,328,148,45.12
+Central,Iowa,state_or_territory,2024-2025,327,145,44.34
+Central,Iowa,state_or_territory,2025-2026,327,144,44.04
+Central,Kansas,state_or_territory,2016-2017,571,234,40.98
+Central,Kansas,state_or_territory,2017-2018,560,235,41.96
+Central,Kansas,state_or_territory,2018-2019,577,245,42.46
+Central,Kansas,state_or_territory,2019-2020,524,222,42.37
+Central,Kansas,state_or_territory,2020-2021,545,236,43.3
+Central,Kansas,state_or_territory,2021-2022,595,231,38.82
+Central,Kansas,state_or_territory,2022-2023,497,211,42.45
+Central,Kansas,state_or_territory,2023-2024,465,215,46.24
+Central,Kansas,state_or_territory,2024-2025,468,231,49.36
+Central,Kansas,state_or_territory,2025-2026,459,224,48.8
+Central,Michigan,state_or_territory,2016-2017,1912,808,42.26
+Central,Michigan,state_or_territory,2017-2018,1888,792,41.95
+Central,Michigan,state_or_territory,2018-2019,2066,794,38.43
+Central,Michigan,state_or_territory,2019-2020,1974,811,41.08
+Central,Michigan,state_or_territory,2020-2021,2003,842,42.04
+Central,Michigan,state_or_territory,2021-2022,2280,817,35.83
+Central,Michigan,state_or_territory,2022-2023,2037,836,41.04
+Central,Michigan,state_or_territory,2023-2024,1888,842,44.6
+Central,Michigan,state_or_territory,2024-2025,1867,835,44.72
+Central,Michigan,state_or_territory,2025-2026,1918,830,43.27
+Central,Minnesota,state_or_territory,2016-2017,969,405,41.8
+Central,Minnesota,state_or_territory,2017-2018,971,410,42.22
+Central,Minnesota,state_or_territory,2018-2019,1006,385,38.27
+Central,Minnesota,state_or_territory,2019-2020,997,418,41.93
+Central,Minnesota,state_or_territory,2020-2021,1002,412,41.12
+Central,Minnesota,state_or_territory,2021-2022,1198,403,33.64
+Central,Minnesota,state_or_territory,2022-2023,1015,408,40.2
+Central,Minnesota,state_or_territory,2023-2024,975,412,42.26
+Central,Minnesota,state_or_territory,2024-2025,879,385,43.8
+Central,Minnesota,state_or_territory,2025-2026,954,418,43.82
+Central,Missouri,state_or_territory,2016-2017,751,312,41.54
+Central,Missouri,state_or_territory,2017-2018,729,302,41.43
+Central,Missouri,state_or_territory,2018-2019,724,310,42.82
+Central,Missouri,state_or_territory,2019-2020,771,332,43.06
+Central,Missouri,state_or_territory,2020-2021,733,326,44.47
+Central,Missouri,state_or_territory,2021-2022,921,356,38.65
+Central,Missouri,state_or_territory,2022-2023,825,387,46.91
+Central,Missouri,state_or_territory,2023-2024,740,374,50.54
+Central,Missouri,state_or_territory,2024-2025,713,346,48.53
+Central,Missouri,state_or_territory,2025-2026,757,370,48.88
+Central,Nebraska,state_or_territory,2016-2017,321,141,43.93
+Central,Nebraska,state_or_territory,2017-2018,310,149,48.06
+Central,Nebraska,state_or_territory,2018-2019,303,138,45.54
+Central,Nebraska,state_or_territory,2019-2020,309,145,46.93
+Central,Nebraska,state_or_territory,2020-2021,324,152,46.91
+Central,Nebraska,state_or_territory,2021-2022,321,142,44.24
+Central,Nebraska,state_or_territory,2022-2023,268,125,46.64
+Central,Nebraska,state_or_territory,2023-2024,270,136,50.37
+Central,Nebraska,state_or_territory,2024-2025,288,147,51.04
+Central,Nebraska,state_or_territory,2025-2026,323,163,50.46
+Central,North Dakota,state_or_territory,2016-2017,122,58,47.54
+Central,North Dakota,state_or_territory,2017-2018,118,47,39.83
+Central,North Dakota,state_or_territory,2018-2019,157,53,33.76
+Central,North Dakota,state_or_territory,2019-2020,155,53,34.19
+Central,North Dakota,state_or_territory,2020-2021,117,55,47.01
+Central,North Dakota,state_or_territory,2021-2022,123,46,37.4
+Central,North Dakota,state_or_territory,2022-2023,100,36,36.0
+Central,North Dakota,state_or_territory,2023-2024,116,48,41.38
+Central,North Dakota,state_or_territory,2024-2025,102,50,49.02
+Central,North Dakota,state_or_territory,2025-2026,113,56,49.56
+Central,Ohio,state_or_territory,2016-2017,1758,767,43.63
+Central,Ohio,state_or_territory,2017-2018,1720,796,46.28
+Central,Ohio,state_or_territory,2018-2019,1630,737,45.21
+Central,Ohio,state_or_territory,2019-2020,1794,825,45.99
+Central,Ohio,state_or_territory,2020-2021,1676,735,43.85
+Central,Ohio,state_or_territory,2021-2022,1891,825,43.63
+Central,Ohio,state_or_territory,2022-2023,1721,822,47.76
+Central,Ohio,state_or_territory,2023-2024,1581,781,49.4
+Central,Ohio,state_or_territory,2024-2025,1627,855,52.55
+Central,Ohio,state_or_territory,2025-2026,1643,826,50.27
+Central,South Dakota,state_or_territory,2016-2017,151,69,45.7
+Central,South Dakota,state_or_territory,2017-2018,162,68,41.98
+Central,South Dakota,state_or_territory,2018-2019,163,67,41.1
+Central,South Dakota,state_or_territory,2019-2020,164,80,48.78
+Central,South Dakota,state_or_territory,2020-2021,152,75,49.34
+Central,South Dakota,state_or_territory,2021-2022,154,66,42.86
+Central,South Dakota,state_or_territory,2022-2023,148,69,46.62
+Central,South Dakota,state_or_territory,2023-2024,135,64,47.41
+Central,South Dakota,state_or_territory,2024-2025,138,70,50.72
+Central,South Dakota,state_or_territory,2025-2026,135,67,49.63
+Central,Wisconsin,state_or_territory,2016-2017,838,353,42.12
+Central,Wisconsin,state_or_territory,2017-2018,861,383,44.48
+Central,Wisconsin,state_or_territory,2018-2019,813,372,45.76
+Central,Wisconsin,state_or_territory,2019-2020,827,373,45.1
+Central,Wisconsin,state_or_territory,2020-2021,836,375,44.86
+Central,Wisconsin,state_or_territory,2021-2022,924,384,41.56
+Central,Wisconsin,state_or_territory,2022-2023,831,381,45.85
+Central,Wisconsin,state_or_territory,2023-2024,787,359,45.62
+Central,Wisconsin,state_or_territory,2024-2025,782,391,50.0
+Central,Wisconsin,state_or_territory,2025-2026,797,388,48.68
+Northeast,Connecticut,state_or_territory,2016-2017,592,281,47.47
+Northeast,Connecticut,state_or_territory,2017-2018,589,293,49.75
+Northeast,Connecticut,state_or_territory,2018-2019,533,245,45.97
+Northeast,Connecticut,state_or_territory,2019-2020,615,282,45.85
+Northeast,Connecticut,state_or_territory,2020-2021,574,297,51.74
+Northeast,Connecticut,state_or_territory,2021-2022,710,291,40.99
+Northeast,Connecticut,state_or_territory,2022-2023,540,251,46.48
+Northeast,Connecticut,state_or_territory,2023-2024,542,250,46.13
+Northeast,Connecticut,state_or_territory,2024-2025,527,255,48.39
+Northeast,Connecticut,state_or_territory,2025-2026,585,264,45.13
+Northeast,Delaware,state_or_territory,2016-2017,109,49,44.95
+Northeast,Delaware,state_or_territory,2017-2018,108,49,45.37
+Northeast,Delaware,state_or_territory,2018-2019,100,44,44.0
+Northeast,Delaware,state_or_territory,2019-2020,101,38,37.62
+Northeast,Delaware,state_or_territory,2020-2021,115,56,48.7
+Northeast,Delaware,state_or_territory,2021-2022,123,48,39.02
+Northeast,Delaware,state_or_territory,2022-2023,117,52,44.44
+Northeast,Delaware,state_or_territory,2023-2024,105,44,41.9
+Northeast,Delaware,state_or_territory,2024-2025,110,46,41.82
+Northeast,Delaware,state_or_territory,2025-2026,124,57,45.97
+Northeast,District of Columbia,state_or_territory,2016-2017,86,41,47.67
+Northeast,District of Columbia,state_or_territory,2017-2018,116,51,43.97
+Northeast,District of Columbia,state_or_territory,2018-2019,105,54,51.43
+Northeast,District of Columbia,state_or_territory,2019-2020,103,47,45.63
+Northeast,District of Columbia,state_or_territory,2020-2021,118,65,55.08
+Northeast,District of Columbia,state_or_territory,2021-2022,122,50,40.98
+Northeast,District of Columbia,state_or_territory,2022-2023,96,43,44.79
+Northeast,District of Columbia,state_or_territory,2023-2024,96,51,53.12
+Northeast,District of Columbia,state_or_territory,2024-2025,102,47,46.08
+Northeast,District of Columbia,state_or_territory,2025-2026,118,51,43.22
+Northeast,Maine,state_or_territory,2016-2017,129,53,41.09
+Northeast,Maine,state_or_territory,2017-2018,115,40,34.78
+Northeast,Maine,state_or_territory,2018-2019,119,46,38.66
+Northeast,Maine,state_or_territory,2019-2020,99,41,41.41
+Northeast,Maine,state_or_territory,2020-2021,103,46,44.66
+Northeast,Maine,state_or_territory,2021-2022,101,35,34.65
+Northeast,Maine,state_or_territory,2022-2023,107,43,40.19
+Northeast,Maine,state_or_territory,2023-2024,75,34,45.33
+Northeast,Maine,state_or_territory,2024-2025,81,31,38.27
+Northeast,Maine,state_or_territory,2025-2026,85,40,47.06
+Northeast,Maryland,state_or_territory,2016-2017,1176,510,43.37
+Northeast,Maryland,state_or_territory,2017-2018,1157,546,47.19
+Northeast,Maryland,state_or_territory,2018-2019,1160,531,45.78
+Northeast,Maryland,state_or_territory,2019-2020,1173,528,45.01
+Northeast,Maryland,state_or_territory,2020-2021,1169,540,46.19
+Northeast,Maryland,state_or_territory,2021-2022,1449,577,39.82
+Northeast,Maryland,state_or_territory,2022-2023,1231,539,43.79
+Northeast,Maryland,state_or_territory,2023-2024,1270,581,45.75
+Northeast,Maryland,state_or_territory,2024-2025,1223,592,48.41
+Northeast,Maryland,state_or_territory,2025-2026,1359,594,43.71
+Northeast,Massachusetts,state_or_territory,2016-2017,1411,659,46.7
+Northeast,Massachusetts,state_or_territory,2017-2018,1250,646,51.68
+Northeast,Massachusetts,state_or_territory,2018-2019,1269,612,48.23
+Northeast,Massachusetts,state_or_territory,2019-2020,1298,624,48.07
+Northeast,Massachusetts,state_or_territory,2020-2021,1311,648,49.43
+Northeast,Massachusetts,state_or_territory,2021-2022,1550,658,42.45
+Northeast,Massachusetts,state_or_territory,2022-2023,1479,728,49.22
+Northeast,Massachusetts,state_or_territory,2023-2024,1380,683,49.49
+Northeast,Massachusetts,state_or_territory,2024-2025,1373,729,53.1
+Northeast,Massachusetts,state_or_territory,2025-2026,1465,744,50.78
+Northeast,New Hampshire,state_or_territory,2016-2017,131,52,39.69
+Northeast,New Hampshire,state_or_territory,2017-2018,120,53,44.17
+Northeast,New Hampshire,state_or_territory,2018-2019,118,45,38.14
+Northeast,New Hampshire,state_or_territory,2019-2020,117,55,47.01
+Northeast,New Hampshire,state_or_territory,2020-2021,119,48,40.34
+Northeast,New Hampshire,state_or_territory,2021-2022,162,52,32.1
+Northeast,New Hampshire,state_or_territory,2022-2023,135,51,37.78
+Northeast,New Hampshire,state_or_territory,2023-2024,109,54,49.54
+Northeast,New Hampshire,state_or_territory,2024-2025,100,50,50.0
+Northeast,New Hampshire,state_or_territory,2025-2026,129,61,47.29
+Northeast,New Jersey,state_or_territory,2016-2017,1806,785,43.47
+Northeast,New Jersey,state_or_territory,2017-2018,1846,822,44.53
+Northeast,New Jersey,state_or_territory,2018-2019,1957,864,44.15
+Northeast,New Jersey,state_or_territory,2019-2020,1934,873,45.14
+Northeast,New Jersey,state_or_territory,2020-2021,1892,916,48.41
+Northeast,New Jersey,state_or_territory,2021-2022,2228,931,41.79
+Northeast,New Jersey,state_or_territory,2022-2023,2021,920,45.52
+Northeast,New Jersey,state_or_territory,2023-2024,1911,936,48.98
+Northeast,New Jersey,state_or_territory,2024-2025,1885,942,49.97
+Northeast,New Jersey,state_or_territory,2025-2026,2009,936,46.59
+Northeast,New York,state_or_territory,2016-2017,3621,1603,44.27
+Northeast,New York,state_or_territory,2017-2018,3371,1641,48.68
+Northeast,New York,state_or_territory,2018-2019,3471,1608,46.33
+Northeast,New York,state_or_territory,2019-2020,3530,1674,47.42
+Northeast,New York,state_or_territory,2020-2021,3459,1618,46.78
+Northeast,New York,state_or_territory,2021-2022,4142,1646,39.74
+Northeast,New York,state_or_territory,2022-2023,3662,1706,46.59
+Northeast,New York,state_or_territory,2023-2024,3521,1680,47.71
+Northeast,New York,state_or_territory,2024-2025,3521,1654,46.98
+Northeast,New York,state_or_territory,2025-2026,3595,1680,46.73
+Northeast,Pennsylvania,state_or_territory,2016-2017,1744,751,43.06
+Northeast,Pennsylvania,state_or_territory,2017-2018,1665,757,45.47
+Northeast,Pennsylvania,state_or_territory,2018-2019,1646,789,47.93
+Northeast,Pennsylvania,state_or_territory,2019-2020,1642,767,46.71
+Northeast,Pennsylvania,state_or_territory,2020-2021,1643,805,49.0
+Northeast,Pennsylvania,state_or_territory,2021-2022,1912,805,42.1
+Northeast,Pennsylvania,state_or_territory,2022-2023,1672,751,44.92
+Northeast,Pennsylvania,state_or_territory,2023-2024,1566,745,47.57
+Northeast,Pennsylvania,state_or_territory,2024-2025,1554,736,47.36
+Northeast,Pennsylvania,state_or_territory,2025-2026,1626,773,47.54
+Northeast,Rhode Island,state_or_territory,2016-2017,107,52,48.6
+Northeast,Rhode Island,state_or_territory,2017-2018,102,54,52.94
+Northeast,Rhode Island,state_or_territory,2018-2019,93,47,50.54
+Northeast,Rhode Island,state_or_territory,2019-2020,117,58,49.57
+Northeast,Rhode Island,state_or_territory,2020-2021,91,52,57.14
+Northeast,Rhode Island,state_or_territory,2021-2022,136,63,46.32
+Northeast,Rhode Island,state_or_territory,2022-2023,125,78,62.4
+Northeast,Rhode Island,state_or_territory,2023-2024,102,53,51.96
+Northeast,Rhode Island,state_or_territory,2024-2025,110,59,53.64
+Northeast,Rhode Island,state_or_territory,2025-2026,107,52,48.6
+Northeast,Vermont,state_or_territory,2016-2017,96,59,61.46
+Northeast,Vermont,state_or_territory,2017-2018,102,55,53.92
+Northeast,Vermont,state_or_territory,2018-2019,104,57,54.81
+Northeast,Vermont,state_or_territory,2019-2020,104,56,53.85
+Northeast,Vermont,state_or_territory,2020-2021,82,51,62.2
+Northeast,Vermont,state_or_territory,2021-2022,93,43,46.24
+Northeast,Vermont,state_or_territory,2022-2023,101,57,56.44
+Northeast,Vermont,state_or_territory,2023-2024,85,55,64.71
+Northeast,Vermont,state_or_territory,2024-2025,84,52,61.9
+Northeast,Vermont,state_or_territory,2025-2026,76,44,57.89
+South,Alabama,state_or_territory,2016-2017,576,271,47.05
+South,Alabama,state_or_territory,2017-2018,569,262,46.05
+South,Alabama,state_or_territory,2018-2019,619,280,45.23
+South,Alabama,state_or_territory,2019-2020,579,265,45.77
+South,Alabama,state_or_territory,2020-2021,602,267,44.35
+South,Alabama,state_or_territory,2021-2022,701,280,39.94
+South,Alabama,state_or_territory,2022-2023,647,269,41.58
+South,Alabama,state_or_territory,2023-2024,634,300,47.32
+South,Alabama,state_or_territory,2024-2025,583,274,47.0
+South,Alabama,state_or_territory,2025-2026,617,276,44.73
+South,Arkansas,state_or_territory,2016-2017,407,174,42.75
+South,Arkansas,state_or_territory,2017-2018,355,169,47.61
+South,Arkansas,state_or_territory,2018-2019,352,172,48.86
+South,Arkansas,state_or_territory,2019-2020,374,178,47.59
+South,Arkansas,state_or_territory,2020-2021,374,199,53.21
+South,Arkansas,state_or_territory,2021-2022,399,184,46.12
+South,Arkansas,state_or_territory,2022-2023,367,188,51.23
+South,Arkansas,state_or_territory,2023-2024,337,193,57.27
+South,Arkansas,state_or_territory,2024-2025,311,172,55.31
+South,Arkansas,state_or_territory,2025-2026,339,179,52.8
+South,Florida,state_or_territory,2016-2017,3321,1075,32.37
+South,Florida,state_or_territory,2017-2018,3340,1131,33.86
+South,Florida,state_or_territory,2018-2019,3509,1237,35.25
+South,Florida,state_or_territory,2019-2020,3493,1189,34.04
+South,Florida,state_or_territory,2020-2021,3468,1189,34.28
+South,Florida,state_or_territory,2021-2022,4248,1244,29.28
+South,Florida,state_or_territory,2022-2023,3595,1190,33.1
+South,Florida,state_or_territory,2023-2024,3508,1296,36.94
+South,Florida,state_or_territory,2024-2025,3532,1321,37.4
+South,Florida,state_or_territory,2025-2026,3712,1283,34.56
+South,Georgia,state_or_territory,2016-2017,1594,669,41.97
+South,Georgia,state_or_territory,2017-2018,1572,647,41.16
+South,Georgia,state_or_territory,2018-2019,1584,644,40.66
+South,Georgia,state_or_territory,2019-2020,1616,654,40.47
+South,Georgia,state_or_territory,2020-2021,1688,672,39.81
+South,Georgia,state_or_territory,2021-2022,2085,744,35.68
+South,Georgia,state_or_territory,2022-2023,1914,790,41.27
+South,Georgia,state_or_territory,2023-2024,1825,808,44.27
+South,Georgia,state_or_territory,2024-2025,1785,831,46.55
+South,Georgia,state_or_territory,2025-2026,1838,852,46.35
+South,Kentucky,state_or_territory,2016-2017,516,233,45.16
+South,Kentucky,state_or_territory,2017-2018,533,282,52.91
+South,Kentucky,state_or_territory,2018-2019,539,298,55.29
+South,Kentucky,state_or_territory,2019-2020,613,360,58.73
+South,Kentucky,state_or_territory,2020-2021,624,331,53.04
+South,Kentucky,state_or_territory,2021-2022,655,327,49.92
+South,Kentucky,state_or_territory,2022-2023,633,341,53.87
+South,Kentucky,state_or_territory,2023-2024,628,323,51.43
+South,Kentucky,state_or_territory,2024-2025,595,325,54.62
+South,Kentucky,state_or_territory,2025-2026,619,332,53.63
+South,Louisiana,state_or_territory,2016-2017,853,359,42.09
+South,Louisiana,state_or_territory,2017-2018,830,362,43.61
+South,Louisiana,state_or_territory,2018-2019,864,386,44.68
+South,Louisiana,state_or_territory,2019-2020,869,391,44.99
+South,Louisiana,state_or_territory,2020-2021,838,402,47.97
+South,Louisiana,state_or_territory,2021-2022,911,382,41.93
+South,Louisiana,state_or_territory,2022-2023,847,393,46.4
+South,Louisiana,state_or_territory,2023-2024,816,409,50.12
+South,Louisiana,state_or_territory,2024-2025,759,385,50.72
+South,Louisiana,state_or_territory,2025-2026,759,367,48.35
+South,Mississippi,state_or_territory,2016-2017,419,168,40.1
+South,Mississippi,state_or_territory,2017-2018,438,172,39.27
+South,Mississippi,state_or_territory,2018-2019,475,194,40.84
+South,Mississippi,state_or_territory,2019-2020,457,185,40.48
+South,Mississippi,state_or_territory,2020-2021,432,189,43.75
+South,Mississippi,state_or_territory,2021-2022,478,193,40.38
+South,Mississippi,state_or_territory,2022-2023,454,185,40.75
+South,Mississippi,state_or_territory,2023-2024,400,185,46.25
+South,Mississippi,state_or_territory,2024-2025,378,190,50.26
+South,Mississippi,state_or_territory,2025-2026,355,199,56.06
+South,North Carolina,state_or_territory,2016-2017,1263,468,37.05
+South,North Carolina,state_or_territory,2017-2018,1239,497,40.11
+South,North Carolina,state_or_territory,2018-2019,1311,538,41.04
+South,North Carolina,state_or_territory,2019-2020,1322,537,40.62
+South,North Carolina,state_or_territory,2020-2021,1244,533,42.85
+South,North Carolina,state_or_territory,2021-2022,1520,541,35.59
+South,North Carolina,state_or_territory,2022-2023,1429,549,38.42
+South,North Carolina,state_or_territory,2023-2024,1377,611,44.37
+South,North Carolina,state_or_territory,2024-2025,1406,613,43.6
+South,North Carolina,state_or_territory,2025-2026,1409,621,44.07
+South,Oklahoma,state_or_territory,2016-2017,471,180,38.22
+South,Oklahoma,state_or_territory,2017-2018,421,174,41.33
+South,Oklahoma,state_or_territory,2018-2019,415,180,43.37
+South,Oklahoma,state_or_territory,2019-2020,446,187,41.93
+South,Oklahoma,state_or_territory,2020-2021,457,194,42.45
+South,Oklahoma,state_or_territory,2021-2022,489,193,39.47
+South,Oklahoma,state_or_territory,2022-2023,407,181,44.47
+South,Oklahoma,state_or_territory,2023-2024,364,185,50.82
+South,Oklahoma,state_or_territory,2024-2025,322,169,52.48
+South,Oklahoma,state_or_territory,2025-2026,368,129,35.05
+South,Puerto Rico,state_or_territory,2016-2017,659,294,44.61
+South,Puerto Rico,state_or_territory,2017-2018,671,283,42.18
+South,Puerto Rico,state_or_territory,2018-2019,590,297,50.34
+South,Puerto Rico,state_or_territory,2019-2020,636,304,47.8
+South,Puerto Rico,state_or_territory,2020-2021,621,349,56.2
+South,Puerto Rico,state_or_territory,2021-2022,694,345,49.71
+South,Puerto Rico,state_or_territory,2022-2023,604,353,58.44
+South,Puerto Rico,state_or_territory,2023-2024,558,334,59.86
+South,Puerto Rico,state_or_territory,2024-2025,576,337,58.51
+South,Puerto Rico,state_or_territory,2025-2026,643,338,52.57
+South,South Carolina,state_or_territory,2016-2017,692,319,46.1
+South,South Carolina,state_or_territory,2017-2018,691,328,47.47
+South,South Carolina,state_or_territory,2018-2019,712,329,46.21
+South,South Carolina,state_or_territory,2019-2020,724,326,45.03
+South,South Carolina,state_or_territory,2020-2021,674,318,47.18
+South,South Carolina,state_or_territory,2021-2022,767,349,45.5
+South,South Carolina,state_or_territory,2022-2023,660,315,47.73
+South,South Carolina,state_or_territory,2023-2024,633,347,54.82
+South,South Carolina,state_or_territory,2024-2025,654,347,53.06
+South,South Carolina,state_or_territory,2025-2026,663,350,52.79
+South,Tennessee,state_or_territory,2016-2017,945,343,36.3
+South,Tennessee,state_or_territory,2017-2018,851,357,41.95
+South,Tennessee,state_or_territory,2018-2019,875,360,41.14
+South,Tennessee,state_or_territory,2019-2020,857,355,41.42
+South,Tennessee,state_or_territory,2020-2021,844,347,41.11
+South,Tennessee,state_or_territory,2021-2022,1052,369,35.08
+South,Tennessee,state_or_territory,2022-2023,882,366,41.5
+South,Tennessee,state_or_territory,2023-2024,778,331,42.54
+South,Tennessee,state_or_territory,2024-2025,853,381,44.67
+South,Tennessee,state_or_territory,2025-2026,847,373,44.04
+South,Texas,state_or_territory,2016-2017,4531,1697,37.45
+South,Texas,state_or_territory,2017-2018,4515,1726,38.23
+South,Texas,state_or_territory,2018-2019,4559,1713,37.57
+South,Texas,state_or_territory,2019-2020,4892,1721,35.18
+South,Texas,state_or_territory,2020-2021,4888,1852,37.89
+South,Texas,state_or_territory,2021-2022,5894,1931,32.76
+South,Texas,state_or_territory,2022-2023,5235,1977,37.77
+South,Texas,state_or_territory,2023-2024,5039,1993,39.55
+South,Texas,state_or_territory,2024-2025,5078,2010,39.58
+South,Texas,state_or_territory,2025-2026,5446,2102,38.6
+South,Virginia,state_or_territory,2016-2017,1357,524,38.61
+South,Virginia,state_or_territory,2017-2018,1340,554,41.34
+South,Virginia,state_or_territory,2018-2019,1438,587,40.82
+South,Virginia,state_or_territory,2019-2020,1407,541,38.45
+South,Virginia,state_or_territory,2020-2021,1423,563,39.56
+South,Virginia,state_or_territory,2021-2022,1648,591,35.86
+South,Virginia,state_or_territory,2022-2023,1592,630,39.57
+South,Virginia,state_or_territory,2023-2024,1536,597,38.87
+South,Virginia,state_or_territory,2024-2025,1502,645,42.94
+South,Virginia,state_or_territory,2025-2026,1574,663,42.12
+South,West Virginia,state_or_territory,2016-2017,250,135,54.0
+South,West Virginia,state_or_territory,2017-2018,207,117,56.52
+South,West Virginia,state_or_territory,2018-2019,262,153,58.4
+South,West Virginia,state_or_territory,2019-2020,247,140,56.68
+South,West Virginia,state_or_territory,2020-2021,267,147,55.06
+South,West Virginia,state_or_territory,2021-2022,256,139,54.3
+South,West Virginia,state_or_territory,2022-2023,201,121,60.2
+South,West Virginia,state_or_territory,2023-2024,229,135,58.95
+South,West Virginia,state_or_territory,2024-2025,179,109,60.89
+South,West Virginia,state_or_territory,2025-2026,184,108,58.7
+West,Alaska,state_or_territory,2016-2017,96,38,39.58
+West,Alaska,state_or_territory,2017-2018,88,37,42.05
+West,Alaska,state_or_territory,2018-2019,75,28,37.33
+West,Alaska,state_or_territory,2019-2020,95,41,43.16
+West,Alaska,state_or_territory,2020-2021,89,32,35.96
+West,Alaska,state_or_territory,2021-2022,94,33,35.11
+West,Alaska,state_or_territory,2022-2023,89,35,39.33
+West,Alaska,state_or_territory,2023-2024,77,39,50.65
+West,Alaska,state_or_territory,2024-2025,73,39,53.42
+West,Alaska,state_or_territory,2025-2026,77,45,58.44
+West,Arizona,state_or_territory,2016-2017,972,286,29.42
+West,Arizona,state_or_territory,2017-2018,963,282,29.28
+West,Arizona,state_or_territory,2018-2019,966,291,30.12
+West,Arizona,state_or_territory,2019-2020,916,300,32.75
+West,Arizona,state_or_territory,2020-2021,912,310,33.99
+West,Arizona,state_or_territory,2021-2022,1077,318,29.53
+West,Arizona,state_or_territory,2022-2023,927,322,34.74
+West,Arizona,state_or_territory,2023-2024,859,301,35.04
+West,Arizona,state_or_territory,2024-2025,848,321,37.85
+West,Arizona,state_or_territory,2025-2026,957,344,35.95
+West,California,state_or_territory,2016-2017,6437,2606,40.48
+West,California,state_or_territory,2017-2018,5984,2441,40.79
+West,California,state_or_territory,2018-2019,6237,2585,41.45
+West,California,state_or_territory,2019-2020,6228,2602,41.78
+West,California,state_or_territory,2020-2021,6652,2706,40.68
+West,California,state_or_territory,2021-2022,7940,2742,34.53
+West,California,state_or_territory,2022-2023,6879,2740,39.83
+West,California,state_or_territory,2023-2024,6708,2899,43.22
+West,California,state_or_territory,2024-2025,6700,2825,42.16
+West,California,state_or_territory,2025-2026,7216,2933,40.65
+West,Colorado,state_or_territory,2016-2017,782,284,36.32
+West,Colorado,state_or_territory,2017-2018,842,324,38.48
+West,Colorado,state_or_territory,2018-2019,800,286,35.75
+West,Colorado,state_or_territory,2019-2020,845,300,35.5
+West,Colorado,state_or_territory,2020-2021,762,274,35.96
+West,Colorado,state_or_territory,2021-2022,947,291,30.73
+West,Colorado,state_or_territory,2022-2023,769,273,35.5
+West,Colorado,state_or_territory,2023-2024,776,285,36.73
+West,Colorado,state_or_territory,2024-2025,723,277,38.31
+West,Colorado,state_or_territory,2025-2026,709,262,36.95
+West,Hawaii,state_or_territory,2016-2017,280,92,32.86
+West,Hawaii,state_or_territory,2017-2018,260,90,34.62
+West,Hawaii,state_or_territory,2018-2019,259,82,31.66
+West,Hawaii,state_or_territory,2019-2020,265,101,38.11
+West,Hawaii,state_or_territory,2020-2021,273,106,38.83
+West,Hawaii,state_or_territory,2021-2022,287,87,30.31
+West,Hawaii,state_or_territory,2022-2023,218,94,43.12
+West,Hawaii,state_or_territory,2023-2024,235,94,40.0
+West,Hawaii,state_or_territory,2024-2025,226,91,40.27
+West,Hawaii,state_or_territory,2025-2026,230,91,39.57
+West,Idaho,state_or_territory,2016-2017,171,67,39.18
+West,Idaho,state_or_territory,2017-2018,170,65,38.24
+West,Idaho,state_or_territory,2018-2019,182,68,37.36
+West,Idaho,state_or_territory,2019-2020,201,75,37.31
+West,Idaho,state_or_territory,2020-2021,209,84,40.19
+West,Idaho,state_or_territory,2021-2022,226,82,36.28
+West,Idaho,state_or_territory,2022-2023,203,76,37.44
+West,Idaho,state_or_territory,2023-2024,192,75,39.06
+West,Idaho,state_or_territory,2024-2025,183,84,45.9
+West,Idaho,state_or_territory,2025-2026,165,79,47.88
+West,Montana,state_or_territory,2016-2017,111,55,49.55
+West,Montana,state_or_territory,2017-2018,113,52,46.02
+West,Montana,state_or_territory,2018-2019,136,56,41.18
+West,Montana,state_or_territory,2019-2020,126,57,45.24
+West,Montana,state_or_territory,2020-2021,134,61,45.52
+West,Montana,state_or_territory,2021-2022,134,56,41.79
+West,Montana,state_or_territory,2022-2023,138,62,44.93
+West,Montana,state_or_territory,2023-2024,116,55,47.41
+West,Montana,state_or_territory,2024-2025,104,49,47.12
+West,Montana,state_or_territory,2025-2026,137,60,43.8
+West,Nevada,state_or_territory,2016-2017,241,72,29.88
+West,Nevada,state_or_territory,2017-2018,348,141,40.52
+West,Nevada,state_or_territory,2018-2019,368,149,40.49
+West,Nevada,state_or_territory,2019-2020,341,140,41.06
+West,Nevada,state_or_territory,2020-2021,352,148,42.05
+West,Nevada,state_or_territory,2021-2022,402,149,37.06
+West,Nevada,state_or_territory,2022-2023,396,155,39.14
+West,Nevada,state_or_territory,2023-2024,349,150,42.98
+West,Nevada,state_or_territory,2024-2025,308,136,44.16
+West,Nevada,state_or_territory,2025-2026,346,147,42.49
+West,New Mexico,state_or_territory,2016-2017,343,129,37.61
+West,New Mexico,state_or_territory,2017-2018,310,126,40.65
+West,New Mexico,state_or_territory,2018-2019,311,131,42.12
+West,New Mexico,state_or_territory,2019-2020,265,126,47.55
+West,New Mexico,state_or_territory,2020-2021,252,113,44.84
+West,New Mexico,state_or_territory,2021-2022,271,117,43.17
+West,New Mexico,state_or_territory,2022-2023,251,121,48.21
+West,New Mexico,state_or_territory,2023-2024,211,115,54.5
+West,New Mexico,state_or_territory,2024-2025,199,107,53.77
+West,New Mexico,state_or_territory,2025-2026,214,104,48.6
+West,Oregon,state_or_territory,2016-2017,512,199,38.87
+West,Oregon,state_or_territory,2017-2018,541,225,41.59
+West,Oregon,state_or_territory,2018-2019,509,193,37.92
+West,Oregon,state_or_territory,2019-2020,572,205,35.84
+West,Oregon,state_or_territory,2020-2021,554,194,35.02
+West,Oregon,state_or_territory,2021-2022,656,221,33.69
+West,Oregon,state_or_territory,2022-2023,559,209,37.39
+West,Oregon,state_or_territory,2023-2024,477,201,42.14
+West,Oregon,state_or_territory,2024-2025,481,213,44.28
+West,Oregon,state_or_territory,2025-2026,506,207,40.91
+West,Utah,state_or_territory,2016-2017,583,197,33.79
+West,Utah,state_or_territory,2017-2018,606,204,33.66
+West,Utah,state_or_territory,2018-2019,594,207,34.85
+West,Utah,state_or_territory,2019-2020,632,212,33.54
+West,Utah,state_or_territory,2020-2021,651,239,36.71
+West,Utah,state_or_territory,2021-2022,712,219,30.76
+West,Utah,state_or_territory,2022-2023,673,216,32.1
+West,Utah,state_or_territory,2023-2024,593,242,40.81
+West,Utah,state_or_territory,2024-2025,635,261,41.1
+West,Utah,state_or_territory,2025-2026,637,230,36.11
+West,Washington,state_or_territory,2016-2017,1052,385,36.6
+West,Washington,state_or_territory,2017-2018,1072,433,40.39
+West,Washington,state_or_territory,2018-2019,1066,408,38.27
+West,Washington,state_or_territory,2019-2020,1135,448,39.47
+West,Washington,state_or_territory,2020-2021,1068,425,39.79
+West,Washington,state_or_territory,2021-2022,1352,442,32.69
+West,Washington,state_or_territory,2022-2023,1119,403,36.01
+West,Washington,state_or_territory,2023-2024,1067,456,42.74
+West,Washington,state_or_territory,2024-2025,1003,451,44.97
+West,Washington,state_or_territory,2025-2026,1051,447,42.53
+West,Wyoming,state_or_territory,2016-2017,63,31,49.21
+West,Wyoming,state_or_territory,2017-2018,63,33,52.38
+West,Wyoming,state_or_territory,2018-2019,67,31,46.27
+West,Wyoming,state_or_territory,2019-2020,70,29,41.43
+West,Wyoming,state_or_territory,2020-2021,65,32,49.23
+West,Wyoming,state_or_territory,2021-2022,65,27,41.54
+West,Wyoming,state_or_territory,2022-2023,58,31,53.45
+West,Wyoming,state_or_territory,2023-2024,54,28,51.85
+West,Wyoming,state_or_territory,2024-2025,54,29,53.7
+West,Wyoming,state_or_territory,2025-2026,44,30,68.18

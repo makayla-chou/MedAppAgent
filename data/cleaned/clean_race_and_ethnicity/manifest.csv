@@ -1,0 +1,17 @@
+﻿filename,rows,purpose
+README.txt,,Package guide and recommended app usage.
+combined_race_ethnicity_stage_summary_2025_2026.csv,31,"Current-year applicant, acceptee, and matriculant summary by response type."
+combined_race_ethnicity_trends_2021_2026_long.csv,405,"Best five-year race/ethnicity trend file for SQL, charts, and retrieval."
+combined_race_gender_outcomes_2025_2026_wide.csv,213,"Gender/race rows with derived acceptance, matriculation, and yield ratios."
+combined_race_gender_stage_counts_2025_2026_long.csv,852,Best gender/race/stage file for SQL and retrieval.
+combined_state_race_outcomes_2025_2026_long.csv,780,"Best state-by-race file for SQL, filtering, retrieval, and charts."
+combined_state_race_outcomes_2025_2026_wide.csv,60,Best state-by-race file for direct app lookups and feature generation.
+data_dictionary.csv,12,Column definitions and interpretation warnings.
+facts_a10_applicants_by_state_and_race_2025_2026.csv,60,Clean source table for applicants by legal residence and race/ethnicity.
+facts_a11_matriculants_by_state_and_race_2025_2026.csv,60,Clean source table for matriculants by legal residence and race/ethnicity.
+facts_a12_race_ethnicity_by_gender_and_stage_2025_2026.csv,213,"Clean source table for race/ethnicity, gender, and application stage."
+facts_a14_1_applicant_race_ethnicity_trends_2021_2026.csv,54,Clean source table for applicant race/ethnicity counts and percentages.
+facts_a14_2_acceptee_race_ethnicity_trends_2021_2026.csv,54,Clean source table for acceptee race/ethnicity counts and percentages.
+facts_a14_3_matriculant_race_ethnicity_trends_2021_2026.csv,54,Clean source table for matriculant race/ethnicity counts and percentages.
+source_metadata.csv,6,"Original titles, descriptions, footnotes, notes, and workbook names."
+validation_report.csv,52,Cross-table consistency checks.

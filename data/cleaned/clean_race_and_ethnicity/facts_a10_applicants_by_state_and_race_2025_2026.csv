@@ -1,0 +1,61 @@
+﻿region,entity_name,entity_type,application_stage,american_indian_or_alaska_native,asian,black_or_african_american,hispanic_or_latino,middle_eastern_or_north_african,native_hawaiian_or_pacific_islander,white,some_other_race_or_ethnicity,multiple_race_or_ethnicity,unknown_race_or_ethnicity,total_us_citizen_and_permanent_resident,total_non_us_citizen_and_non_permanent_resident,total_people,source_table
+Northeast,Connecticut,state_or_district,Applicants,0,138,46,18,13,0,252,5,75,38,578,7,585,A-10
+Northeast,Delaware,state_or_district,Applicants,0,41,25,1,4,0,36,1,11,5,123,1,124,A-10
+Northeast,District of Columbia,state_or_district,Applicants,0,12,36,1,4,0,44,0,18,3,116,2,118,A-10
+Northeast,Maine,state_or_district,Applicants,0,8,4,0,3,0,58,1,8,3,84,1,85,A-10
+Northeast,Maryland,state_or_district,Applicants,0,389,327,38,41,0,343,5,139,77,1320,39,1359,A-10
+Northeast,Massachusetts,state_or_district,Applicants,0,407,110,47,48,0,580,11,169,93,1416,49,1465,A-10
+Northeast,New Hampshire,state_or_district,Applicants,0,34,2,5,1,0,66,1,11,9,127,2,129,A-10
+Northeast,New Jersey,state_or_district,Applicants,0,783,178,93,99,0,474,7,223,152,1981,28,2009,A-10
+Northeast,New York,state_or_district,Applicants,2,1002,410,221,134,0,1101,44,446,235,3527,68,3595,A-10
+Northeast,Pennsylvania,state_or_district,Applicants,0,378,128,32,56,0,752,3,178,99,1593,33,1626,A-10
+Northeast,Rhode Island,state_or_district,Applicants,0,16,10,3,1,0,56,1,14,6,103,4,107,A-10
+Northeast,Vermont,state_or_district,Applicants,0,6,2,0,1,0,53,0,11,3,75,1,76,A-10
+Northeast,Total for the Region,region_total,Applicants,2,3214,1278,459,405,0,3815,79,1303,723,11043,235,11278,A-10
+Central,Illinois,state_or_district,Applicants,1,616,177,126,124,0,779,10,203,127,2128,35,2163,A-10
+Central,Indiana,state_or_district,Applicants,0,132,56,19,22,0,381,2,77,41,723,7,730,A-10
+Central,Iowa,state_or_district,Applicants,0,44,12,10,9,0,200,0,36,16,326,1,327,A-10
+Central,Kansas,state_or_district,Applicants,0,107,20,24,13,0,237,1,40,17,454,5,459,A-10
+Central,Michigan,state_or_district,Applicants,4,429,123,28,299,0,718,6,191,120,1894,24,1918,A-10
+Central,Minnesota,state_or_district,Applicants,0,153,86,15,15,1,551,1,89,43,943,11,954,A-10
+Central,Missouri,state_or_district,Applicants,1,168,59,17,21,0,388,0,64,39,738,19,757,A-10
+Central,Nebraska,state_or_district,Applicants,2,42,11,14,6,0,204,1,22,21,320,3,323,A-10
+Central,North Dakota,state_or_district,Applicants,0,12,4,0,0,0,73,0,8,16,112,1,113,A-10
+Central,Ohio,state_or_district,Applicants,0,371,154,26,96,0,745,4,160,87,1623,20,1643,A-10
+Central,South Dakota,state_or_district,Applicants,1,7,3,2,3,0,105,0,9,5,135,0,135,A-10
+Central,Wisconsin,state_or_district,Applicants,0,131,24,15,19,0,480,1,79,48,788,9,797,A-10
+Central,Total for the Region,region_total,Applicants,9,2212,729,296,627,1,4861,26,978,580,10184,135,10319,A-10
+South,Alabama,state_or_district,Applicants,3,103,86,17,9,0,303,0,57,39,615,2,617,A-10
+South,Arkansas,state_or_district,Applicants,1,48,26,13,13,0,181,1,41,15,338,1,339,A-10
+South,Florida,state_or_district,Applicants,1,594,452,706,138,1,945,24,688,163,3675,37,3712,A-10
+South,Georgia,state_or_district,Applicants,1,479,444,60,44,0,535,8,162,105,1821,17,1838,A-10
+South,Kentucky,state_or_district,Applicants,0,108,34,17,27,0,349,1,51,32,613,6,619,A-10
+South,Louisiana,state_or_district,Applicants,6,91,117,18,18,0,399,0,84,26,753,6,759,A-10
+South,Mississippi,state_or_district,Applicants,0,30,80,8,7,0,198,0,17,15,352,3,355,A-10
+South,North Carolina,state_or_district,Applicants,2,332,192,53,34,2,571,2,143,78,1394,15,1409,A-10
+South,Oklahoma,state_or_district,Applicants,9,74,25,14,15,0,139,0,82,10,362,6,368,A-10
+South,Puerto Rico,state_or_district,Applicants,0,0,0,562,0,0,0,0,61,20,642,1,643,A-10
+South,South Carolina,state_or_district,Applicants,2,84,85,24,10,0,363,0,61,34,653,10,663,A-10
+South,Tennessee,state_or_district,Applicants,0,147,114,25,70,0,366,3,74,48,830,17,847,A-10
+South,Texas,state_or_district,Applicants,4,1830,630,374,117,5,1406,6,906,168,5384,62,5446,A-10
+South,Virginia,state_or_district,Applicants,1,501,182,52,94,0,458,9,173,104,1558,16,1574,A-10
+South,West Virginia,state_or_district,Applicants,0,12,10,4,12,0,121,0,16,9,181,3,184,A-10
+South,Total for the Region,region_total,Applicants,30,4433,2477,1947,608,8,6334,54,2616,866,19171,202,19373,A-10
+West,Alaska,state_or_district,Applicants,1,9,3,2,0,0,44,0,14,4,77,0,77,A-10
+West,Arizona,state_or_district,Applicants,5,217,36,91,53,4,342,3,161,45,946,11,957,A-10
+West,California,state_or_district,Applicants,7,3031,270,713,564,15,1093,62,1063,398,7108,108,7216,A-10
+West,Colorado,state_or_district,Applicants,2,102,28,30,16,0,368,2,105,56,704,5,709,A-10
+West,Hawaii,state_or_district,Applicants,1,115,3,2,0,9,17,1,68,14,229,1,230,A-10
+West,Idaho,state_or_district,Applicants,1,9,2,8,3,0,127,0,12,3,163,2,165,A-10
+West,Montana,state_or_district,Applicants,3,3,0,1,0,0,114,0,13,3,137,0,137,A-10
+West,Nevada,state_or_district,Applicants,0,106,16,27,20,1,108,2,54,12,345,1,346,A-10
+West,New Mexico,state_or_district,Applicants,4,21,7,39,10,0,66,2,54,11,210,4,214,A-10
+West,Oregon,state_or_district,Applicants,6,121,14,29,12,0,210,1,92,21,502,4,506,A-10
+West,Utah,state_or_district,Applicants,3,46,5,31,4,3,464,2,48,31,628,9,637,A-10
+West,Washington,state_or_district,Applicants,5,297,45,50,35,5,377,6,164,67,1042,9,1051,A-10
+West,Wyoming,state_or_district,Applicants,1,0,0,1,0,0,36,0,3,3,44,0,44,A-10
+West,Total for the Region,region_total,Applicants,39,4077,429,1024,717,37,3366,81,1851,668,12135,154,12289,A-10
+,U.S. Territories and Possessions,special_category,Applicants,0,3,3,0,0,3,1,0,11,1,22,0,22,A-10
+,Legal Residence is Not in the U.S.,special_category,Applicants,1,637,100,25,179,2,213,13,87,133,119,1271,1390,A-10
+,Legal Residence is Unknown,special_category,Applicants,0,9,6,1,3,0,7,0,1,1,5,23,28,A-10
+,United States Total,overall_total,Applicants,81,14585,5022,3752,2539,51,18597,253,6847,2972,52679,2020,54699,A-10

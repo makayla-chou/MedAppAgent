@@ -1,0 +1,55 @@
+﻿application_stage,measure,race_ethnicity_category,response_type,row_type,2021-2022,2022-2023,2023-2024,2024-2025,2025-2026,source_table
+Matriculants,count,American Indian or Alaska Native,Alone,race_ethnicity,41,37,36,35,33,A-14.3
+Matriculants,count,American Indian or Alaska Native,In Combination,race_ethnicity,189,190,222,167,182,A-14.3
+Matriculants,count,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,230,227,258,202,215,A-14.3
+Matriculants,count,Asian,Alone,race_ethnicity,5259,5724,5994,6519,6484,A-14.3
+Matriculants,count,Asian,In Combination,race_ethnicity,853,930,862,924,1021,A-14.3
+Matriculants,count,Asian,Alone or In Combination,race_ethnicity,6112,6654,6856,7443,7505,A-14.3
+Matriculants,count,Black or African American,Alone,race_ethnicity,2206,1936,1909,1678,1558,A-14.3
+Matriculants,count,Black or African American,In Combination,race_ethnicity,441,458,469,412,412,A-14.3
+Matriculants,count,Black or African American,Alone or In Combination,race_ethnicity,2647,2394,2378,2090,1970,A-14.3
+Matriculants,count,Hispanic or Latino,Alone,race_ethnicity,1629,1484,1539,1393,1459,A-14.3
+Matriculants,count,Hispanic or Latino,In Combination,race_ethnicity,1303,1351,1425,1244,1236,A-14.3
+Matriculants,count,Hispanic or Latino,Alone or In Combination,race_ethnicity,2932,2835,2964,2637,2695,A-14.3
+Matriculants,count,Middle Eastern or North African,Alone,race_ethnicity,,,,,976,A-14.3
+Matriculants,count,Middle Eastern or North African,In Combination,race_ethnicity,,,,,509,A-14.3
+Matriculants,count,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,1485,A-14.3
+Matriculants,count,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,13,23,19,16,13,A-14.3
+Matriculants,count,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,72,79,75,75,89,A-14.3
+Matriculants,count,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,85,102,94,91,102,A-14.3
+Matriculants,count,White,Alone,race_ethnicity,9608,9628,9560,9552,8773,A-14.3
+Matriculants,count,White,In Combination,race_ethnicity,2116,2212,2256,2230,2308,A-14.3
+Matriculants,count,White,Alone or In Combination,race_ethnicity,11724,11840,11816,11782,11081,A-14.3
+Matriculants,count,Some Other Race or Ethnicity,Alone,race_ethnicity,490,509,496,551,80,A-14.3
+Matriculants,count,Some Other Race or Ethnicity,In Combination,race_ethnicity,410,431,425,485,146,A-14.3
+Matriculants,count,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,900,940,921,1036,226,A-14.3
+Matriculants,count,Unknown Race or Ethnicity,,unknown,828,650,676,736,1227,A-14.3
+Matriculants,count,Unduplicated Total URiM Matriculants,,urim_total,5643,5291,5418,4785,4760,A-14.3
+Matriculants,count,Unduplicated Total Matriculants,,unduplicated_total,22666,22710,22980,23156,23440,A-14.3
+Matriculants,percent,American Indian or Alaska Native,Alone,race_ethnicity,17.8,16.3,14,17.3,15.3,A-14.3
+Matriculants,percent,American Indian or Alaska Native,In Combination,race_ethnicity,82.2,83.7,86,82.7,84.7,A-14.3
+Matriculants,percent,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,1,1,1.1,0.9,0.9,A-14.3
+Matriculants,percent,Asian,Alone,race_ethnicity,86,86,87.4,87.6,86.4,A-14.3
+Matriculants,percent,Asian,In Combination,race_ethnicity,14,14,12.6,12.4,13.6,A-14.3
+Matriculants,percent,Asian,Alone or In Combination,race_ethnicity,27,29.3,29.8,32.1,32,A-14.3
+Matriculants,percent,Black or African American,Alone,race_ethnicity,83.3,80.9,80.3,80.3,79.1,A-14.3
+Matriculants,percent,Black or African American,In Combination,race_ethnicity,16.7,19.1,19.7,19.7,20.9,A-14.3
+Matriculants,percent,Black or African American,Alone or In Combination,race_ethnicity,11.7,10.5,10.3,9,8.4,A-14.3
+Matriculants,percent,Hispanic or Latino,Alone,race_ethnicity,55.6,52.3,51.9,52.8,54.1,A-14.3
+Matriculants,percent,Hispanic or Latino,In Combination,race_ethnicity,44.4,47.7,48.1,47.2,45.9,A-14.3
+Matriculants,percent,Hispanic or Latino,Alone or In Combination,race_ethnicity,12.9,12.5,12.9,11.4,11.5,A-14.3
+Matriculants,percent,Middle Eastern or North African,Alone,race_ethnicity,,,,,64,A-14.3
+Matriculants,percent,Middle Eastern or North African,In Combination,race_ethnicity,,,,,36,A-14.3
+Matriculants,percent,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,6.5,A-14.3
+Matriculants,percent,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,15.3,22.5,20.2,17.6,12.7,A-14.3
+Matriculants,percent,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,84.7,77.5,79.8,82.4,87.3,A-14.3
+Matriculants,percent,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,0.4,0.4,0.4,0.4,0.4,A-14.3
+Matriculants,percent,White,Alone,race_ethnicity,82,81.3,80.9,81.1,79.2,A-14.3
+Matriculants,percent,White,In Combination,race_ethnicity,18,18.7,19.1,18.9,20.8,A-14.3
+Matriculants,percent,White,Alone or In Combination,race_ethnicity,51.7,52.1,51.4,50.9,47.3,A-14.3
+Matriculants,percent,Some Other Race or Ethnicity,Alone,race_ethnicity,54.4,54.1,53.9,53.2,35.4,A-14.3
+Matriculants,percent,Some Other Race or Ethnicity,In Combination,race_ethnicity,45.6,45.9,46.1,46.8,64.6,A-14.3
+Matriculants,percent,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,4,4.1,4,4.5,1,A-14.3
+Matriculants,percent,Unknown Race or Ethnicity,,unknown,3.7,2.9,2.9,3.2,5.2,A-14.3
+Matriculants,percent,Unduplicated Total URiM Matriculants,,urim_total,24.9,23.3,23.6,20.7,20.3,A-14.3
+Matriculants,percent,Unduplicated Total Matriculants,,unduplicated_total,100,100,100,100,100,A-14.3

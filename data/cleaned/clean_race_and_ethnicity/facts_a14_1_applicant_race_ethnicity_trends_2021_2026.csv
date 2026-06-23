@@ -1,0 +1,55 @@
+﻿application_stage,measure,race_ethnicity_category,response_type,row_type,2021-2022,2022-2023,2023-2024,2024-2025,2025-2026,source_table
+Applicants,count,American Indian or Alaska Native,Alone,race_ethnicity,107,94,91,72,81,A-14.1
+Applicants,count,American Indian or Alaska Native,In Combination,race_ethnicity,588,473,495,425,586,A-14.1
+Applicants,count,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,695,567,586,497,667,A-14.1
+Applicants,count,Asian,Alone,race_ethnicity,14393,13604,13427,13928,14585,A-14.1
+Applicants,count,Asian,In Combination,race_ethnicity,2198,2057,2010,2090,2252,A-14.1
+Applicants,count,Asian,Alone or In Combination,race_ethnicity,16591,15661,15437,16018,16837,A-14.1
+Applicants,count,Black or African American,Alone,race_ethnicity,6527,5215,4936,4970,5022,A-14.1
+Applicants,count,Black or African American,In Combination,race_ethnicity,1181,1024,1021,1087,1145,A-14.1
+Applicants,count,Black or African American,Alone or In Combination,race_ethnicity,7708,6239,5957,6057,6167,A-14.1
+Applicants,count,Hispanic or Latino,Alone,race_ethnicity,4205,3382,3303,3356,3752,A-14.1
+Applicants,count,Hispanic or Latino,In Combination,race_ethnicity,3284,3038,2959,3034,3169,A-14.1
+Applicants,count,Hispanic or Latino,Alone or In Combination,race_ethnicity,7489,6420,6262,6390,6921,A-14.1
+Applicants,count,Middle Eastern or North African,Alone,race_ethnicity,,,,,2539,A-14.1
+Applicants,count,Middle Eastern or North African,In Combination,race_ethnicity,,,,,1168,A-14.1
+Applicants,count,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,3707,A-14.1
+Applicants,count,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,42,55,61,41,51,A-14.1
+Applicants,count,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,216,171,191,207,212,A-14.1
+Applicants,count,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,258,226,252,248,263,A-14.1
+Applicants,count,White,Alone,race_ethnicity,25985,23195,21403,19907,18597,A-14.1
+Applicants,count,White,In Combination,race_ethnicity,5456,4990,4983,5095,5412,A-14.1
+Applicants,count,White,Alone or In Combination,race_ethnicity,31441,28185,26386,25002,24009,A-14.1
+Applicants,count,Some Other Race or Ethnicity,Alone,race_ethnicity,1698,1501,1380,1501,253,A-14.1
+Applicants,count,Some Other Race or Ethnicity,In Combination,race_ethnicity,1281,1154,1143,1176,408,A-14.1
+Applicants,count,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2979,2655,2523,2677,661,A-14.1
+Applicants,count,Unknown Race or Ethnicity,,unknown,2686,1928,1836,1885,2972,A-14.1
+Applicants,count,Unduplicated Total URiM Applicants,,urim_total,15338,12792,12419,12533,13277,A-14.1
+Applicants,count,Unduplicated Total Applicants,,unduplicated_total,62443,55189,52577,51946,54699,A-14.1
+Applicants,percent,American Indian or Alaska Native,Alone,race_ethnicity,15.4,16.6,15.5,14.5,12.1,A-14.1
+Applicants,percent,American Indian or Alaska Native,In Combination,race_ethnicity,84.6,83.4,84.5,85.5,87.9,A-14.1
+Applicants,percent,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,1.1,1,1.1,1,1.2,A-14.1
+Applicants,percent,Asian,Alone,race_ethnicity,86.8,86.9,87,87,86.6,A-14.1
+Applicants,percent,Asian,In Combination,race_ethnicity,13.2,13.1,13,13,13.4,A-14.1
+Applicants,percent,Asian,Alone or In Combination,race_ethnicity,26.6,28.4,29.4,30.8,30.8,A-14.1
+Applicants,percent,Black or African American,Alone,race_ethnicity,84.7,83.6,82.9,82.1,81.4,A-14.1
+Applicants,percent,Black or African American,In Combination,race_ethnicity,15.3,16.4,17.1,17.9,18.6,A-14.1
+Applicants,percent,Black or African American,Alone or In Combination,race_ethnicity,12.3,11.3,11.3,11.7,11.3,A-14.1
+Applicants,percent,Hispanic or Latino,Alone,race_ethnicity,56.1,52.7,52.7,52.5,54.2,A-14.1
+Applicants,percent,Hispanic or Latino,In Combination,race_ethnicity,43.9,47.3,47.3,47.5,45.8,A-14.1
+Applicants,percent,Hispanic or Latino,Alone or In Combination,race_ethnicity,12,11.6,11.9,12.3,12.7,A-14.1
+Applicants,percent,Middle Eastern or North African,Alone,race_ethnicity,,,,,68.5,A-14.1
+Applicants,percent,Middle Eastern or North African,In Combination,race_ethnicity,,,,,31.5,A-14.1
+Applicants,percent,Middle Eastern or North African,Alone or In Combination,race_ethnicity,,,,,6.8,A-14.1
+Applicants,percent,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,16.3,24.3,24.2,16.5,19.4,A-14.1
+Applicants,percent,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,83.7,75.7,75.8,83.5,80.6,A-14.1
+Applicants,percent,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,0.4,0.4,0.5,0.5,0.5,A-14.1
+Applicants,percent,White,Alone,race_ethnicity,82.6,82.3,81.1,79.6,77.5,A-14.1
+Applicants,percent,White,In Combination,race_ethnicity,17.4,17.7,18.9,20.4,22.5,A-14.1
+Applicants,percent,White,Alone or In Combination,race_ethnicity,50.4,51.1,50.2,48.1,43.9,A-14.1
+Applicants,percent,Some Other Race or Ethnicity,Alone,race_ethnicity,57,56.5,54.7,56.1,38.3,A-14.1
+Applicants,percent,Some Other Race or Ethnicity,In Combination,race_ethnicity,43,43.5,45.3,43.9,61.7,A-14.1
+Applicants,percent,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,4.8,4.8,4.8,5.2,1.2,A-14.1
+Applicants,percent,Unknown Race or Ethnicity,,unknown,4.3,3.5,3.5,3.6,5.4,A-14.1
+Applicants,percent,Unduplicated Total URiM Applicants,,urim_total,24.6,23.2,23.6,24.1,24.3,A-14.1
+Applicants,percent,Unduplicated Total Applicants,,unduplicated_total,100,100,100,100,100,A-14.1

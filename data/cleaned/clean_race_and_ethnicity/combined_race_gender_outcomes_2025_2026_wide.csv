@@ -1,0 +1,214 @@
+﻿gender_group,race_ethnicity_category,race_ethnicity_subcategory,row_level,applicants,first_time_applicants,acceptees,matriculants,academic_year,source_table,acceptance_ratio_percent,applicant_to_matriculant_ratio_percent,matriculant_yield_percent
+Men,American Indian or Alaska Native,,main_category,37,28,17,15,2025-2026,A-12,45.95,40.54,88.24
+Men,Asian,,main_category,6097,4740,2889,2802,2025-2026,A-12,47.38,45.96,96.99
+Men,Asian,Bangladeshi,subcategory,138,109,59,56,2025-2026,A-12,42.75,40.58,94.92
+Men,Asian,Cambodian,subcategory,23,13,6,6,2025-2026,A-12,26.09,26.09,100.0
+Men,Asian,Chinese,subcategory,820,627,407,395,2025-2026,A-12,49.63,48.17,97.05
+Men,Asian,Filipino,subcategory,244,187,75,75,2025-2026,A-12,30.74,30.74,100.0
+Men,Asian,Indian,subcategory,2181,1775,1130,1096,2025-2026,A-12,51.81,50.25,96.99
+Men,Asian,Indonesian,subcategory,16,12,5,5,2025-2026,A-12,31.25,31.25,100.0
+Men,Asian,Japanese,subcategory,36,27,13,13,2025-2026,A-12,36.11,36.11,100.0
+Men,Asian,Korean,subcategory,526,394,280,268,2025-2026,A-12,53.23,50.95,95.71
+Men,Asian,Laotian,subcategory,3,2,2,2,2025-2026,A-12,66.67,66.67,100.0
+Men,Asian,Pakistani,subcategory,499,371,186,182,2025-2026,A-12,37.27,36.47,97.85
+Men,Asian,Taiwanese,subcategory,137,110,83,80,2025-2026,A-12,60.58,58.39,96.39
+Men,Asian,Vietnamese,subcategory,462,335,182,179,2025-2026,A-12,39.39,38.74,98.35
+Men,Asian,Some Other Asian,subcategory,192,142,65,63,2025-2026,A-12,33.85,32.81,96.92
+Men,Asian,More Than One Asian Response,subcategory,395,308,201,189,2025-2026,A-12,50.89,47.85,94.03
+Men,Black or African American,,main_category,1459,1001,584,552,2025-2026,A-12,40.03,37.83,94.52
+Men,Black or African American,African,subcategory,163,105,53,45,2025-2026,A-12,32.52,27.61,84.91
+Men,Black or African American,African American,subcategory,465,310,181,172,2025-2026,A-12,38.92,36.99,95.03
+Men,Black or African American,Afro-Caribbean,subcategory,30,20,17,15,2025-2026,A-12,56.67,50.0,88.24
+Men,Black or African American,Ethiopian,subcategory,21,14,11,10,2025-2026,A-12,52.38,47.62,90.91
+Men,Black or African American,Haitian,subcategory,42,26,11,11,2025-2026,A-12,26.19,26.19,100.0
+Men,Black or African American,Jamaican,subcategory,31,24,13,13,2025-2026,A-12,41.94,41.94,100.0
+Men,Black or African American,Nigerian,subcategory,71,58,34,32,2025-2026,A-12,47.89,45.07,94.12
+Men,Black or African American,Somali,subcategory,14,12,4,4,2025-2026,A-12,28.57,28.57,100.0
+Men,Black or African American,Some Other Black or African American,subcategory,27,19,10,10,2025-2026,A-12,37.04,37.04,100.0
+Men,Black or African American,More Than One Black or African American Response,subcategory,405,294,186,177,2025-2026,A-12,45.93,43.7,95.16
+Men,Hispanic or Latino,,main_category,1583,1207,707,673,2025-2026,A-12,44.66,42.51,95.19
+Men,Hispanic or Latino,Argentinean,subcategory,10,9,5,5,2025-2026,A-12,50.0,50.0,100.0
+Men,Hispanic or Latino,Colombian,subcategory,72,54,36,34,2025-2026,A-12,50.0,47.22,94.44
+Men,Hispanic or Latino,Cuban,subcategory,104,76,58,58,2025-2026,A-12,55.77,55.77,100.0
+Men,Hispanic or Latino,Dominican,subcategory,25,19,10,10,2025-2026,A-12,40.0,40.0,100.0
+Men,Hispanic or Latino,Mexican or Mexican American,subcategory,534,407,220,202,2025-2026,A-12,41.2,37.83,91.82
+Men,Hispanic or Latino,Peruvian,subcategory,47,34,16,15,2025-2026,A-12,34.04,31.91,93.75
+Men,Hispanic or Latino,Puerto Rican,subcategory,285,241,158,154,2025-2026,A-12,55.44,54.04,97.47
+Men,Hispanic or Latino,Salvadoran,subcategory,46,36,22,21,2025-2026,A-12,47.83,45.65,95.45
+Men,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,206,157,83,81,2025-2026,A-12,40.29,39.32,97.59
+Men,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,171,124,75,70,2025-2026,A-12,43.86,40.94,93.33
+Men,Middle Eastern or North African,,main_category,1257,967,558,549,2025-2026,A-12,44.39,43.68,98.39
+Men,Middle Eastern or North African,Arab,subcategory,102,73,50,47,2025-2026,A-12,49.02,46.08,94.0
+Men,Middle Eastern or North African,Egyptian,subcategory,166,131,68,67,2025-2026,A-12,40.96,40.36,98.53
+Men,Middle Eastern or North African,Iranian,subcategory,239,182,99,99,2025-2026,A-12,41.42,41.42,100.0
+Men,Middle Eastern or North African,Israeli,subcategory,16,15,5,5,2025-2026,A-12,31.25,31.25,100.0
+Men,Middle Eastern or North African,Lebanese,subcategory,84,67,42,41,2025-2026,A-12,50.0,48.81,97.62
+Men,Middle Eastern or North African,Moroccan,subcategory,19,14,3,3,2025-2026,A-12,15.79,15.79,100.0
+Men,Middle Eastern or North African,Palestinian,subcategory,40,29,17,17,2025-2026,A-12,42.5,42.5,100.0
+Men,Middle Eastern or North African,Syrian,subcategory,79,55,45,45,2025-2026,A-12,56.96,56.96,100.0
+Men,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,135,107,67,65,2025-2026,A-12,49.63,48.15,97.01
+Men,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,347,271,148,146,2025-2026,A-12,42.65,42.07,98.65
+Men,Native Hawaiian or Pacific Islander,,main_category,23,19,9,8,2025-2026,A-12,39.13,34.78,88.89
+Men,Native Hawaiian or Pacific Islander,Chamorro,subcategory,2,2,2,2,2025-2026,A-12,100.0,100.0,100.0
+Men,Native Hawaiian or Pacific Islander,Fijian,subcategory,5,5,1,0,2025-2026,A-12,20.0,0.0,0.0
+Men,Native Hawaiian or Pacific Islander,Marshallese,subcategory,0,0,0,0,2025-2026,A-12,,,
+Men,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,7,6,2,2,2025-2026,A-12,28.57,28.57,100.0
+Men,Native Hawaiian or Pacific Islander,Samoan,subcategory,1,1,0,0,2025-2026,A-12,0.0,0.0,
+Men,Native Hawaiian or Pacific Islander,Tongan,subcategory,0,0,0,0,2025-2026,A-12,,,
+Men,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,3,2,2,2,2025-2026,A-12,66.67,66.67,100.0
+Men,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,2,1,1,1,2025-2026,A-12,50.0,50.0,100.0
+Men,White,,main_category,8236,6344,4095,3954,2025-2026,A-12,49.72,48.01,96.56
+Men,White,English,subcategory,769,601,304,287,2025-2026,A-12,39.53,37.32,94.41
+Men,White,French,subcategory,24,21,13,13,2025-2026,A-12,54.17,54.17,100.0
+Men,White,German,subcategory,164,119,82,81,2025-2026,A-12,50.0,49.39,98.78
+Men,White,Irish,subcategory,200,158,104,99,2025-2026,A-12,52.0,49.5,95.19
+Men,White,Italian,subcategory,202,160,88,84,2025-2026,A-12,43.56,41.58,95.45
+Men,White,Polish,subcategory,114,86,61,58,2025-2026,A-12,53.51,50.88,95.08
+Men,White,Some Other White,subcategory,575,449,258,253,2025-2026,A-12,44.87,44.0,98.06
+Men,White,More Than One White Response,subcategory,2495,2009,1219,1179,2025-2026,A-12,48.86,47.25,96.72
+Men,Some Other Race or Ethnicity,,main_category,103,73,34,34,2025-2026,A-12,33.01,33.01,100.0
+Men,Multiple Race or Ethnicity,,main_category,2893,2211,1293,1244,2025-2026,A-12,44.69,43.0,96.21
+Men,Unknown Race or Ethnicity,,main_category,1384,772,612,578,2025-2026,A-12,44.22,41.76,94.44
+Men,Subtotal,,summary,23072,17362,10798,10409,2025-2026,A-12,46.8,45.12,96.4
+Women,American Indian or Alaska Native,,main_category,44,34,18,18,2025-2026,A-12,40.91,40.91,100.0
+Women,Asian,,main_category,8413,6762,3741,3648,2025-2026,A-12,44.47,43.36,97.51
+Women,Asian,Bangladeshi,subcategory,216,173,79,74,2025-2026,A-12,36.57,34.26,93.67
+Women,Asian,Cambodian,subcategory,21,15,7,7,2025-2026,A-12,33.33,33.33,100.0
+Women,Asian,Chinese,subcategory,1116,917,625,610,2025-2026,A-12,56.0,54.66,97.6
+Women,Asian,Filipino,subcategory,358,275,100,96,2025-2026,A-12,27.93,26.82,96.0
+Women,Asian,Indian,subcategory,3138,2598,1432,1401,2025-2026,A-12,45.63,44.65,97.84
+Women,Asian,Indonesian,subcategory,17,13,7,7,2025-2026,A-12,41.18,41.18,100.0
+Women,Asian,Japanese,subcategory,59,48,35,34,2025-2026,A-12,59.32,57.63,97.14
+Women,Asian,Korean,subcategory,670,495,332,319,2025-2026,A-12,49.55,47.61,96.08
+Women,Asian,Laotian,subcategory,7,5,2,2,2025-2026,A-12,28.57,28.57,100.0
+Women,Asian,Pakistani,subcategory,573,437,191,187,2025-2026,A-12,33.33,32.64,97.91
+Women,Asian,Taiwanese,subcategory,192,151,108,105,2025-2026,A-12,56.25,54.69,97.22
+Women,Asian,Vietnamese,subcategory,602,483,236,232,2025-2026,A-12,39.2,38.54,98.31
+Women,Asian,Some Other Asian,subcategory,335,261,95,93,2025-2026,A-12,28.36,27.76,97.89
+Women,Asian,More Than One Asian Response,subcategory,522,414,230,223,2025-2026,A-12,44.06,42.72,96.96
+Women,Black or African American,,main_category,3554,2415,1056,1004,2025-2026,A-12,29.71,28.25,95.08
+Women,Black or African American,African,subcategory,336,234,77,68,2025-2026,A-12,22.92,20.24,88.31
+Women,Black or African American,African American,subcategory,1183,793,355,338,2025-2026,A-12,30.01,28.57,95.21
+Women,Black or African American,Afro-Caribbean,subcategory,108,67,26,24,2025-2026,A-12,24.07,22.22,92.31
+Women,Black or African American,Ethiopian,subcategory,55,42,23,22,2025-2026,A-12,41.82,40.0,95.65
+Women,Black or African American,Haitian,subcategory,142,90,21,21,2025-2026,A-12,14.79,14.79,100.0
+Women,Black or African American,Jamaican,subcategory,105,79,29,28,2025-2026,A-12,27.62,26.67,96.55
+Women,Black or African American,Nigerian,subcategory,190,139,70,65,2025-2026,A-12,36.84,34.21,92.86
+Women,Black or African American,Somali,subcategory,24,19,6,6,2025-2026,A-12,25.0,25.0,100.0
+Women,Black or African American,Some Other Black or African American,subcategory,58,42,16,14,2025-2026,A-12,27.59,24.14,87.5
+Women,Black or African American,More Than One Black or African American Response,subcategory,892,632,321,307,2025-2026,A-12,35.99,34.42,95.64
+Women,Hispanic or Latino,,main_category,2157,1702,818,781,2025-2026,A-12,37.92,36.21,95.48
+Women,Hispanic or Latino,Argentinean,subcategory,17,16,8,8,2025-2026,A-12,47.06,47.06,100.0
+Women,Hispanic or Latino,Colombian,subcategory,114,86,42,39,2025-2026,A-12,36.84,34.21,92.86
+Women,Hispanic or Latino,Cuban,subcategory,155,125,59,56,2025-2026,A-12,38.06,36.13,94.92
+Women,Hispanic or Latino,Dominican,subcategory,35,30,8,8,2025-2026,A-12,22.86,22.86,100.0
+Women,Hispanic or Latino,Mexican or Mexican American,subcategory,659,497,219,205,2025-2026,A-12,33.23,31.11,93.61
+Women,Hispanic or Latino,Peruvian,subcategory,61,47,30,30,2025-2026,A-12,49.18,49.18,100.0
+Women,Hispanic or Latino,Puerto Rican,subcategory,411,356,191,189,2025-2026,A-12,46.47,45.99,98.95
+Women,Hispanic or Latino,Salvadoran,subcategory,57,45,17,16,2025-2026,A-12,29.82,28.07,94.12
+Women,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,269,199,95,87,2025-2026,A-12,35.32,32.34,91.58
+Women,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,275,225,112,108,2025-2026,A-12,40.73,39.27,96.43
+Women,Middle Eastern or North African,,main_category,1276,976,445,424,2025-2026,A-12,34.87,33.23,95.28
+Women,Middle Eastern or North African,Arab,subcategory,87,65,30,30,2025-2026,A-12,34.48,34.48,100.0
+Women,Middle Eastern or North African,Egyptian,subcategory,162,132,50,48,2025-2026,A-12,30.86,29.63,96.0
+Women,Middle Eastern or North African,Iranian,subcategory,271,194,100,94,2025-2026,A-12,36.9,34.69,94.0
+Women,Middle Eastern or North African,Israeli,subcategory,15,12,4,4,2025-2026,A-12,26.67,26.67,100.0
+Women,Middle Eastern or North African,Lebanese,subcategory,93,73,31,30,2025-2026,A-12,33.33,32.26,96.77
+Women,Middle Eastern or North African,Moroccan,subcategory,29,22,7,7,2025-2026,A-12,24.14,24.14,100.0
+Women,Middle Eastern or North African,Palestinian,subcategory,32,24,11,10,2025-2026,A-12,34.38,31.25,90.91
+Women,Middle Eastern or North African,Syrian,subcategory,41,32,20,20,2025-2026,A-12,48.78,48.78,100.0
+Women,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,202,152,69,67,2025-2026,A-12,34.16,33.17,97.1
+Women,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,302,237,108,102,2025-2026,A-12,35.76,33.77,94.44
+Women,Native Hawaiian or Pacific Islander,,main_category,27,21,5,5,2025-2026,A-12,18.52,18.52,100.0
+Women,Native Hawaiian or Pacific Islander,Chamorro,subcategory,8,7,1,1,2025-2026,A-12,12.5,12.5,100.0
+Women,Native Hawaiian or Pacific Islander,Fijian,subcategory,2,2,0,0,2025-2026,A-12,0.0,0.0,
+Women,Native Hawaiian or Pacific Islander,Marshallese,subcategory,0,0,0,0,2025-2026,A-12,,,
+Women,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,6,4,0,0,2025-2026,A-12,0.0,0.0,
+Women,Native Hawaiian or Pacific Islander,Samoan,subcategory,1,1,1,1,2025-2026,A-12,100.0,100.0,100.0
+Women,Native Hawaiian or Pacific Islander,Tongan,subcategory,2,2,0,0,2025-2026,A-12,0.0,0.0,
+Women,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,3,2,0,0,2025-2026,A-12,0.0,0.0,
+Women,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,3,2,2,2,2025-2026,A-12,66.67,66.67,100.0
+Women,White,,main_category,10237,8208,4953,4769,2025-2026,A-12,48.38,46.59,96.29
+Women,White,English,subcategory,740,597,269,257,2025-2026,A-12,36.35,34.73,95.54
+Women,White,French,subcategory,46,33,25,24,2025-2026,A-12,54.35,52.17,96.0
+Women,White,German,subcategory,192,150,83,80,2025-2026,A-12,43.23,41.67,96.39
+Women,White,Irish,subcategory,212,168,106,103,2025-2026,A-12,50.0,48.58,97.17
+Women,White,Italian,subcategory,273,218,116,113,2025-2026,A-12,42.49,41.39,97.41
+Women,White,Polish,subcategory,192,158,94,92,2025-2026,A-12,48.96,47.92,97.87
+Women,White,Some Other White,subcategory,729,584,332,322,2025-2026,A-12,45.54,44.17,96.99
+Women,White,More Than One White Response,subcategory,2787,2330,1337,1270,2025-2026,A-12,47.97,45.57,94.99
+Women,Some Other Race or Ethnicity,,main_category,147,107,48,46,2025-2026,A-12,32.65,31.29,95.83
+Women,Multiple Race or Ethnicity,,main_category,3886,3039,1616,1566,2025-2026,A-12,41.59,40.3,96.91
+Women,Unknown Race or Ethnicity,,main_category,1551,950,664,639,2025-2026,A-12,42.81,41.2,96.23
+Women,Subtotal,,summary,31292,24214,13364,12900,2025-2026,A-12,42.71,41.22,96.53
+All,American Indian or Alaska Native,,main_category,81,62,35,33,2025-2026,A-12,43.21,40.74,94.29
+All,Asian,,main_category,14585,11560,6664,6484,2025-2026,A-12,45.69,44.46,97.3
+All,Asian,Bangladeshi,subcategory,355,283,138,130,2025-2026,A-12,38.87,36.62,94.2
+All,Asian,Cambodian,subcategory,44,28,13,13,2025-2026,A-12,29.55,29.55,100.0
+All,Asian,Chinese,subcategory,1955,1556,1040,1013,2025-2026,A-12,53.2,51.82,97.4
+All,Asian,Filipino,subcategory,610,468,180,176,2025-2026,A-12,29.51,28.85,97.78
+All,Asian,Indian,subcategory,5338,4391,2575,2510,2025-2026,A-12,48.24,47.02,97.48
+All,Asian,Indonesian,subcategory,33,25,12,12,2025-2026,A-12,36.36,36.36,100.0
+All,Asian,Japanese,subcategory,95,75,48,47,2025-2026,A-12,50.53,49.47,97.92
+All,Asian,Korean,subcategory,1201,893,615,590,2025-2026,A-12,51.21,49.13,95.93
+All,Asian,Laotian,subcategory,10,7,4,4,2025-2026,A-12,40.0,40.0,100.0
+All,Asian,Pakistani,subcategory,1075,810,377,369,2025-2026,A-12,35.07,34.33,97.88
+All,Asian,Taiwanese,subcategory,332,262,193,187,2025-2026,A-12,58.13,56.33,96.89
+All,Asian,Vietnamese,subcategory,1069,822,419,412,2025-2026,A-12,39.2,38.54,98.33
+All,Asian,Some Other Asian,subcategory,528,404,160,156,2025-2026,A-12,30.3,29.55,97.5
+All,Asian,More Than One Asian Response,subcategory,927,730,433,414,2025-2026,A-12,46.71,44.66,95.61
+All,Black or African American,,main_category,5022,3419,1643,1558,2025-2026,A-12,32.72,31.02,94.83
+All,Black or African American,African,subcategory,500,339,130,113,2025-2026,A-12,26.0,22.6,86.92
+All,Black or African American,African American,subcategory,1650,1105,536,510,2025-2026,A-12,32.48,30.91,95.15
+All,Black or African American,Afro-Caribbean,subcategory,138,87,43,39,2025-2026,A-12,31.16,28.26,90.7
+All,Black or African American,Ethiopian,subcategory,76,56,34,32,2025-2026,A-12,44.74,42.11,94.12
+All,Black or African American,Haitian,subcategory,184,116,32,32,2025-2026,A-12,17.39,17.39,100.0
+All,Black or African American,Jamaican,subcategory,136,103,42,41,2025-2026,A-12,30.88,30.15,97.62
+All,Black or African American,Nigerian,subcategory,262,197,104,97,2025-2026,A-12,39.69,37.02,93.27
+All,Black or African American,Somali,subcategory,38,31,10,10,2025-2026,A-12,26.32,26.32,100.0
+All,Black or African American,Some Other Black or African American,subcategory,86,62,26,24,2025-2026,A-12,30.23,27.91,92.31
+All,Black or African American,More Than One Black or African American Response,subcategory,1301,926,510,486,2025-2026,A-12,39.2,37.36,95.29
+All,Hispanic or Latino,,main_category,3752,2917,1530,1459,2025-2026,A-12,40.78,38.89,95.36
+All,Hispanic or Latino,Argentinean,subcategory,27,25,13,13,2025-2026,A-12,48.15,48.15,100.0
+All,Hispanic or Latino,Colombian,subcategory,186,140,78,73,2025-2026,A-12,41.94,39.25,93.59
+All,Hispanic or Latino,Cuban,subcategory,260,202,118,115,2025-2026,A-12,45.38,44.23,97.46
+All,Hispanic or Latino,Dominican,subcategory,60,49,18,18,2025-2026,A-12,30.0,30.0,100.0
+All,Hispanic or Latino,Mexican or Mexican American,subcategory,1198,908,439,407,2025-2026,A-12,36.64,33.97,92.71
+All,Hispanic or Latino,Peruvian,subcategory,108,81,46,45,2025-2026,A-12,42.59,41.67,97.83
+All,Hispanic or Latino,Puerto Rican,subcategory,696,597,349,343,2025-2026,A-12,50.14,49.28,98.28
+All,Hispanic or Latino,Salvadoran,subcategory,105,83,40,38,2025-2026,A-12,38.1,36.19,95.0
+All,Hispanic or Latino,Some Other Hispanic or Latino,subcategory,477,357,179,169,2025-2026,A-12,37.53,35.43,94.41
+All,Hispanic or Latino,More Than One Hispanic or Latino Response,subcategory,447,349,188,179,2025-2026,A-12,42.06,40.04,95.21
+All,Middle Eastern or North African,,main_category,2539,1949,1006,976,2025-2026,A-12,39.62,38.44,97.02
+All,Middle Eastern or North African,Arab,subcategory,189,138,80,77,2025-2026,A-12,42.33,40.74,96.25
+All,Middle Eastern or North African,Egyptian,subcategory,328,263,118,115,2025-2026,A-12,35.98,35.06,97.46
+All,Middle Eastern or North African,Iranian,subcategory,511,377,200,194,2025-2026,A-12,39.14,37.96,97.0
+All,Middle Eastern or North African,Israeli,subcategory,31,27,9,9,2025-2026,A-12,29.03,29.03,100.0
+All,Middle Eastern or North African,Lebanese,subcategory,177,140,73,71,2025-2026,A-12,41.24,40.11,97.26
+All,Middle Eastern or North African,Moroccan,subcategory,48,36,10,10,2025-2026,A-12,20.83,20.83,100.0
+All,Middle Eastern or North African,Palestinian,subcategory,72,53,28,27,2025-2026,A-12,38.89,37.5,96.43
+All,Middle Eastern or North African,Syrian,subcategory,120,87,65,65,2025-2026,A-12,54.17,54.17,100.0
+All,Middle Eastern or North African,Some Other Middle Eastern or North African,subcategory,341,263,137,133,2025-2026,A-12,40.18,39.0,97.08
+All,Middle Eastern or North African,More Than One Middle Eastern or North African Response,subcategory,650,509,257,249,2025-2026,A-12,39.54,38.31,96.89
+All,Native Hawaiian or Pacific Islander,,main_category,51,41,14,13,2025-2026,A-12,27.45,25.49,92.86
+All,Native Hawaiian or Pacific Islander,Chamorro,subcategory,10,9,3,3,2025-2026,A-12,30.0,30.0,100.0
+All,Native Hawaiian or Pacific Islander,Fijian,subcategory,7,7,1,0,2025-2026,A-12,14.29,0.0,0.0
+All,Native Hawaiian or Pacific Islander,Marshallese,subcategory,0,0,0,0,2025-2026,A-12,,,
+All,Native Hawaiian or Pacific Islander,Native Hawaiian,subcategory,13,10,2,2,2025-2026,A-12,15.38,15.38,100.0
+All,Native Hawaiian or Pacific Islander,Samoan,subcategory,2,2,1,1,2025-2026,A-12,50.0,50.0,100.0
+All,Native Hawaiian or Pacific Islander,Tongan,subcategory,2,2,0,0,2025-2026,A-12,0.0,0.0,
+All,Native Hawaiian or Pacific Islander,Some Other Pacific Islander,subcategory,7,5,2,2,2025-2026,A-12,28.57,28.57,100.0
+All,Native Hawaiian or Pacific Islander,More Than One Native Hawaiian or Pacific Islander Response,subcategory,5,3,3,3,2025-2026,A-12,60.0,60.0,100.0
+All,White,,main_category,18597,14655,9100,8773,2025-2026,A-12,48.93,47.17,96.41
+All,White,English,subcategory,1512,1201,574,545,2025-2026,A-12,37.96,36.04,94.95
+All,White,French,subcategory,72,55,38,37,2025-2026,A-12,52.78,51.39,97.37
+All,White,German,subcategory,359,272,165,161,2025-2026,A-12,45.96,44.85,97.58
+All,White,Irish,subcategory,422,336,214,206,2025-2026,A-12,50.71,48.82,96.26
+All,White,Italian,subcategory,481,383,205,198,2025-2026,A-12,42.62,41.16,96.59
+All,White,Polish,subcategory,307,245,156,151,2025-2026,A-12,50.81,49.19,96.79
+All,White,Some Other White,subcategory,1314,1042,595,580,2025-2026,A-12,45.28,44.14,97.48
+All,White,More Than One White Response,subcategory,5325,4378,2570,2463,2025-2026,A-12,48.26,46.25,95.84
+All,Some Other Race or Ethnicity,,main_category,253,182,82,80,2025-2026,A-12,32.41,31.62,97.56
+All,Multiple Race or Ethnicity,,main_category,6847,5298,2938,2837,2025-2026,A-12,42.91,41.43,96.56
+All,Unknown Race or Ethnicity,,main_category,2972,1747,1288,1227,2025-2026,A-12,43.34,41.29,95.26
+All,Total,,summary,54699,41830,24300,23440,2025-2026,A-12,44.42,42.85,96.46

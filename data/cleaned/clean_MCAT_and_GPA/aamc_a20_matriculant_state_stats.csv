@@ -1,0 +1,953 @@
+source_table,population,academic_year,region,state,row_type,metric,statistic,value
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT CPBS,Mean,128.6
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT CARS,Mean,127.4
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT BBLS,Mean,128.8
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT PSBB,Mean,129.6
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,Total MCAT,Mean,514.3
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,Total MCAT,SD,5.6
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Science,Mean,3.78
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Total,Mean,3.82
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,Northeast,Connecticut,state,Total Matriculants,Count,264.0
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT CPBS,Mean,127.8
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT CARS,Mean,126.7
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT BBLS,Mean,128.2
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT BBLS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,Total MCAT,Mean,511.8
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,Total MCAT,SD,6.4
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Science,SD,0.23
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Non-Science,SD,0.21
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Northeast,Delaware,state,Total Matriculants,Count,57.0
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT CPBS,Mean,127.5
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT CARS,Mean,127.3
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT BBLS,Mean,128.3
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT BBLS,SD,2.3
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT PSBB,Mean,129.5
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,Total MCAT,Mean,512.5
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,Total MCAT,SD,6.6
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Science,Mean,3.62
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Science,SD,0.31
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Non-Science,Mean,3.77
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Non-Science,SD,0.24
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Total,Mean,3.69
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,GPA Total,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,District of Columbia,state,Total Matriculants,Count,51.0
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT CPBS,Mean,127.9
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT CARS,Mean,127.1
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT CARS,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,Northeast,Maine,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,Maine,state,Total MCAT,Mean,512.1
+A-20,Matriculants,2025-2026,Northeast,Maine,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Science,Mean,3.72
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Non-Science,Mean,3.85
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Non-Science,SD,0.23
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,Northeast,Maine,state,GPA Total,SD,0.25
+A-20,Matriculants,2025-2026,Northeast,Maine,state,Total Matriculants,Count,40.0
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT BBLS,Mean,128.5
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,Total MCAT,Mean,513.2
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,Total MCAT,SD,6.3
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Science,Mean,3.74
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Northeast,Maryland,state,Total Matriculants,Count,594.0
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT CPBS,Mean,128.6
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT CARS,Mean,127.5
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT BBLS,Mean,128.8
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT PSBB,Mean,129.6
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,Total MCAT,Mean,514.5
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,Total MCAT,SD,5.8
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Non-Science,SD,0.15
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,Northeast,Massachusetts,state,Total Matriculants,Count,744.0
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT CPBS,Mean,128.3
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT BBLS,Mean,128.9
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT BBLS,SD,1.7
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT PSBB,Mean,129.5
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,MCAT PSBB,SD,1.5
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,Total MCAT,Mean,514.0
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,Total MCAT,SD,4.7
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Science,Mean,3.81
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Science,SD,0.2
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Non-Science,Mean,3.91
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Non-Science,SD,0.11
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Total,Mean,3.86
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,GPA Total,SD,0.15
+A-20,Matriculants,2025-2026,Northeast,New Hampshire,state,Total Matriculants,Count,61.0
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT CPBS,Mean,128.6
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT CARS,Mean,127.3
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT BBLS,Mean,128.7
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT PSBB,Mean,129.3
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,Total MCAT,Mean,514.0
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,Total MCAT,SD,5.6
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,Northeast,New Jersey,state,Total Matriculants,Count,936.0
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT CPBS,Mean,128.3
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT CARS,Mean,127.1
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT BBLS,Mean,128.6
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT PSBB,Mean,129.3
+A-20,Matriculants,2025-2026,Northeast,New York,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,New York,state,Total MCAT,Mean,513.3
+A-20,Matriculants,2025-2026,Northeast,New York,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Science,Mean,3.73
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,Northeast,New York,state,GPA Total,SD,0.22
+A-20,Matriculants,2025-2026,Northeast,New York,state,Total Matriculants,Count,1680.0
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT CPBS,Mean,128.4
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT CPBS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT BBLS,Mean,128.5
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,Total MCAT,Mean,513.3
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,Total MCAT,SD,5.6
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,Northeast,Pennsylvania,state,Total Matriculants,Count,773.0
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT CPBS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT BBLS,Mean,128.1
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT BBLS,SD,1.7
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT PSBB,Mean,129.4
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,Total MCAT,Mean,512.9
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,Total MCAT,SD,5.8
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Non-Science,SD,0.2
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Northeast,Rhode Island,state,Total Matriculants,Count,52.0
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT CPBS,Mean,126.9
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT CPBS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT CARS,Mean,127.5
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT BBLS,Mean,127.7
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT BBLS,SD,1.7
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,MCAT PSBB,SD,1.4
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,Total MCAT,Mean,511.2
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,Total MCAT,SD,4.9
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Science,Mean,3.63
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Science,SD,0.33
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Non-Science,Mean,3.79
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Non-Science,SD,0.23
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Total,Mean,3.7
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,GPA Total,SD,0.27
+A-20,Matriculants,2025-2026,Northeast,Vermont,state,Total Matriculants,Count,44.0
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT CPBS,Mean,128.4
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT CARS,Mean,127.3
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT BBLS,Mean,128.6
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT PSBB,Mean,129.3
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,Total MCAT,Mean,513.6
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,Total MCAT,SD,5.9
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Northeast,Total for the Region,regional_total,Total Matriculants,Count,5296.0
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT CPBS,Mean,128.0
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT BBLS,Mean,128.2
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,Central,Illinois,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Central,Illinois,state,Total MCAT,Mean,512.3
+A-20,Matriculants,2025-2026,Central,Illinois,state,Total MCAT,SD,6.5
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Science,SD,0.27
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,Central,Illinois,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Central,Illinois,state,Total Matriculants,Count,990.0
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT BBLS,Mean,128.2
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,Central,Indiana,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Central,Indiana,state,Total MCAT,Mean,512.5
+A-20,Matriculants,2025-2026,Central,Indiana,state,Total MCAT,SD,5.6
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Science,Mean,3.81
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Science,SD,0.21
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Non-Science,Mean,3.91
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Total,Mean,3.85
+A-20,Matriculants,2025-2026,Central,Indiana,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,Central,Indiana,state,Total Matriculants,Count,393.0
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT CPBS,Mean,128.1
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT BBLS,Mean,128.5
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,Central,Iowa,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,Central,Iowa,state,Total MCAT,Mean,512.7
+A-20,Matriculants,2025-2026,Central,Iowa,state,Total MCAT,SD,5.4
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Science,Mean,3.8
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Science,SD,0.25
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Non-Science,Mean,3.92
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Non-Science,SD,0.12
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Total,Mean,3.86
+A-20,Matriculants,2025-2026,Central,Iowa,state,GPA Total,SD,0.17
+A-20,Matriculants,2025-2026,Central,Iowa,state,Total Matriculants,Count,144.0
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT CARS,Mean,126.6
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT BBLS,Mean,127.6
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT BBLS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT PSBB,Mean,128.2
+A-20,Matriculants,2025-2026,Central,Kansas,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,Central,Kansas,state,Total MCAT,Mean,509.4
+A-20,Matriculants,2025-2026,Central,Kansas,state,Total MCAT,SD,6.6
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Science,Mean,3.79
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Non-Science,Mean,3.92
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Total,Mean,3.85
+A-20,Matriculants,2025-2026,Central,Kansas,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,Central,Kansas,state,Total Matriculants,Count,224.0
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT CPBS,Mean,127.8
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT CARS,Mean,126.6
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT PSBB,Mean,128.8
+A-20,Matriculants,2025-2026,Central,Michigan,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,Central,Michigan,state,Total MCAT,Mean,511.3
+A-20,Matriculants,2025-2026,Central,Michigan,state,Total MCAT,SD,6.5
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Science,SD,0.3
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Non-Science,SD,0.19
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,Central,Michigan,state,GPA Total,SD,0.23
+A-20,Matriculants,2025-2026,Central,Michigan,state,Total Matriculants,Count,830.0
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT CPBS,Mean,127.7
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT CARS,Mean,126.8
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT BBLS,Mean,127.9
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT PSBB,Mean,128.8
+A-20,Matriculants,2025-2026,Central,Minnesota,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,Central,Minnesota,state,Total MCAT,Mean,511.2
+A-20,Matriculants,2025-2026,Central,Minnesota,state,Total MCAT,SD,6.3
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Non-Science,Mean,3.9
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Total,Mean,3.82
+A-20,Matriculants,2025-2026,Central,Minnesota,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,Central,Minnesota,state,Total Matriculants,Count,418.0
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT CPBS,Mean,127.7
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT CARS,Mean,127.1
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,Central,Missouri,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,Central,Missouri,state,Total MCAT,Mean,511.9
+A-20,Matriculants,2025-2026,Central,Missouri,state,Total MCAT,SD,6.3
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Science,Mean,3.78
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Non-Science,Mean,3.9
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,Central,Missouri,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,Central,Missouri,state,Total Matriculants,Count,370.0
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT CPBS,Mean,127.9
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT CARS,Mean,126.9
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT BBLS,Mean,128.3
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT PSBB,Mean,128.7
+A-20,Matriculants,2025-2026,Central,Nebraska,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,Central,Nebraska,state,Total MCAT,Mean,511.7
+A-20,Matriculants,2025-2026,Central,Nebraska,state,Total MCAT,SD,5.8
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Science,Mean,3.81
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Science,SD,0.21
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Non-Science,Mean,3.93
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Non-Science,SD,0.12
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Total,Mean,3.86
+A-20,Matriculants,2025-2026,Central,Nebraska,state,GPA Total,SD,0.15
+A-20,Matriculants,2025-2026,Central,Nebraska,state,Total Matriculants,Count,163.0
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT CPBS,Mean,126.9
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT CARS,Mean,126.0
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT CARS,SD,2.5
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT BBLS,Mean,126.9
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT PSBB,Mean,127.4
+A-20,Matriculants,2025-2026,Central,North Dakota,state,MCAT PSBB,SD,2.3
+A-20,Matriculants,2025-2026,Central,North Dakota,state,Total MCAT,Mean,507.3
+A-20,Matriculants,2025-2026,Central,North Dakota,state,Total MCAT,SD,6.4
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Science,Mean,3.83
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Science,SD,0.2
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Non-Science,Mean,3.91
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Total,Mean,3.86
+A-20,Matriculants,2025-2026,Central,North Dakota,state,GPA Total,SD,0.16
+A-20,Matriculants,2025-2026,Central,North Dakota,state,Total Matriculants,Count,56.0
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT CPBS,Mean,128.1
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT PSBB,Mean,128.8
+A-20,Matriculants,2025-2026,Central,Ohio,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Central,Ohio,state,Total MCAT,Mean,511.9
+A-20,Matriculants,2025-2026,Central,Ohio,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Science,SD,0.27
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Non-Science,Mean,3.9
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,Central,Ohio,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,Central,Ohio,state,Total Matriculants,Count,826.0
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT CPBS,SD,1.8
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT CARS,Mean,126.5
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT CARS,SD,2.4
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT BBLS,Mean,127.5
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT BBLS,SD,1.7
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT PSBB,Mean,128.2
+A-20,Matriculants,2025-2026,Central,South Dakota,state,MCAT PSBB,SD,1.6
+A-20,Matriculants,2025-2026,Central,South Dakota,state,Total MCAT,Mean,509.2
+A-20,Matriculants,2025-2026,Central,South Dakota,state,Total MCAT,SD,4.8
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Science,Mean,3.72
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Non-Science,SD,0.22
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Total,Mean,3.79
+A-20,Matriculants,2025-2026,Central,South Dakota,state,GPA Total,SD,0.24
+A-20,Matriculants,2025-2026,Central,South Dakota,state,Total Matriculants,Count,67.0
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT CPBS,Mean,127.8
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,Total MCAT,Mean,511.8
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,Total MCAT,SD,6.2
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Science,Mean,3.74
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Non-Science,SD,0.15
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,Central,Wisconsin,state,Total Matriculants,Count,388.0
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT CPBS,Mean,127.9
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT CARS,Mean,126.9
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT BBLS,Mean,128.1
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT PSBB,Mean,128.9
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,Total MCAT,Mean,511.7
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,Total MCAT,SD,6.3
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Total,Mean,3.82
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,Central,Total for the Region,regional_total,Total Matriculants,Count,4869.0
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT CARS,Mean,126.7
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT BBLS,Mean,127.4
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT BBLS,SD,2.2
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT PSBB,Mean,128.1
+A-20,Matriculants,2025-2026,South,Alabama,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,South,Alabama,state,Total MCAT,Mean,509.2
+A-20,Matriculants,2025-2026,South,Alabama,state,Total MCAT,SD,6.9
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Science,Mean,3.79
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Non-Science,Mean,3.91
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Non-Science,SD,0.14
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Total,Mean,3.84
+A-20,Matriculants,2025-2026,South,Alabama,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,South,Alabama,state,Total Matriculants,Count,276.0
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT CARS,Mean,126.8
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT BBLS,Mean,127.1
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT PSBB,Mean,128.2
+A-20,Matriculants,2025-2026,South,Arkansas,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,South,Arkansas,state,Total MCAT,Mean,509.1
+A-20,Matriculants,2025-2026,South,Arkansas,state,Total MCAT,SD,6.0
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Non-Science,Mean,3.9
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,South,Arkansas,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,South,Arkansas,state,Total Matriculants,Count,179.0
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT CPBS,Mean,127.8
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT CARS,Mean,126.8
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,South,Florida,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,South,Florida,state,Total MCAT,Mean,511.6
+A-20,Matriculants,2025-2026,South,Florida,state,Total MCAT,SD,6.2
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,South,Florida,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,South,Florida,state,Total Matriculants,Count,1283.0
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT CPBS,Mean,127.4
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT CARS,Mean,126.6
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT BBLS,Mean,127.6
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT PSBB,Mean,128.6
+A-20,Matriculants,2025-2026,South,Georgia,state,MCAT PSBB,SD,2.2
+A-20,Matriculants,2025-2026,South,Georgia,state,Total MCAT,Mean,510.2
+A-20,Matriculants,2025-2026,South,Georgia,state,Total MCAT,SD,7.0
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Science,Mean,3.71
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Non-Science,SD,0.2
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,South,Georgia,state,GPA Total,SD,0.23
+A-20,Matriculants,2025-2026,South,Georgia,state,Total Matriculants,Count,852.0
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT CARS,Mean,126.5
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT BBLS,Mean,127.2
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT PSBB,Mean,128.1
+A-20,Matriculants,2025-2026,South,Kentucky,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,South,Kentucky,state,Total MCAT,Mean,508.7
+A-20,Matriculants,2025-2026,South,Kentucky,state,Total MCAT,SD,6.2
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Non-Science,Mean,3.92
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Non-Science,SD,0.15
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,South,Kentucky,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,South,Kentucky,state,Total Matriculants,Count,332.0
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT CPBS,Mean,126.9
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT CARS,Mean,126.4
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT BBLS,Mean,127.3
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT PSBB,Mean,128.2
+A-20,Matriculants,2025-2026,South,Louisiana,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,Louisiana,state,Total MCAT,Mean,508.7
+A-20,Matriculants,2025-2026,South,Louisiana,state,Total MCAT,SD,5.9
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Science,Mean,3.71
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Science,SD,0.32
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Non-Science,SD,0.24
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Total,Mean,3.77
+A-20,Matriculants,2025-2026,South,Louisiana,state,GPA Total,SD,0.26
+A-20,Matriculants,2025-2026,South,Louisiana,state,Total Matriculants,Count,367.0
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT CPBS,Mean,126.1
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT CARS,Mean,125.9
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT CARS,SD,2.4
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT BBLS,Mean,126.5
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT BBLS,SD,2.3
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT PSBB,Mean,127.4
+A-20,Matriculants,2025-2026,South,Mississippi,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,South,Mississippi,state,Total MCAT,Mean,506.0
+A-20,Matriculants,2025-2026,South,Mississippi,state,Total MCAT,SD,7.2
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Science,Mean,3.72
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Non-Science,SD,0.2
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Total,Mean,3.79
+A-20,Matriculants,2025-2026,South,Mississippi,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,South,Mississippi,state,Total Matriculants,Count,199.0
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT CPBS,Mean,128.1
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT CARS,Mean,127.4
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT BBLS,Mean,128.4
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,South,North Carolina,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,North Carolina,state,Total MCAT,Mean,513.0
+A-20,Matriculants,2025-2026,South,North Carolina,state,Total MCAT,SD,6.4
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Science,Mean,3.71
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Non-Science,SD,0.2
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,South,North Carolina,state,GPA Total,SD,0.23
+A-20,Matriculants,2025-2026,South,North Carolina,state,Total Matriculants,Count,621.0
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT CARS,Mean,126.5
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT BBLS,Mean,127.2
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT PSBB,Mean,128.4
+A-20,Matriculants,2025-2026,South,Oklahoma,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,Oklahoma,state,Total MCAT,Mean,509.1
+A-20,Matriculants,2025-2026,South,Oklahoma,state,Total MCAT,SD,5.9
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Non-Science,Mean,3.91
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,South,Oklahoma,state,GPA Total,SD,0.17
+A-20,Matriculants,2025-2026,South,Oklahoma,state,Total Matriculants,Count,129.0
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT CPBS,Mean,124.7
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT CARS,Mean,123.8
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT BBLS,Mean,125.0
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT PSBB,Mean,125.6
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,Total MCAT,Mean,499.1
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,Total MCAT,SD,5.9
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Science,Mean,3.56
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Science,SD,0.34
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Non-Science,Mean,3.85
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Total,Mean,3.69
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,GPA Total,SD,0.25
+A-20,Matriculants,2025-2026,South,Puerto Rico,state,Total Matriculants,Count,338.0
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT CARS,Mean,126.9
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT BBLS,Mean,127.6
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT PSBB,Mean,128.4
+A-20,Matriculants,2025-2026,South,South Carolina,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,South Carolina,state,Total MCAT,Mean,509.9
+A-20,Matriculants,2025-2026,South,South Carolina,state,Total MCAT,SD,5.3
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Science,SD,0.25
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,South,South Carolina,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,South,South Carolina,state,Total Matriculants,Count,350.0
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT CPBS,Mean,128.0
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT CARS,Mean,127.1
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT BBLS,Mean,128.1
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,South,Tennessee,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,Tennessee,state,Total MCAT,Mean,512.3
+A-20,Matriculants,2025-2026,South,Tennessee,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Non-Science,Mean,3.9
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Total,Mean,3.82
+A-20,Matriculants,2025-2026,South,Tennessee,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,South,Tennessee,state,Total Matriculants,Count,373.0
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT BBLS,Mean,128.3
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT BBLS,SD,2.0
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT PSBB,Mean,129.1
+A-20,Matriculants,2025-2026,South,Texas,state,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,South,Texas,state,Total MCAT,Mean,512.7
+A-20,Matriculants,2025-2026,South,Texas,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Science,Mean,3.79
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Total,Mean,3.84
+A-20,Matriculants,2025-2026,South,Texas,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,South,Texas,state,Total Matriculants,Count,2102.0
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT CPBS,Mean,128.4
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT CPBS,SD,1.9
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT CARS,Mean,127.4
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT BBLS,Mean,128.6
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT PSBB,Mean,129.5
+A-20,Matriculants,2025-2026,South,Virginia,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,South,Virginia,state,Total MCAT,Mean,513.8
+A-20,Matriculants,2025-2026,South,Virginia,state,Total MCAT,SD,5.5
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Non-Science,SD,0.19
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,South,Virginia,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,South,Virginia,state,Total Matriculants,Count,663.0
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT CPBS,Mean,126.7
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT CARS,Mean,126.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT BBLS,Mean,127.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT BBLS,SD,2.2
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT PSBB,Mean,127.5
+A-20,Matriculants,2025-2026,South,West Virginia,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,Total MCAT,Mean,507.4
+A-20,Matriculants,2025-2026,South,West Virginia,state,Total MCAT,SD,6.1
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Science,SD,0.31
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Non-Science,SD,0.19
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,South,West Virginia,state,GPA Total,SD,0.25
+A-20,Matriculants,2025-2026,South,West Virginia,state,Total Matriculants,Count,108.0
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT CPBS,Mean,127.6
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT CARS,Mean,126.7
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT BBLS,Mean,127.8
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT BBLS,SD,2.2
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT PSBB,Mean,128.7
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,Total MCAT,Mean,510.8
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,Total MCAT,SD,6.9
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Science,Mean,3.74
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Science,SD,0.27
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,South,Total for the Region,regional_total,Total Matriculants,Count,8172.0
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT CPBS,Mean,126.5
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT CPBS,SD,2.7
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT CARS,Mean,126.9
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT CARS,SD,2.9
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT BBLS,Mean,127.0
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT BBLS,SD,2.4
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT PSBB,Mean,128.3
+A-20,Matriculants,2025-2026,West,Alaska,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,West,Alaska,state,Total MCAT,Mean,508.6
+A-20,Matriculants,2025-2026,West,Alaska,state,Total MCAT,SD,7.8
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Science,Mean,3.68
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Science,SD,0.23
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Non-Science,SD,0.11
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,West,Alaska,state,GPA Total,SD,0.15
+A-20,Matriculants,2025-2026,West,Alaska,state,Total Matriculants,Count,45.0
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT CPBS,Mean,127.9
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT CARS,SD,2.4
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT BBLS,Mean,128.2
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,West,Arizona,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,West,Arizona,state,Total MCAT,Mean,512.0
+A-20,Matriculants,2025-2026,West,Arizona,state,Total MCAT,SD,6.6
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Science,Mean,3.78
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,West,Arizona,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,West,Arizona,state,Total Matriculants,Count,344.0
+A-20,Matriculants,2025-2026,West,California,state,MCAT CPBS,Mean,128.6
+A-20,Matriculants,2025-2026,West,California,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,West,California,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,West,California,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,California,state,MCAT BBLS,Mean,128.7
+A-20,Matriculants,2025-2026,West,California,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,West,California,state,MCAT PSBB,Mean,129.5
+A-20,Matriculants,2025-2026,West,California,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,West,California,state,Total MCAT,Mean,513.9
+A-20,Matriculants,2025-2026,West,California,state,Total MCAT,SD,5.9
+A-20,Matriculants,2025-2026,West,California,state,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,West,California,state,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,West,California,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,West,California,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,West,California,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,West,California,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,West,California,state,Total Matriculants,Count,2933.0
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT CPBS,SD,2.0
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT CARS,Mean,127.4
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT BBLS,Mean,128.6
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT BBLS,SD,1.8
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,West,Colorado,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,West,Colorado,state,Total MCAT,Mean,513.5
+A-20,Matriculants,2025-2026,West,Colorado,state,Total MCAT,SD,5.7
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Science,SD,0.25
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Non-Science,SD,0.2
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,West,Colorado,state,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,West,Colorado,state,Total Matriculants,Count,262.0
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT CPBS,Mean,128.0
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT CARS,Mean,126.6
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT CARS,SD,2.0
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT BBLS,Mean,128.1
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,West,Hawaii,state,MCAT PSBB,SD,1.8
+A-20,Matriculants,2025-2026,West,Hawaii,state,Total MCAT,Mean,511.7
+A-20,Matriculants,2025-2026,West,Hawaii,state,Total MCAT,SD,5.8
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Science,SD,0.24
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Non-Science,SD,0.16
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Total,Mean,3.81
+A-20,Matriculants,2025-2026,West,Hawaii,state,GPA Total,SD,0.19
+A-20,Matriculants,2025-2026,West,Hawaii,state,Total Matriculants,Count,91.0
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT CPBS,Mean,127.6
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT CARS,Mean,126.7
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT CARS,SD,2.1
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT BBLS,Mean,127.7
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT BBLS,SD,2.3
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT PSBB,Mean,128.5
+A-20,Matriculants,2025-2026,West,Idaho,state,MCAT PSBB,SD,2.3
+A-20,Matriculants,2025-2026,West,Idaho,state,Total MCAT,Mean,510.6
+A-20,Matriculants,2025-2026,West,Idaho,state,Total MCAT,SD,7.0
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Science,Mean,3.76
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Non-Science,Mean,3.93
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Non-Science,SD,0.12
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Total,Mean,3.84
+A-20,Matriculants,2025-2026,West,Idaho,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,West,Idaho,state,Total Matriculants,Count,79.0
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT CPBS,Mean,126.7
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT CARS,Mean,126.4
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT CARS,SD,2.2
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT BBLS,Mean,127.0
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT BBLS,SD,2.4
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT PSBB,Mean,127.8
+A-20,Matriculants,2025-2026,West,Montana,state,MCAT PSBB,SD,2.2
+A-20,Matriculants,2025-2026,West,Montana,state,Total MCAT,Mean,508.0
+A-20,Matriculants,2025-2026,West,Montana,state,Total MCAT,SD,6.7
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Science,Mean,3.73
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Non-Science,Mean,3.84
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Non-Science,SD,0.24
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Total,Mean,3.77
+A-20,Matriculants,2025-2026,West,Montana,state,GPA Total,SD,0.25
+A-20,Matriculants,2025-2026,West,Montana,state,Total Matriculants,Count,60.0
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT CPBS,Mean,127.0
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT CPBS,SD,2.3
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT CARS,Mean,126.3
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT BBLS,Mean,127.7
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT PSBB,Mean,128.4
+A-20,Matriculants,2025-2026,West,Nevada,state,MCAT PSBB,SD,1.7
+A-20,Matriculants,2025-2026,West,Nevada,state,Total MCAT,Mean,509.4
+A-20,Matriculants,2025-2026,West,Nevada,state,Total MCAT,SD,6.0
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Science,Mean,3.72
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Non-Science,SD,0.21
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,West,Nevada,state,GPA Total,SD,0.23
+A-20,Matriculants,2025-2026,West,Nevada,state,Total Matriculants,Count,147.0
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT CPBS,Mean,126.7
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT CARS,Mean,126.6
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT CARS,SD,2.4
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT BBLS,Mean,126.9
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT BBLS,SD,2.3
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT PSBB,Mean,127.7
+A-20,Matriculants,2025-2026,West,New Mexico,state,MCAT PSBB,SD,2.3
+A-20,Matriculants,2025-2026,West,New Mexico,state,Total MCAT,Mean,507.9
+A-20,Matriculants,2025-2026,West,New Mexico,state,Total MCAT,SD,7.4
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Science,Mean,3.77
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Total,Mean,3.82
+A-20,Matriculants,2025-2026,West,New Mexico,state,GPA Total,SD,0.2
+A-20,Matriculants,2025-2026,West,New Mexico,state,Total Matriculants,Count,104.0
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT CPBS,Mean,127.7
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT CARS,Mean,126.9
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT BBLS,Mean,128.0
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT PSBB,Mean,128.8
+A-20,Matriculants,2025-2026,West,Oregon,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,West,Oregon,state,Total MCAT,Mean,511.5
+A-20,Matriculants,2025-2026,West,Oregon,state,Total MCAT,SD,6.6
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Science,Mean,3.72
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Science,SD,0.28
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Non-Science,Mean,3.86
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Non-Science,SD,0.19
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Total,Mean,3.78
+A-20,Matriculants,2025-2026,West,Oregon,state,GPA Total,SD,0.22
+A-20,Matriculants,2025-2026,West,Oregon,state,Total Matriculants,Count,207.0
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT CPBS,Mean,128.0
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT CPBS,SD,2.1
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT CARS,Mean,127.3
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT BBLS,Mean,128.3
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT BBLS,SD,1.9
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT PSBB,Mean,129.0
+A-20,Matriculants,2025-2026,West,Utah,state,MCAT PSBB,SD,2.1
+A-20,Matriculants,2025-2026,West,Utah,state,Total MCAT,Mean,512.6
+A-20,Matriculants,2025-2026,West,Utah,state,Total MCAT,SD,6.4
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Science,Mean,3.78
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Science,SD,0.23
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Non-Science,Mean,3.89
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Non-Science,SD,0.15
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Total,Mean,3.83
+A-20,Matriculants,2025-2026,West,Utah,state,GPA Total,SD,0.18
+A-20,Matriculants,2025-2026,West,Utah,state,Total Matriculants,Count,230.0
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT CPBS,Mean,127.9
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT CARS,Mean,127.0
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT CARS,SD,2.5
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT BBLS,Mean,128.1
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT BBLS,SD,2.3
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT PSBB,Mean,128.8
+A-20,Matriculants,2025-2026,West,Washington,state,MCAT PSBB,SD,2.0
+A-20,Matriculants,2025-2026,West,Washington,state,Total MCAT,Mean,511.8
+A-20,Matriculants,2025-2026,West,Washington,state,Total MCAT,SD,7.2
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Science,Mean,3.67
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Non-Science,Mean,3.87
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Non-Science,SD,0.17
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Total,Mean,3.76
+A-20,Matriculants,2025-2026,West,Washington,state,GPA Total,SD,0.22
+A-20,Matriculants,2025-2026,West,Washington,state,Total Matriculants,Count,447.0
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT CPBS,Mean,126.7
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT CPBS,SD,2.4
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT CARS,Mean,127.2
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT CARS,SD,1.9
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT BBLS,Mean,127.1
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT BBLS,SD,2.4
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT PSBB,Mean,127.1
+A-20,Matriculants,2025-2026,West,Wyoming,state,MCAT PSBB,SD,2.3
+A-20,Matriculants,2025-2026,West,Wyoming,state,Total MCAT,Mean,508.0
+A-20,Matriculants,2025-2026,West,Wyoming,state,Total MCAT,SD,7.1
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Science,Mean,3.69
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Science,SD,0.29
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Non-Science,Mean,3.81
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Non-Science,SD,0.26
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Total,Mean,3.74
+A-20,Matriculants,2025-2026,West,Wyoming,state,GPA Total,SD,0.27
+A-20,Matriculants,2025-2026,West,Wyoming,state,Total Matriculants,Count,30.0
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT CPBS,Mean,128.2
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT CPBS,SD,2.2
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT CARS,Mean,127.1
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT CARS,SD,2.3
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT BBLS,Mean,128.4
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT BBLS,SD,2.1
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT PSBB,Mean,129.2
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,MCAT PSBB,SD,1.9
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,Total MCAT,Mean,512.9
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,Total MCAT,SD,6.4
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Science,Mean,3.75
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Science,SD,0.26
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Non-Science,Mean,3.88
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Non-Science,SD,0.18
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Total,Mean,3.8
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,GPA Total,SD,0.21
+A-20,Matriculants,2025-2026,West,Total for the Region,regional_total,Total Matriculants,Count,4979.0

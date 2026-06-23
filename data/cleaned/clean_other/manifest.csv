@@ -1,0 +1,12 @@
+﻿filename,rows,purpose
+README.txt,,Package guide and recommended app usage.
+combined_socioeconomic_access_indicators_2018_2026_long.csv,126,"Best normalized file for SQL, retrieval, analysis, and charts."
+combined_socioeconomic_access_indicators_2018_2026_wide.csv,18,Best historical feature-lookup file.
+combined_socioeconomic_access_stage_summary_2025_2026.csv,6,Current-year stage summary with derived national ratios.
+data_dictionary.csv,11,Definitions and interpretation cautions.
+facts_a24_socioeconomic_status_trends_2018_2026.csv,24,Clean A-24 SES counts and percentages by stage and year.
+facts_a25_daca_status_trends_2018_2026.csv,24,Clean A-25 DACA counts and percentages by stage and year.
+facts_a26_first_generation_trends_2020_2026.csv,18,Clean A-26 first-generation counts and percentages by stage and year.
+facts_a27_fee_assistance_trends_2022_2026.csv,12,Clean A-27 fee-assistance counts and percentages by stage and year.
+source_metadata.csv,4,"Original titles, descriptions, notes, and workbook names."
+validation_report.csv,204,Published-percentage and cross-table total checks.

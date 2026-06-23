@@ -1,0 +1,178 @@
+# School Match Report
+
+## Strongest Matches
+- **Meharry Medical College (Tennessee, Southeast)**
+  - Applicant GPA (3.61) is above the school average (3.46).
+  - Applicant MCAT (505) is above the school average (503).
+  - Matches preferred MD degree and preferred Southeast region.
+  - Urban setting fits applicant’s clinical experience.
+  - Good alignment with applicant’s interest in underserved communities.
+  - Despite not being in Texas or Southwest, Tennessee is in the Southeast region, which is preferred.
+
+- **Morehouse School of Medicine (Georgia, Southeast)**
+  - Applicant GPA (3.61) is very close to the school average (3.64).
+  - Applicant MCAT (505) matches the school average (504.1).
+  - Located in preferred Southeast region.
+  - MD degree matches preference.
+  - Urban setting and mission align well with applicant’s goals for underserved populations.
+
+- **Ponce Health Sciences University School of Medicine (Puerto Rico)**
+  - GPA and MCAT well above school averages.
+  - MD degree matches preference.
+  - However, location is Caribbean, outside preferred regions.
+  - Could be considered if applicant is open to Caribbean schools despite stated preferences.
+
+- **San Juan Bautista School of Medicine (Puerto Rico)**
+  - Similar to Ponce, GPA and MCAT above averages.
+  - MD degree.
+  - Location outside preferred region (Caribbean).
+  - Consider only if applicant is flexible on location.
+
+## Reach Schools
+- **University of New Mexico School of Medicine (Southwest)**
+  - GPA (3.61) is below school average (3.75).
+  - MCAT (505) is slightly below average (507).
+  - Public school in preferred Southwest region.
+  - GPA gap is notable but MCAT close.
+  - Could be a reach given competitiveness and public school preference for in-state.
+
+- **Florida State University College of Medicine (Southeast)**
+  - GPA slightly below average (3.61 vs 3.68).
+  - MCAT slightly below average (505 vs 507).
+  - Public school in preferred Southeast region.
+  - Out-of-state tuition may be a concern.
+  - Reach due to GPA and MCAT just below averages.
+
+- **Mercer University School of Medicine (Georgia, Southeast)**
+  - GPA slightly below average (3.61 vs 3.69).
+  - MCAT matches average (505 vs 503).
+  - Private school in preferred region.
+  - Reach due to GPA gap.
+
+- **University of Arizona College of Medicine (Southwest)**
+  - GPA below average (3.61 vs 3.74).
+  - MCAT below average (505 vs 508).
+  - Public school in preferred Southwest region.
+  - Reach due to GPA and MCAT gaps.
+
+- **University of South Carolina School of Medicine Greenville (Southeast)**
+  - GPA below average (3.61 vs 3.75).
+  - MCAT below average (505 vs 509).
+  - Public school in preferred Southeast region.
+  - Reach due to GPA and MCAT gaps.
+
+- **Tulane University School of Medicine (Southeast)**
+  - GPA below average (3.61 vs 3.70).
+  - MCAT below average (505 vs 510).
+  - Private school in preferred region.
+  - Reach due to GPA and MCAT gaps.
+
+- **University of Mississippi School of Medicine (Southeast)**
+  - GPA substantially below average (3.61 vs 3.80).
+  - MCAT close to average (505 vs 506).
+  - Public school in preferred region.
+  - Reach due to significant GPA gap.
+
+- **University of Louisville School of Medicine (Southeast)**
+  - GPA substantially below average (3.61 vs 3.78).
+  - MCAT below average (505 vs 507).
+  - Public school in preferred region.
+  - Reach due to GPA and MCAT gaps.
+
+- **University of Arkansas for Medical Sciences College of Medicine (Southeast)**
+  - GPA substantially below average (3.61 vs 3.85).
+  - MCAT below average (505 vs 507).
+  - Public school in preferred region.
+  - Reach due to large GPA gap.
+
+- **Oregon Health & Science University School of Medicine (West)**
+  - GPA close to average (3.61 vs 3.66).
+  - MCAT below average (505 vs 509).
+  - Outside preferred region.
+  - Reach due to location and MCAT gap.
+
+- **University of California, Riverside School of Medicine (West)**
+  - GPA close to average (3.61 vs 3.60).
+  - MCAT below average (505 vs 508).
+  - Outside preferred region.
+  - Reach due to location and MCAT gap.
+
+- **Michigan State University College of Human Medicine (Midwest)**
+  - GPA below average (3.61 vs 3.70).
+  - MCAT below average (505 vs 507).
+  - Outside preferred region.
+  - Reach due to location and academic gaps.
+
+- **Washington State University Elson S. Floyd College of Medicine (West)**
+  - GPA close to average (3.61 vs 3.64).
+  - MCAT below average (505 vs 507.9).
+  - Outside preferred region.
+  - Reach due to location and MCAT gap.
+
+- **Howard University College of Medicine (Mid-Atlantic)**
+  - GPA matches average (3.61).
+  - MCAT below average (505 vs 507).
+  - Outside preferred region.
+  - Reach due to location and MCAT gap.
+
+- **Southern Illinois University School of Medicine (Midwest)**
+  - GPA below average (3.61 vs 3.70).
+  - MCAT below average (505 vs 508).
+  - Outside preferred region.
+  - Reach due to location and academic gaps.
+
+- **Medical College of Wisconsin (Midwest)**
+  - GPA below average (3.61 vs 3.70).
+  - MCAT below average (505 vs 508).
+  - Outside preferred region.
+  - Reach due to location and academic gaps.
+
+- **Wright State University Boonshoft School of Medicine (Midwest)**
+  - GPA below average (3.61 vs 3.68).
+  - MCAT below average (505 vs 508.76).
+  - Outside preferred region.
+  - Reach due to location and academic gaps.
+
+- **Chicago Medical School at Rosalind Franklin University (Midwest)**
+  - GPA below average (3.61 vs 3.69).
+  - MCAT below average (505 vs 508).
+  - Outside preferred region.
+  - Reach due to location and academic gaps.
+
+## Target Schools
+- **Meharry Medical College**
+- **Morehouse School of Medicine**
+- **Mercer University School of Medicine** (borderline target/reach)
+- **Ponce Health Sciences University** (if willing to consider Caribbean)
+- **San Juan Bautista School of Medicine** (if willing to consider Caribbean)
+
+These schools have applicant GPA and MCAT close to or above their averages, match preferred MD degree, and are mostly in preferred regions or acceptable nearby areas.
+
+## Safer Schools
+- No clear safer schools in the dataset that fit the applicant’s preferences and academic profile. The applicant’s GPA and MCAT are above some schools’ averages (e.g., Meharry), but most schools with lower averages are outside preferred regions or DO schools are not listed.
+
+- The applicant might consider applying to DO schools in Texas or nearby states if available, but no DO schools are listed in the dataset.
+
+## Schools to Be Careful With
+- **Schools outside preferred regions** (Midwest, West, Mid-Atlantic, Caribbean) unless applicant is open to relocation far from family.
+
+- **Highly competitive public schools in preferred regions** where GPA is substantially below average (e.g., University of Arkansas for Medical Sciences, University of Mississippi, University of Louisville).
+
+- **Schools with missing or unclear data** (e.g., University of Missouri-Kansas City School of Medicine GPA comparison unavailable).
+
+- **Schools with very early deadlines** (e.g., University of Missouri-Kansas City July 1) – applicant should verify readiness.
+
+## Final Recommendation
+Jordan Lee’s academic profile (GPA 3.61, MCAT 505) and experiences are solid but slightly below or near average for many public MD schools in preferred regions. The best strategy is to focus applications on:
+
+- **Target schools** like Meharry Medical College and Morehouse School of Medicine, which align well with applicant’s GPA, MCAT, and mission interests.
+
+- Include a few **reach schools** in Texas and nearby Southwest/Southeast states where the applicant is slightly below average but could be competitive with strong experiences and personal statement.
+
+- Consider **Caribbean schools** only if willing to be outside preferred regions and understand the challenges associated.
+
+- The applicant should be cautious about applying to schools far from Texas due to stated dealbreaker.
+
+- Since no DO schools are listed, if DO is a preference, the applicant should research and apply to Texas and nearby DO programs separately.
+
+- Overall, Jordan should apply broadly within the preferred regions, emphasizing clinical experience in emergency medicine and service to underserved populations to strengthen the application at schools where GPA/MCAT are borderline.

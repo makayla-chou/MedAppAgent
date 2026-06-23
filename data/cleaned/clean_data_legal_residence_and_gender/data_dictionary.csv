@@ -1,0 +1,10 @@
+﻿file_group,column,definition
+State trends,entity_type,"state_or_territory, region_total, special_category, or overall_total."
+State trends,matriculation_rate_percent,"Matriculants divided by applicants, multiplied by 100; this is descriptive, not a school acceptance rate."
+State outcomes,matriculated_in_state_percent,Percent of applicants from the listed legal-residence entity who matriculated at an MD school in that same state.
+State outcomes,matriculated_out_of_state_percent,Percent of applicants from the listed legal-residence entity who matriculated at an MD school outside that state.
+State outcomes,a4_matriculants_equals_a5_in_plus_out,Validation flag confirming that A-4 matriculants equal A-5 in-state plus out-of-state matriculants.
+Gender trends,application_stage,"Applicants, First-Time Applicants, Acceptees, or Matriculants."
+Gender trends,measure,"number or percent. Percent values are stored as percentage points, such as 51.4 rather than 0.514."
+All,academic_year,The entering medical-school academic year reported by AAMC.
+All,source_table,Original AAMC FACTS table identifier.

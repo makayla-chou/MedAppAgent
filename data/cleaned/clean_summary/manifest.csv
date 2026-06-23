@@ -1,0 +1,13 @@
+﻿filename,rows,purpose
+README.txt,,Package guide and recommended use.
+combined_gender_applicant_matriculant_trends_1980_2026_long.csv,368,Best gender trends file across application stages.
+combined_medical_education_history_1980_2026_long.csv,500,Best normalized historical file for SQL and retrieval.
+combined_medical_education_history_1980_2026_wide.csv,46,Best one-row-per-year historical feature file.
+combined_medical_education_pipeline_2016_2026.csv,10,Recent pipeline file with official-source comparison columns.
+data_dictionary.csv,6,Definitions and interpretation cautions.
+facts_chart1_applicant_status_trends_1980_2026.csv,46,Clean first-time and re-applicant historical source data.
+facts_chart2_applicants_by_gender_1980_2026.csv,46,Clean applicant gender historical source data.
+facts_chart3_matriculants_by_gender_1980_2026.csv,46,Clean matriculant gender historical source data.
+facts_table1_applicants_matriculants_enrollment_graduates_2016_2026.csv,10,Clean recent medical-education pipeline source table.
+source_metadata.csv,4,"Source titles, dates, worksheet names, and notes."
+validation_report.csv,204,Arithmetic checks and official-source discrepancy warnings.

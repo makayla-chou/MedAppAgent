@@ -1,0 +1,273 @@
+source_table,population,academic_year,major,metric,statistic,value
+A-17,Applicants,2025-2026,Biological Sciences,MCAT CPBS,Mean,126.4
+A-17,Applicants,2025-2026,Biological Sciences,MCAT CPBS,SD,2.9
+A-17,Applicants,2025-2026,Biological Sciences,MCAT CARS,Mean,125.7
+A-17,Applicants,2025-2026,Biological Sciences,MCAT CARS,SD,2.7
+A-17,Applicants,2025-2026,Biological Sciences,MCAT BBLS,Mean,126.8
+A-17,Applicants,2025-2026,Biological Sciences,MCAT BBLS,SD,2.9
+A-17,Applicants,2025-2026,Biological Sciences,MCAT PSBB,Mean,127.4
+A-17,Applicants,2025-2026,Biological Sciences,MCAT PSBB,SD,2.9
+A-17,Applicants,2025-2026,Biological Sciences,Total MCAT,Mean,506.3
+A-17,Applicants,2025-2026,Biological Sciences,Total MCAT,SD,9.9
+A-17,Applicants,2025-2026,Biological Sciences,GPA Science,Mean,3.58
+A-17,Applicants,2025-2026,Biological Sciences,GPA Science,SD,0.41
+A-17,Applicants,2025-2026,Biological Sciences,GPA Non-Science,Mean,3.81
+A-17,Applicants,2025-2026,Biological Sciences,GPA Non-Science,SD,0.25
+A-17,Applicants,2025-2026,Biological Sciences,GPA Total,Mean,3.67
+A-17,Applicants,2025-2026,Biological Sciences,GPA Total,SD,0.33
+A-17,Applicants,2025-2026,Biological Sciences,Total Applicants,Count,32038.0
+A-17,Applicants,2025-2026,Humanities,MCAT CPBS,Mean,126.7
+A-17,Applicants,2025-2026,Humanities,MCAT CPBS,SD,2.8
+A-17,Applicants,2025-2026,Humanities,MCAT CARS,Mean,126.9
+A-17,Applicants,2025-2026,Humanities,MCAT CARS,SD,2.6
+A-17,Applicants,2025-2026,Humanities,MCAT BBLS,Mean,127.0
+A-17,Applicants,2025-2026,Humanities,MCAT BBLS,SD,2.7
+A-17,Applicants,2025-2026,Humanities,MCAT PSBB,Mean,128.2
+A-17,Applicants,2025-2026,Humanities,MCAT PSBB,SD,2.6
+A-17,Applicants,2025-2026,Humanities,Total MCAT,Mean,508.8
+A-17,Applicants,2025-2026,Humanities,Total MCAT,SD,9.1
+A-17,Applicants,2025-2026,Humanities,GPA Science,Mean,3.55
+A-17,Applicants,2025-2026,Humanities,GPA Science,SD,0.42
+A-17,Applicants,2025-2026,Humanities,GPA Non-Science,Mean,3.79
+A-17,Applicants,2025-2026,Humanities,GPA Non-Science,SD,0.28
+A-17,Applicants,2025-2026,Humanities,GPA Total,Mean,3.68
+A-17,Applicants,2025-2026,Humanities,GPA Total,SD,0.31
+A-17,Applicants,2025-2026,Humanities,Total Applicants,Count,1453.0
+A-17,Applicants,2025-2026,Math and Statistics,MCAT CPBS,Mean,128.2
+A-17,Applicants,2025-2026,Math and Statistics,MCAT CPBS,SD,3.0
+A-17,Applicants,2025-2026,Math and Statistics,MCAT CARS,Mean,127.0
+A-17,Applicants,2025-2026,Math and Statistics,MCAT CARS,SD,2.9
+A-17,Applicants,2025-2026,Math and Statistics,MCAT BBLS,Mean,127.9
+A-17,Applicants,2025-2026,Math and Statistics,MCAT BBLS,SD,2.8
+A-17,Applicants,2025-2026,Math and Statistics,MCAT PSBB,Mean,128.6
+A-17,Applicants,2025-2026,Math and Statistics,MCAT PSBB,SD,2.7
+A-17,Applicants,2025-2026,Math and Statistics,Total MCAT,Mean,511.6
+A-17,Applicants,2025-2026,Math and Statistics,Total MCAT,SD,10.0
+A-17,Applicants,2025-2026,Math and Statistics,GPA Science,Mean,3.66
+A-17,Applicants,2025-2026,Math and Statistics,GPA Science,SD,0.33
+A-17,Applicants,2025-2026,Math and Statistics,GPA Non-Science,Mean,3.79
+A-17,Applicants,2025-2026,Math and Statistics,GPA Non-Science,SD,0.28
+A-17,Applicants,2025-2026,Math and Statistics,GPA Total,Mean,3.71
+A-17,Applicants,2025-2026,Math and Statistics,GPA Total,SD,0.29
+A-17,Applicants,2025-2026,Math and Statistics,Total Applicants,Count,335.0
+A-17,Applicants,2025-2026,Other,MCAT CPBS,Mean,126.1
+A-17,Applicants,2025-2026,Other,MCAT CPBS,SD,3.0
+A-17,Applicants,2025-2026,Other,MCAT CARS,Mean,125.6
+A-17,Applicants,2025-2026,Other,MCAT CARS,SD,2.8
+A-17,Applicants,2025-2026,Other,MCAT BBLS,Mean,126.4
+A-17,Applicants,2025-2026,Other,MCAT BBLS,SD,3.0
+A-17,Applicants,2025-2026,Other,MCAT PSBB,Mean,127.3
+A-17,Applicants,2025-2026,Other,MCAT PSBB,SD,2.9
+A-17,Applicants,2025-2026,Other,Total MCAT,Mean,505.3
+A-17,Applicants,2025-2026,Other,Total MCAT,SD,10.3
+A-17,Applicants,2025-2026,Other,GPA Science,Mean,3.56
+A-17,Applicants,2025-2026,Other,GPA Science,SD,0.43
+A-17,Applicants,2025-2026,Other,GPA Non-Science,Mean,3.8
+A-17,Applicants,2025-2026,Other,GPA Non-Science,SD,0.27
+A-17,Applicants,2025-2026,Other,GPA Total,Mean,3.67
+A-17,Applicants,2025-2026,Other,GPA Total,SD,0.33
+A-17,Applicants,2025-2026,Other,Total Applicants,Count,9288.0
+A-17,Applicants,2025-2026,Physical Sciences,MCAT CPBS,Mean,127.7
+A-17,Applicants,2025-2026,Physical Sciences,MCAT CPBS,SD,2.8
+A-17,Applicants,2025-2026,Physical Sciences,MCAT CARS,Mean,126.5
+A-17,Applicants,2025-2026,Physical Sciences,MCAT CARS,SD,2.8
+A-17,Applicants,2025-2026,Physical Sciences,MCAT BBLS,Mean,127.4
+A-17,Applicants,2025-2026,Physical Sciences,MCAT BBLS,SD,2.8
+A-17,Applicants,2025-2026,Physical Sciences,MCAT PSBB,Mean,128.0
+A-17,Applicants,2025-2026,Physical Sciences,MCAT PSBB,SD,2.7
+A-17,Applicants,2025-2026,Physical Sciences,Total MCAT,Mean,509.6
+A-17,Applicants,2025-2026,Physical Sciences,Total MCAT,SD,9.5
+A-17,Applicants,2025-2026,Physical Sciences,GPA Science,Mean,3.64
+A-17,Applicants,2025-2026,Physical Sciences,GPA Science,SD,0.37
+A-17,Applicants,2025-2026,Physical Sciences,GPA Non-Science,Mean,3.78
+A-17,Applicants,2025-2026,Physical Sciences,GPA Non-Science,SD,0.27
+A-17,Applicants,2025-2026,Physical Sciences,GPA Total,Mean,3.7
+A-17,Applicants,2025-2026,Physical Sciences,GPA Total,SD,0.31
+A-17,Applicants,2025-2026,Physical Sciences,Total Applicants,Count,4243.0
+A-17,Applicants,2025-2026,Social Sciences,MCAT CPBS,Mean,126.0
+A-17,Applicants,2025-2026,Social Sciences,MCAT CPBS,SD,3.1
+A-17,Applicants,2025-2026,Social Sciences,MCAT CARS,Mean,126.0
+A-17,Applicants,2025-2026,Social Sciences,MCAT CARS,SD,2.8
+A-17,Applicants,2025-2026,Social Sciences,MCAT BBLS,Mean,126.1
+A-17,Applicants,2025-2026,Social Sciences,MCAT BBLS,SD,3.0
+A-17,Applicants,2025-2026,Social Sciences,MCAT PSBB,Mean,127.8
+A-17,Applicants,2025-2026,Social Sciences,MCAT PSBB,SD,2.9
+A-17,Applicants,2025-2026,Social Sciences,Total MCAT,Mean,505.8
+A-17,Applicants,2025-2026,Social Sciences,Total MCAT,SD,10.2
+A-17,Applicants,2025-2026,Social Sciences,GPA Science,Mean,3.48
+A-17,Applicants,2025-2026,Social Sciences,GPA Science,SD,0.47
+A-17,Applicants,2025-2026,Social Sciences,GPA Non-Science,Mean,3.74
+A-17,Applicants,2025-2026,Social Sciences,GPA Non-Science,SD,0.31
+A-17,Applicants,2025-2026,Social Sciences,GPA Total,Mean,3.62
+A-17,Applicants,2025-2026,Social Sciences,GPA Total,SD,0.35
+A-17,Applicants,2025-2026,Social Sciences,Total Applicants,Count,4758.0
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT CPBS,Mean,125.7
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT CPBS,SD,3.0
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT CARS,Mean,125.3
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT CARS,SD,2.8
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT BBLS,Mean,125.9
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT BBLS,SD,2.9
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT PSBB,Mean,127.1
+A-17,Applicants,2025-2026,Specialized Health Sciences,MCAT PSBB,SD,2.9
+A-17,Applicants,2025-2026,Specialized Health Sciences,Total MCAT,Mean,504.0
+A-17,Applicants,2025-2026,Specialized Health Sciences,Total MCAT,SD,10.1
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Science,Mean,3.51
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Science,SD,0.44
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Non-Science,Mean,3.79
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Non-Science,SD,0.26
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Total,Mean,3.66
+A-17,Applicants,2025-2026,Specialized Health Sciences,GPA Total,SD,0.31
+A-17,Applicants,2025-2026,Specialized Health Sciences,Total Applicants,Count,2584.0
+A-17,Applicants,2025-2026,All Applicants,MCAT CPBS,Mean,126.4
+A-17,Applicants,2025-2026,All Applicants,MCAT CPBS,SD,3.0
+A-17,Applicants,2025-2026,All Applicants,MCAT CARS,Mean,125.8
+A-17,Applicants,2025-2026,All Applicants,MCAT CARS,SD,2.8
+A-17,Applicants,2025-2026,All Applicants,MCAT BBLS,Mean,126.7
+A-17,Applicants,2025-2026,All Applicants,MCAT BBLS,SD,2.9
+A-17,Applicants,2025-2026,All Applicants,MCAT PSBB,Mean,127.5
+A-17,Applicants,2025-2026,All Applicants,MCAT PSBB,SD,2.9
+A-17,Applicants,2025-2026,All Applicants,Total MCAT,Mean,506.3
+A-17,Applicants,2025-2026,All Applicants,Total MCAT,SD,10.0
+A-17,Applicants,2025-2026,All Applicants,GPA Science,Mean,3.57
+A-17,Applicants,2025-2026,All Applicants,GPA Science,SD,0.42
+A-17,Applicants,2025-2026,All Applicants,GPA Non-Science,Mean,3.8
+A-17,Applicants,2025-2026,All Applicants,GPA Non-Science,SD,0.26
+A-17,Applicants,2025-2026,All Applicants,GPA Total,Mean,3.67
+A-17,Applicants,2025-2026,All Applicants,GPA Total,SD,0.33
+A-17,Applicants,2025-2026,All Applicants,Total Applicants,Count,54699.0
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT CPBS,Mean,127.9
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT CPBS,SD,2.2
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT CARS,Mean,126.8
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT BBLS,Mean,128.2
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT PSBB,Mean,128.9
+A-17,Matriculants,2025-2026,Biological Sciences,MCAT PSBB,SD,2.0
+A-17,Matriculants,2025-2026,Biological Sciences,Total MCAT,Mean,511.9
+A-17,Matriculants,2025-2026,Biological Sciences,Total MCAT,SD,6.5
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Science,Mean,3.76
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Science,SD,0.26
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Non-Science,Mean,3.89
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Non-Science,SD,0.17
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Total,Mean,3.81
+A-17,Matriculants,2025-2026,Biological Sciences,GPA Total,SD,0.21
+A-17,Matriculants,2025-2026,Biological Sciences,Total Matriculants,Count,13480.0
+A-17,Matriculants,2025-2026,Humanities,MCAT CPBS,Mean,127.9
+A-17,Matriculants,2025-2026,Humanities,MCAT CPBS,SD,2.2
+A-17,Matriculants,2025-2026,Humanities,MCAT CARS,Mean,127.7
+A-17,Matriculants,2025-2026,Humanities,MCAT CARS,SD,2.1
+A-17,Matriculants,2025-2026,Humanities,MCAT BBLS,Mean,128.1
+A-17,Matriculants,2025-2026,Humanities,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Humanities,MCAT PSBB,Mean,129.3
+A-17,Matriculants,2025-2026,Humanities,MCAT PSBB,SD,1.9
+A-17,Matriculants,2025-2026,Humanities,Total MCAT,Mean,513.0
+A-17,Matriculants,2025-2026,Humanities,Total MCAT,SD,6.4
+A-17,Matriculants,2025-2026,Humanities,GPA Science,Mean,3.72
+A-17,Matriculants,2025-2026,Humanities,GPA Science,SD,0.29
+A-17,Matriculants,2025-2026,Humanities,GPA Non-Science,Mean,3.88
+A-17,Matriculants,2025-2026,Humanities,GPA Non-Science,SD,0.2
+A-17,Matriculants,2025-2026,Humanities,GPA Total,Mean,3.8
+A-17,Matriculants,2025-2026,Humanities,GPA Total,SD,0.21
+A-17,Matriculants,2025-2026,Humanities,Total Matriculants,Count,755.0
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT CPBS,Mean,129.2
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT CPBS,SD,2.1
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT CARS,Mean,128.0
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT BBLS,Mean,129.0
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT BBLS,SD,2.2
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT PSBB,Mean,129.6
+A-17,Matriculants,2025-2026,Math and Statistics,MCAT PSBB,SD,2.1
+A-17,Matriculants,2025-2026,Math and Statistics,Total MCAT,Mean,515.8
+A-17,Matriculants,2025-2026,Math and Statistics,Total MCAT,SD,7.0
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Science,Mean,3.79
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Science,SD,0.23
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Non-Science,Mean,3.87
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Non-Science,SD,0.18
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Total,Mean,3.81
+A-17,Matriculants,2025-2026,Math and Statistics,GPA Total,SD,0.19
+A-17,Matriculants,2025-2026,Math and Statistics,Total Matriculants,Count,192.0
+A-17,Matriculants,2025-2026,Other,MCAT CPBS,Mean,127.8
+A-17,Matriculants,2025-2026,Other,MCAT CPBS,SD,2.2
+A-17,Matriculants,2025-2026,Other,MCAT CARS,Mean,126.9
+A-17,Matriculants,2025-2026,Other,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Other,MCAT BBLS,Mean,128.0
+A-17,Matriculants,2025-2026,Other,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Other,MCAT PSBB,Mean,128.9
+A-17,Matriculants,2025-2026,Other,MCAT PSBB,SD,2.0
+A-17,Matriculants,2025-2026,Other,Total MCAT,Mean,511.7
+A-17,Matriculants,2025-2026,Other,Total MCAT,SD,6.5
+A-17,Matriculants,2025-2026,Other,GPA Science,Mean,3.75
+A-17,Matriculants,2025-2026,Other,GPA Science,SD,0.26
+A-17,Matriculants,2025-2026,Other,GPA Non-Science,Mean,3.89
+A-17,Matriculants,2025-2026,Other,GPA Non-Science,SD,0.17
+A-17,Matriculants,2025-2026,Other,GPA Total,Mean,3.82
+A-17,Matriculants,2025-2026,Other,GPA Total,SD,0.19
+A-17,Matriculants,2025-2026,Other,Total Matriculants,Count,3783.0
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT CPBS,Mean,128.8
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT CPBS,SD,2.1
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT CARS,Mean,127.4
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT BBLS,Mean,128.5
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT PSBB,Mean,129.1
+A-17,Matriculants,2025-2026,Physical Sciences,MCAT PSBB,SD,2.0
+A-17,Matriculants,2025-2026,Physical Sciences,Total MCAT,Mean,513.8
+A-17,Matriculants,2025-2026,Physical Sciences,Total MCAT,SD,6.6
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Science,Mean,3.77
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Science,SD,0.26
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Non-Science,Mean,3.85
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Non-Science,SD,0.2
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Total,Mean,3.8
+A-17,Matriculants,2025-2026,Physical Sciences,GPA Total,SD,0.22
+A-17,Matriculants,2025-2026,Physical Sciences,Total Matriculants,Count,2175.0
+A-17,Matriculants,2025-2026,Social Sciences,MCAT CPBS,Mean,127.7
+A-17,Matriculants,2025-2026,Social Sciences,MCAT CPBS,SD,2.3
+A-17,Matriculants,2025-2026,Social Sciences,MCAT CARS,Mean,127.3
+A-17,Matriculants,2025-2026,Social Sciences,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Social Sciences,MCAT BBLS,Mean,127.8
+A-17,Matriculants,2025-2026,Social Sciences,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Social Sciences,MCAT PSBB,Mean,129.3
+A-17,Matriculants,2025-2026,Social Sciences,MCAT PSBB,SD,1.9
+A-17,Matriculants,2025-2026,Social Sciences,Total MCAT,Mean,512.2
+A-17,Matriculants,2025-2026,Social Sciences,Total MCAT,SD,6.4
+A-17,Matriculants,2025-2026,Social Sciences,GPA Science,Mean,3.7
+A-17,Matriculants,2025-2026,Social Sciences,GPA Science,SD,0.29
+A-17,Matriculants,2025-2026,Social Sciences,GPA Non-Science,Mean,3.85
+A-17,Matriculants,2025-2026,Social Sciences,GPA Non-Science,SD,0.2
+A-17,Matriculants,2025-2026,Social Sciences,GPA Total,Mean,3.78
+A-17,Matriculants,2025-2026,Social Sciences,GPA Total,SD,0.22
+A-17,Matriculants,2025-2026,Social Sciences,Total Matriculants,Count,2014.0
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT CPBS,Mean,127.6
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT CPBS,SD,2.2
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT CARS,Mean,126.8
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT BBLS,Mean,127.8
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT PSBB,Mean,128.9
+A-17,Matriculants,2025-2026,Specialized Health Sciences,MCAT PSBB,SD,1.9
+A-17,Matriculants,2025-2026,Specialized Health Sciences,Total MCAT,Mean,511.1
+A-17,Matriculants,2025-2026,Specialized Health Sciences,Total MCAT,SD,6.4
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Science,Mean,3.74
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Science,SD,0.26
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Non-Science,Mean,3.89
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Non-Science,SD,0.16
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Total,Mean,3.82
+A-17,Matriculants,2025-2026,Specialized Health Sciences,GPA Total,SD,0.19
+A-17,Matriculants,2025-2026,Specialized Health Sciences,Total Matriculants,Count,1041.0
+A-17,Matriculants,2025-2026,All Matriculants,MCAT CPBS,Mean,128.0
+A-17,Matriculants,2025-2026,All Matriculants,MCAT CPBS,SD,2.2
+A-17,Matriculants,2025-2026,All Matriculants,MCAT CARS,Mean,127.0
+A-17,Matriculants,2025-2026,All Matriculants,MCAT CARS,SD,2.3
+A-17,Matriculants,2025-2026,All Matriculants,MCAT BBLS,Mean,128.2
+A-17,Matriculants,2025-2026,All Matriculants,MCAT BBLS,SD,2.1
+A-17,Matriculants,2025-2026,All Matriculants,MCAT PSBB,Mean,129.0
+A-17,Matriculants,2025-2026,All Matriculants,MCAT PSBB,SD,2.0
+A-17,Matriculants,2025-2026,All Matriculants,Total MCAT,Mean,512.1
+A-17,Matriculants,2025-2026,All Matriculants,Total MCAT,SD,6.5
+A-17,Matriculants,2025-2026,All Matriculants,GPA Science,Mean,3.75
+A-17,Matriculants,2025-2026,All Matriculants,GPA Science,SD,0.27
+A-17,Matriculants,2025-2026,All Matriculants,GPA Non-Science,Mean,3.88
+A-17,Matriculants,2025-2026,All Matriculants,GPA Non-Science,SD,0.18
+A-17,Matriculants,2025-2026,All Matriculants,GPA Total,Mean,3.81
+A-17,Matriculants,2025-2026,All Matriculants,GPA Total,SD,0.21
+A-17,Matriculants,2025-2026,All Matriculants,Total Matriculants,Count,23440.0

@@ -1,0 +1,72 @@
+{
+    "basic_information": {
+        "name": "Maya Patel",
+        "state_residency": "New Jersey",
+        "citizenship_status": "U.S. citizen",
+        "undergraduate_school": "Rutgers University",
+        "major": "Public Health",
+        "application_year": 2027
+    },
+    "academics": {
+        "overall_gpa": 3.88,
+        "science_gpa": 3.82,
+        "mcat_taken": true,
+        "mcat_total": 517,
+        "mcat_sections": {
+            "chem_physics": 129,
+            "cars": 128,
+            "bio_biochem": 130,
+            "psych_social": 130
+        },
+        "academic_context": "I maintained a strong academic record throughout college while completing an honors thesis and working part time. My grades were consistent, with my strongest performance in biology, biochemistry, and public health courses."
+    },
+    "experience_hours": {
+        "clinical": 260,
+        "shadowing": 55,
+        "research": 1100,
+        "nonclinical_volunteering": 180,
+        "leadership": 240,
+        "teaching": 90
+    },
+    "experience_descriptions": {
+        "clinical": "I volunteered in an outpatient oncology clinic, where I escorted patients, prepared exam rooms, coordinated translated materials, and supported staff during patient check-in. I learned how continuity, clear communication, and emotional support affect the experience of patients receiving long-term treatment.",
+        "research": "I completed an honors thesis examining differences in cancer screening access across income and insurance groups. I cleaned survey data, conducted statistical analyses in R, reviewed public health literature, and presented the findings at a regional undergraduate research conference. A manuscript based on the project is in preparation.",
+        "service": "I volunteered with a refugee resettlement organization, helping newly arrived families navigate healthcare appointments, public transportation, and school enrollment. I also developed a simple resource guide describing local clinics and low-cost health services."
+    },
+    "achievements": {
+        "research_outputs": [
+            "Conference presentation",
+            "Poster presentation",
+            "Internal presentation"
+        ],
+        "awards": [
+            "Rutgers Honors College Scholar",
+            "Public Health Research Award, 2026",
+            "Dean's List, 2023\u20132026"
+        ]
+    },
+    "goals": {
+        "career_interests": [
+            "Internal medicine",
+            "Public health",
+            "Health equity",
+            "Academic medicine"
+        ],
+        "populations_of_interest": "I am interested in caring for immigrant, refugee, and low-income communities that face barriers to preventive care and cancer screening."
+    },
+    "school_preferences": {
+        "school_types": [
+            "MD"
+        ],
+        "preferred_regions": [
+            "Northeast",
+            "Mid-Atlantic"
+        ],
+        "setting_preference": "Urban",
+        "dealbreakers": [
+            "Rural location",
+            "Very high tuition"
+        ]
+    },
+    "additional_context": "I prefer schools with strong public health partnerships, research opportunities, and access to diverse patient populations."
+}

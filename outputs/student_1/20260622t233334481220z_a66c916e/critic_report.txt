@@ -1,0 +1,51 @@
+1. Overall Assessment
+The School Fit Agent report successfully identifies all schools as Eligible without academic classification due to the missing MCAT, which is consistent with dataset policy. The rankings reflect basic preference matching (degree type, geography, setting) and explicitly state the limitation from missing MCAT data. However, there are several issues related to the dataset coverage for DO programs, home-state representation nuances, assumptions about out-of-state access, and unsupported mission fit claims. The report mostly avoids conflating preference fit with admission competitiveness, but some clarifications are needed.
+
+2. Logic or Classification Errors
+- No school was assigned an academic competitiveness category due to the missing MCAT, which is correct.
+- The report distinguishes preference match from academic assessment properly. Preference match is based on scoring components; academic assessment is marked “Insufficient Data” due to missing MCAT.
+- The applicant’s home state (North Carolina) medical schools are included at the top of the ranking and clearly marked as in-state public or private, with residency context noted. No omission.
+- The applicant requested MD and DO programs, but only MD programs appear due to no DO programs in the dataset. The report notes this dataset limitation explicitly in warnings, but it does not flag it as a critical issue in recommendations.
+- Public out-of-state school accessibility is not explicitly assumed; residency context is marked accurately with “Out-of-state private” or “In-state public” or “In-state” for each school.
+- Mission fit is not scored nor turned into unsupported claims; explicit statements say “Mission fit was not scored because curated school mission tags are unavailable.”
+- Recommendation actions do not conflate academic classification with preference match. They recommend prioritization or consideration based on preference and insufficient academic data.
+- The "research_outputs" applicant data contradiction (submitted manuscript vs “being prepared”) is not noted in the School Fit Agent report, but this is outside the direct scope of school fit evaluation.
+
+3. Dataset and Coverage Problems
+- The dataset contains no DO programs, although the applicant requested DO and MD. This is stated as a warning and limits the ability to present DO school fit or rankings.
+- 4.7% of schools lack GPA or MCAT data, but all presented schools include GPA and MCAT average data except the missing MCAT for the applicant.
+- The absence of curated mission and curriculum tags for all ranked schools means mission and curricular fit cannot be assessed; the report clearly calls this out.
+- Out-of-state public schools do not appear in the rankings or fit summary, supporting no assumption of accessibility to out-of-state publics.
+- The geographic proximity calculation (measured as "border crossings") is used but does not misrepresent out-of-state access.
+  
+4. Unsupported Claims
+- The report avoids making claims about academic competitiveness or admission chances due to missing MCAT, stating “Insufficient Data.”
+- Mission fit claims are absent and explicitly said to be unavailable, avoiding unsupported inferences.
+- Recommendations like “Consider” or “Prioritize” are tied to preference matches, not academic averages, which is appropriate given missing MCAT data.
+- The basic preference score is presented transparently as a weighted model without overstatement.
+- The report does not recommend or assert admissions likelihood; therefore, no overstatements based on aggregate averages are present.
+
+5. Required Revisions
+- The School Fit Agent report should explicitly note the absence of DO programs in the dataset more prominently in the summary, reminding that DO program fit cannot be assessed or recommended despite applicant interest.
+- The minor applicant profile inconsistency regarding research manuscript status (submitted vs preparing) should be flagged or at least acknowledged in recommendations or warnings, as this affects application integrity.
+- For schools with setting mismatches (e.g., suburban vs preferred urban), the report should highlight these mismatches more clearly in the preference match section to prevent confusion.
+- Since the applicant desires strong community service and health equity focus, the report should acknowledge the lack of mission and curriculum data prevents evaluation of these key preferences; the current “Mission fit was not scored...” note is terse and could be expanded.
+- The residency context descriptions should clarify that in-state schools are prioritized primarily due to state residency and proximity, but that this does not guarantee admission or preference in admissions.
+- Although the report correctly avoids academic classification, it should add more explicit warnings that GPA comparisons to school averages do not predict admission chance without MCAT data.
+- Optionally, add a comment or flag that because no MCAT is available, the rankings may shift significantly after MCAT submission; current prioritization should be considered provisional.
+
+Summary: The agent correctly follows rules about classification without MCAT and distinction of preference from admission competitiveness. Its main deficits relate to incomplete coverage of applicant's DO interest, weak discussion of mission/curriculum fit limitations, and missed acknowledgment of the research output inconsistency. These revisions are needed to avoid misleading the applicant about fit and expectations.
+
+---
+
+**Summary Table of Issues**
+
+| Issue                                          | Present in Report?        | Required Action                       |
+|------------------------------------------------|---------------------------|-------------------------------------|
+| DO program absence acknowledged clearly         | Partial (only warnings)   | Highlight prominently in summary    |
+| Applicant research output contradiction flagged | No                        | Add warning or note                 |
+| Setting mismatches highlighted clearly          | Partial                   | Emphasize mismatches in fit summary |
+| Mission/curriculum missing data noted            | Minimal                   | Expand explanation of limitations   |
+| Residency context clarified as no admission assurance | No                    | Clarify residency context purpose   |
+| GPA comparisons overstated as chance predictors | No                        | Add explicit caution on interpretation |
+| MCAT missing means provisional ranking          | No                        | Add explicit provisional ranking note|

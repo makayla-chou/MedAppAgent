@@ -1,0 +1,781 @@
+﻿region,entity_name,entity_type,race_or_total_category,category_type,applicant_count,matriculant_count,applicant_to_matriculant_ratio_percent,academic_year
+,United States Total,overall_total,American Indian or Alaska Native,race_ethnicity,81,33,40.74,2025-2026
+,United States Total,overall_total,Asian,race_ethnicity,14585,6484,44.46,2025-2026
+,United States Total,overall_total,Black or African American,race_ethnicity,5022,1558,31.02,2025-2026
+,United States Total,overall_total,Hispanic or Latino,race_ethnicity,3752,1459,38.89,2025-2026
+,United States Total,overall_total,Middle Eastern or North African,race_ethnicity,2539,976,38.44,2025-2026
+,United States Total,overall_total,Native Hawaiian or Pacific Islander,race_ethnicity,51,13,25.49,2025-2026
+,United States Total,overall_total,White,race_ethnicity,18597,8773,47.17,2025-2026
+,United States Total,overall_total,Some Other Race or Ethnicity,race_ethnicity,253,80,31.62,2025-2026
+,United States Total,overall_total,Multiple Race or Ethnicity,race_ethnicity,6847,2837,41.43,2025-2026
+,United States Total,overall_total,Unknown Race or Ethnicity,race_ethnicity,2972,1227,41.29,2025-2026
+,United States Total,overall_total,Total U.S. Citizen and Permanent Resident,citizenship_total,52679,23212,44.06,2025-2026
+,United States Total,overall_total,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,2020,228,11.29,2025-2026
+,United States Total,overall_total,Total People,overall_total,54699,23440,42.85,2025-2026
+Central,Total for the Region,region_total,American Indian or Alaska Native,race_ethnicity,9,2,22.22,2025-2026
+Central,Total for the Region,region_total,Asian,race_ethnicity,2212,1123,50.77,2025-2026
+Central,Total for the Region,region_total,Black or African American,race_ethnicity,729,249,34.16,2025-2026
+Central,Total for the Region,region_total,Hispanic or Latino,race_ethnicity,296,94,31.76,2025-2026
+Central,Total for the Region,region_total,Middle Eastern or North African,race_ethnicity,627,272,43.38,2025-2026
+Central,Total for the Region,region_total,Native Hawaiian or Pacific Islander,race_ethnicity,1,0,0.0,2025-2026
+Central,Total for the Region,region_total,White,race_ethnicity,4861,2395,49.27,2025-2026
+Central,Total for the Region,region_total,Some Other Race or Ethnicity,race_ethnicity,26,11,42.31,2025-2026
+Central,Total for the Region,region_total,Multiple Race or Ethnicity,race_ethnicity,978,435,44.48,2025-2026
+Central,Total for the Region,region_total,Unknown Race or Ethnicity,race_ethnicity,580,288,49.66,2025-2026
+Central,Total for the Region,region_total,Total U.S. Citizen and Permanent Resident,citizenship_total,10184,4843,47.55,2025-2026
+Central,Total for the Region,region_total,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,135,26,19.26,2025-2026
+Central,Total for the Region,region_total,Total People,overall_total,10319,4869,47.18,2025-2026
+Northeast,Total for the Region,region_total,American Indian or Alaska Native,race_ethnicity,2,2,100.0,2025-2026
+Northeast,Total for the Region,region_total,Asian,race_ethnicity,3214,1538,47.85,2025-2026
+Northeast,Total for the Region,region_total,Black or African American,race_ethnicity,1278,420,32.86,2025-2026
+Northeast,Total for the Region,region_total,Hispanic or Latino,race_ethnicity,459,204,44.44,2025-2026
+Northeast,Total for the Region,region_total,Middle Eastern or North African,race_ethnicity,405,179,44.2,2025-2026
+Northeast,Total for the Region,region_total,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Total for the Region,region_total,White,race_ethnicity,3815,1975,51.77,2025-2026
+Northeast,Total for the Region,region_total,Some Other Race or Ethnicity,race_ethnicity,79,27,34.18,2025-2026
+Northeast,Total for the Region,region_total,Multiple Race or Ethnicity,race_ethnicity,1303,629,48.27,2025-2026
+Northeast,Total for the Region,region_total,Unknown Race or Ethnicity,race_ethnicity,723,322,44.54,2025-2026
+Northeast,Total for the Region,region_total,Total U.S. Citizen and Permanent Resident,citizenship_total,11043,5242,47.47,2025-2026
+Northeast,Total for the Region,region_total,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,235,54,22.98,2025-2026
+Northeast,Total for the Region,region_total,Total People,overall_total,11278,5296,46.96,2025-2026
+South,Total for the Region,region_total,American Indian or Alaska Native,race_ethnicity,30,14,46.67,2025-2026
+South,Total for the Region,region_total,Asian,race_ethnicity,4433,2051,46.27,2025-2026
+South,Total for the Region,region_total,Black or African American,race_ethnicity,2477,708,28.58,2025-2026
+South,Total for the Region,region_total,Hispanic or Latino,race_ethnicity,1947,787,40.42,2025-2026
+South,Total for the Region,region_total,Middle Eastern or North African,race_ethnicity,608,244,40.13,2025-2026
+South,Total for the Region,region_total,Native Hawaiian or Pacific Islander,race_ethnicity,8,2,25.0,2025-2026
+South,Total for the Region,region_total,White,race_ethnicity,6334,2982,47.08,2025-2026
+South,Total for the Region,region_total,Some Other Race or Ethnicity,race_ethnicity,54,14,25.93,2025-2026
+South,Total for the Region,region_total,Multiple Race or Ethnicity,race_ethnicity,2616,1007,38.49,2025-2026
+South,Total for the Region,region_total,Unknown Race or Ethnicity,race_ethnicity,866,363,41.92,2025-2026
+South,Total for the Region,region_total,Total U.S. Citizen and Permanent Resident,citizenship_total,19171,8140,42.46,2025-2026
+South,Total for the Region,region_total,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,202,32,15.84,2025-2026
+South,Total for the Region,region_total,Total People,overall_total,19373,8172,42.18,2025-2026
+West,Total for the Region,region_total,American Indian or Alaska Native,race_ethnicity,39,15,38.46,2025-2026
+West,Total for the Region,region_total,Asian,race_ethnicity,4077,1725,42.31,2025-2026
+West,Total for the Region,region_total,Black or African American,race_ethnicity,429,164,38.23,2025-2026
+West,Total for the Region,region_total,Hispanic or Latino,race_ethnicity,1024,369,36.04,2025-2026
+West,Total for the Region,region_total,Middle Eastern or North African,race_ethnicity,717,267,37.24,2025-2026
+West,Total for the Region,region_total,Native Hawaiian or Pacific Islander,race_ethnicity,37,9,24.32,2025-2026
+West,Total for the Region,region_total,White,race_ethnicity,3366,1405,41.74,2025-2026
+West,Total for the Region,region_total,Some Other Race or Ethnicity,race_ethnicity,81,27,33.33,2025-2026
+West,Total for the Region,region_total,Multiple Race or Ethnicity,race_ethnicity,1851,752,40.63,2025-2026
+West,Total for the Region,region_total,Unknown Race or Ethnicity,race_ethnicity,668,246,36.83,2025-2026
+West,Total for the Region,region_total,Total U.S. Citizen and Permanent Resident,citizenship_total,12135,4951,40.8,2025-2026
+West,Total for the Region,region_total,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,154,28,18.18,2025-2026
+West,Total for the Region,region_total,Total People,overall_total,12289,4979,40.52,2025-2026
+,Legal Residence is Not in the U.S.,special_category,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Asian,race_ethnicity,637,41,6.44,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Black or African American,race_ethnicity,100,15,15.0,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Hispanic or Latino,race_ethnicity,25,5,20.0,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Middle Eastern or North African,race_ethnicity,179,13,7.26,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Native Hawaiian or Pacific Islander,race_ethnicity,2,0,0.0,2025-2026
+,Legal Residence is Not in the U.S.,special_category,White,race_ethnicity,213,15,7.04,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Some Other Race or Ethnicity,race_ethnicity,13,1,7.69,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Multiple Race or Ethnicity,race_ethnicity,87,9,10.34,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Unknown Race or Ethnicity,race_ethnicity,133,6,4.51,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Total U.S. Citizen and Permanent Resident,citizenship_total,119,23,19.33,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1271,82,6.45,2025-2026
+,Legal Residence is Not in the U.S.,special_category,Total People,overall_total,1390,105,7.55,2025-2026
+,Legal Residence is Unknown,special_category,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+,Legal Residence is Unknown,special_category,Asian,race_ethnicity,9,5,55.56,2025-2026
+,Legal Residence is Unknown,special_category,Black or African American,race_ethnicity,6,1,16.67,2025-2026
+,Legal Residence is Unknown,special_category,Hispanic or Latino,race_ethnicity,1,0,0.0,2025-2026
+,Legal Residence is Unknown,special_category,Middle Eastern or North African,race_ethnicity,3,1,33.33,2025-2026
+,Legal Residence is Unknown,special_category,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+,Legal Residence is Unknown,special_category,White,race_ethnicity,7,0,0.0,2025-2026
+,Legal Residence is Unknown,special_category,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+,Legal Residence is Unknown,special_category,Multiple Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+,Legal Residence is Unknown,special_category,Unknown Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+,Legal Residence is Unknown,special_category,Total U.S. Citizen and Permanent Resident,citizenship_total,5,3,60.0,2025-2026
+,Legal Residence is Unknown,special_category,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,23,6,26.09,2025-2026
+,Legal Residence is Unknown,special_category,Total People,overall_total,28,9,32.14,2025-2026
+,U.S. Territories and Possessions,special_category,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+,U.S. Territories and Possessions,special_category,Asian,race_ethnicity,3,1,33.33,2025-2026
+,U.S. Territories and Possessions,special_category,Black or African American,race_ethnicity,3,1,33.33,2025-2026
+,U.S. Territories and Possessions,special_category,Hispanic or Latino,race_ethnicity,0,0,,2025-2026
+,U.S. Territories and Possessions,special_category,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+,U.S. Territories and Possessions,special_category,Native Hawaiian or Pacific Islander,race_ethnicity,3,2,66.67,2025-2026
+,U.S. Territories and Possessions,special_category,White,race_ethnicity,1,1,100.0,2025-2026
+,U.S. Territories and Possessions,special_category,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+,U.S. Territories and Possessions,special_category,Multiple Race or Ethnicity,race_ethnicity,11,4,36.36,2025-2026
+,U.S. Territories and Possessions,special_category,Unknown Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+,U.S. Territories and Possessions,special_category,Total U.S. Citizen and Permanent Resident,citizenship_total,22,10,45.45,2025-2026
+,U.S. Territories and Possessions,special_category,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,0,0,,2025-2026
+,U.S. Territories and Possessions,special_category,Total People,overall_total,22,10,45.45,2025-2026
+Central,Illinois,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+Central,Illinois,state_or_district,Asian,race_ethnicity,616,288,46.75,2025-2026
+Central,Illinois,state_or_district,Black or African American,race_ethnicity,177,56,31.64,2025-2026
+Central,Illinois,state_or_district,Hispanic or Latino,race_ethnicity,126,37,29.37,2025-2026
+Central,Illinois,state_or_district,Middle Eastern or North African,race_ethnicity,124,60,48.39,2025-2026
+Central,Illinois,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Illinois,state_or_district,White,race_ethnicity,779,392,50.32,2025-2026
+Central,Illinois,state_or_district,Some Other Race or Ethnicity,race_ethnicity,10,5,50.0,2025-2026
+Central,Illinois,state_or_district,Multiple Race or Ethnicity,race_ethnicity,203,86,42.36,2025-2026
+Central,Illinois,state_or_district,Unknown Race or Ethnicity,race_ethnicity,127,66,51.97,2025-2026
+Central,Illinois,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,2128,981,46.1,2025-2026
+Central,Illinois,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,35,9,25.71,2025-2026
+Central,Illinois,state_or_district,Total People,overall_total,2163,990,45.77,2025-2026
+Central,Indiana,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Indiana,state_or_district,Asian,race_ethnicity,132,74,56.06,2025-2026
+Central,Indiana,state_or_district,Black or African American,race_ethnicity,56,18,32.14,2025-2026
+Central,Indiana,state_or_district,Hispanic or Latino,race_ethnicity,19,4,21.05,2025-2026
+Central,Indiana,state_or_district,Middle Eastern or North African,race_ethnicity,22,9,40.91,2025-2026
+Central,Indiana,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Indiana,state_or_district,White,race_ethnicity,381,224,58.79,2025-2026
+Central,Indiana,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,0,0.0,2025-2026
+Central,Indiana,state_or_district,Multiple Race or Ethnicity,race_ethnicity,77,41,53.25,2025-2026
+Central,Indiana,state_or_district,Unknown Race or Ethnicity,race_ethnicity,41,23,56.1,2025-2026
+Central,Indiana,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,723,393,54.36,2025-2026
+Central,Indiana,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,7,0,0.0,2025-2026
+Central,Indiana,state_or_district,Total People,overall_total,730,393,53.84,2025-2026
+Central,Iowa,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Iowa,state_or_district,Asian,race_ethnicity,44,22,50.0,2025-2026
+Central,Iowa,state_or_district,Black or African American,race_ethnicity,12,2,16.67,2025-2026
+Central,Iowa,state_or_district,Hispanic or Latino,race_ethnicity,10,4,40.0,2025-2026
+Central,Iowa,state_or_district,Middle Eastern or North African,race_ethnicity,9,5,55.56,2025-2026
+Central,Iowa,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Iowa,state_or_district,White,race_ethnicity,200,87,43.5,2025-2026
+Central,Iowa,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Central,Iowa,state_or_district,Multiple Race or Ethnicity,race_ethnicity,36,17,47.22,2025-2026
+Central,Iowa,state_or_district,Unknown Race or Ethnicity,race_ethnicity,16,7,43.75,2025-2026
+Central,Iowa,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,326,144,44.17,2025-2026
+Central,Iowa,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+Central,Iowa,state_or_district,Total People,overall_total,327,144,44.04,2025-2026
+Central,Kansas,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Kansas,state_or_district,Asian,race_ethnicity,107,56,52.34,2025-2026
+Central,Kansas,state_or_district,Black or African American,race_ethnicity,20,6,30.0,2025-2026
+Central,Kansas,state_or_district,Hispanic or Latino,race_ethnicity,24,6,25.0,2025-2026
+Central,Kansas,state_or_district,Middle Eastern or North African,race_ethnicity,13,4,30.77,2025-2026
+Central,Kansas,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Kansas,state_or_district,White,race_ethnicity,237,130,54.85,2025-2026
+Central,Kansas,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Central,Kansas,state_or_district,Multiple Race or Ethnicity,race_ethnicity,40,15,37.5,2025-2026
+Central,Kansas,state_or_district,Unknown Race or Ethnicity,race_ethnicity,17,7,41.18,2025-2026
+Central,Kansas,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,454,223,49.12,2025-2026
+Central,Kansas,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,5,1,20.0,2025-2026
+Central,Kansas,state_or_district,Total People,overall_total,459,224,48.8,2025-2026
+Central,Michigan,state_or_district,American Indian or Alaska Native,race_ethnicity,4,2,50.0,2025-2026
+Central,Michigan,state_or_district,Asian,race_ethnicity,429,196,45.69,2025-2026
+Central,Michigan,state_or_district,Black or African American,race_ethnicity,123,54,43.9,2025-2026
+Central,Michigan,state_or_district,Hispanic or Latino,race_ethnicity,28,10,35.71,2025-2026
+Central,Michigan,state_or_district,Middle Eastern or North African,race_ethnicity,299,119,39.8,2025-2026
+Central,Michigan,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Michigan,state_or_district,White,race_ethnicity,718,307,42.76,2025-2026
+Central,Michigan,state_or_district,Some Other Race or Ethnicity,race_ethnicity,6,3,50.0,2025-2026
+Central,Michigan,state_or_district,Multiple Race or Ethnicity,race_ethnicity,191,79,41.36,2025-2026
+Central,Michigan,state_or_district,Unknown Race or Ethnicity,race_ethnicity,120,60,50.0,2025-2026
+Central,Michigan,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1894,826,43.61,2025-2026
+Central,Michigan,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,24,4,16.67,2025-2026
+Central,Michigan,state_or_district,Total People,overall_total,1918,830,43.27,2025-2026
+Central,Minnesota,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Minnesota,state_or_district,Asian,race_ethnicity,153,68,44.44,2025-2026
+Central,Minnesota,state_or_district,Black or African American,race_ethnicity,86,24,27.91,2025-2026
+Central,Minnesota,state_or_district,Hispanic or Latino,race_ethnicity,15,5,33.33,2025-2026
+Central,Minnesota,state_or_district,Middle Eastern or North African,race_ethnicity,15,6,40.0,2025-2026
+Central,Minnesota,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,1,0,0.0,2025-2026
+Central,Minnesota,state_or_district,White,race_ethnicity,551,251,45.55,2025-2026
+Central,Minnesota,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Central,Minnesota,state_or_district,Multiple Race or Ethnicity,race_ethnicity,89,42,47.19,2025-2026
+Central,Minnesota,state_or_district,Unknown Race or Ethnicity,race_ethnicity,43,22,51.16,2025-2026
+Central,Minnesota,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,943,415,44.01,2025-2026
+Central,Minnesota,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,11,3,27.27,2025-2026
+Central,Minnesota,state_or_district,Total People,overall_total,954,418,43.82,2025-2026
+Central,Missouri,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+Central,Missouri,state_or_district,Asian,race_ethnicity,168,99,58.93,2025-2026
+Central,Missouri,state_or_district,Black or African American,race_ethnicity,59,22,37.29,2025-2026
+Central,Missouri,state_or_district,Hispanic or Latino,race_ethnicity,17,8,47.06,2025-2026
+Central,Missouri,state_or_district,Middle Eastern or North African,race_ethnicity,21,11,52.38,2025-2026
+Central,Missouri,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Missouri,state_or_district,White,race_ethnicity,388,188,48.45,2025-2026
+Central,Missouri,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Central,Missouri,state_or_district,Multiple Race or Ethnicity,race_ethnicity,64,22,34.38,2025-2026
+Central,Missouri,state_or_district,Unknown Race or Ethnicity,race_ethnicity,39,20,51.28,2025-2026
+Central,Missouri,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,738,365,49.46,2025-2026
+Central,Missouri,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,19,5,26.32,2025-2026
+Central,Missouri,state_or_district,Total People,overall_total,757,370,48.88,2025-2026
+Central,Nebraska,state_or_district,American Indian or Alaska Native,race_ethnicity,2,0,0.0,2025-2026
+Central,Nebraska,state_or_district,Asian,race_ethnicity,42,23,54.76,2025-2026
+Central,Nebraska,state_or_district,Black or African American,race_ethnicity,11,4,36.36,2025-2026
+Central,Nebraska,state_or_district,Hispanic or Latino,race_ethnicity,14,6,42.86,2025-2026
+Central,Nebraska,state_or_district,Middle Eastern or North African,race_ethnicity,6,1,16.67,2025-2026
+Central,Nebraska,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Nebraska,state_or_district,White,race_ethnicity,204,107,52.45,2025-2026
+Central,Nebraska,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Central,Nebraska,state_or_district,Multiple Race or Ethnicity,race_ethnicity,22,13,59.09,2025-2026
+Central,Nebraska,state_or_district,Unknown Race or Ethnicity,race_ethnicity,21,9,42.86,2025-2026
+Central,Nebraska,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,320,163,50.94,2025-2026
+Central,Nebraska,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,3,0,0.0,2025-2026
+Central,Nebraska,state_or_district,Total People,overall_total,323,163,50.46,2025-2026
+Central,North Dakota,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,North Dakota,state_or_district,Asian,race_ethnicity,12,7,58.33,2025-2026
+Central,North Dakota,state_or_district,Black or African American,race_ethnicity,4,1,25.0,2025-2026
+Central,North Dakota,state_or_district,Hispanic or Latino,race_ethnicity,0,0,,2025-2026
+Central,North Dakota,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+Central,North Dakota,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,North Dakota,state_or_district,White,race_ethnicity,73,33,45.21,2025-2026
+Central,North Dakota,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Central,North Dakota,state_or_district,Multiple Race or Ethnicity,race_ethnicity,8,6,75.0,2025-2026
+Central,North Dakota,state_or_district,Unknown Race or Ethnicity,race_ethnicity,16,9,56.25,2025-2026
+Central,North Dakota,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,112,56,50.0,2025-2026
+Central,North Dakota,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+Central,North Dakota,state_or_district,Total People,overall_total,113,56,49.56,2025-2026
+Central,Ohio,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Ohio,state_or_district,Asian,race_ethnicity,371,213,57.41,2025-2026
+Central,Ohio,state_or_district,Black or African American,race_ethnicity,154,54,35.06,2025-2026
+Central,Ohio,state_or_district,Hispanic or Latino,race_ethnicity,26,9,34.62,2025-2026
+Central,Ohio,state_or_district,Middle Eastern or North African,race_ethnicity,96,44,45.83,2025-2026
+Central,Ohio,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Ohio,state_or_district,White,race_ethnicity,745,380,51.01,2025-2026
+Central,Ohio,state_or_district,Some Other Race or Ethnicity,race_ethnicity,4,2,50.0,2025-2026
+Central,Ohio,state_or_district,Multiple Race or Ethnicity,race_ethnicity,160,75,46.88,2025-2026
+Central,Ohio,state_or_district,Unknown Race or Ethnicity,race_ethnicity,87,49,56.32,2025-2026
+Central,Ohio,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1623,824,50.77,2025-2026
+Central,Ohio,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,20,2,10.0,2025-2026
+Central,Ohio,state_or_district,Total People,overall_total,1643,826,50.27,2025-2026
+Central,South Dakota,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+Central,South Dakota,state_or_district,Asian,race_ethnicity,7,6,85.71,2025-2026
+Central,South Dakota,state_or_district,Black or African American,race_ethnicity,3,0,0.0,2025-2026
+Central,South Dakota,state_or_district,Hispanic or Latino,race_ethnicity,2,0,0.0,2025-2026
+Central,South Dakota,state_or_district,Middle Eastern or North African,race_ethnicity,3,1,33.33,2025-2026
+Central,South Dakota,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,South Dakota,state_or_district,White,race_ethnicity,105,55,52.38,2025-2026
+Central,South Dakota,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Central,South Dakota,state_or_district,Multiple Race or Ethnicity,race_ethnicity,9,4,44.44,2025-2026
+Central,South Dakota,state_or_district,Unknown Race or Ethnicity,race_ethnicity,5,1,20.0,2025-2026
+Central,South Dakota,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,135,67,49.63,2025-2026
+Central,South Dakota,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,0,0,,2025-2026
+Central,South Dakota,state_or_district,Total People,overall_total,135,67,49.63,2025-2026
+Central,Wisconsin,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Central,Wisconsin,state_or_district,Asian,race_ethnicity,131,71,54.2,2025-2026
+Central,Wisconsin,state_or_district,Black or African American,race_ethnicity,24,8,33.33,2025-2026
+Central,Wisconsin,state_or_district,Hispanic or Latino,race_ethnicity,15,5,33.33,2025-2026
+Central,Wisconsin,state_or_district,Middle Eastern or North African,race_ethnicity,19,12,63.16,2025-2026
+Central,Wisconsin,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Central,Wisconsin,state_or_district,White,race_ethnicity,480,241,50.21,2025-2026
+Central,Wisconsin,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+Central,Wisconsin,state_or_district,Multiple Race or Ethnicity,race_ethnicity,79,35,44.3,2025-2026
+Central,Wisconsin,state_or_district,Unknown Race or Ethnicity,race_ethnicity,48,15,31.25,2025-2026
+Central,Wisconsin,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,788,386,48.98,2025-2026
+Central,Wisconsin,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,9,2,22.22,2025-2026
+Central,Wisconsin,state_or_district,Total People,overall_total,797,388,48.68,2025-2026
+Northeast,Connecticut,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Connecticut,state_or_district,Asian,race_ethnicity,138,66,47.83,2025-2026
+Northeast,Connecticut,state_or_district,Black or African American,race_ethnicity,46,14,30.43,2025-2026
+Northeast,Connecticut,state_or_district,Hispanic or Latino,race_ethnicity,18,9,50.0,2025-2026
+Northeast,Connecticut,state_or_district,Middle Eastern or North African,race_ethnicity,13,7,53.85,2025-2026
+Northeast,Connecticut,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Connecticut,state_or_district,White,race_ethnicity,252,116,46.03,2025-2026
+Northeast,Connecticut,state_or_district,Some Other Race or Ethnicity,race_ethnicity,5,1,20.0,2025-2026
+Northeast,Connecticut,state_or_district,Multiple Race or Ethnicity,race_ethnicity,75,37,49.33,2025-2026
+Northeast,Connecticut,state_or_district,Unknown Race or Ethnicity,race_ethnicity,38,14,36.84,2025-2026
+Northeast,Connecticut,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,578,262,45.33,2025-2026
+Northeast,Connecticut,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,7,2,28.57,2025-2026
+Northeast,Connecticut,state_or_district,Total People,overall_total,585,264,45.13,2025-2026
+Northeast,Delaware,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Delaware,state_or_district,Asian,race_ethnicity,41,20,48.78,2025-2026
+Northeast,Delaware,state_or_district,Black or African American,race_ethnicity,25,9,36.0,2025-2026
+Northeast,Delaware,state_or_district,Hispanic or Latino,race_ethnicity,1,1,100.0,2025-2026
+Northeast,Delaware,state_or_district,Middle Eastern or North African,race_ethnicity,4,2,50.0,2025-2026
+Northeast,Delaware,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Delaware,state_or_district,White,race_ethnicity,36,18,50.0,2025-2026
+Northeast,Delaware,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Northeast,Delaware,state_or_district,Multiple Race or Ethnicity,race_ethnicity,11,5,45.45,2025-2026
+Northeast,Delaware,state_or_district,Unknown Race or Ethnicity,race_ethnicity,5,2,40.0,2025-2026
+Northeast,Delaware,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,123,57,46.34,2025-2026
+Northeast,Delaware,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+Northeast,Delaware,state_or_district,Total People,overall_total,124,57,45.97,2025-2026
+Northeast,District of Columbia,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,District of Columbia,state_or_district,Asian,race_ethnicity,12,4,33.33,2025-2026
+Northeast,District of Columbia,state_or_district,Black or African American,race_ethnicity,36,10,27.78,2025-2026
+Northeast,District of Columbia,state_or_district,Hispanic or Latino,race_ethnicity,1,0,0.0,2025-2026
+Northeast,District of Columbia,state_or_district,Middle Eastern or North African,race_ethnicity,4,2,50.0,2025-2026
+Northeast,District of Columbia,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,District of Columbia,state_or_district,White,race_ethnicity,44,27,61.36,2025-2026
+Northeast,District of Columbia,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Northeast,District of Columbia,state_or_district,Multiple Race or Ethnicity,race_ethnicity,18,7,38.89,2025-2026
+Northeast,District of Columbia,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+Northeast,District of Columbia,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,116,51,43.97,2025-2026
+Northeast,District of Columbia,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,2,0,0.0,2025-2026
+Northeast,District of Columbia,state_or_district,Total People,overall_total,118,51,43.22,2025-2026
+Northeast,Maine,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Maine,state_or_district,Asian,race_ethnicity,8,1,12.5,2025-2026
+Northeast,Maine,state_or_district,Black or African American,race_ethnicity,4,0,0.0,2025-2026
+Northeast,Maine,state_or_district,Hispanic or Latino,race_ethnicity,0,0,,2025-2026
+Northeast,Maine,state_or_district,Middle Eastern or North African,race_ethnicity,3,1,33.33,2025-2026
+Northeast,Maine,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Maine,state_or_district,White,race_ethnicity,58,30,51.72,2025-2026
+Northeast,Maine,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+Northeast,Maine,state_or_district,Multiple Race or Ethnicity,race_ethnicity,8,6,75.0,2025-2026
+Northeast,Maine,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+Northeast,Maine,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,84,40,47.62,2025-2026
+Northeast,Maine,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+Northeast,Maine,state_or_district,Total People,overall_total,85,40,47.06,2025-2026
+Northeast,Maryland,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Maryland,state_or_district,Asian,race_ethnicity,389,172,44.22,2025-2026
+Northeast,Maryland,state_or_district,Black or African American,race_ethnicity,327,106,32.42,2025-2026
+Northeast,Maryland,state_or_district,Hispanic or Latino,race_ethnicity,38,16,42.11,2025-2026
+Northeast,Maryland,state_or_district,Middle Eastern or North African,race_ethnicity,41,21,51.22,2025-2026
+Northeast,Maryland,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Maryland,state_or_district,White,race_ethnicity,343,168,48.98,2025-2026
+Northeast,Maryland,state_or_district,Some Other Race or Ethnicity,race_ethnicity,5,1,20.0,2025-2026
+Northeast,Maryland,state_or_district,Multiple Race or Ethnicity,race_ethnicity,139,67,48.2,2025-2026
+Northeast,Maryland,state_or_district,Unknown Race or Ethnicity,race_ethnicity,77,43,55.84,2025-2026
+Northeast,Maryland,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1320,579,43.86,2025-2026
+Northeast,Maryland,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,39,15,38.46,2025-2026
+Northeast,Maryland,state_or_district,Total People,overall_total,1359,594,43.71,2025-2026
+Northeast,Massachusetts,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Massachusetts,state_or_district,Asian,race_ethnicity,407,208,51.11,2025-2026
+Northeast,Massachusetts,state_or_district,Black or African American,race_ethnicity,110,37,33.64,2025-2026
+Northeast,Massachusetts,state_or_district,Hispanic or Latino,race_ethnicity,47,21,44.68,2025-2026
+Northeast,Massachusetts,state_or_district,Middle Eastern or North African,race_ethnicity,48,19,39.58,2025-2026
+Northeast,Massachusetts,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Massachusetts,state_or_district,White,race_ethnicity,580,327,56.38,2025-2026
+Northeast,Massachusetts,state_or_district,Some Other Race or Ethnicity,race_ethnicity,11,3,27.27,2025-2026
+Northeast,Massachusetts,state_or_district,Multiple Race or Ethnicity,race_ethnicity,169,95,56.21,2025-2026
+Northeast,Massachusetts,state_or_district,Unknown Race or Ethnicity,race_ethnicity,93,34,36.56,2025-2026
+Northeast,Massachusetts,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1416,732,51.69,2025-2026
+Northeast,Massachusetts,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,49,12,24.49,2025-2026
+Northeast,Massachusetts,state_or_district,Total People,overall_total,1465,744,50.78,2025-2026
+Northeast,New Hampshire,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,New Hampshire,state_or_district,Asian,race_ethnicity,34,18,52.94,2025-2026
+Northeast,New Hampshire,state_or_district,Black or African American,race_ethnicity,2,0,0.0,2025-2026
+Northeast,New Hampshire,state_or_district,Hispanic or Latino,race_ethnicity,5,1,20.0,2025-2026
+Northeast,New Hampshire,state_or_district,Middle Eastern or North African,race_ethnicity,1,0,0.0,2025-2026
+Northeast,New Hampshire,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,New Hampshire,state_or_district,White,race_ethnicity,66,33,50.0,2025-2026
+Northeast,New Hampshire,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Northeast,New Hampshire,state_or_district,Multiple Race or Ethnicity,race_ethnicity,11,5,45.45,2025-2026
+Northeast,New Hampshire,state_or_district,Unknown Race or Ethnicity,race_ethnicity,9,4,44.44,2025-2026
+Northeast,New Hampshire,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,127,60,47.24,2025-2026
+Northeast,New Hampshire,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,2,1,50.0,2025-2026
+Northeast,New Hampshire,state_or_district,Total People,overall_total,129,61,47.29,2025-2026
+Northeast,New Jersey,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,New Jersey,state_or_district,Asian,race_ethnicity,783,380,48.53,2025-2026
+Northeast,New Jersey,state_or_district,Black or African American,race_ethnicity,178,54,30.34,2025-2026
+Northeast,New Jersey,state_or_district,Hispanic or Latino,race_ethnicity,93,40,43.01,2025-2026
+Northeast,New Jersey,state_or_district,Middle Eastern or North African,race_ethnicity,99,44,44.44,2025-2026
+Northeast,New Jersey,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,New Jersey,state_or_district,White,race_ethnicity,474,236,49.79,2025-2026
+Northeast,New Jersey,state_or_district,Some Other Race or Ethnicity,race_ethnicity,7,2,28.57,2025-2026
+Northeast,New Jersey,state_or_district,Multiple Race or Ethnicity,race_ethnicity,223,109,48.88,2025-2026
+Northeast,New Jersey,state_or_district,Unknown Race or Ethnicity,race_ethnicity,152,71,46.71,2025-2026
+Northeast,New Jersey,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1981,930,46.95,2025-2026
+Northeast,New Jersey,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,28,6,21.43,2025-2026
+Northeast,New Jersey,state_or_district,Total People,overall_total,2009,936,46.59,2025-2026
+Northeast,New York,state_or_district,American Indian or Alaska Native,race_ethnicity,2,2,100.0,2025-2026
+Northeast,New York,state_or_district,Asian,race_ethnicity,1002,456,45.51,2025-2026
+Northeast,New York,state_or_district,Black or African American,race_ethnicity,410,144,35.12,2025-2026
+Northeast,New York,state_or_district,Hispanic or Latino,race_ethnicity,221,97,43.89,2025-2026
+Northeast,New York,state_or_district,Middle Eastern or North African,race_ethnicity,134,61,45.52,2025-2026
+Northeast,New York,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,New York,state_or_district,White,race_ethnicity,1101,607,55.13,2025-2026
+Northeast,New York,state_or_district,Some Other Race or Ethnicity,race_ethnicity,44,17,38.64,2025-2026
+Northeast,New York,state_or_district,Multiple Race or Ethnicity,race_ethnicity,446,196,43.95,2025-2026
+Northeast,New York,state_or_district,Unknown Race or Ethnicity,race_ethnicity,235,100,42.55,2025-2026
+Northeast,New York,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,3527,1672,47.41,2025-2026
+Northeast,New York,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,68,8,11.76,2025-2026
+Northeast,New York,state_or_district,Total People,overall_total,3595,1680,46.73,2025-2026
+Northeast,Pennsylvania,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Pennsylvania,state_or_district,Asian,race_ethnicity,378,199,52.65,2025-2026
+Northeast,Pennsylvania,state_or_district,Black or African American,race_ethnicity,128,42,32.81,2025-2026
+Northeast,Pennsylvania,state_or_district,Hispanic or Latino,race_ethnicity,32,17,53.12,2025-2026
+Northeast,Pennsylvania,state_or_district,Middle Eastern or North African,race_ethnicity,56,21,37.5,2025-2026
+Northeast,Pennsylvania,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Pennsylvania,state_or_district,White,race_ethnicity,752,361,48.01,2025-2026
+Northeast,Pennsylvania,state_or_district,Some Other Race or Ethnicity,race_ethnicity,3,2,66.67,2025-2026
+Northeast,Pennsylvania,state_or_district,Multiple Race or Ethnicity,race_ethnicity,178,83,46.63,2025-2026
+Northeast,Pennsylvania,state_or_district,Unknown Race or Ethnicity,race_ethnicity,99,48,48.48,2025-2026
+Northeast,Pennsylvania,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1593,764,47.96,2025-2026
+Northeast,Pennsylvania,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,33,9,27.27,2025-2026
+Northeast,Pennsylvania,state_or_district,Total People,overall_total,1626,773,47.54,2025-2026
+Northeast,Rhode Island,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Rhode Island,state_or_district,Asian,race_ethnicity,16,12,75.0,2025-2026
+Northeast,Rhode Island,state_or_district,Black or African American,race_ethnicity,10,2,20.0,2025-2026
+Northeast,Rhode Island,state_or_district,Hispanic or Latino,race_ethnicity,3,2,66.67,2025-2026
+Northeast,Rhode Island,state_or_district,Middle Eastern or North African,race_ethnicity,1,1,100.0,2025-2026
+Northeast,Rhode Island,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Rhode Island,state_or_district,White,race_ethnicity,56,22,39.29,2025-2026
+Northeast,Rhode Island,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+Northeast,Rhode Island,state_or_district,Multiple Race or Ethnicity,race_ethnicity,14,10,71.43,2025-2026
+Northeast,Rhode Island,state_or_district,Unknown Race or Ethnicity,race_ethnicity,6,3,50.0,2025-2026
+Northeast,Rhode Island,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,103,51,49.51,2025-2026
+Northeast,Rhode Island,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,4,1,25.0,2025-2026
+Northeast,Rhode Island,state_or_district,Total People,overall_total,107,52,48.6,2025-2026
+Northeast,Vermont,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+Northeast,Vermont,state_or_district,Asian,race_ethnicity,6,2,33.33,2025-2026
+Northeast,Vermont,state_or_district,Black or African American,race_ethnicity,2,2,100.0,2025-2026
+Northeast,Vermont,state_or_district,Hispanic or Latino,race_ethnicity,0,0,,2025-2026
+Northeast,Vermont,state_or_district,Middle Eastern or North African,race_ethnicity,1,0,0.0,2025-2026
+Northeast,Vermont,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+Northeast,Vermont,state_or_district,White,race_ethnicity,53,30,56.6,2025-2026
+Northeast,Vermont,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+Northeast,Vermont,state_or_district,Multiple Race or Ethnicity,race_ethnicity,11,9,81.82,2025-2026
+Northeast,Vermont,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+Northeast,Vermont,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,75,44,58.67,2025-2026
+Northeast,Vermont,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+Northeast,Vermont,state_or_district,Total People,overall_total,76,44,57.89,2025-2026
+South,Alabama,state_or_district,American Indian or Alaska Native,race_ethnicity,3,1,33.33,2025-2026
+South,Alabama,state_or_district,Asian,race_ethnicity,103,54,52.43,2025-2026
+South,Alabama,state_or_district,Black or African American,race_ethnicity,86,28,32.56,2025-2026
+South,Alabama,state_or_district,Hispanic or Latino,race_ethnicity,17,11,64.71,2025-2026
+South,Alabama,state_or_district,Middle Eastern or North African,race_ethnicity,9,6,66.67,2025-2026
+South,Alabama,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Alabama,state_or_district,White,race_ethnicity,303,141,46.53,2025-2026
+South,Alabama,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,Alabama,state_or_district,Multiple Race or Ethnicity,race_ethnicity,57,17,29.82,2025-2026
+South,Alabama,state_or_district,Unknown Race or Ethnicity,race_ethnicity,39,18,46.15,2025-2026
+South,Alabama,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,615,275,44.72,2025-2026
+South,Alabama,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,2,1,50.0,2025-2026
+South,Alabama,state_or_district,Total People,overall_total,617,276,44.73,2025-2026
+South,Arkansas,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+South,Arkansas,state_or_district,Asian,race_ethnicity,48,28,58.33,2025-2026
+South,Arkansas,state_or_district,Black or African American,race_ethnicity,26,2,7.69,2025-2026
+South,Arkansas,state_or_district,Hispanic or Latino,race_ethnicity,13,7,53.85,2025-2026
+South,Arkansas,state_or_district,Middle Eastern or North African,race_ethnicity,13,5,38.46,2025-2026
+South,Arkansas,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Arkansas,state_or_district,White,race_ethnicity,181,106,58.56,2025-2026
+South,Arkansas,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+South,Arkansas,state_or_district,Multiple Race or Ethnicity,race_ethnicity,41,21,51.22,2025-2026
+South,Arkansas,state_or_district,Unknown Race or Ethnicity,race_ethnicity,15,10,66.67,2025-2026
+South,Arkansas,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,338,179,52.96,2025-2026
+South,Arkansas,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+South,Arkansas,state_or_district,Total People,overall_total,339,179,52.8,2025-2026
+South,Florida,state_or_district,American Indian or Alaska Native,race_ethnicity,1,1,100.0,2025-2026
+South,Florida,state_or_district,Asian,race_ethnicity,594,239,40.24,2025-2026
+South,Florida,state_or_district,Black or African American,race_ethnicity,452,122,26.99,2025-2026
+South,Florida,state_or_district,Hispanic or Latino,race_ethnicity,706,259,36.69,2025-2026
+South,Florida,state_or_district,Middle Eastern or North African,race_ethnicity,138,41,29.71,2025-2026
+South,Florida,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,1,0,0.0,2025-2026
+South,Florida,state_or_district,White,race_ethnicity,945,340,35.98,2025-2026
+South,Florida,state_or_district,Some Other Race or Ethnicity,race_ethnicity,24,3,12.5,2025-2026
+South,Florida,state_or_district,Multiple Race or Ethnicity,race_ethnicity,688,233,33.87,2025-2026
+South,Florida,state_or_district,Unknown Race or Ethnicity,race_ethnicity,163,45,27.61,2025-2026
+South,Florida,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,3675,1280,34.83,2025-2026
+South,Florida,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,37,3,8.11,2025-2026
+South,Florida,state_or_district,Total People,overall_total,3712,1283,34.56,2025-2026
+South,Georgia,state_or_district,American Indian or Alaska Native,race_ethnicity,1,1,100.0,2025-2026
+South,Georgia,state_or_district,Asian,race_ethnicity,479,241,50.31,2025-2026
+South,Georgia,state_or_district,Black or African American,race_ethnicity,444,156,35.14,2025-2026
+South,Georgia,state_or_district,Hispanic or Latino,race_ethnicity,60,21,35.0,2025-2026
+South,Georgia,state_or_district,Middle Eastern or North African,race_ethnicity,44,21,47.73,2025-2026
+South,Georgia,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Georgia,state_or_district,White,race_ethnicity,535,286,53.46,2025-2026
+South,Georgia,state_or_district,Some Other Race or Ethnicity,race_ethnicity,8,2,25.0,2025-2026
+South,Georgia,state_or_district,Multiple Race or Ethnicity,race_ethnicity,162,72,44.44,2025-2026
+South,Georgia,state_or_district,Unknown Race or Ethnicity,race_ethnicity,105,52,49.52,2025-2026
+South,Georgia,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1821,844,46.35,2025-2026
+South,Georgia,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,17,8,47.06,2025-2026
+South,Georgia,state_or_district,Total People,overall_total,1838,852,46.35,2025-2026
+South,Kentucky,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+South,Kentucky,state_or_district,Asian,race_ethnicity,108,65,60.19,2025-2026
+South,Kentucky,state_or_district,Black or African American,race_ethnicity,34,10,29.41,2025-2026
+South,Kentucky,state_or_district,Hispanic or Latino,race_ethnicity,17,5,29.41,2025-2026
+South,Kentucky,state_or_district,Middle Eastern or North African,race_ethnicity,27,14,51.85,2025-2026
+South,Kentucky,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Kentucky,state_or_district,White,race_ethnicity,349,190,54.44,2025-2026
+South,Kentucky,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+South,Kentucky,state_or_district,Multiple Race or Ethnicity,race_ethnicity,51,31,60.78,2025-2026
+South,Kentucky,state_or_district,Unknown Race or Ethnicity,race_ethnicity,32,17,53.12,2025-2026
+South,Kentucky,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,613,331,54.0,2025-2026
+South,Kentucky,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,6,1,16.67,2025-2026
+South,Kentucky,state_or_district,Total People,overall_total,619,332,53.63,2025-2026
+South,Louisiana,state_or_district,American Indian or Alaska Native,race_ethnicity,6,2,33.33,2025-2026
+South,Louisiana,state_or_district,Asian,race_ethnicity,91,49,53.85,2025-2026
+South,Louisiana,state_or_district,Black or African American,race_ethnicity,117,37,31.62,2025-2026
+South,Louisiana,state_or_district,Hispanic or Latino,race_ethnicity,18,5,27.78,2025-2026
+South,Louisiana,state_or_district,Middle Eastern or North African,race_ethnicity,18,8,44.44,2025-2026
+South,Louisiana,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Louisiana,state_or_district,White,race_ethnicity,399,202,50.63,2025-2026
+South,Louisiana,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,Louisiana,state_or_district,Multiple Race or Ethnicity,race_ethnicity,84,51,60.71,2025-2026
+South,Louisiana,state_or_district,Unknown Race or Ethnicity,race_ethnicity,26,13,50.0,2025-2026
+South,Louisiana,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,753,365,48.47,2025-2026
+South,Louisiana,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,6,2,33.33,2025-2026
+South,Louisiana,state_or_district,Total People,overall_total,759,367,48.35,2025-2026
+South,Mississippi,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+South,Mississippi,state_or_district,Asian,race_ethnicity,30,17,56.67,2025-2026
+South,Mississippi,state_or_district,Black or African American,race_ethnicity,80,28,35.0,2025-2026
+South,Mississippi,state_or_district,Hispanic or Latino,race_ethnicity,8,1,12.5,2025-2026
+South,Mississippi,state_or_district,Middle Eastern or North African,race_ethnicity,7,6,85.71,2025-2026
+South,Mississippi,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Mississippi,state_or_district,White,race_ethnicity,198,126,63.64,2025-2026
+South,Mississippi,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,Mississippi,state_or_district,Multiple Race or Ethnicity,race_ethnicity,17,13,76.47,2025-2026
+South,Mississippi,state_or_district,Unknown Race or Ethnicity,race_ethnicity,15,8,53.33,2025-2026
+South,Mississippi,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,352,198,56.25,2025-2026
+South,Mississippi,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,3,1,33.33,2025-2026
+South,Mississippi,state_or_district,Total People,overall_total,355,199,56.06,2025-2026
+South,North Carolina,state_or_district,American Indian or Alaska Native,race_ethnicity,2,0,0.0,2025-2026
+South,North Carolina,state_or_district,Asian,race_ethnicity,332,155,46.69,2025-2026
+South,North Carolina,state_or_district,Black or African American,race_ethnicity,192,61,31.77,2025-2026
+South,North Carolina,state_or_district,Hispanic or Latino,race_ethnicity,53,21,39.62,2025-2026
+South,North Carolina,state_or_district,Middle Eastern or North African,race_ethnicity,34,15,44.12,2025-2026
+South,North Carolina,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,2,1,50.0,2025-2026
+South,North Carolina,state_or_district,White,race_ethnicity,571,280,49.04,2025-2026
+South,North Carolina,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,1,50.0,2025-2026
+South,North Carolina,state_or_district,Multiple Race or Ethnicity,race_ethnicity,143,54,37.76,2025-2026
+South,North Carolina,state_or_district,Unknown Race or Ethnicity,race_ethnicity,78,33,42.31,2025-2026
+South,North Carolina,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1394,617,44.26,2025-2026
+South,North Carolina,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,15,4,26.67,2025-2026
+South,North Carolina,state_or_district,Total People,overall_total,1409,621,44.07,2025-2026
+South,Oklahoma,state_or_district,American Indian or Alaska Native,race_ethnicity,9,5,55.56,2025-2026
+South,Oklahoma,state_or_district,Asian,race_ethnicity,74,21,28.38,2025-2026
+South,Oklahoma,state_or_district,Black or African American,race_ethnicity,25,5,20.0,2025-2026
+South,Oklahoma,state_or_district,Hispanic or Latino,race_ethnicity,14,5,35.71,2025-2026
+South,Oklahoma,state_or_district,Middle Eastern or North African,race_ethnicity,15,3,20.0,2025-2026
+South,Oklahoma,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Oklahoma,state_or_district,White,race_ethnicity,139,63,45.32,2025-2026
+South,Oklahoma,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,Oklahoma,state_or_district,Multiple Race or Ethnicity,race_ethnicity,82,23,28.05,2025-2026
+South,Oklahoma,state_or_district,Unknown Race or Ethnicity,race_ethnicity,10,4,40.0,2025-2026
+South,Oklahoma,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,362,129,35.64,2025-2026
+South,Oklahoma,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,6,0,0.0,2025-2026
+South,Oklahoma,state_or_district,Total People,overall_total,368,129,35.05,2025-2026
+South,Puerto Rico,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Asian,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Black or African American,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Hispanic or Latino,race_ethnicity,562,296,52.67,2025-2026
+South,Puerto Rico,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,White,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,Puerto Rico,state_or_district,Multiple Race or Ethnicity,race_ethnicity,61,38,62.3,2025-2026
+South,Puerto Rico,state_or_district,Unknown Race or Ethnicity,race_ethnicity,20,4,20.0,2025-2026
+South,Puerto Rico,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,642,337,52.49,2025-2026
+South,Puerto Rico,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,1,100.0,2025-2026
+South,Puerto Rico,state_or_district,Total People,overall_total,643,338,52.57,2025-2026
+South,South Carolina,state_or_district,American Indian or Alaska Native,race_ethnicity,2,0,0.0,2025-2026
+South,South Carolina,state_or_district,Asian,race_ethnicity,84,47,55.95,2025-2026
+South,South Carolina,state_or_district,Black or African American,race_ethnicity,85,22,25.88,2025-2026
+South,South Carolina,state_or_district,Hispanic or Latino,race_ethnicity,24,10,41.67,2025-2026
+South,South Carolina,state_or_district,Middle Eastern or North African,race_ethnicity,10,7,70.0,2025-2026
+South,South Carolina,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,South Carolina,state_or_district,White,race_ethnicity,363,217,59.78,2025-2026
+South,South Carolina,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,South Carolina,state_or_district,Multiple Race or Ethnicity,race_ethnicity,61,30,49.18,2025-2026
+South,South Carolina,state_or_district,Unknown Race or Ethnicity,race_ethnicity,34,17,50.0,2025-2026
+South,South Carolina,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,653,350,53.6,2025-2026
+South,South Carolina,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,10,0,0.0,2025-2026
+South,South Carolina,state_or_district,Total People,overall_total,663,350,52.79,2025-2026
+South,Tennessee,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+South,Tennessee,state_or_district,Asian,race_ethnicity,147,89,60.54,2025-2026
+South,Tennessee,state_or_district,Black or African American,race_ethnicity,114,22,19.3,2025-2026
+South,Tennessee,state_or_district,Hispanic or Latino,race_ethnicity,25,10,40.0,2025-2026
+South,Tennessee,state_or_district,Middle Eastern or North African,race_ethnicity,70,31,44.29,2025-2026
+South,Tennessee,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Tennessee,state_or_district,White,race_ethnicity,366,170,46.45,2025-2026
+South,Tennessee,state_or_district,Some Other Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+South,Tennessee,state_or_district,Multiple Race or Ethnicity,race_ethnicity,74,28,37.84,2025-2026
+South,Tennessee,state_or_district,Unknown Race or Ethnicity,race_ethnicity,48,22,45.83,2025-2026
+South,Tennessee,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,830,368,44.34,2025-2026
+South,Tennessee,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,17,5,29.41,2025-2026
+South,Tennessee,state_or_district,Total People,overall_total,847,373,44.04,2025-2026
+South,Texas,state_or_district,American Indian or Alaska Native,race_ethnicity,4,3,75.0,2025-2026
+South,Texas,state_or_district,Asian,race_ethnicity,1830,820,44.81,2025-2026
+South,Texas,state_or_district,Black or African American,race_ethnicity,630,165,26.19,2025-2026
+South,Texas,state_or_district,Hispanic or Latino,race_ethnicity,374,119,31.82,2025-2026
+South,Texas,state_or_district,Middle Eastern or North African,race_ethnicity,117,44,37.61,2025-2026
+South,Texas,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,5,1,20.0,2025-2026
+South,Texas,state_or_district,White,race_ethnicity,1406,566,40.26,2025-2026
+South,Texas,state_or_district,Some Other Race or Ethnicity,race_ethnicity,6,2,33.33,2025-2026
+South,Texas,state_or_district,Multiple Race or Ethnicity,race_ethnicity,906,311,34.33,2025-2026
+South,Texas,state_or_district,Unknown Race or Ethnicity,race_ethnicity,168,71,42.26,2025-2026
+South,Texas,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,5384,2098,38.97,2025-2026
+South,Texas,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,62,4,6.45,2025-2026
+South,Texas,state_or_district,Total People,overall_total,5446,2102,38.6,2025-2026
+South,Virginia,state_or_district,American Indian or Alaska Native,race_ethnicity,1,1,100.0,2025-2026
+South,Virginia,state_or_district,Asian,race_ethnicity,501,219,43.71,2025-2026
+South,Virginia,state_or_district,Black or African American,race_ethnicity,182,47,25.82,2025-2026
+South,Virginia,state_or_district,Hispanic or Latino,race_ethnicity,52,16,30.77,2025-2026
+South,Virginia,state_or_district,Middle Eastern or North African,race_ethnicity,94,35,37.23,2025-2026
+South,Virginia,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,Virginia,state_or_district,White,race_ethnicity,458,220,48.03,2025-2026
+South,Virginia,state_or_district,Some Other Race or Ethnicity,race_ethnicity,9,5,55.56,2025-2026
+South,Virginia,state_or_district,Multiple Race or Ethnicity,race_ethnicity,173,77,44.51,2025-2026
+South,Virginia,state_or_district,Unknown Race or Ethnicity,race_ethnicity,104,43,41.35,2025-2026
+South,Virginia,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1558,662,42.49,2025-2026
+South,Virginia,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,16,1,6.25,2025-2026
+South,Virginia,state_or_district,Total People,overall_total,1574,663,42.12,2025-2026
+South,West Virginia,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+South,West Virginia,state_or_district,Asian,race_ethnicity,12,7,58.33,2025-2026
+South,West Virginia,state_or_district,Black or African American,race_ethnicity,10,3,30.0,2025-2026
+South,West Virginia,state_or_district,Hispanic or Latino,race_ethnicity,4,1,25.0,2025-2026
+South,West Virginia,state_or_district,Middle Eastern or North African,race_ethnicity,12,8,66.67,2025-2026
+South,West Virginia,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+South,West Virginia,state_or_district,White,race_ethnicity,121,75,61.98,2025-2026
+South,West Virginia,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+South,West Virginia,state_or_district,Multiple Race or Ethnicity,race_ethnicity,16,8,50.0,2025-2026
+South,West Virginia,state_or_district,Unknown Race or Ethnicity,race_ethnicity,9,6,66.67,2025-2026
+South,West Virginia,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,181,107,59.12,2025-2026
+South,West Virginia,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,3,1,33.33,2025-2026
+South,West Virginia,state_or_district,Total People,overall_total,184,108,58.7,2025-2026
+West,Alaska,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+West,Alaska,state_or_district,Asian,race_ethnicity,9,7,77.78,2025-2026
+West,Alaska,state_or_district,Black or African American,race_ethnicity,3,0,0.0,2025-2026
+West,Alaska,state_or_district,Hispanic or Latino,race_ethnicity,2,0,0.0,2025-2026
+West,Alaska,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+West,Alaska,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Alaska,state_or_district,White,race_ethnicity,44,27,61.36,2025-2026
+West,Alaska,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+West,Alaska,state_or_district,Multiple Race or Ethnicity,race_ethnicity,14,10,71.43,2025-2026
+West,Alaska,state_or_district,Unknown Race or Ethnicity,race_ethnicity,4,1,25.0,2025-2026
+West,Alaska,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,77,45,58.44,2025-2026
+West,Alaska,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,0,0,,2025-2026
+West,Alaska,state_or_district,Total People,overall_total,77,45,58.44,2025-2026
+West,Arizona,state_or_district,American Indian or Alaska Native,race_ethnicity,5,2,40.0,2025-2026
+West,Arizona,state_or_district,Asian,race_ethnicity,217,87,40.09,2025-2026
+West,Arizona,state_or_district,Black or African American,race_ethnicity,36,9,25.0,2025-2026
+West,Arizona,state_or_district,Hispanic or Latino,race_ethnicity,91,35,38.46,2025-2026
+West,Arizona,state_or_district,Middle Eastern or North African,race_ethnicity,53,29,54.72,2025-2026
+West,Arizona,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,4,1,25.0,2025-2026
+West,Arizona,state_or_district,White,race_ethnicity,342,116,33.92,2025-2026
+West,Arizona,state_or_district,Some Other Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+West,Arizona,state_or_district,Multiple Race or Ethnicity,race_ethnicity,161,55,34.16,2025-2026
+West,Arizona,state_or_district,Unknown Race or Ethnicity,race_ethnicity,45,9,20.0,2025-2026
+West,Arizona,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,946,342,36.15,2025-2026
+West,Arizona,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,11,2,18.18,2025-2026
+West,Arizona,state_or_district,Total People,overall_total,957,344,35.95,2025-2026
+West,California,state_or_district,American Indian or Alaska Native,race_ethnicity,7,3,42.86,2025-2026
+West,California,state_or_district,Asian,race_ethnicity,3031,1265,41.74,2025-2026
+West,California,state_or_district,Black or African American,race_ethnicity,270,106,39.26,2025-2026
+West,California,state_or_district,Hispanic or Latino,race_ethnicity,713,248,34.78,2025-2026
+West,California,state_or_district,Middle Eastern or North African,race_ethnicity,564,208,36.88,2025-2026
+West,California,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,15,2,13.33,2025-2026
+West,California,state_or_district,White,race_ethnicity,1093,491,44.92,2025-2026
+West,California,state_or_district,Some Other Race or Ethnicity,race_ethnicity,62,16,25.81,2025-2026
+West,California,state_or_district,Multiple Race or Ethnicity,race_ethnicity,1063,433,40.73,2025-2026
+West,California,state_or_district,Unknown Race or Ethnicity,race_ethnicity,398,161,40.45,2025-2026
+West,California,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,7108,2914,41.0,2025-2026
+West,California,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,108,19,17.59,2025-2026
+West,California,state_or_district,Total People,overall_total,7216,2933,40.65,2025-2026
+West,Colorado,state_or_district,American Indian or Alaska Native,race_ethnicity,2,1,50.0,2025-2026
+West,Colorado,state_or_district,Asian,race_ethnicity,102,45,44.12,2025-2026
+West,Colorado,state_or_district,Black or African American,race_ethnicity,28,6,21.43,2025-2026
+West,Colorado,state_or_district,Hispanic or Latino,race_ethnicity,30,8,26.67,2025-2026
+West,Colorado,state_or_district,Middle Eastern or North African,race_ethnicity,16,5,31.25,2025-2026
+West,Colorado,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Colorado,state_or_district,White,race_ethnicity,368,140,38.04,2025-2026
+West,Colorado,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,0,0.0,2025-2026
+West,Colorado,state_or_district,Multiple Race or Ethnicity,race_ethnicity,105,41,39.05,2025-2026
+West,Colorado,state_or_district,Unknown Race or Ethnicity,race_ethnicity,56,16,28.57,2025-2026
+West,Colorado,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,704,261,37.07,2025-2026
+West,Colorado,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,5,1,20.0,2025-2026
+West,Colorado,state_or_district,Total People,overall_total,709,262,36.95,2025-2026
+West,Hawaii,state_or_district,American Indian or Alaska Native,race_ethnicity,1,1,100.0,2025-2026
+West,Hawaii,state_or_district,Asian,race_ethnicity,115,46,40.0,2025-2026
+West,Hawaii,state_or_district,Black or African American,race_ethnicity,3,0,0.0,2025-2026
+West,Hawaii,state_or_district,Hispanic or Latino,race_ethnicity,2,1,50.0,2025-2026
+West,Hawaii,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+West,Hawaii,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,9,1,11.11,2025-2026
+West,Hawaii,state_or_district,White,race_ethnicity,17,6,35.29,2025-2026
+West,Hawaii,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,1,100.0,2025-2026
+West,Hawaii,state_or_district,Multiple Race or Ethnicity,race_ethnicity,68,29,42.65,2025-2026
+West,Hawaii,state_or_district,Unknown Race or Ethnicity,race_ethnicity,14,6,42.86,2025-2026
+West,Hawaii,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,229,91,39.74,2025-2026
+West,Hawaii,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+West,Hawaii,state_or_district,Total People,overall_total,230,91,39.57,2025-2026
+West,Idaho,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+West,Idaho,state_or_district,Asian,race_ethnicity,9,4,44.44,2025-2026
+West,Idaho,state_or_district,Black or African American,race_ethnicity,2,1,50.0,2025-2026
+West,Idaho,state_or_district,Hispanic or Latino,race_ethnicity,8,3,37.5,2025-2026
+West,Idaho,state_or_district,Middle Eastern or North African,race_ethnicity,3,2,66.67,2025-2026
+West,Idaho,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Idaho,state_or_district,White,race_ethnicity,127,63,49.61,2025-2026
+West,Idaho,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+West,Idaho,state_or_district,Multiple Race or Ethnicity,race_ethnicity,12,4,33.33,2025-2026
+West,Idaho,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,2,66.67,2025-2026
+West,Idaho,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,163,79,48.47,2025-2026
+West,Idaho,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,2,0,0.0,2025-2026
+West,Idaho,state_or_district,Total People,overall_total,165,79,47.88,2025-2026
+West,Montana,state_or_district,American Indian or Alaska Native,race_ethnicity,3,2,66.67,2025-2026
+West,Montana,state_or_district,Asian,race_ethnicity,3,0,0.0,2025-2026
+West,Montana,state_or_district,Black or African American,race_ethnicity,0,0,,2025-2026
+West,Montana,state_or_district,Hispanic or Latino,race_ethnicity,1,1,100.0,2025-2026
+West,Montana,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+West,Montana,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Montana,state_or_district,White,race_ethnicity,114,49,42.98,2025-2026
+West,Montana,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+West,Montana,state_or_district,Multiple Race or Ethnicity,race_ethnicity,13,7,53.85,2025-2026
+West,Montana,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,1,33.33,2025-2026
+West,Montana,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,137,60,43.8,2025-2026
+West,Montana,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,0,0,,2025-2026
+West,Montana,state_or_district,Total People,overall_total,137,60,43.8,2025-2026
+West,Nevada,state_or_district,American Indian or Alaska Native,race_ethnicity,0,0,,2025-2026
+West,Nevada,state_or_district,Asian,race_ethnicity,106,53,50.0,2025-2026
+West,Nevada,state_or_district,Black or African American,race_ethnicity,16,7,43.75,2025-2026
+West,Nevada,state_or_district,Hispanic or Latino,race_ethnicity,27,13,48.15,2025-2026
+West,Nevada,state_or_district,Middle Eastern or North African,race_ethnicity,20,4,20.0,2025-2026
+West,Nevada,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,1,0,0.0,2025-2026
+West,Nevada,state_or_district,White,race_ethnicity,108,42,38.89,2025-2026
+West,Nevada,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,2,100.0,2025-2026
+West,Nevada,state_or_district,Multiple Race or Ethnicity,race_ethnicity,54,23,42.59,2025-2026
+West,Nevada,state_or_district,Unknown Race or Ethnicity,race_ethnicity,12,3,25.0,2025-2026
+West,Nevada,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,345,147,42.61,2025-2026
+West,Nevada,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,1,0,0.0,2025-2026
+West,Nevada,state_or_district,Total People,overall_total,346,147,42.49,2025-2026
+West,New Mexico,state_or_district,American Indian or Alaska Native,race_ethnicity,4,1,25.0,2025-2026
+West,New Mexico,state_or_district,Asian,race_ethnicity,21,13,61.9,2025-2026
+West,New Mexico,state_or_district,Black or African American,race_ethnicity,7,2,28.57,2025-2026
+West,New Mexico,state_or_district,Hispanic or Latino,race_ethnicity,39,19,48.72,2025-2026
+West,New Mexico,state_or_district,Middle Eastern or North African,race_ethnicity,10,4,40.0,2025-2026
+West,New Mexico,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,New Mexico,state_or_district,White,race_ethnicity,66,28,42.42,2025-2026
+West,New Mexico,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,2,100.0,2025-2026
+West,New Mexico,state_or_district,Multiple Race or Ethnicity,race_ethnicity,54,29,53.7,2025-2026
+West,New Mexico,state_or_district,Unknown Race or Ethnicity,race_ethnicity,11,6,54.55,2025-2026
+West,New Mexico,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,210,102,48.57,2025-2026
+West,New Mexico,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,4,2,50.0,2025-2026
+West,New Mexico,state_or_district,Total People,overall_total,214,104,48.6,2025-2026
+West,Oregon,state_or_district,American Indian or Alaska Native,race_ethnicity,6,3,50.0,2025-2026
+West,Oregon,state_or_district,Asian,race_ethnicity,121,53,43.8,2025-2026
+West,Oregon,state_or_district,Black or African American,race_ethnicity,14,11,78.57,2025-2026
+West,Oregon,state_or_district,Hispanic or Latino,race_ethnicity,29,10,34.48,2025-2026
+West,Oregon,state_or_district,Middle Eastern or North African,race_ethnicity,12,2,16.67,2025-2026
+West,Oregon,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Oregon,state_or_district,White,race_ethnicity,210,91,43.33,2025-2026
+West,Oregon,state_or_district,Some Other Race or Ethnicity,race_ethnicity,1,0,0.0,2025-2026
+West,Oregon,state_or_district,Multiple Race or Ethnicity,race_ethnicity,92,33,35.87,2025-2026
+West,Oregon,state_or_district,Unknown Race or Ethnicity,race_ethnicity,21,4,19.05,2025-2026
+West,Oregon,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,502,205,40.84,2025-2026
+West,Oregon,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,4,2,50.0,2025-2026
+West,Oregon,state_or_district,Total People,overall_total,506,207,40.91,2025-2026
+West,Utah,state_or_district,American Indian or Alaska Native,race_ethnicity,3,1,33.33,2025-2026
+West,Utah,state_or_district,Asian,race_ethnicity,46,12,26.09,2025-2026
+West,Utah,state_or_district,Black or African American,race_ethnicity,5,2,40.0,2025-2026
+West,Utah,state_or_district,Hispanic or Latino,race_ethnicity,31,14,45.16,2025-2026
+West,Utah,state_or_district,Middle Eastern or North African,race_ethnicity,4,2,50.0,2025-2026
+West,Utah,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,3,2,66.67,2025-2026
+West,Utah,state_or_district,White,race_ethnicity,464,170,36.64,2025-2026
+West,Utah,state_or_district,Some Other Race or Ethnicity,race_ethnicity,2,1,50.0,2025-2026
+West,Utah,state_or_district,Multiple Race or Ethnicity,race_ethnicity,48,14,29.17,2025-2026
+West,Utah,state_or_district,Unknown Race or Ethnicity,race_ethnicity,31,12,38.71,2025-2026
+West,Utah,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,628,229,36.46,2025-2026
+West,Utah,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,9,1,11.11,2025-2026
+West,Utah,state_or_district,Total People,overall_total,637,230,36.11,2025-2026
+West,Washington,state_or_district,American Indian or Alaska Native,race_ethnicity,5,1,20.0,2025-2026
+West,Washington,state_or_district,Asian,race_ethnicity,297,140,47.14,2025-2026
+West,Washington,state_or_district,Black or African American,race_ethnicity,45,20,44.44,2025-2026
+West,Washington,state_or_district,Hispanic or Latino,race_ethnicity,50,16,32.0,2025-2026
+West,Washington,state_or_district,Middle Eastern or North African,race_ethnicity,35,11,31.43,2025-2026
+West,Washington,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,5,3,60.0,2025-2026
+West,Washington,state_or_district,White,race_ethnicity,377,158,41.91,2025-2026
+West,Washington,state_or_district,Some Other Race or Ethnicity,race_ethnicity,6,4,66.67,2025-2026
+West,Washington,state_or_district,Multiple Race or Ethnicity,race_ethnicity,164,71,43.29,2025-2026
+West,Washington,state_or_district,Unknown Race or Ethnicity,race_ethnicity,67,23,34.33,2025-2026
+West,Washington,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,1042,446,42.8,2025-2026
+West,Washington,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,9,1,11.11,2025-2026
+West,Washington,state_or_district,Total People,overall_total,1051,447,42.53,2025-2026
+West,Wyoming,state_or_district,American Indian or Alaska Native,race_ethnicity,1,0,0.0,2025-2026
+West,Wyoming,state_or_district,Asian,race_ethnicity,0,0,,2025-2026
+West,Wyoming,state_or_district,Black or African American,race_ethnicity,0,0,,2025-2026
+West,Wyoming,state_or_district,Hispanic or Latino,race_ethnicity,1,1,100.0,2025-2026
+West,Wyoming,state_or_district,Middle Eastern or North African,race_ethnicity,0,0,,2025-2026
+West,Wyoming,state_or_district,Native Hawaiian or Pacific Islander,race_ethnicity,0,0,,2025-2026
+West,Wyoming,state_or_district,White,race_ethnicity,36,24,66.67,2025-2026
+West,Wyoming,state_or_district,Some Other Race or Ethnicity,race_ethnicity,0,0,,2025-2026
+West,Wyoming,state_or_district,Multiple Race or Ethnicity,race_ethnicity,3,3,100.0,2025-2026
+West,Wyoming,state_or_district,Unknown Race or Ethnicity,race_ethnicity,3,2,66.67,2025-2026
+West,Wyoming,state_or_district,Total U.S. Citizen and Permanent Resident,citizenship_total,44,30,68.18,2025-2026
+West,Wyoming,state_or_district,Total Non-U.S. Citizen and Non-Permanent Resident,citizenship_total,0,0,,2025-2026
+West,Wyoming,state_or_district,Total People,overall_total,44,30,68.18,2025-2026

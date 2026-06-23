@@ -1,0 +1,501 @@
+﻿academic_year,metric_group,metric_name,count,source_table
+1980-1981,Applicant Status,All Applicants,36083,FACTS Chart 1
+1980-1981,Applicant Status,First-Time Applicants,24801,FACTS Chart 1
+1980-1981,Applicant Status,Re-Applicants,11282,FACTS Chart 1
+1981-1982,Applicant Status,All Applicants,36717,FACTS Chart 1
+1981-1982,Applicant Status,First-Time Applicants,25715,FACTS Chart 1
+1981-1982,Applicant Status,Re-Applicants,11002,FACTS Chart 1
+1982-1983,Applicant Status,All Applicants,35719,FACTS Chart 1
+1982-1983,Applicant Status,First-Time Applicants,24771,FACTS Chart 1
+1982-1983,Applicant Status,Re-Applicants,10948,FACTS Chart 1
+1983-1984,Applicant Status,All Applicants,35187,FACTS Chart 1
+1983-1984,Applicant Status,First-Time Applicants,24597,FACTS Chart 1
+1983-1984,Applicant Status,Re-Applicants,10590,FACTS Chart 1
+1984-1985,Applicant Status,All Applicants,35917,FACTS Chart 1
+1984-1985,Applicant Status,First-Time Applicants,25276,FACTS Chart 1
+1984-1985,Applicant Status,Re-Applicants,10641,FACTS Chart 1
+1985-1986,Applicant Status,All Applicants,32885,FACTS Chart 1
+1985-1986,Applicant Status,First-Time Applicants,22871,FACTS Chart 1
+1985-1986,Applicant Status,Re-Applicants,10014,FACTS Chart 1
+1986-1987,Applicant Status,All Applicants,31313,FACTS Chart 1
+1986-1987,Applicant Status,First-Time Applicants,22491,FACTS Chart 1
+1986-1987,Applicant Status,Re-Applicants,8822,FACTS Chart 1
+1987-1988,Applicant Status,All Applicants,28118,FACTS Chart 1
+1987-1988,Applicant Status,First-Time Applicants,20377,FACTS Chart 1
+1987-1988,Applicant Status,Re-Applicants,7741,FACTS Chart 1
+1988-1989,Applicant Status,All Applicants,26702,FACTS Chart 1
+1988-1989,Applicant Status,First-Time Applicants,20185,FACTS Chart 1
+1988-1989,Applicant Status,Re-Applicants,6517,FACTS Chart 1
+1989-1990,Applicant Status,All Applicants,26909,FACTS Chart 1
+1989-1990,Applicant Status,First-Time Applicants,20850,FACTS Chart 1
+1989-1990,Applicant Status,Re-Applicants,6059,FACTS Chart 1
+1990-1991,Applicant Status,All Applicants,29241,FACTS Chart 1
+1990-1991,Applicant Status,First-Time Applicants,22895,FACTS Chart 1
+1990-1991,Applicant Status,Re-Applicants,6346,FACTS Chart 1
+1991-1992,Applicant Status,All Applicants,33296,FACTS Chart 1
+1991-1992,Applicant Status,First-Time Applicants,26051,FACTS Chart 1
+1991-1992,Applicant Status,Re-Applicants,7245,FACTS Chart 1
+1992-1993,Applicant Status,All Applicants,37402,FACTS Chart 1
+1992-1993,Applicant Status,First-Time Applicants,28618,FACTS Chart 1
+1992-1993,Applicant Status,Re-Applicants,8784,FACTS Chart 1
+1993-1994,Applicant Status,All Applicants,42806,FACTS Chart 1
+1993-1994,Applicant Status,First-Time Applicants,31258,FACTS Chart 1
+1993-1994,Applicant Status,Re-Applicants,11548,FACTS Chart 1
+1994-1995,Applicant Status,All Applicants,45360,FACTS Chart 1
+1994-1995,Applicant Status,First-Time Applicants,31778,FACTS Chart 1
+1994-1995,Applicant Status,Re-Applicants,13582,FACTS Chart 1
+1995-1996,Applicant Status,All Applicants,46586,FACTS Chart 1
+1995-1996,Applicant Status,First-Time Applicants,31575,FACTS Chart 1
+1995-1996,Applicant Status,Re-Applicants,15011,FACTS Chart 1
+1996-1997,Applicant Status,All Applicants,46965,FACTS Chart 1
+1996-1997,Applicant Status,First-Time Applicants,31259,FACTS Chart 1
+1996-1997,Applicant Status,Re-Applicants,15706,FACTS Chart 1
+1997-1998,Applicant Status,All Applicants,43016,FACTS Chart 1
+1997-1998,Applicant Status,First-Time Applicants,28546,FACTS Chart 1
+1997-1998,Applicant Status,Re-Applicants,14470,FACTS Chart 1
+1998-1999,Applicant Status,All Applicants,40995,FACTS Chart 1
+1998-1999,Applicant Status,First-Time Applicants,27477,FACTS Chart 1
+1998-1999,Applicant Status,Re-Applicants,13518,FACTS Chart 1
+1999-2000,Applicant Status,All Applicants,38442,FACTS Chart 1
+1999-2000,Applicant Status,First-Time Applicants,26081,FACTS Chart 1
+1999-2000,Applicant Status,Re-Applicants,12361,FACTS Chart 1
+2000-2001,Applicant Status,All Applicants,37088,FACTS Chart 1
+2000-2001,Applicant Status,First-Time Applicants,25697,FACTS Chart 1
+2000-2001,Applicant Status,Re-Applicants,11391,FACTS Chart 1
+2001-2002,Applicant Status,All Applicants,34860,FACTS Chart 1
+2001-2002,Applicant Status,First-Time Applicants,24866,FACTS Chart 1
+2001-2002,Applicant Status,Re-Applicants,9994,FACTS Chart 1
+2002-2003,Applicant Status,All Applicants,33623,FACTS Chart 1
+2002-2003,Applicant Status,First-Time Applicants,24831,FACTS Chart 1
+2002-2003,Applicant Status,Re-Applicants,8792,FACTS Chart 1
+2003-2004,Applicant Status,All Applicants,34791,FACTS Chart 1
+2003-2004,Applicant Status,First-Time Applicants,26106,FACTS Chart 1
+2003-2004,Applicant Status,Re-Applicants,8685,FACTS Chart 1
+2004-2005,Applicant Status,All Applicants,35735,FACTS Chart 1
+2004-2005,Applicant Status,First-Time Applicants,27122,FACTS Chart 1
+2004-2005,Applicant Status,Re-Applicants,8613,FACTS Chart 1
+2005-2006,Applicant Status,All Applicants,37371,FACTS Chart 1
+2005-2006,Applicant Status,First-Time Applicants,28216,FACTS Chart 1
+2005-2006,Applicant Status,Re-Applicants,9155,FACTS Chart 1
+2006-2007,Applicant Status,All Applicants,39108,FACTS Chart 1
+2006-2007,Applicant Status,First-Time Applicants,29491,FACTS Chart 1
+2006-2007,Applicant Status,Re-Applicants,9617,FACTS Chart 1
+2007-2008,Applicant Status,All Applicants,42315,FACTS Chart 1
+2007-2008,Applicant Status,First-Time Applicants,31891,FACTS Chart 1
+2007-2008,Applicant Status,Re-Applicants,10424,FACTS Chart 1
+2008-2009,Applicant Status,All Applicants,42231,FACTS Chart 1
+2008-2009,Applicant Status,First-Time Applicants,30947,FACTS Chart 1
+2008-2009,Applicant Status,Re-Applicants,11284,FACTS Chart 1
+2009-2010,Applicant Status,All Applicants,42268,FACTS Chart 1
+2009-2010,Applicant Status,First-Time Applicants,31001,FACTS Chart 1
+2009-2010,Applicant Status,Re-Applicants,11267,FACTS Chart 1
+2010-2011,Applicant Status,All Applicants,42741,FACTS Chart 1
+2010-2011,Applicant Status,First-Time Applicants,31766,FACTS Chart 1
+2010-2011,Applicant Status,Re-Applicants,10975,FACTS Chart 1
+2011-2012,Applicant Status,All Applicants,43919,FACTS Chart 1
+2011-2012,Applicant Status,First-Time Applicants,32587,FACTS Chart 1
+2011-2012,Applicant Status,Re-Applicants,11332,FACTS Chart 1
+2012-2013,Applicant Status,All Applicants,45266,FACTS Chart 1
+2012-2013,Applicant Status,First-Time Applicants,33711,FACTS Chart 1
+2012-2013,Applicant Status,Re-Applicants,11555,FACTS Chart 1
+2013-2014,Applicant Status,All Applicants,48014,FACTS Chart 1
+2013-2014,Applicant Status,First-Time Applicants,35668,FACTS Chart 1
+2013-2014,Applicant Status,Re-Applicants,12346,FACTS Chart 1
+2014-2015,Applicant Status,All Applicants,49480,FACTS Chart 1
+2014-2015,Applicant Status,First-Time Applicants,36625,FACTS Chart 1
+2014-2015,Applicant Status,Re-Applicants,12855,FACTS Chart 1
+2015-2016,Applicant Status,All Applicants,52549,FACTS Chart 1
+2015-2016,Applicant Status,First-Time Applicants,38395,FACTS Chart 1
+2015-2016,Applicant Status,Re-Applicants,14154,FACTS Chart 1
+2016-2017,Applicant Status,All Applicants,53042,FACTS Chart 1
+2016-2017,Applicant Status,First-Time Applicants,38781,FACTS Chart 1
+2016-2017,Applicant Status,Re-Applicants,14261,FACTS Chart 1
+2017-2018,Applicant Status,All Applicants,51680,FACTS Chart 1
+2017-2018,Applicant Status,First-Time Applicants,37364,FACTS Chart 1
+2017-2018,Applicant Status,Re-Applicants,14316,FACTS Chart 1
+2018-2019,Applicant Status,All Applicants,52777,FACTS Chart 1
+2018-2019,Applicant Status,First-Time Applicants,38483,FACTS Chart 1
+2018-2019,Applicant Status,Re-Applicants,14294,FACTS Chart 1
+2019-2020,Applicant Status,All Applicants,53369,FACTS Chart 1
+2019-2020,Applicant Status,First-Time Applicants,39235,FACTS Chart 1
+2019-2020,Applicant Status,Re-Applicants,14134,FACTS Chart 1
+2020-2021,Applicant Status,All Applicants,53030,FACTS Chart 1
+2020-2021,Applicant Status,First-Time Applicants,38580,FACTS Chart 1
+2020-2021,Applicant Status,Re-Applicants,14450,FACTS Chart 1
+2021-2022,Applicant Status,All Applicants,62443,FACTS Chart 1
+2021-2022,Applicant Status,First-Time Applicants,46756,FACTS Chart 1
+2021-2022,Applicant Status,Re-Applicants,15687,FACTS Chart 1
+2022-2023,Applicant Status,All Applicants,55189,FACTS Chart 1
+2022-2023,Applicant Status,First-Time Applicants,38721,FACTS Chart 1
+2022-2023,Applicant Status,Re-Applicants,16468,FACTS Chart 1
+2023-2024,Applicant Status,All Applicants,52577,FACTS Chart 1
+2023-2024,Applicant Status,First-Time Applicants,37725,FACTS Chart 1
+2023-2024,Applicant Status,Re-Applicants,14852,FACTS Chart 1
+2024-2025,Applicant Status,All Applicants,51946,FACTS Chart 1
+2024-2025,Applicant Status,First-Time Applicants,38599,FACTS Chart 1
+2024-2025,Applicant Status,Re-Applicants,13347,FACTS Chart 1
+2025-2026,Applicant Status,All Applicants,54699,FACTS Chart 1
+2025-2026,Applicant Status,First-Time Applicants,41830,FACTS Chart 1
+2025-2026,Applicant Status,Re-Applicants,12869,FACTS Chart 1
+1980-1981,Applicant Gender,Men Applicants,25426,FACTS Chart 2
+1980-1981,Applicant Gender,Women Applicants,10657,FACTS Chart 2
+1980-1981,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1981-1982,Applicant Gender,Men Applicants,25046,FACTS Chart 2
+1981-1982,Applicant Gender,Women Applicants,11671,FACTS Chart 2
+1981-1982,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1982-1983,Applicant Gender,Men Applicants,24038,FACTS Chart 2
+1982-1983,Applicant Gender,Women Applicants,11681,FACTS Chart 2
+1982-1983,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1983-1984,Applicant Gender,Men Applicants,23230,FACTS Chart 2
+1983-1984,Applicant Gender,Women Applicants,11957,FACTS Chart 2
+1983-1984,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1984-1985,Applicant Gender,Men Applicants,23451,FACTS Chart 2
+1984-1985,Applicant Gender,Women Applicants,12466,FACTS Chart 2
+1984-1985,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1985-1986,Applicant Gender,Men Applicants,21327,FACTS Chart 2
+1985-1986,Applicant Gender,Women Applicants,11558,FACTS Chart 2
+1985-1986,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1986-1987,Applicant Gender,Men Applicants,20050,FACTS Chart 2
+1986-1987,Applicant Gender,Women Applicants,11263,FACTS Chart 2
+1986-1987,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1987-1988,Applicant Gender,Men Applicants,17709,FACTS Chart 2
+1987-1988,Applicant Gender,Women Applicants,10409,FACTS Chart 2
+1987-1988,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1988-1989,Applicant Gender,Men Applicants,16446,FACTS Chart 2
+1988-1989,Applicant Gender,Women Applicants,10256,FACTS Chart 2
+1988-1989,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1989-1990,Applicant Gender,Men Applicants,16365,FACTS Chart 2
+1989-1990,Applicant Gender,Women Applicants,10544,FACTS Chart 2
+1989-1990,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1990-1991,Applicant Gender,Men Applicants,17456,FACTS Chart 2
+1990-1991,Applicant Gender,Women Applicants,11785,FACTS Chart 2
+1990-1991,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1991-1992,Applicant Gender,Men Applicants,19597,FACTS Chart 2
+1991-1992,Applicant Gender,Women Applicants,13699,FACTS Chart 2
+1991-1992,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1992-1993,Applicant Gender,Men Applicants,21784,FACTS Chart 2
+1992-1993,Applicant Gender,Women Applicants,15618,FACTS Chart 2
+1992-1993,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1993-1994,Applicant Gender,Men Applicants,24849,FACTS Chart 2
+1993-1994,Applicant Gender,Women Applicants,17957,FACTS Chart 2
+1993-1994,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1994-1995,Applicant Gender,Men Applicants,26393,FACTS Chart 2
+1994-1995,Applicant Gender,Women Applicants,18967,FACTS Chart 2
+1994-1995,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1995-1996,Applicant Gender,Men Applicants,26810,FACTS Chart 2
+1995-1996,Applicant Gender,Women Applicants,19776,FACTS Chart 2
+1995-1996,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1996-1997,Applicant Gender,Men Applicants,26937,FACTS Chart 2
+1996-1997,Applicant Gender,Women Applicants,20028,FACTS Chart 2
+1996-1997,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1997-1998,Applicant Gender,Men Applicants,24745,FACTS Chart 2
+1997-1998,Applicant Gender,Women Applicants,18271,FACTS Chart 2
+1997-1998,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1998-1999,Applicant Gender,Men Applicants,23211,FACTS Chart 2
+1998-1999,Applicant Gender,Women Applicants,17784,FACTS Chart 2
+1998-1999,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+1999-2000,Applicant Gender,Men Applicants,21048,FACTS Chart 2
+1999-2000,Applicant Gender,Women Applicants,17394,FACTS Chart 2
+1999-2000,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2000-2001,Applicant Gender,Men Applicants,19815,FACTS Chart 2
+2000-2001,Applicant Gender,Women Applicants,17273,FACTS Chart 2
+2000-2001,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2001-2002,Applicant Gender,Men Applicants,18142,FACTS Chart 2
+2001-2002,Applicant Gender,Women Applicants,16718,FACTS Chart 2
+2001-2002,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2002-2003,Applicant Gender,Men Applicants,17067,FACTS Chart 2
+2002-2003,Applicant Gender,Women Applicants,16556,FACTS Chart 2
+2002-2003,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2003-2004,Applicant Gender,Men Applicants,17119,FACTS Chart 2
+2003-2004,Applicant Gender,Women Applicants,17672,FACTS Chart 2
+2003-2004,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2004-2005,Applicant Gender,Men Applicants,17717,FACTS Chart 2
+2004-2005,Applicant Gender,Women Applicants,18018,FACTS Chart 2
+2004-2005,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2005-2006,Applicant Gender,Men Applicants,18747,FACTS Chart 2
+2005-2006,Applicant Gender,Women Applicants,18624,FACTS Chart 2
+2005-2006,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2006-2007,Applicant Gender,Men Applicants,19815,FACTS Chart 2
+2006-2007,Applicant Gender,Women Applicants,19293,FACTS Chart 2
+2006-2007,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2007-2008,Applicant Gender,Men Applicants,21580,FACTS Chart 2
+2007-2008,Applicant Gender,Women Applicants,20735,FACTS Chart 2
+2007-2008,Applicant Gender,Another Gender Identity or Not Reported Applicants,0,FACTS Chart 2
+2008-2009,Applicant Gender,Men Applicants,21870,FACTS Chart 2
+2008-2009,Applicant Gender,Women Applicants,20360,FACTS Chart 2
+2008-2009,Applicant Gender,Another Gender Identity or Not Reported Applicants,1,FACTS Chart 2
+2009-2010,Applicant Gender,Men Applicants,22013,FACTS Chart 2
+2009-2010,Applicant Gender,Women Applicants,20252,FACTS Chart 2
+2009-2010,Applicant Gender,Another Gender Identity or Not Reported Applicants,3,FACTS Chart 2
+2010-2011,Applicant Gender,Men Applicants,22533,FACTS Chart 2
+2010-2011,Applicant Gender,Women Applicants,20207,FACTS Chart 2
+2010-2011,Applicant Gender,Another Gender Identity or Not Reported Applicants,1,FACTS Chart 2
+2011-2012,Applicant Gender,Men Applicants,23135,FACTS Chart 2
+2011-2012,Applicant Gender,Women Applicants,20780,FACTS Chart 2
+2011-2012,Applicant Gender,Another Gender Identity or Not Reported Applicants,4,FACTS Chart 2
+2012-2013,Applicant Gender,Men Applicants,24338,FACTS Chart 2
+2012-2013,Applicant Gender,Women Applicants,20922,FACTS Chart 2
+2012-2013,Applicant Gender,Another Gender Identity or Not Reported Applicants,6,FACTS Chart 2
+2013-2014,Applicant Gender,Men Applicants,25760,FACTS Chart 2
+2013-2014,Applicant Gender,Women Applicants,22250,FACTS Chart 2
+2013-2014,Applicant Gender,Another Gender Identity or Not Reported Applicants,4,FACTS Chart 2
+2014-2015,Applicant Gender,Men Applicants,26455,FACTS Chart 2
+2014-2015,Applicant Gender,Women Applicants,23019,FACTS Chart 2
+2014-2015,Applicant Gender,Another Gender Identity or Not Reported Applicants,6,FACTS Chart 2
+2015-2016,Applicant Gender,Men Applicants,27927,FACTS Chart 2
+2015-2016,Applicant Gender,Women Applicants,24608,FACTS Chart 2
+2015-2016,Applicant Gender,Another Gender Identity or Not Reported Applicants,14,FACTS Chart 2
+2016-2017,Applicant Gender,Men Applicants,27250,FACTS Chart 2
+2016-2017,Applicant Gender,Women Applicants,25779,FACTS Chart 2
+2016-2017,Applicant Gender,Another Gender Identity or Not Reported Applicants,13,FACTS Chart 2
+2017-2018,Applicant Gender,Men Applicants,26058,FACTS Chart 2
+2017-2018,Applicant Gender,Women Applicants,25600,FACTS Chart 2
+2017-2018,Applicant Gender,Another Gender Identity or Not Reported Applicants,22,FACTS Chart 2
+2018-2019,Applicant Gender,Men Applicants,25875,FACTS Chart 2
+2018-2019,Applicant Gender,Women Applicants,26882,FACTS Chart 2
+2018-2019,Applicant Gender,Another Gender Identity or Not Reported Applicants,20,FACTS Chart 2
+2019-2020,Applicant Gender,Men Applicants,25493,FACTS Chart 2
+2019-2020,Applicant Gender,Women Applicants,27847,FACTS Chart 2
+2019-2020,Applicant Gender,Another Gender Identity or Not Reported Applicants,29,FACTS Chart 2
+2020-2021,Applicant Gender,Men Applicants,24620,FACTS Chart 2
+2020-2021,Applicant Gender,Women Applicants,28343,FACTS Chart 2
+2020-2021,Applicant Gender,Another Gender Identity or Not Reported Applicants,67,FACTS Chart 2
+2021-2022,Applicant Gender,Men Applicants,26948,FACTS Chart 2
+2021-2022,Applicant Gender,Women Applicants,35438,FACTS Chart 2
+2021-2022,Applicant Gender,Another Gender Identity or Not Reported Applicants,57,FACTS Chart 2
+2022-2023,Applicant Gender,Men Applicants,23924,FACTS Chart 2
+2022-2023,Applicant Gender,Women Applicants,31191,FACTS Chart 2
+2022-2023,Applicant Gender,Another Gender Identity or Not Reported Applicants,74,FACTS Chart 2
+2023-2024,Applicant Gender,Men Applicants,22574,FACTS Chart 2
+2023-2024,Applicant Gender,Women Applicants,29763,FACTS Chart 2
+2023-2024,Applicant Gender,Another Gender Identity or Not Reported Applicants,240,FACTS Chart 2
+2024-2025,Applicant Gender,Men Applicants,22088,FACTS Chart 2
+2024-2025,Applicant Gender,Women Applicants,29528,FACTS Chart 2
+2024-2025,Applicant Gender,Another Gender Identity or Not Reported Applicants,330,FACTS Chart 2
+2025-2026,Applicant Gender,Men Applicants,23072,FACTS Chart 2
+2025-2026,Applicant Gender,Women Applicants,31291,FACTS Chart 2
+2025-2026,Applicant Gender,Another Gender Identity or Not Reported Applicants,336,FACTS Chart 2
+1980-1981,Matriculant Gender,All Matriculants,16587,FACTS Chart 3
+1980-1981,Matriculant Gender,Men Matriculants,11830,FACTS Chart 3
+1980-1981,Matriculant Gender,Women Matriculants,4757,FACTS Chart 3
+1980-1981,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1981-1982,Matriculant Gender,All Matriculants,16660,FACTS Chart 3
+1981-1982,Matriculant Gender,Men Matriculants,11547,FACTS Chart 3
+1981-1982,Matriculant Gender,Women Matriculants,5113,FACTS Chart 3
+1981-1982,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1982-1983,Matriculant Gender,All Matriculants,16567,FACTS Chart 3
+1982-1983,Matriculant Gender,Men Matriculants,11366,FACTS Chart 3
+1982-1983,Matriculant Gender,Women Matriculants,5201,FACTS Chart 3
+1982-1983,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1983-1984,Matriculant Gender,All Matriculants,16480,FACTS Chart 3
+1983-1984,Matriculant Gender,Men Matriculants,11114,FACTS Chart 3
+1983-1984,Matriculant Gender,Women Matriculants,5366,FACTS Chart 3
+1983-1984,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1984-1985,Matriculant Gender,All Matriculants,16395,FACTS Chart 3
+1984-1985,Matriculant Gender,Men Matriculants,10926,FACTS Chart 3
+1984-1985,Matriculant Gender,Women Matriculants,5469,FACTS Chart 3
+1984-1985,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1985-1986,Matriculant Gender,All Matriculants,16268,FACTS Chart 3
+1985-1986,Matriculant Gender,Men Matriculants,10748,FACTS Chart 3
+1985-1986,Matriculant Gender,Women Matriculants,5520,FACTS Chart 3
+1985-1986,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1986-1987,Matriculant Gender,All Matriculants,16103,FACTS Chart 3
+1986-1987,Matriculant Gender,Men Matriculants,10529,FACTS Chart 3
+1986-1987,Matriculant Gender,Women Matriculants,5574,FACTS Chart 3
+1986-1987,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1987-1988,Matriculant Gender,All Matriculants,15927,FACTS Chart 3
+1987-1988,Matriculant Gender,Men Matriculants,10160,FACTS Chart 3
+1987-1988,Matriculant Gender,Women Matriculants,5767,FACTS Chart 3
+1987-1988,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1988-1989,Matriculant Gender,All Matriculants,15969,FACTS Chart 3
+1988-1989,Matriculant Gender,Men Matriculants,10091,FACTS Chart 3
+1988-1989,Matriculant Gender,Women Matriculants,5878,FACTS Chart 3
+1988-1989,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1989-1990,Matriculant Gender,All Matriculants,15867,FACTS Chart 3
+1989-1990,Matriculant Gender,Men Matriculants,9842,FACTS Chart 3
+1989-1990,Matriculant Gender,Women Matriculants,6025,FACTS Chart 3
+1989-1990,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1990-1991,Matriculant Gender,All Matriculants,15998,FACTS Chart 3
+1990-1991,Matriculant Gender,Men Matriculants,9845,FACTS Chart 3
+1990-1991,Matriculant Gender,Women Matriculants,6153,FACTS Chart 3
+1990-1991,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1991-1992,Matriculant Gender,All Matriculants,16211,FACTS Chart 3
+1991-1992,Matriculant Gender,Men Matriculants,9778,FACTS Chart 3
+1991-1992,Matriculant Gender,Women Matriculants,6433,FACTS Chart 3
+1991-1992,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1992-1993,Matriculant Gender,All Matriculants,16289,FACTS Chart 3
+1992-1993,Matriculant Gender,Men Matriculants,9517,FACTS Chart 3
+1992-1993,Matriculant Gender,Women Matriculants,6772,FACTS Chart 3
+1992-1993,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1993-1994,Matriculant Gender,All Matriculants,16307,FACTS Chart 3
+1993-1994,Matriculant Gender,Men Matriculants,9456,FACTS Chart 3
+1993-1994,Matriculant Gender,Women Matriculants,6851,FACTS Chart 3
+1993-1994,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1994-1995,Matriculant Gender,All Matriculants,16287,FACTS Chart 3
+1994-1995,Matriculant Gender,Men Matriculants,9468,FACTS Chart 3
+1994-1995,Matriculant Gender,Women Matriculants,6819,FACTS Chart 3
+1994-1995,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1995-1996,Matriculant Gender,All Matriculants,16252,FACTS Chart 3
+1995-1996,Matriculant Gender,Men Matriculants,9311,FACTS Chart 3
+1995-1996,Matriculant Gender,Women Matriculants,6941,FACTS Chart 3
+1995-1996,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1996-1997,Matriculant Gender,All Matriculants,16201,FACTS Chart 3
+1996-1997,Matriculant Gender,Men Matriculants,9283,FACTS Chart 3
+1996-1997,Matriculant Gender,Women Matriculants,6918,FACTS Chart 3
+1996-1997,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1997-1998,Matriculant Gender,All Matriculants,16164,FACTS Chart 3
+1997-1998,Matriculant Gender,Men Matriculants,9170,FACTS Chart 3
+1997-1998,Matriculant Gender,Women Matriculants,6994,FACTS Chart 3
+1997-1998,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1998-1999,Matriculant Gender,All Matriculants,16170,FACTS Chart 3
+1998-1999,Matriculant Gender,Men Matriculants,9008,FACTS Chart 3
+1998-1999,Matriculant Gender,Women Matriculants,7162,FACTS Chart 3
+1998-1999,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+1999-2000,Matriculant Gender,All Matriculants,16221,FACTS Chart 3
+1999-2000,Matriculant Gender,Men Matriculants,8809,FACTS Chart 3
+1999-2000,Matriculant Gender,Women Matriculants,7412,FACTS Chart 3
+1999-2000,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2000-2001,Matriculant Gender,All Matriculants,16301,FACTS Chart 3
+2000-2001,Matriculant Gender,Men Matriculants,8829,FACTS Chart 3
+2000-2001,Matriculant Gender,Women Matriculants,7472,FACTS Chart 3
+2000-2001,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2001-2002,Matriculant Gender,All Matriculants,16365,FACTS Chart 3
+2001-2002,Matriculant Gender,Men Matriculants,8581,FACTS Chart 3
+2001-2002,Matriculant Gender,Women Matriculants,7784,FACTS Chart 3
+2001-2002,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2002-2003,Matriculant Gender,All Matriculants,16488,FACTS Chart 3
+2002-2003,Matriculant Gender,Men Matriculants,8375,FACTS Chart 3
+2002-2003,Matriculant Gender,Women Matriculants,8113,FACTS Chart 3
+2002-2003,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2003-2004,Matriculant Gender,All Matriculants,16541,FACTS Chart 3
+2003-2004,Matriculant Gender,Men Matriculants,8329,FACTS Chart 3
+2003-2004,Matriculant Gender,Women Matriculants,8212,FACTS Chart 3
+2003-2004,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2004-2005,Matriculant Gender,All Matriculants,16648,FACTS Chart 3
+2004-2005,Matriculant Gender,Men Matriculants,8413,FACTS Chart 3
+2004-2005,Matriculant Gender,Women Matriculants,8235,FACTS Chart 3
+2004-2005,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2005-2006,Matriculant Gender,All Matriculants,17003,FACTS Chart 3
+2005-2006,Matriculant Gender,Men Matriculants,8764,FACTS Chart 3
+2005-2006,Matriculant Gender,Women Matriculants,8239,FACTS Chart 3
+2005-2006,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2006-2007,Matriculant Gender,All Matriculants,17361,FACTS Chart 3
+2006-2007,Matriculant Gender,Men Matriculants,8923,FACTS Chart 3
+2006-2007,Matriculant Gender,Women Matriculants,8438,FACTS Chart 3
+2006-2007,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2007-2008,Matriculant Gender,All Matriculants,17759,FACTS Chart 3
+2007-2008,Matriculant Gender,Men Matriculants,9177,FACTS Chart 3
+2007-2008,Matriculant Gender,Women Matriculants,8582,FACTS Chart 3
+2007-2008,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2008-2009,Matriculant Gender,All Matriculants,18036,FACTS Chart 3
+2008-2009,Matriculant Gender,Men Matriculants,9422,FACTS Chart 3
+2008-2009,Matriculant Gender,Women Matriculants,8614,FACTS Chart 3
+2008-2009,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2009-2010,Matriculant Gender,All Matriculants,18390,FACTS Chart 3
+2009-2010,Matriculant Gender,Men Matriculants,9573,FACTS Chart 3
+2009-2010,Matriculant Gender,Women Matriculants,8817,FACTS Chart 3
+2009-2010,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2010-2011,Matriculant Gender,All Matriculants,18665,FACTS Chart 3
+2010-2011,Matriculant Gender,Men Matriculants,9909,FACTS Chart 3
+2010-2011,Matriculant Gender,Women Matriculants,8756,FACTS Chart 3
+2010-2011,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2011-2012,Matriculant Gender,All Matriculants,19230,FACTS Chart 3
+2011-2012,Matriculant Gender,Men Matriculants,10193,FACTS Chart 3
+2011-2012,Matriculant Gender,Women Matriculants,9037,FACTS Chart 3
+2011-2012,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2012-2013,Matriculant Gender,All Matriculants,19517,FACTS Chart 3
+2012-2013,Matriculant Gender,Men Matriculants,10453,FACTS Chart 3
+2012-2013,Matriculant Gender,Women Matriculants,9064,FACTS Chart 3
+2012-2013,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2013-2014,Matriculant Gender,All Matriculants,20055,FACTS Chart 3
+2013-2014,Matriculant Gender,Men Matriculants,10588,FACTS Chart 3
+2013-2014,Matriculant Gender,Women Matriculants,9467,FACTS Chart 3
+2013-2014,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2014-2015,Matriculant Gender,All Matriculants,20343,FACTS Chart 3
+2014-2015,Matriculant Gender,Men Matriculants,10625,FACTS Chart 3
+2014-2015,Matriculant Gender,Women Matriculants,9718,FACTS Chart 3
+2014-2015,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,0,FACTS Chart 3
+2015-2016,Matriculant Gender,All Matriculants,20631,FACTS Chart 3
+2015-2016,Matriculant Gender,Men Matriculants,10766,FACTS Chart 3
+2015-2016,Matriculant Gender,Women Matriculants,9861,FACTS Chart 3
+2015-2016,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,4,FACTS Chart 3
+2016-2017,Matriculant Gender,All Matriculants,21030,FACTS Chart 3
+2016-2017,Matriculant Gender,Men Matriculants,10551,FACTS Chart 3
+2016-2017,Matriculant Gender,Women Matriculants,10474,FACTS Chart 3
+2016-2017,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,5,FACTS Chart 3
+2017-2018,Matriculant Gender,All Matriculants,21338,FACTS Chart 3
+2017-2018,Matriculant Gender,Men Matriculants,10516,FACTS Chart 3
+2017-2018,Matriculant Gender,Women Matriculants,10810,FACTS Chart 3
+2017-2018,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,12,FACTS Chart 3
+2018-2019,Matriculant Gender,All Matriculants,21622,FACTS Chart 3
+2018-2019,Matriculant Gender,Men Matriculants,10454,FACTS Chart 3
+2018-2019,Matriculant Gender,Women Matriculants,11160,FACTS Chart 3
+2018-2019,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,8,FACTS Chart 3
+2019-2020,Matriculant Gender,All Matriculants,21869,FACTS Chart 3
+2019-2020,Matriculant Gender,Men Matriculants,10402,FACTS Chart 3
+2019-2020,Matriculant Gender,Women Matriculants,11461,FACTS Chart 3
+2019-2020,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,6,FACTS Chart 3
+2020-2021,Matriculant Gender,All Matriculants,22239,FACTS Chart 3
+2020-2021,Matriculant Gender,Men Matriculants,10271,FACTS Chart 3
+2020-2021,Matriculant Gender,Women Matriculants,11926,FACTS Chart 3
+2020-2021,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,42,FACTS Chart 3
+2021-2022,Matriculant Gender,All Matriculants,22666,FACTS Chart 3
+2021-2022,Matriculant Gender,Men Matriculants,10057,FACTS Chart 3
+2021-2022,Matriculant Gender,Women Matriculants,12590,FACTS Chart 3
+2021-2022,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,19,FACTS Chart 3
+2022-2023,Matriculant Gender,All Matriculants,22710,FACTS Chart 3
+2022-2023,Matriculant Gender,Men Matriculants,10060,FACTS Chart 3
+2022-2023,Matriculant Gender,Women Matriculants,12630,FACTS Chart 3
+2022-2023,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,20,FACTS Chart 3
+2023-2024,Matriculant Gender,All Matriculants,22980,FACTS Chart 3
+2023-2024,Matriculant Gender,Men Matriculants,10160,FACTS Chart 3
+2023-2024,Matriculant Gender,Women Matriculants,12723,FACTS Chart 3
+2023-2024,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,97,FACTS Chart 3
+2024-2025,Matriculant Gender,All Matriculants,23156,FACTS Chart 3
+2024-2025,Matriculant Gender,Men Matriculants,10261,FACTS Chart 3
+2024-2025,Matriculant Gender,Women Matriculants,12749,FACTS Chart 3
+2024-2025,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,146,FACTS Chart 3
+2025-2026,Matriculant Gender,All Matriculants,23441,FACTS Chart 3
+2025-2026,Matriculant Gender,Men Matriculants,10410,FACTS Chart 3
+2025-2026,Matriculant Gender,Women Matriculants,12900,FACTS Chart 3
+2025-2026,Matriculant Gender,Another Gender Identity or Not Reported Matriculants,131,FACTS Chart 3
+2016-2017,Medical Education Pipeline,Applicants,53042,FACTS Table 1
+2016-2017,Medical Education Pipeline,Matriculants,21030,FACTS Table 1
+2016-2017,Medical Education Pipeline,Enrollment,88181,FACTS Table 1
+2016-2017,Medical Education Pipeline,Graduates,19262,FACTS Table 1
+2017-2018,Medical Education Pipeline,Applicants,51680,FACTS Table 1
+2017-2018,Medical Education Pipeline,Matriculants,21338,FACTS Table 1
+2017-2018,Medical Education Pipeline,Enrollment,89729,FACTS Table 1
+2017-2018,Medical Education Pipeline,Graduates,19562,FACTS Table 1
+2018-2019,Medical Education Pipeline,Applicants,52777,FACTS Table 1
+2018-2019,Medical Education Pipeline,Matriculants,21622,FACTS Table 1
+2018-2019,Medical Education Pipeline,Enrollment,91218,FACTS Table 1
+2018-2019,Medical Education Pipeline,Graduates,19935,FACTS Table 1
+2019-2020,Medical Education Pipeline,Applicants,53368,FACTS Table 1
+2019-2020,Medical Education Pipeline,Matriculants,21869,FACTS Table 1
+2019-2020,Medical Education Pipeline,Enrollment,92621,FACTS Table 1
+2019-2020,Medical Education Pipeline,Graduates,20390,FACTS Table 1
+2020-2021,Medical Education Pipeline,Applicants,53030,FACTS Table 1
+2020-2021,Medical Education Pipeline,Matriculants,22239,FACTS Table 1
+2020-2021,Medical Education Pipeline,Enrollment,94064,FACTS Table 1
+2020-2021,Medical Education Pipeline,Graduates,20926,FACTS Table 1
+2021-2022,Medical Education Pipeline,Applicants,62443,FACTS Table 1
+2021-2022,Medical Education Pipeline,Matriculants,22666,FACTS Table 1
+2021-2022,Medical Education Pipeline,Enrollment,95334,FACTS Table 1
+2021-2022,Medical Education Pipeline,Graduates,21057,FACTS Table 1
+2022-2023,Medical Education Pipeline,Applicants,55189,FACTS Table 1
+2022-2023,Medical Education Pipeline,Matriculants,22710,FACTS Table 1
+2022-2023,Medical Education Pipeline,Enrollment,96376,FACTS Table 1
+2022-2023,Medical Education Pipeline,Graduates,20927,FACTS Table 1
+2023-2024,Medical Education Pipeline,Applicants,52577,FACTS Table 1
+2023-2024,Medical Education Pipeline,Matriculants,22980,FACTS Table 1
+2023-2024,Medical Education Pipeline,Enrollment,97772,FACTS Table 1
+2023-2024,Medical Education Pipeline,Graduates,20872,FACTS Table 1
+2024-2025,Medical Education Pipeline,Applicants,51946,FACTS Table 1
+2024-2025,Medical Education Pipeline,Matriculants,23156,FACTS Table 1
+2024-2025,Medical Education Pipeline,Enrollment,99454,FACTS Table 1
+2024-2025,Medical Education Pipeline,Graduates,21599,FACTS Table 1
+2025-2026,Medical Education Pipeline,Applicants,54699,FACTS Table 1
+2025-2026,Medical Education Pipeline,Matriculants,23440,FACTS Table 1
+2025-2026,Medical Education Pipeline,Enrollment,100723,FACTS Table 1
+2025-2026,Medical Education Pipeline,Graduates,,FACTS Table 1

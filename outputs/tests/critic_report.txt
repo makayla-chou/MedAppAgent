@@ -1,0 +1,31 @@
+1. Overall Assessment  
+The School Fit Agent’s recommendations are generally realistic and cautiously worded, properly reflecting the applicant’s strong GPA (3.8) but comparatively low MCAT (504) relative to the listed schools’ averages. The agent appropriately factors in Virginia residency advantage for in-state schools and highlights mission fit with underserved populations and research interests. The classifications (Reach, Target-ish, Safer) are mostly consistent with the applicant’s academic credentials and school profiles, emphasizing realistic chances without guarantees. The recommendation tone avoids implying any guaranteed acceptance.
+
+2. Major Flags  
+- The “Safer” classification for Morehouse School of Medicine deserves a more cautious approach because the applicant’s MCAT (504) is borderline to just below their actual average of 504.1; close monitoring is advised rather than confident safety.  
+- Mercer University School of Medicine is appropriately classified “Safer” but should note slightly lower competitiveness compared to some “Safer” schools; the reasoning is acceptable but could emphasize it as a lower-tier safer choice.  
+- University of North Dakota is listed as “Safer,” but its MCAT average is 507—higher than the applicant’s 504; this could be classified as Target-ish given the MCAT gap unless other factors substantially favor admission.  
+- The Medical College of Georgia at Augusta University and University of Maryland School of Medicine are marked as “Reach” primarily due to out-of-state status, which is reasonable, but the applicant should be strongly cautioned that VMIS (Virginia) residency likely does not benefit these schools, limiting competitiveness.  
+- California Northstate University and possibly Loma Linda University are marked “Reach,” which is appropriate given the MCAT discrepancies, but might benefit from wording emphasizing the significant MCAT gap to avoid applicant overconfidence.
+
+3. Classification Concerns  
+- Some schools classified as “Target-ish” with MCAT averages notably higher than 504 (e.g., University of Arizona College of Medicine, Virginia Tech Carilion) would be safer labeled “Reach” given the MCAT gap, unless other compensatory factors (state residency, strong mission fit) are explicitly stated.  
+- Virginia Commonwealth University School of Medicine is classified “Target-ish” despite a 504 MCAT vs 512 average; a more cautious “Reach” may be warranted.  
+- Wake Forest University School of Medicine is appropriately “Reach,” but this should be reiterated due to the competitive nature and MCAT differences.  
+- The agent correctly excludes unknown schools in the initial list, but some schools like Alice L. Walton School of Medicine and Methodist University Cape Fear Valley Health School of Medicine which appear in the data but are unverified do not appear in recommendations—this is proper caution.
+
+4. Missing Data to Verify  
+- For several schools (e.g., Alice L. Walton School of Medicine, Methodist University Cape Fear Valley Health School of Medicine, Roseman University College of Medicine), no data on GPA/MCAT averages or public/private status is provided. These schools should be excluded or recommended only after verification.  
+- "Out-of-state minimum MCAT" thresholds are noted for some schools but not uniformly applied in the reasoning; this warrants confirming that such minimums do not exclude the applicant outright.  
+- Schools like Morehouse and Mercer have no minimum MCAT clearly stated; confirming these would aid risk assessment.
+
+5. Recommended Revisions  
+- Adjust Morehouse and University of North Dakota classifications from “Safer” to “Target-ish,” with a clear explanation of borderline MCAT scores and the importance of mission alignment and potential holistic review compensating for score gaps.  
+- Change Virginia Commonwealth University’s classification from “Target-ish” to “Reach” to better reflect the MCAT gap despite in-state residency.  
+- More distinctly flag schools with substantial MCAT shortfalls (e.g., California Northstate University, Loma Linda University) in “Reach” recommendations with clear caution about the MCAT risk.  
+- Reinforce that for out-of-state schools (e.g., Medical College of Georgia, University of Maryland), the lack of state residency advantage combined with MCAT below average makes them tough reaches, and applicants should apply selectively and with contingency plans.  
+- Emphasize that no school should be viewed as a guarantee—particularly “Safer” schools at or slightly below MCAT averages—due to the overall lower MCAT and competitive applicant pools.  
+- Where school data is missing or marked unknown, explicitly state these schools must be verified and not counted as reliable options until complete data is available.  
+- Ensure the applicant is advised to leverage their research and mission-aligned experiences strongly in all applications, especially at reach and target schools, to mitigate MCAT risk.
+
+In summary, the recommendations align well with the data and applicant profile, but subtle recalibration toward slightly more caution on MCAT gaps and school competitiveness would improve realism and transparency.

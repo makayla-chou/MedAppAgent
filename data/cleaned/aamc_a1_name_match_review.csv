@@ -1,0 +1,82 @@
+main_school_name,state,candidate_1,score_1,candidate_2,score_2,candidate_3,score_3
+Frederick P. Whiddon College of Medicine at the University of South Alabama,AL,South Alabama-Whiddon,0.481,Alabama-Heersink,0.286,,
+University of Alabama at Birmingham Marnix E. Heersink School of Medicine,AL,Alabama-Heersink,0.615,South Alabama-Whiddon,0.351,,
+Alice L. Walton School of Medicine,AR,Walton,0.6,Arkansas,0.273,,
+University of Arkansas for Medical Sciences College of Medicine,AR,Arkansas,0.552,Walton,0.148,,
+California University of Science and Medicine-School of Medicine,CA,California,0.625,California Northstate,0.605,Kaiser Permanente-Tyson,0.4
+Charles R. Drew University of Medicine and Science College of Medicine,CA,Kaiser Permanente-Tyson,0.408,UC San Francisco,0.333,UC San Diego,0.316
+Kaiser Permanente Bernard J. Tyson School of Medicine,CA,Kaiser Permanente-Tyson,0.821,Southern Cal-Keck,0.28,Stanford,0.244
+Keck School of Medicine of the University of Southern California,CA,California,0.588,Southern Cal-Keck,0.585,California Northstate,0.444
+"University of California, Davis, School of Medicine",CA,California,0.769,California Northstate,0.649,UC Davis,0.583
+"University of California, Irvine, School of Medicine",CA,California,0.741,California Northstate,0.684,UC Irvine,0.615
+"University of California, Los Angeles David Geffen School of Medicine",CA,California Northstate,0.536,California,0.444,UCLA-Geffen,0.391
+"University of California, Riverside School of Medicine",CA,UC Riverside,0.688,California,0.667,California Northstate,0.634
+"University of California, San Diego School of Medicine",CA,UC San Diego,0.688,California Northstate,0.683,California,0.667
+"University of California, San Francisco, School of Medicine",CA,UC San Francisco,0.75,California,0.588,California Northstate,0.578
+Frank H. Netter MD School of Medicine at Quinnipiac University,CT,Quinnipiac-Netter,0.444,Connecticut,0.256,Yale,0.125
+George Washington University School of Medicine & Health Sciences,DC,George Washington,0.68,Georgetown,0.419,Howard,0.154
+Charles E. Schmidt College of Medicine at Florida Atlantic University,FL,Florida Atlantic-Schmidt,0.552,Florida State,0.426,USF-Morsani,0.356
+Florida International University Herbert Wertheim College of Medicine,FL,FIU-Wertheim,0.44,Florida State,0.392,Florida Atlantic-Schmidt,0.355
+Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine,FL,Nova Southeastern-Patel,0.676,Florida State,0.276,Florida Atlantic-Schmidt,0.261
+USF Health Morsani College of Medicine,FL,USF-Morsani,0.759,Florida,0.4,Florida State,0.387
+University of Central Florida College of Medicine,FL,Florida,0.636,Florida State,0.5,Florida Atlantic-Schmidt,0.359
+University of Miami Leonard M. Miller School of Medicine,FL,Miami-Miller,0.706,Nova Southeastern-Patel,0.267,FIU-Wertheim,0.235
+Medical College of Georgia at Augusta University,GA,MC Georgia Augusta,0.909,Morehouse,0.333,Emory,0.3
+University of Georgia School of Medicine,GA,MC Georgia Augusta,0.56,Emory,0.5,Mercer,0.308
+"University of Hawaii, John A. Burns School of Medicine",HI,Hawaii-Burns,0.774,,,,
+Chicago Medical School at Rosalind Franklin University of Medicine & Science,IL,Chicago Med Franklin,0.679,Chicago-Pritzker,0.449,Carle Illinois,0.34
+Loyola University Chicago Stritch School of Medicine,IL,Loyola-Stritch,0.778,Chicago-Pritzker,0.579,Chicago Med Franklin,0.476
+Rush Medical College of Rush University Medical Center,IL,Rush,0.4,Northwestern-Feinberg,0.27,Chicago-Pritzker,0.25
+University of Chicago Division of the Biological Sciences The Pritzker School of Medicine,IL,Chicago-Pritzker,0.525,Chicago Med Franklin,0.338,Loyola-Stritch,0.305
+University of Iowa Roy J. and Lucille A. Carver College of Medicine,IA,Iowa-Carver,0.524,,,,
+Louisiana State University School of Medicine in New Orleans,LA,LSU New Orleans,0.622,LSU Shreveport,0.364,Tulane,0.222
+Louisiana State University School of Medicine in Shreveport,LA,LSU Shreveport,0.605,Tulane,0.229,LSU New Orleans,0.227
+Uniformed Services University of the Health Sciences F. Edward Hebert School of Medicine,MD,Uniformed Services-Hebert,0.667,Johns Hopkins,0.159,Maryland,0.138
+Boston University Aram V. Chobanian & Edward Avedisian School of Medicine,MA,BU-Chobanian Avedisian,0.677,Harvard,0.255,Massachusetts-Chan,0.241
+University of Massachusetts T.H. Chan School of Medicine,MA,Massachusetts-Chan,0.9,BU-Chobanian Avedisian,0.273,Tufts,0.222
+Covenant HealthCare College of Medicine at Central Michigan University,MI,Central Michigan,0.615,Western Michigan-Stryker,0.367,Michigan,0.364
+Michigan State University College of Human Medicine,MI,Michigan State,0.824,Michigan,0.571,Western Michigan-Stryker,0.545
+Oakland University William Beaumont School of Medicine,MI,Oakland Beaumont,0.8,Michigan State,0.263,Central Michigan,0.2
+Western Michigan University Homer Stryker M.D. School of Medicine,MI,Western Michigan-Stryker,0.828,Michigan State,0.5,Central Michigan,0.48
+Mayo Clinic Alix School of Medicine,AZ,Arizona Phoenix,0.387,Arizona,0.348,,
+Mayo Clinic Alix School of Medicine,MN,Mayo-Alix,0.72,Minnesota,0.32,,
+Washington University in St. Louis School of Medicine,MO,Washington U St Louis,0.93,Saint Louis,0.606,Missouri Columbia,0.256
+Kirk Kerkorian School of Medicine at UNLV,NV,UNLV-Kerkorian,0.606,Roseman,0.308,Nevada Reno,0.2
+Geisel School of Medicine at Dartmouth,NH,Dartmouth-Geisel,0.562,,,,
+"Rutgers, Robert Wood Johnson Medical School",NJ,Rutgers-RW Johnson,0.8,Rutgers New Jersey,0.489,Cooper Rowan,0.359
+Albert Einstein College of Medicine,NY,Einstein,0.696,Albany,0.381,Mount Sinai-Icahn,0.375
+Columbia University Vagelos College of Physicians and Surgeons,NY,Columbia-Vagelos,0.571,NYU Long Island-Grossman,0.344,NYU-Grossman,0.308
+Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,NY,Zucker Hofstra Northwell,0.716,SUNY Upstate-Norton,0.355,SUNY Downstate,0.281
+Icahn School of Medicine at Mount Sinai,NY,Mount Sinai-Icahn,0.647,Columbia-Vagelos,0.303,NYU Long Island-Grossman,0.293
+Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo,NY,Renaissance Stony Brook,0.328,NYU Long Island-Grossman,0.323,Cornell-Weill,0.314
+NYU Grossman Long Island School of Medicine,NY,NYU-Grossman,0.667,NYU Long Island-Grossman,0.625,Mount Sinai-Icahn,0.39
+SUNY Downstate Health Sciences University College of Medicine,NY,SUNY Downstate,0.636,SUNY Upstate-Norton,0.531,Zucker Hofstra Northwell,0.37
+State University of New York Upstate Medical University Alan and Marlene Norton College of Medicine,NY,SUNY Upstate-Norton,0.554,New York Medical,0.296,NYU Long Island-Grossman,0.257
+University of Rochester School of Medicine and Dentistry,NY,Rochester,0.562,Einstein,0.323,Zucker Hofstra Northwell,0.298
+Weill Cornell Medicine,NY,Cornell-Weill,0.538,New York Medical,0.381,Einstein,0.381
+Brody School of Medicine at East Carolina University,NC,East Carolina-Brody,0.684,North Carolina,0.667,Wake Forest,0.267
+Methodist University Cape Fear Valley Health School of Medicine,NC,East Carolina-Brody,0.346,Wake Forest,0.273,North Carolina,0.255
+University of North Carolina at Chapel Hill School of Medicine,NC,North Carolina,0.7,East Carolina-Brody,0.489,Wake Forest,0.162
+University of North Dakota School of Medicine and Health Sciences,ND,North Dakota,0.545,,,,
+The University of Toledo College of Medicine and Life Sciences,OH,Toledo,0.4,Ohio State,0.294,Wright State-Boonshoft,0.261
+Oregon Health & Science University School of Medicine,OR,Oregon,0.444,,,,
+Lewis Katz School of Medicine at Temple University,PA,Temple-Katz,0.429,Penn State,0.37,Jefferson-Kimmel,0.364
+Pennsylvania State University College of Medicine,PA,Pennsylvania-Perelman,0.718,Penn State,0.714,Temple-Katz,0.345
+Perelman School of Medicine at the University of Pennsylvania,PA,Pennsylvania-Perelman,0.571,Penn State,0.387,Drexel,0.222
+Sidney Kimmel Medical College at Thomas Jefferson University,PA,Geisinger Commonwealth,0.423,Jefferson-Kimmel,0.391,Pennsylvania-Perelman,0.314
+Ponce Health Sciences University School of Medicine,PR,Ponce,0.385,San Juan Bautista,0.263,Puerto Rico,0.188
+Universidad Central del Caribe School of Medicine,PR,Caribe,0.333,Puerto Rico,0.293,San Juan Bautista,0.213
+The Warren Alpert Medical School of Brown University,RI,Brown-Alpert,0.581,,,,
+Medical University of South Carolina College of Medicine,SC,MU South Carolina,0.903,South Carolina Columbia,0.757,South Carolina Greenville,0.718
+"University of South Carolina Kay and C. Edward Floyd, M.D. School of Medicine",SC,South Carolina Greenville,0.515,South Carolina Columbia,0.5,MU South Carolina,0.483
+East Tennessee State University James H. Quillen College of Medicine,TN,East Tennessee-Quillen,0.759,Tennessee,0.4,Meharry,0.14
+"Thomas F. Frist, Jr. College of Medicine at Belmont University",TN,Belmont-Frist,0.368,East Tennessee-Quillen,0.298,Meharry,0.25
+University of Tennessee Health Science Center College of Medicine,TN,East Tennessee-Quillen,0.491,Tennessee,0.45,Belmont-Frist,0.227
+Anne Burnett Marion School of Medicine at Texas Christian University,TX,Houston-Fertitta,0.392,Texas Tech-Foster,0.385,Texas A&M-Vashisht,0.377
+Spencer Fox Eccles School of Medicine at the University of Utah,UT,Utah-Eccles,0.412,,,,
+"Robert Larner, M.D., College of Medicine at the University of Vermont",VT,Vermont-Larner,0.513,,,,
+Eastern Virginia Medical School at Old Dominion University,VA,Eastern Virginia ODU,0.776,Virginia Commonwealth,0.52,Virginia Tech Carilion,0.51
+University of Washington School of Medicine,WA,U Washington,0.909,Washington State-Floyd,0.625,,
+Washington State University Elson S. Floyd College of Medicine,WA,Washington State-Floyd,0.846,U Washington,0.476,,
+Marshall University Joan C. Edwards School of Medicine,WV,Marshall-Edwards,0.821,West Virginia,0.056,,
+University of Wisconsin School of Medicine and Public Health,WI,Wisconsin,0.5,MC Wisconsin,0.462,,

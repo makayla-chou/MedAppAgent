@@ -1,0 +1,13 @@
+filename,data_rows,size_bytes
+combined_undergraduate_applicant_demographics_wide.csv,242,35904
+combined_undergraduate_demographics_long.csv,517,88683
+data_dictionary.csv,141,21480
+facts_a1_medical_school_applications_matriculants.csv,160,17596
+facts_a2_1_black_or_african_american_applicants.csv,115,20617
+facts_a2_2_american_indian_or_alaska_native_applicants.csv,32,6059
+facts_a2_3_hispanic_or_latino_applicants.csv,152,26497
+facts_a2_4_asian_applicants.csv,88,14026
+facts_a2_5_white_applicants.csv,65,10450
+facts_a2_6_middle_eastern_or_north_african_applicants.csv,65,12259
+facts_a2_undergraduate_institutions_total_applicants.csv,205,27268
+source_metadata.csv,9,16489

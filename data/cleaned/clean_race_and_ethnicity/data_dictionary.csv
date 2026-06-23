@@ -1,0 +1,13 @@
+﻿file_group,column,definition
+State race outcomes,applicant_to_matriculant_ratio_percent,Matriculant count divided by applicant count for the same legal-residence entity and category. It is descriptive and is not an individual medical school's acceptance rate.
+State race outcomes,entity_type,"state_or_district, region_total, special_category, or overall_total."
+State race outcomes,multiple_race_or_ethnicity,People who selected more than one main race/ethnicity response; kept separate from each alone category in A-10 and A-11.
+A-12 gender data,gender_group,"Men, Women, or All. AAMC states that Another Gender Identity and declined-to-report responses appear only in All."
+A-12 gender data,row_level,"main_category, subcategory, or summary."
+A-12 gender data,first_time_applicants,Applicants applying to U.S. MD-granting medical schools for the first time in the reported academic year.
+A-14 trends,response_type,"Alone, In Combination, or Alone or In Combination. Blank for unknown and unduplicated total rows."
+A-14 trends,percent,"Percentage points as published by AAMC, such as 30.8 meaning 30.8%. The denominator depends on the row and response type as defined by the source table."
+Derived outcomes,acceptance_ratio_percent,"Acceptees divided by applicants for the same published category. Because race/ethnicity categories can overlap in combination tables, do not sum these category-specific values."
+Derived outcomes,matriculant_yield_percent,Matriculants divided by acceptees for the same published category.
+All,academic_year,The entering medical-school academic year reported by AAMC.
+All,source_table,Original AAMC FACTS table identifier.

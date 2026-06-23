@@ -1,0 +1,406 @@
+﻿application_stage,race_ethnicity_category,response_type,row_type,academic_year,count,percent,source_table
+Applicants,American Indian or Alaska Native,Alone,race_ethnicity,2021-2022,107,15.4,A-14.1
+Applicants,American Indian or Alaska Native,Alone,race_ethnicity,2022-2023,94,16.6,A-14.1
+Applicants,American Indian or Alaska Native,Alone,race_ethnicity,2023-2024,91,15.5,A-14.1
+Applicants,American Indian or Alaska Native,Alone,race_ethnicity,2024-2025,72,14.5,A-14.1
+Applicants,American Indian or Alaska Native,Alone,race_ethnicity,2025-2026,81,12.1,A-14.1
+Applicants,American Indian or Alaska Native,In Combination,race_ethnicity,2021-2022,588,84.6,A-14.1
+Applicants,American Indian or Alaska Native,In Combination,race_ethnicity,2022-2023,473,83.4,A-14.1
+Applicants,American Indian or Alaska Native,In Combination,race_ethnicity,2023-2024,495,84.5,A-14.1
+Applicants,American Indian or Alaska Native,In Combination,race_ethnicity,2024-2025,425,85.5,A-14.1
+Applicants,American Indian or Alaska Native,In Combination,race_ethnicity,2025-2026,586,87.9,A-14.1
+Applicants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2021-2022,695,1.1,A-14.1
+Applicants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2022-2023,567,1,A-14.1
+Applicants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2023-2024,586,1.1,A-14.1
+Applicants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2024-2025,497,1,A-14.1
+Applicants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2025-2026,667,1.2,A-14.1
+Applicants,Asian,Alone,race_ethnicity,2021-2022,14393,86.8,A-14.1
+Applicants,Asian,Alone,race_ethnicity,2022-2023,13604,86.9,A-14.1
+Applicants,Asian,Alone,race_ethnicity,2023-2024,13427,87,A-14.1
+Applicants,Asian,Alone,race_ethnicity,2024-2025,13928,87,A-14.1
+Applicants,Asian,Alone,race_ethnicity,2025-2026,14585,86.6,A-14.1
+Applicants,Asian,In Combination,race_ethnicity,2021-2022,2198,13.2,A-14.1
+Applicants,Asian,In Combination,race_ethnicity,2022-2023,2057,13.1,A-14.1
+Applicants,Asian,In Combination,race_ethnicity,2023-2024,2010,13,A-14.1
+Applicants,Asian,In Combination,race_ethnicity,2024-2025,2090,13,A-14.1
+Applicants,Asian,In Combination,race_ethnicity,2025-2026,2252,13.4,A-14.1
+Applicants,Asian,Alone or In Combination,race_ethnicity,2021-2022,16591,26.6,A-14.1
+Applicants,Asian,Alone or In Combination,race_ethnicity,2022-2023,15661,28.4,A-14.1
+Applicants,Asian,Alone or In Combination,race_ethnicity,2023-2024,15437,29.4,A-14.1
+Applicants,Asian,Alone or In Combination,race_ethnicity,2024-2025,16018,30.8,A-14.1
+Applicants,Asian,Alone or In Combination,race_ethnicity,2025-2026,16837,30.8,A-14.1
+Applicants,Black or African American,Alone,race_ethnicity,2021-2022,6527,84.7,A-14.1
+Applicants,Black or African American,Alone,race_ethnicity,2022-2023,5215,83.6,A-14.1
+Applicants,Black or African American,Alone,race_ethnicity,2023-2024,4936,82.9,A-14.1
+Applicants,Black or African American,Alone,race_ethnicity,2024-2025,4970,82.1,A-14.1
+Applicants,Black or African American,Alone,race_ethnicity,2025-2026,5022,81.4,A-14.1
+Applicants,Black or African American,In Combination,race_ethnicity,2021-2022,1181,15.3,A-14.1
+Applicants,Black or African American,In Combination,race_ethnicity,2022-2023,1024,16.4,A-14.1
+Applicants,Black or African American,In Combination,race_ethnicity,2023-2024,1021,17.1,A-14.1
+Applicants,Black or African American,In Combination,race_ethnicity,2024-2025,1087,17.9,A-14.1
+Applicants,Black or African American,In Combination,race_ethnicity,2025-2026,1145,18.6,A-14.1
+Applicants,Black or African American,Alone or In Combination,race_ethnicity,2021-2022,7708,12.3,A-14.1
+Applicants,Black or African American,Alone or In Combination,race_ethnicity,2022-2023,6239,11.3,A-14.1
+Applicants,Black or African American,Alone or In Combination,race_ethnicity,2023-2024,5957,11.3,A-14.1
+Applicants,Black or African American,Alone or In Combination,race_ethnicity,2024-2025,6057,11.7,A-14.1
+Applicants,Black or African American,Alone or In Combination,race_ethnicity,2025-2026,6167,11.3,A-14.1
+Applicants,Hispanic or Latino,Alone,race_ethnicity,2021-2022,4205,56.1,A-14.1
+Applicants,Hispanic or Latino,Alone,race_ethnicity,2022-2023,3382,52.7,A-14.1
+Applicants,Hispanic or Latino,Alone,race_ethnicity,2023-2024,3303,52.7,A-14.1
+Applicants,Hispanic or Latino,Alone,race_ethnicity,2024-2025,3356,52.5,A-14.1
+Applicants,Hispanic or Latino,Alone,race_ethnicity,2025-2026,3752,54.2,A-14.1
+Applicants,Hispanic or Latino,In Combination,race_ethnicity,2021-2022,3284,43.9,A-14.1
+Applicants,Hispanic or Latino,In Combination,race_ethnicity,2022-2023,3038,47.3,A-14.1
+Applicants,Hispanic or Latino,In Combination,race_ethnicity,2023-2024,2959,47.3,A-14.1
+Applicants,Hispanic or Latino,In Combination,race_ethnicity,2024-2025,3034,47.5,A-14.1
+Applicants,Hispanic or Latino,In Combination,race_ethnicity,2025-2026,3169,45.8,A-14.1
+Applicants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2021-2022,7489,12,A-14.1
+Applicants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2022-2023,6420,11.6,A-14.1
+Applicants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2023-2024,6262,11.9,A-14.1
+Applicants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2024-2025,6390,12.3,A-14.1
+Applicants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2025-2026,6921,12.7,A-14.1
+Applicants,Middle Eastern or North African,Alone,race_ethnicity,2021-2022,,,A-14.1
+Applicants,Middle Eastern or North African,Alone,race_ethnicity,2022-2023,,,A-14.1
+Applicants,Middle Eastern or North African,Alone,race_ethnicity,2023-2024,,,A-14.1
+Applicants,Middle Eastern or North African,Alone,race_ethnicity,2024-2025,,,A-14.1
+Applicants,Middle Eastern or North African,Alone,race_ethnicity,2025-2026,2539,68.5,A-14.1
+Applicants,Middle Eastern or North African,In Combination,race_ethnicity,2021-2022,,,A-14.1
+Applicants,Middle Eastern or North African,In Combination,race_ethnicity,2022-2023,,,A-14.1
+Applicants,Middle Eastern or North African,In Combination,race_ethnicity,2023-2024,,,A-14.1
+Applicants,Middle Eastern or North African,In Combination,race_ethnicity,2024-2025,,,A-14.1
+Applicants,Middle Eastern or North African,In Combination,race_ethnicity,2025-2026,1168,31.5,A-14.1
+Applicants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2021-2022,,,A-14.1
+Applicants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2022-2023,,,A-14.1
+Applicants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2023-2024,,,A-14.1
+Applicants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2024-2025,,,A-14.1
+Applicants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2025-2026,3707,6.8,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2021-2022,42,16.3,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2022-2023,55,24.3,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2023-2024,61,24.2,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2024-2025,41,16.5,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2025-2026,51,19.4,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2021-2022,216,83.7,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2022-2023,171,75.7,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2023-2024,191,75.8,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2024-2025,207,83.5,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2025-2026,212,80.6,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2021-2022,258,0.4,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2022-2023,226,0.4,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2023-2024,252,0.5,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2024-2025,248,0.5,A-14.1
+Applicants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2025-2026,263,0.5,A-14.1
+Applicants,White,Alone,race_ethnicity,2021-2022,25985,82.6,A-14.1
+Applicants,White,Alone,race_ethnicity,2022-2023,23195,82.3,A-14.1
+Applicants,White,Alone,race_ethnicity,2023-2024,21403,81.1,A-14.1
+Applicants,White,Alone,race_ethnicity,2024-2025,19907,79.6,A-14.1
+Applicants,White,Alone,race_ethnicity,2025-2026,18597,77.5,A-14.1
+Applicants,White,In Combination,race_ethnicity,2021-2022,5456,17.4,A-14.1
+Applicants,White,In Combination,race_ethnicity,2022-2023,4990,17.7,A-14.1
+Applicants,White,In Combination,race_ethnicity,2023-2024,4983,18.9,A-14.1
+Applicants,White,In Combination,race_ethnicity,2024-2025,5095,20.4,A-14.1
+Applicants,White,In Combination,race_ethnicity,2025-2026,5412,22.5,A-14.1
+Applicants,White,Alone or In Combination,race_ethnicity,2021-2022,31441,50.4,A-14.1
+Applicants,White,Alone or In Combination,race_ethnicity,2022-2023,28185,51.1,A-14.1
+Applicants,White,Alone or In Combination,race_ethnicity,2023-2024,26386,50.2,A-14.1
+Applicants,White,Alone or In Combination,race_ethnicity,2024-2025,25002,48.1,A-14.1
+Applicants,White,Alone or In Combination,race_ethnicity,2025-2026,24009,43.9,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone,race_ethnicity,2021-2022,1698,57,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone,race_ethnicity,2022-2023,1501,56.5,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone,race_ethnicity,2023-2024,1380,54.7,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone,race_ethnicity,2024-2025,1501,56.1,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone,race_ethnicity,2025-2026,253,38.3,A-14.1
+Applicants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2021-2022,1281,43,A-14.1
+Applicants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2022-2023,1154,43.5,A-14.1
+Applicants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2023-2024,1143,45.3,A-14.1
+Applicants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2024-2025,1176,43.9,A-14.1
+Applicants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2025-2026,408,61.7,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2021-2022,2979,4.8,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2022-2023,2655,4.8,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2023-2024,2523,4.8,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2024-2025,2677,5.2,A-14.1
+Applicants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2025-2026,661,1.2,A-14.1
+Applicants,Unknown Race or Ethnicity,,unknown,2021-2022,2686,4.3,A-14.1
+Applicants,Unknown Race or Ethnicity,,unknown,2022-2023,1928,3.5,A-14.1
+Applicants,Unknown Race or Ethnicity,,unknown,2023-2024,1836,3.5,A-14.1
+Applicants,Unknown Race or Ethnicity,,unknown,2024-2025,1885,3.6,A-14.1
+Applicants,Unknown Race or Ethnicity,,unknown,2025-2026,2972,5.4,A-14.1
+Applicants,Unduplicated Total URiM Applicants,,urim_total,2021-2022,15338,24.6,A-14.1
+Applicants,Unduplicated Total URiM Applicants,,urim_total,2022-2023,12792,23.2,A-14.1
+Applicants,Unduplicated Total URiM Applicants,,urim_total,2023-2024,12419,23.6,A-14.1
+Applicants,Unduplicated Total URiM Applicants,,urim_total,2024-2025,12533,24.1,A-14.1
+Applicants,Unduplicated Total URiM Applicants,,urim_total,2025-2026,13277,24.3,A-14.1
+Applicants,Unduplicated Total Applicants,,unduplicated_total,2021-2022,62443,100,A-14.1
+Applicants,Unduplicated Total Applicants,,unduplicated_total,2022-2023,55189,100,A-14.1
+Applicants,Unduplicated Total Applicants,,unduplicated_total,2023-2024,52577,100,A-14.1
+Applicants,Unduplicated Total Applicants,,unduplicated_total,2024-2025,51946,100,A-14.1
+Applicants,Unduplicated Total Applicants,,unduplicated_total,2025-2026,54699,100,A-14.1
+Acceptees,American Indian or Alaska Native,Alone,race_ethnicity,2021-2022,47,19.1,A-14.2
+Acceptees,American Indian or Alaska Native,Alone,race_ethnicity,2022-2023,49,19.6,A-14.2
+Acceptees,American Indian or Alaska Native,Alone,race_ethnicity,2023-2024,41,14.8,A-14.2
+Acceptees,American Indian or Alaska Native,Alone,race_ethnicity,2024-2025,36,17.1,A-14.2
+Acceptees,American Indian or Alaska Native,Alone,race_ethnicity,2025-2026,35,15.4,A-14.2
+Acceptees,American Indian or Alaska Native,In Combination,race_ethnicity,2021-2022,199,80.9,A-14.2
+Acceptees,American Indian or Alaska Native,In Combination,race_ethnicity,2022-2023,201,80.4,A-14.2
+Acceptees,American Indian or Alaska Native,In Combination,race_ethnicity,2023-2024,236,85.2,A-14.2
+Acceptees,American Indian or Alaska Native,In Combination,race_ethnicity,2024-2025,175,82.9,A-14.2
+Acceptees,American Indian or Alaska Native,In Combination,race_ethnicity,2025-2026,192,84.6,A-14.2
+Acceptees,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2021-2022,246,1,A-14.2
+Acceptees,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2022-2023,250,1,A-14.2
+Acceptees,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2023-2024,277,1.2,A-14.2
+Acceptees,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2024-2025,211,0.9,A-14.2
+Acceptees,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2025-2026,227,0.9,A-14.2
+Acceptees,Asian,Alone,race_ethnicity,2021-2022,5478,86,A-14.2
+Acceptees,Asian,Alone,race_ethnicity,2022-2023,5943,85.8,A-14.2
+Acceptees,Asian,Alone,race_ethnicity,2023-2024,6197,87.2,A-14.2
+Acceptees,Asian,Alone,race_ethnicity,2024-2025,6732,87.3,A-14.2
+Acceptees,Asian,Alone,race_ethnicity,2025-2026,6664,86.4,A-14.2
+Acceptees,Asian,In Combination,race_ethnicity,2021-2022,895,14,A-14.2
+Acceptees,Asian,In Combination,race_ethnicity,2022-2023,980,14.2,A-14.2
+Acceptees,Asian,In Combination,race_ethnicity,2023-2024,906,12.8,A-14.2
+Acceptees,Asian,In Combination,race_ethnicity,2024-2025,978,12.7,A-14.2
+Acceptees,Asian,In Combination,race_ethnicity,2025-2026,1050,13.6,A-14.2
+Acceptees,Asian,Alone or In Combination,race_ethnicity,2021-2022,6373,26.9,A-14.2
+Acceptees,Asian,Alone or In Combination,race_ethnicity,2022-2023,6923,29.1,A-14.2
+Acceptees,Asian,Alone or In Combination,race_ethnicity,2023-2024,7103,29.6,A-14.2
+Acceptees,Asian,Alone or In Combination,race_ethnicity,2024-2025,7710,31.9,A-14.2
+Acceptees,Asian,Alone or In Combination,race_ethnicity,2025-2026,7714,31.7,A-14.2
+Acceptees,Black or African American,Alone,race_ethnicity,2021-2022,2303,83.2,A-14.2
+Acceptees,Black or African American,Alone,race_ethnicity,2022-2023,2022,81,A-14.2
+Acceptees,Black or African American,Alone,race_ethnicity,2023-2024,2003,80.5,A-14.2
+Acceptees,Black or African American,Alone,race_ethnicity,2024-2025,1774,80.4,A-14.2
+Acceptees,Black or African American,Alone,race_ethnicity,2025-2026,1643,79.1,A-14.2
+Acceptees,Black or African American,In Combination,race_ethnicity,2021-2022,465,16.8,A-14.2
+Acceptees,Black or African American,In Combination,race_ethnicity,2022-2023,475,19,A-14.2
+Acceptees,Black or African American,In Combination,race_ethnicity,2023-2024,486,19.5,A-14.2
+Acceptees,Black or African American,In Combination,race_ethnicity,2024-2025,433,19.6,A-14.2
+Acceptees,Black or African American,In Combination,race_ethnicity,2025-2026,434,20.9,A-14.2
+Acceptees,Black or African American,Alone or In Combination,race_ethnicity,2021-2022,2768,11.7,A-14.2
+Acceptees,Black or African American,Alone or In Combination,race_ethnicity,2022-2023,2497,10.5,A-14.2
+Acceptees,Black or African American,Alone or In Combination,race_ethnicity,2023-2024,2489,10.4,A-14.2
+Acceptees,Black or African American,Alone or In Combination,race_ethnicity,2024-2025,2207,9.1,A-14.2
+Acceptees,Black or African American,Alone or In Combination,race_ethnicity,2025-2026,2077,8.5,A-14.2
+Acceptees,Hispanic or Latino,Alone,race_ethnicity,2021-2022,1700,55.4,A-14.2
+Acceptees,Hispanic or Latino,Alone,race_ethnicity,2022-2023,1560,52.2,A-14.2
+Acceptees,Hispanic or Latino,Alone,race_ethnicity,2023-2024,1608,52.1,A-14.2
+Acceptees,Hispanic or Latino,Alone,race_ethnicity,2024-2025,1445,52.5,A-14.2
+Acceptees,Hispanic or Latino,Alone,race_ethnicity,2025-2026,1530,54.4,A-14.2
+Acceptees,Hispanic or Latino,In Combination,race_ethnicity,2021-2022,1367,44.6,A-14.2
+Acceptees,Hispanic or Latino,In Combination,race_ethnicity,2022-2023,1428,47.8,A-14.2
+Acceptees,Hispanic or Latino,In Combination,race_ethnicity,2023-2024,1478,47.9,A-14.2
+Acceptees,Hispanic or Latino,In Combination,race_ethnicity,2024-2025,1305,47.5,A-14.2
+Acceptees,Hispanic or Latino,In Combination,race_ethnicity,2025-2026,1280,45.6,A-14.2
+Acceptees,Hispanic or Latino,Alone or In Combination,race_ethnicity,2021-2022,3067,12.9,A-14.2
+Acceptees,Hispanic or Latino,Alone or In Combination,race_ethnicity,2022-2023,2988,12.5,A-14.2
+Acceptees,Hispanic or Latino,Alone or In Combination,race_ethnicity,2023-2024,3086,12.9,A-14.2
+Acceptees,Hispanic or Latino,Alone or In Combination,race_ethnicity,2024-2025,2750,11.4,A-14.2
+Acceptees,Hispanic or Latino,Alone or In Combination,race_ethnicity,2025-2026,2810,11.6,A-14.2
+Acceptees,Middle Eastern or North African,Alone,race_ethnicity,2021-2022,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone,race_ethnicity,2022-2023,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone,race_ethnicity,2023-2024,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone,race_ethnicity,2024-2025,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone,race_ethnicity,2025-2026,1006,65.7,A-14.2
+Acceptees,Middle Eastern or North African,In Combination,race_ethnicity,2021-2022,,,A-14.2
+Acceptees,Middle Eastern or North African,In Combination,race_ethnicity,2022-2023,,,A-14.2
+Acceptees,Middle Eastern or North African,In Combination,race_ethnicity,2023-2024,,,A-14.2
+Acceptees,Middle Eastern or North African,In Combination,race_ethnicity,2024-2025,,,A-14.2
+Acceptees,Middle Eastern or North African,In Combination,race_ethnicity,2025-2026,526,34.3,A-14.2
+Acceptees,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2021-2022,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2022-2023,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2023-2024,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2024-2025,,,A-14.2
+Acceptees,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2025-2026,1532,6.3,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2021-2022,14,15.4,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2022-2023,25,22.9,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2023-2024,21,20.8,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2024-2025,16,16.7,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2025-2026,14,13.3,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2021-2022,77,84.6,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2022-2023,84,77.1,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2023-2024,80,79.2,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2024-2025,80,83.3,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2025-2026,91,86.7,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2021-2022,91,0.4,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2022-2023,109,0.5,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2023-2024,101,0.4,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2024-2025,96,0.4,A-14.2
+Acceptees,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2025-2026,105,0.4,A-14.2
+Acceptees,White,Alone,race_ethnicity,2021-2022,10064,81.9,A-14.2
+Acceptees,White,Alone,race_ethnicity,2022-2023,10118,81.2,A-14.2
+Acceptees,White,Alone,race_ethnicity,2023-2024,10032,81,A-14.2
+Acceptees,White,Alone,race_ethnicity,2024-2025,9996,81,A-14.2
+Acceptees,White,Alone,race_ethnicity,2025-2026,9100,79.2,A-14.2
+Acceptees,White,In Combination,race_ethnicity,2021-2022,2228,18.1,A-14.2
+Acceptees,White,In Combination,race_ethnicity,2022-2023,2341,18.8,A-14.2
+Acceptees,White,In Combination,race_ethnicity,2023-2024,2356,19,A-14.2
+Acceptees,White,In Combination,race_ethnicity,2024-2025,2348,19,A-14.2
+Acceptees,White,In Combination,race_ethnicity,2025-2026,2389,20.8,A-14.2
+Acceptees,White,Alone or In Combination,race_ethnicity,2021-2022,12292,51.8,A-14.2
+Acceptees,White,Alone or In Combination,race_ethnicity,2022-2023,12459,52.3,A-14.2
+Acceptees,White,Alone or In Combination,race_ethnicity,2023-2024,12388,51.6,A-14.2
+Acceptees,White,Alone or In Combination,race_ethnicity,2024-2025,12344,51.1,A-14.2
+Acceptees,White,Alone or In Combination,race_ethnicity,2025-2026,11489,47.3,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone,race_ethnicity,2021-2022,511,54.7,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone,race_ethnicity,2022-2023,532,53.9,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone,race_ethnicity,2023-2024,521,53.7,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone,race_ethnicity,2024-2025,583,53.8,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone,race_ethnicity,2025-2026,82,35,A-14.2
+Acceptees,Some Other Race or Ethnicity,In Combination,race_ethnicity,2021-2022,424,45.3,A-14.2
+Acceptees,Some Other Race or Ethnicity,In Combination,race_ethnicity,2022-2023,455,46.1,A-14.2
+Acceptees,Some Other Race or Ethnicity,In Combination,race_ethnicity,2023-2024,449,46.3,A-14.2
+Acceptees,Some Other Race or Ethnicity,In Combination,race_ethnicity,2024-2025,500,46.2,A-14.2
+Acceptees,Some Other Race or Ethnicity,In Combination,race_ethnicity,2025-2026,152,65,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2021-2022,935,3.9,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2022-2023,987,4.1,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2023-2024,970,4,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2024-2025,1083,4.5,A-14.2
+Acceptees,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2025-2026,234,1,A-14.2
+Acceptees,Unknown Race or Ethnicity,,unknown,2021-2022,871,3.7,A-14.2
+Acceptees,Unknown Race or Ethnicity,,unknown,2022-2023,692,2.9,A-14.2
+Acceptees,Unknown Race or Ethnicity,,unknown,2023-2024,721,3,A-14.2
+Acceptees,Unknown Race or Ethnicity,,unknown,2024-2025,779,3.2,A-14.2
+Acceptees,Unknown Race or Ethnicity,,unknown,2025-2026,1288,5.3,A-14.2
+Acceptees,Unduplicated Total URiM Acceptees,,urim_total,2021-2022,5907,24.9,A-14.2
+Acceptees,Unduplicated Total URiM Acceptees,,urim_total,2022-2023,5567,23.4,A-14.2
+Acceptees,Unduplicated Total URiM Acceptees,,urim_total,2023-2024,5666,23.6,A-14.2
+Acceptees,Unduplicated Total URiM Acceptees,,urim_total,2024-2025,5015,20.7,A-14.2
+Acceptees,Unduplicated Total URiM Acceptees,,urim_total,2025-2026,4984,20.5,A-14.2
+Acceptees,Unduplicated Total Acceptees,,unduplicated_total,2021-2022,23711,100,A-14.2
+Acceptees,Unduplicated Total Acceptees,,unduplicated_total,2022-2023,23810,100,A-14.2
+Acceptees,Unduplicated Total Acceptees,,unduplicated_total,2023-2024,24014,100,A-14.2
+Acceptees,Unduplicated Total Acceptees,,unduplicated_total,2024-2025,24172,100,A-14.2
+Acceptees,Unduplicated Total Acceptees,,unduplicated_total,2025-2026,24300,100,A-14.2
+Matriculants,American Indian or Alaska Native,Alone,race_ethnicity,2021-2022,41,17.8,A-14.3
+Matriculants,American Indian or Alaska Native,Alone,race_ethnicity,2022-2023,37,16.3,A-14.3
+Matriculants,American Indian or Alaska Native,Alone,race_ethnicity,2023-2024,36,14,A-14.3
+Matriculants,American Indian or Alaska Native,Alone,race_ethnicity,2024-2025,35,17.3,A-14.3
+Matriculants,American Indian or Alaska Native,Alone,race_ethnicity,2025-2026,33,15.3,A-14.3
+Matriculants,American Indian or Alaska Native,In Combination,race_ethnicity,2021-2022,189,82.2,A-14.3
+Matriculants,American Indian or Alaska Native,In Combination,race_ethnicity,2022-2023,190,83.7,A-14.3
+Matriculants,American Indian or Alaska Native,In Combination,race_ethnicity,2023-2024,222,86,A-14.3
+Matriculants,American Indian or Alaska Native,In Combination,race_ethnicity,2024-2025,167,82.7,A-14.3
+Matriculants,American Indian or Alaska Native,In Combination,race_ethnicity,2025-2026,182,84.7,A-14.3
+Matriculants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2021-2022,230,1,A-14.3
+Matriculants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2022-2023,227,1,A-14.3
+Matriculants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2023-2024,258,1.1,A-14.3
+Matriculants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2024-2025,202,0.9,A-14.3
+Matriculants,American Indian or Alaska Native,Alone or In Combination,race_ethnicity,2025-2026,215,0.9,A-14.3
+Matriculants,Asian,Alone,race_ethnicity,2021-2022,5259,86,A-14.3
+Matriculants,Asian,Alone,race_ethnicity,2022-2023,5724,86,A-14.3
+Matriculants,Asian,Alone,race_ethnicity,2023-2024,5994,87.4,A-14.3
+Matriculants,Asian,Alone,race_ethnicity,2024-2025,6519,87.6,A-14.3
+Matriculants,Asian,Alone,race_ethnicity,2025-2026,6484,86.4,A-14.3
+Matriculants,Asian,In Combination,race_ethnicity,2021-2022,853,14,A-14.3
+Matriculants,Asian,In Combination,race_ethnicity,2022-2023,930,14,A-14.3
+Matriculants,Asian,In Combination,race_ethnicity,2023-2024,862,12.6,A-14.3
+Matriculants,Asian,In Combination,race_ethnicity,2024-2025,924,12.4,A-14.3
+Matriculants,Asian,In Combination,race_ethnicity,2025-2026,1021,13.6,A-14.3
+Matriculants,Asian,Alone or In Combination,race_ethnicity,2021-2022,6112,27,A-14.3
+Matriculants,Asian,Alone or In Combination,race_ethnicity,2022-2023,6654,29.3,A-14.3
+Matriculants,Asian,Alone or In Combination,race_ethnicity,2023-2024,6856,29.8,A-14.3
+Matriculants,Asian,Alone or In Combination,race_ethnicity,2024-2025,7443,32.1,A-14.3
+Matriculants,Asian,Alone or In Combination,race_ethnicity,2025-2026,7505,32,A-14.3
+Matriculants,Black or African American,Alone,race_ethnicity,2021-2022,2206,83.3,A-14.3
+Matriculants,Black or African American,Alone,race_ethnicity,2022-2023,1936,80.9,A-14.3
+Matriculants,Black or African American,Alone,race_ethnicity,2023-2024,1909,80.3,A-14.3
+Matriculants,Black or African American,Alone,race_ethnicity,2024-2025,1678,80.3,A-14.3
+Matriculants,Black or African American,Alone,race_ethnicity,2025-2026,1558,79.1,A-14.3
+Matriculants,Black or African American,In Combination,race_ethnicity,2021-2022,441,16.7,A-14.3
+Matriculants,Black or African American,In Combination,race_ethnicity,2022-2023,458,19.1,A-14.3
+Matriculants,Black or African American,In Combination,race_ethnicity,2023-2024,469,19.7,A-14.3
+Matriculants,Black or African American,In Combination,race_ethnicity,2024-2025,412,19.7,A-14.3
+Matriculants,Black or African American,In Combination,race_ethnicity,2025-2026,412,20.9,A-14.3
+Matriculants,Black or African American,Alone or In Combination,race_ethnicity,2021-2022,2647,11.7,A-14.3
+Matriculants,Black or African American,Alone or In Combination,race_ethnicity,2022-2023,2394,10.5,A-14.3
+Matriculants,Black or African American,Alone or In Combination,race_ethnicity,2023-2024,2378,10.3,A-14.3
+Matriculants,Black or African American,Alone or In Combination,race_ethnicity,2024-2025,2090,9,A-14.3
+Matriculants,Black or African American,Alone or In Combination,race_ethnicity,2025-2026,1970,8.4,A-14.3
+Matriculants,Hispanic or Latino,Alone,race_ethnicity,2021-2022,1629,55.6,A-14.3
+Matriculants,Hispanic or Latino,Alone,race_ethnicity,2022-2023,1484,52.3,A-14.3
+Matriculants,Hispanic or Latino,Alone,race_ethnicity,2023-2024,1539,51.9,A-14.3
+Matriculants,Hispanic or Latino,Alone,race_ethnicity,2024-2025,1393,52.8,A-14.3
+Matriculants,Hispanic or Latino,Alone,race_ethnicity,2025-2026,1459,54.1,A-14.3
+Matriculants,Hispanic or Latino,In Combination,race_ethnicity,2021-2022,1303,44.4,A-14.3
+Matriculants,Hispanic or Latino,In Combination,race_ethnicity,2022-2023,1351,47.7,A-14.3
+Matriculants,Hispanic or Latino,In Combination,race_ethnicity,2023-2024,1425,48.1,A-14.3
+Matriculants,Hispanic or Latino,In Combination,race_ethnicity,2024-2025,1244,47.2,A-14.3
+Matriculants,Hispanic or Latino,In Combination,race_ethnicity,2025-2026,1236,45.9,A-14.3
+Matriculants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2021-2022,2932,12.9,A-14.3
+Matriculants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2022-2023,2835,12.5,A-14.3
+Matriculants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2023-2024,2964,12.9,A-14.3
+Matriculants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2024-2025,2637,11.4,A-14.3
+Matriculants,Hispanic or Latino,Alone or In Combination,race_ethnicity,2025-2026,2695,11.5,A-14.3
+Matriculants,Middle Eastern or North African,Alone,race_ethnicity,2021-2022,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone,race_ethnicity,2022-2023,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone,race_ethnicity,2023-2024,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone,race_ethnicity,2024-2025,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone,race_ethnicity,2025-2026,976,64,A-14.3
+Matriculants,Middle Eastern or North African,In Combination,race_ethnicity,2021-2022,,,A-14.3
+Matriculants,Middle Eastern or North African,In Combination,race_ethnicity,2022-2023,,,A-14.3
+Matriculants,Middle Eastern or North African,In Combination,race_ethnicity,2023-2024,,,A-14.3
+Matriculants,Middle Eastern or North African,In Combination,race_ethnicity,2024-2025,,,A-14.3
+Matriculants,Middle Eastern or North African,In Combination,race_ethnicity,2025-2026,509,36,A-14.3
+Matriculants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2021-2022,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2022-2023,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2023-2024,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2024-2025,,,A-14.3
+Matriculants,Middle Eastern or North African,Alone or In Combination,race_ethnicity,2025-2026,1485,6.5,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2021-2022,13,15.3,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2022-2023,23,22.5,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2023-2024,19,20.2,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2024-2025,16,17.6,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone,race_ethnicity,2025-2026,13,12.7,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2021-2022,72,84.7,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2022-2023,79,77.5,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2023-2024,75,79.8,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2024-2025,75,82.4,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,In Combination,race_ethnicity,2025-2026,89,87.3,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2021-2022,85,0.4,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2022-2023,102,0.4,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2023-2024,94,0.4,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2024-2025,91,0.4,A-14.3
+Matriculants,Native Hawaiian or Pacific Islander,Alone or In Combination,race_ethnicity,2025-2026,102,0.4,A-14.3
+Matriculants,White,Alone,race_ethnicity,2021-2022,9608,82,A-14.3
+Matriculants,White,Alone,race_ethnicity,2022-2023,9628,81.3,A-14.3
+Matriculants,White,Alone,race_ethnicity,2023-2024,9560,80.9,A-14.3
+Matriculants,White,Alone,race_ethnicity,2024-2025,9552,81.1,A-14.3
+Matriculants,White,Alone,race_ethnicity,2025-2026,8773,79.2,A-14.3
+Matriculants,White,In Combination,race_ethnicity,2021-2022,2116,18,A-14.3
+Matriculants,White,In Combination,race_ethnicity,2022-2023,2212,18.7,A-14.3
+Matriculants,White,In Combination,race_ethnicity,2023-2024,2256,19.1,A-14.3
+Matriculants,White,In Combination,race_ethnicity,2024-2025,2230,18.9,A-14.3
+Matriculants,White,In Combination,race_ethnicity,2025-2026,2308,20.8,A-14.3
+Matriculants,White,Alone or In Combination,race_ethnicity,2021-2022,11724,51.7,A-14.3
+Matriculants,White,Alone or In Combination,race_ethnicity,2022-2023,11840,52.1,A-14.3
+Matriculants,White,Alone or In Combination,race_ethnicity,2023-2024,11816,51.4,A-14.3
+Matriculants,White,Alone or In Combination,race_ethnicity,2024-2025,11782,50.9,A-14.3
+Matriculants,White,Alone or In Combination,race_ethnicity,2025-2026,11081,47.3,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone,race_ethnicity,2021-2022,490,54.4,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone,race_ethnicity,2022-2023,509,54.1,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone,race_ethnicity,2023-2024,496,53.9,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone,race_ethnicity,2024-2025,551,53.2,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone,race_ethnicity,2025-2026,80,35.4,A-14.3
+Matriculants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2021-2022,410,45.6,A-14.3
+Matriculants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2022-2023,431,45.9,A-14.3
+Matriculants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2023-2024,425,46.1,A-14.3
+Matriculants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2024-2025,485,46.8,A-14.3
+Matriculants,Some Other Race or Ethnicity,In Combination,race_ethnicity,2025-2026,146,64.6,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2021-2022,900,4,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2022-2023,940,4.1,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2023-2024,921,4,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2024-2025,1036,4.5,A-14.3
+Matriculants,Some Other Race or Ethnicity,Alone or In Combination,race_ethnicity,2025-2026,226,1,A-14.3
+Matriculants,Unknown Race or Ethnicity,,unknown,2021-2022,828,3.7,A-14.3
+Matriculants,Unknown Race or Ethnicity,,unknown,2022-2023,650,2.9,A-14.3
+Matriculants,Unknown Race or Ethnicity,,unknown,2023-2024,676,2.9,A-14.3
+Matriculants,Unknown Race or Ethnicity,,unknown,2024-2025,736,3.2,A-14.3
+Matriculants,Unknown Race or Ethnicity,,unknown,2025-2026,1227,5.2,A-14.3
+Matriculants,Unduplicated Total URiM Matriculants,,urim_total,2021-2022,5643,24.9,A-14.3
+Matriculants,Unduplicated Total URiM Matriculants,,urim_total,2022-2023,5291,23.3,A-14.3
+Matriculants,Unduplicated Total URiM Matriculants,,urim_total,2023-2024,5418,23.6,A-14.3
+Matriculants,Unduplicated Total URiM Matriculants,,urim_total,2024-2025,4785,20.7,A-14.3
+Matriculants,Unduplicated Total URiM Matriculants,,urim_total,2025-2026,4760,20.3,A-14.3
+Matriculants,Unduplicated Total Matriculants,,unduplicated_total,2021-2022,22666,100,A-14.3
+Matriculants,Unduplicated Total Matriculants,,unduplicated_total,2022-2023,22710,100,A-14.3
+Matriculants,Unduplicated Total Matriculants,,unduplicated_total,2023-2024,22980,100,A-14.3
+Matriculants,Unduplicated Total Matriculants,,unduplicated_total,2024-2025,23156,100,A-14.3
+Matriculants,Unduplicated Total Matriculants,,unduplicated_total,2025-2026,23440,100,A-14.3

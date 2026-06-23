@@ -1,0 +1,68 @@
+{
+    "basic_information": {
+        "name": "Jordan Lee",
+        "state_residency": "Texas",
+        "citizenship_status": "U.S. citizen",
+        "undergraduate_school": "University of Texas at Austin",
+        "major": "Neuroscience",
+        "application_year": 2027
+    },
+    "academics": {
+        "overall_gpa": 3.61,
+        "science_gpa": 3.54,
+        "mcat_taken": true,
+        "mcat_total": 505,
+        "mcat_sections": {
+            "chem_physics": 125,
+            "cars": 124,
+            "bio_biochem": 128,
+            "psych_social": 128
+        },
+        "academic_context": "My first two years included several demanding semesters while I worked about twenty hours per week. My grades improved during junior and senior year, and I earned mostly A and A- grades in upper-level neuroscience and physiology courses."
+    },
+    "experience_hours": {
+        "clinical": 780,
+        "shadowing": 110,
+        "research": 180,
+        "nonclinical_volunteering": 420,
+        "leadership": 120,
+        "teaching": 60
+    },
+    "experience_descriptions": {
+        "clinical": "I worked as an emergency department technician, assisting with patient transport, vital signs, room preparation, and communication between patients and clinical staff. The role gave me sustained exposure to acute care and helped me understand how physicians manage uncertainty and competing priorities.",
+        "research": "I assisted in a behavioral neuroscience lab studying sleep and attention. I recruited participants, administered computerized tasks, entered data, and helped review preliminary results. The project did not result in a formal publication or presentation.",
+        "service": "I volunteered weekly at a homeless shelter, helping coordinate meals, hygiene supplies, and referrals to local clinics. I also trained new volunteers and helped track which community resources were most frequently requested."
+    },
+    "achievements": {
+        "research_outputs": [
+            "No formal research output"
+        ],
+        "awards": [
+            "College of Natural Sciences Dean's List, 2025",
+            "Emergency Department Employee Recognition Award, 2026"
+        ]
+    },
+    "goals": {
+        "career_interests": [
+            "Emergency medicine",
+            "Primary care",
+            "Underserved communities"
+        ],
+        "populations_of_interest": "I want to work with patients who have limited access to regular medical care and often rely on emergency departments for treatment."
+    },
+    "school_preferences": {
+        "school_types": [
+            "MD",
+            "DO"
+        ],
+        "preferred_regions": [
+            "Southwest",
+            "Southeast"
+        ],
+        "setting_preference": "No preference",
+        "dealbreakers": [
+            "Far from family"
+        ]
+    },
+    "additional_context": "I am especially interested in Texas schools because of residency and tuition advantages, but I am open to nearby states."
+}

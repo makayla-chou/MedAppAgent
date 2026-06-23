@@ -1,0 +1,111 @@
+gpa_range,mcat_range,acceptees,applicants,acceptance_rate_percent,data_status
+Greater than 3.79,Less than 486,9,320,2.8,reported
+Greater than 3.79,486-489,15,439,3.4,reported
+Greater than 3.79,490-493,79,990,8.0,reported
+Greater than 3.79,494-497,416,2247,18.5,reported
+Greater than 3.79,498-501,1264,4125,30.6,reported
+Greater than 3.79,502-505,3333,7428,44.9,reported
+Greater than 3.79,506-509,6173,10817,57.1,reported
+Greater than 3.79,510-513,9798,13906,70.5,reported
+Greater than 3.79,514-517,10355,13406,77.2,reported
+Greater than 3.79,Greater than 517,11773,14138,83.3,reported
+3.60-3.79,Less than 486,11,687,1.6,reported
+3.60-3.79,486-489,24,860,2.8,reported
+3.60-3.79,490-493,65,1470,4.4,reported
+3.60-3.79,494-497,322,2733,11.8,reported
+3.60-3.79,498-501,946,4250,22.3,reported
+3.60-3.79,502-505,2037,5873,34.7,reported
+3.60-3.79,506-509,3212,7069,45.4,reported
+3.60-3.79,510-513,4167,6940,60.0,reported
+3.60-3.79,514-517,3165,4744,66.7,reported
+3.60-3.79,Greater than 517,1842,2582,71.3,reported
+3.40-3.59,Less than 486,5,987,0.5,reported
+3.40-3.59,486-489,7,901,0.8,reported
+3.40-3.59,490-493,67,1535,4.4,reported
+3.40-3.59,494-497,226,2325,9.7,reported
+3.40-3.59,498-501,628,3146,20.0,reported
+3.40-3.59,502-505,1147,3780,30.3,reported
+3.40-3.59,506-509,1450,3947,36.7,reported
+3.40-3.59,510-513,1510,3100,48.7,reported
+3.40-3.59,514-517,1046,1851,56.5,reported
+3.40-3.59,Greater than 517,574,865,66.4,reported
+3.20-3.39,Less than 486,3,1120,0.3,reported
+3.20-3.39,486-489,14,844,1.7,reported
+3.20-3.39,490-493,33,1198,2.8,reported
+3.20-3.39,494-497,119,1534,7.8,reported
+3.20-3.39,498-501,356,2037,17.5,reported
+3.20-3.39,502-505,514,2084,24.7,reported
+3.20-3.39,506-509,557,1752,31.8,reported
+3.20-3.39,510-513,569,1344,42.3,reported
+3.20-3.39,514-517,316,694,45.5,reported
+3.20-3.39,Greater than 517,215,354,60.7,reported
+3.00-3.19,Less than 486,4,949,0.4,reported
+3.00-3.19,486-489,12,708,1.7,reported
+3.00-3.19,490-493,19,814,2.3,reported
+3.00-3.19,494-497,64,989,6.5,reported
+3.00-3.19,498-501,173,1122,15.4,reported
+3.00-3.19,502-505,251,1084,23.2,reported
+3.00-3.19,506-509,245,863,28.4,reported
+3.00-3.19,510-513,243,649,37.4,reported
+3.00-3.19,514-517,138,319,43.3,reported
+3.00-3.19,Greater than 517,60,129,46.5,reported
+2.80-2.99,Less than 486,2,776,0.3,reported
+2.80-2.99,486-489,6,470,1.3,reported
+2.80-2.99,490-493,8,488,1.6,reported
+2.80-2.99,494-497,29,517,5.6,reported
+2.80-2.99,498-501,59,544,10.8,reported
+2.80-2.99,502-505,110,473,23.3,reported
+2.80-2.99,506-509,97,350,27.7,reported
+2.80-2.99,510-513,89,228,39.0,reported
+2.80-2.99,514-517,39,107,36.4,reported
+2.80-2.99,Greater than 517,20,48,41.7,reported
+2.60-2.79,Less than 486,1,504,0.2,reported
+2.60-2.79,486-489,4,241,1.7,reported
+2.60-2.79,490-493,5,262,1.9,reported
+2.60-2.79,494-497,11,246,4.5,reported
+2.60-2.79,498-501,25,241,10.4,reported
+2.60-2.79,502-505,40,223,17.9,reported
+2.60-2.79,506-509,36,163,22.1,reported
+2.60-2.79,510-513,27,80,33.8,reported
+2.60-2.79,514-517,16,50,32.0,reported
+2.60-2.79,Greater than 517,5,14,35.7,reported
+2.40-2.59,Less than 486,2,368,0.5,reported
+2.40-2.59,486-489,0,151,0.0,reported
+2.40-2.59,490-493,2,113,1.8,reported
+2.40-2.59,494-497,2,126,1.6,reported
+2.40-2.59,498-501,11,88,12.5,reported
+2.40-2.59,502-505,12,67,17.9,reported
+2.40-2.59,506-509,12,56,21.4,reported
+2.40-2.59,510-513,12,32,37.5,reported
+2.40-2.59,514-517,7,13,53.8,reported
+2.40-2.59,Greater than 517,,,,suppressed
+2.20-2.39,Less than 486,0,235,0.0,reported
+2.20-2.39,486-489,3,88,3.4,reported
+2.20-2.39,490-493,1,61,1.6,reported
+2.20-2.39,494-497,2,44,4.5,reported
+2.20-2.39,498-501,1,27,3.7,reported
+2.20-2.39,502-505,2,38,5.3,reported
+2.20-2.39,506-509,2,14,14.3,reported
+2.20-2.39,510-513,1,11,9.1,reported
+2.20-2.39,514-517,,,,suppressed
+2.20-2.39,Greater than 517,,,,suppressed
+2.00-2.19,Less than 486,0,117,0.0,reported
+2.00-2.19,486-489,0,25,0.0,reported
+2.00-2.19,490-493,0,19,0.0,reported
+2.00-2.19,494-497,1,20,5.0,reported
+2.00-2.19,498-501,2,17,11.8,reported
+2.00-2.19,502-505,3,14,21.4,reported
+2.00-2.19,506-509,,,,suppressed
+2.00-2.19,510-513,,,,suppressed
+2.00-2.19,514-517,,,,suppressed
+2.00-2.19,Greater than 517,,,,zero_applicants
+Less than 2.00,Less than 486,0,53,0.0,reported
+Less than 2.00,486-489,,,,suppressed
+Less than 2.00,490-493,,,,suppressed
+Less than 2.00,494-497,,,,suppressed
+Less than 2.00,498-501,,,,suppressed
+Less than 2.00,502-505,,,,suppressed
+Less than 2.00,506-509,,,,suppressed
+Less than 2.00,510-513,,,,zero_applicants
+Less than 2.00,514-517,,,,suppressed
+Less than 2.00,Greater than 517,,,,zero_applicants

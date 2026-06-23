@@ -1,0 +1,7 @@
+﻿file_group,column,definition
+Applicant status,re_applicants,All applicants minus first-time applicants; published directly in FACTS Chart 1.
+Gender trends,another_gender_or_not_reported,Calculated residual: All minus Men minus Women. It may include Another Gender Identity and people who did not report gender.
+Pipeline,enrollment,"Medical students enrolled as of October 31, including students on leave, using the AAMC Table 1 definition."
+Derived ratios,applicant_to_matriculant_ratio_percent,"Matriculants divided by applicants. This is a national aggregate ratio, not an individual medical school's acceptance rate."
+Validation,severity_if_failed,error indicates an internal arithmetic inconsistency; warning indicates two official source files disagree.
+All,academic_year,The entering medical-school academic year reported by AAMC.

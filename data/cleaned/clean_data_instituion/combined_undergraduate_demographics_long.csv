@@ -1,0 +1,518 @@
+undergraduate_institution,institution_name,city,state_or_province,demographic_group,group_applicants,total_applicants,group_share_of_institution_pct,pct_of_all_group_applicants_nationally,academic_year,source_table,source_file,source_excel_row
+"Amherst College, Amherst, MA",Amherst College,Amherst,MA,Black or African American,16,60,26.67,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,104
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,American Indian or Alaska Native,9,459,1.96,1.4,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,11
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,Asian,124,459,27.02,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,43
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,Black or African American,32,459,6.97,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,50
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,Hispanic or Latino,88,459,19.17,1.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,17
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,Middle Eastern or North African,48,459,10.46,1.3,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,18
+"Arizona State University, Tempe, AZ",Arizona State University,Tempe,AZ,White,230,459,50.11,1,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,17
+"Auburn University, Auburn, AL",Auburn University,Auburn,AL,Hispanic or Latino,11,161,6.83,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,137
+"Auburn University, Auburn, AL",Auburn University,Auburn,AL,White,139,161,86.34,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,38
+"Augusta University, Augusta, GA",Augusta University,Augusta,GA,Black or African American,23,68,33.82,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,74
+"Baylor University, Waco, TX",Baylor University,Waco,TX,Asian,113,423,26.71,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,47
+"Baylor University, Waco, TX",Baylor University,Waco,TX,Black or African American,46,423,10.87,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,25
+"Baylor University, Waco, TX",Baylor University,Waco,TX,Hispanic or Latino,72,423,17.02,1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,22
+"Baylor University, Waco, TX",Baylor University,Waco,TX,White,224,423,52.96,0.9,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,19
+"Boston College, Chestnut Hill, MA",Boston College,Chestnut Hill,MA,Black or African American,15,177,8.47,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,114
+"Boston College, Chestnut Hill, MA",Boston College,Chestnut Hill,MA,Hispanic or Latino,28,177,15.82,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,59
+"Boston College, Chestnut Hill, MA",Boston College,Chestnut Hill,MA,White,110,177,62.15,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,61
+"Boston University, Boston, MA",Boston University,Boston,MA,Asian,141,331,42.6,0.8,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,38
+"Boston University, Boston, MA",Boston University,Boston,MA,Black or African American,30,331,9.06,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,56
+"Boston University, Boston, MA",Boston University,Boston,MA,Hispanic or Latino,40,331,12.08,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,37
+"Boston University, Boston, MA",Boston University,Boston,MA,Middle Eastern or North African,19,331,5.74,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,48
+"Boston University, Boston, MA",Boston University,Boston,MA,White,115,331,34.74,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,56
+"Brigham Young University, Provo, UT",Brigham Young University,Provo,UT,Hispanic or Latino,25,334,7.49,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,65
+"Brigham Young University, Provo, UT",Brigham Young University,Provo,UT,White,298,334,89.22,1.2,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,12
+"Brown University, Providence, RI",Brown University,Providence,RI,Asian,125,320,39.06,0.8,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,42
+"Brown University, Providence, RI",Brown University,Providence,RI,Black or African American,41,320,12.81,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,35
+"Brown University, Providence, RI",Brown University,Providence,RI,Hispanic or Latino,35,320,10.94,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,42
+"Brown University, Providence, RI",Brown University,Providence,RI,White,110,320,34.38,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,62
+"California Baptist University, Riverside, CA",California Baptist University,Riverside,CA,Hispanic or Latino,10,27,37.04,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,145
+"California State Polytechnic University-Pomona, Pomona, CA",California State Polytechnic University-Pomona,Pomona,CA,Hispanic or Latino,13,38,34.21,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,126
+"California State University-Fresno, Fresno, CA",California State University-Fresno,Fresno,CA,Hispanic or Latino,17,50,34.0,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,95
+"California State University-Fullerton, Fullerton, CA",California State University-Fullerton,Fullerton,CA,Hispanic or Latino,15,42,35.71,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,108
+"California State University-Long Beach, Long Beach, CA",California State University-Long Beach,Long Beach,CA,Hispanic or Latino,22,67,32.84,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,77
+"California State University-Los Angeles, Los Angeles, CA",California State University-Los Angeles,Los Angeles,CA,Hispanic or Latino,15,36,41.67,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,109
+"California State University-Monterey Bay, Seaside, CA",California State University-Monterey Bay,Seaside,CA,Hispanic or Latino,10,16,62.5,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,146
+"California State University-Northridge, Northridge, CA",California State University-Northridge,Northridge,CA,Hispanic or Latino,19,60,31.67,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,89
+"California State University-Northridge, Northridge, CA",California State University-Northridge,Northridge,CA,Middle Eastern or North African,19,60,31.67,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,49
+"California State University-San Bernardino, San Bernardino, CA",California State University-San Bernardino,San Bernardino,CA,Hispanic or Latino,15,22,68.18,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,110
+"Case Western Reserve University, Cleveland, OH",Case Western Reserve University,Cleveland,OH,Asian,168,295,56.95,1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,28
+"Case Western Reserve University, Cleveland, OH",Case Western Reserve University,Cleveland,OH,Black or African American,19,295,6.44,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,89
+"Case Western Reserve University, Cleveland, OH",Case Western Reserve University,Cleveland,OH,Hispanic or Latino,16,295,5.42,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,102
+"City University of New York Herbert H. Lehman College, Bronx, NY",City University of New York Herbert H. Lehman College,Bronx,NY,Black or African American,20,29,68.97,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,84
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,Asian,66,167,39.52,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,70
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,Black or African American,24,167,14.37,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,69
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,Hispanic or Latino,25,167,14.97,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,66
+"City University of New York Hunter College, New York, NY",City University of New York Hunter College,New York,NY,Middle Eastern or North African,24,167,14.37,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,38
+"Clemson University, Clemson, SC",Clemson University,Clemson,SC,Hispanic or Latino,14,209,6.7,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,118
+"Clemson University, Clemson, SC",Clemson University,Clemson,SC,White,161,209,77.03,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,32
+"College of William & Mary, Williamsburg, VA",College of William & Mary,Williamsburg,VA,Asian,59,169,34.91,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,78
+"College of William & Mary, Williamsburg, VA",College of William & Mary,Williamsburg,VA,Hispanic or Latino,14,169,8.28,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,119
+"Colorado State University, Fort Collins, CO",Colorado State University,Fort Collins,CO,Hispanic or Latino,15,96,15.62,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,111
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,American Indian or Alaska Native,5,204,2.45,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,24
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,Asian,77,204,37.75,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,65
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,Black or African American,33,204,16.18,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,48
+"Columbia University in the City of New York, New York, NY",Columbia University in the City of New York,New York,NY,Hispanic or Latino,30,204,14.71,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,53
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,Asian,162,385,42.08,1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,30
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,Black or African American,43,385,11.17,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,29
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,Hispanic or Latino,48,385,12.47,0.7,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,32
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,Middle Eastern or North African,25,385,6.49,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,35
+"Cornell University, Ithaca, NY",Cornell University,Ithaca,NY,White,137,385,35.58,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,40
+"Dartmouth College, Hanover, NH",Dartmouth College,Hanover,NH,Black or African American,15,139,10.79,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,115
+"Dartmouth College, Hanover, NH",Dartmouth College,Hanover,NH,Hispanic or Latino,11,139,7.91,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,138
+"Drexel University, Philadelphia, PA",Drexel University,Philadelphia,PA,Asian,50,106,47.17,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,93
+"Duke University, Durham, NC",Duke University,Durham,NC,American Indian or Alaska Native,6,314,1.91,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,17
+"Duke University, Durham, NC",Duke University,Durham,NC,Asian,144,314,45.86,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,37
+"Duke University, Durham, NC",Duke University,Durham,NC,Black or African American,26,314,8.28,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,67
+"Duke University, Durham, NC",Duke University,Durham,NC,Hispanic or Latino,35,314,11.15,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,43
+"Duke University, Durham, NC",Duke University,Durham,NC,White,120,314,38.22,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,52
+"East Carolina University, Greenville, NC",East Carolina University,Greenville,NC,Black or African American,15,83,18.07,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,116
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,Asian,219,411,53.28,1.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,18
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,Black or African American,48,411,11.68,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,24
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,Hispanic or Latino,33,411,8.03,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,47
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,Middle Eastern or North African,19,411,4.62,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,50
+"Emory University, Atlanta, GA",Emory University,Atlanta,GA,White,106,411,25.79,0.4,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,67
+"Florida Agricultural and Mechanical University, Tallahassee, FL",Florida Agricultural and Mechanical University,Tallahassee,FL,Black or African American,40,40,100.0,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,36
+"Florida Atlantic University-Boca Raton, Boca Raton, FL",Florida Atlantic University-Boca Raton,Boca Raton,FL,Black or African American,54,169,31.95,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,18
+"Florida Atlantic University-Boca Raton, Boca Raton, FL",Florida Atlantic University-Boca Raton,Boca Raton,FL,Hispanic or Latino,35,169,20.71,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,44
+"Florida Atlantic University-Boca Raton, Boca Raton, FL",Florida Atlantic University-Boca Raton,Boca Raton,FL,Middle Eastern or North African,22,169,13.02,0.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,43
+"Florida Gulf Coast University, Fort Myers, FL",Florida Gulf Coast University,Fort Myers,FL,Hispanic or Latino,10,37,27.03,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,147
+"Florida International University, Miami, FL",Florida International University,Miami,FL,Black or African American,40,315,12.7,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,37
+"Florida International University, Miami, FL",Florida International University,Miami,FL,Hispanic or Latino,242,315,76.83,3.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,6
+"Florida International University, Miami, FL",Florida International University,Miami,FL,Middle Eastern or North African,16,315,5.08,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,58
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,American Indian or Alaska Native,5,357,1.4,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,25
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,Black or African American,40,357,11.2,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,38
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,Hispanic or Latino,102,357,28.57,1.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,15
+"Florida State University, Tallahassee, FL",Florida State University,Tallahassee,FL,White,202,357,56.58,0.8,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,22
+"Fordham University, Bronx, NY",Fordham University,Bronx,NY,Hispanic or Latino,16,74,21.62,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,103
+"Fort Lewis College, Durango, CO",Fort Lewis College,Durango,CO,American Indian or Alaska Native,5,8,62.5,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,26
+"George Mason University, Fairfax, VA",George Mason University,Fairfax,VA,Black or African American,21,115,18.26,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,81
+"George Mason University, Fairfax, VA",George Mason University,Fairfax,VA,Hispanic or Latino,12,115,10.43,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,131
+"George Mason University, Fairfax, VA",George Mason University,Fairfax,VA,Middle Eastern or North African,28,115,24.35,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,30
+"George Washington University, Washington, DC",George Washington University,Washington,DC,Asian,61,147,41.5,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,77
+"George Washington University, Washington, DC",George Washington University,Washington,DC,Hispanic or Latino,17,147,11.56,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,96
+"Georgetown University, Washington, DC",Georgetown University,Washington,DC,Asian,62,189,32.8,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,76
+"Georgetown University, Washington, DC",Georgetown University,Washington,DC,Hispanic or Latino,14,189,7.41,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,120
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,Atlanta,GA,Asian,100,239,41.84,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,53
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,Atlanta,GA,Black or African American,27,239,11.3,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,63
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,Atlanta,GA,Hispanic or Latino,14,239,5.86,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,121
+"Georgia Southern University, Statesboro, GA",Georgia Southern University,Statesboro,GA,Black or African American,15,35,42.86,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,117
+"Georgia State University, Atlanta, GA",Georgia State University,Atlanta,GA,Black or African American,70,155,45.16,1.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,12
+"Georgia State University, Atlanta, GA",Georgia State University,Atlanta,GA,Hispanic or Latino,12,155,7.74,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,132
+"Grand Canyon University, Phoenix, AZ",Grand Canyon University,Phoenix,AZ,Hispanic or Latino,15,48,31.25,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,112
+"Hampton University, Hampton, VA",Hampton University,Hampton,VA,Black or African American,32,32,100.0,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,51
+"Harvard University, Cambridge, MA",Harvard University,Cambridge,MA,Asian,104,257,40.47,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,51
+"Harvard University, Cambridge, MA",Harvard University,Cambridge,MA,Black or African American,39,257,15.18,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,39
+"Harvard University, Cambridge, MA",Harvard University,Cambridge,MA,Hispanic or Latino,34,257,13.23,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,46
+"Hofstra University, Hempstead, NY",Hofstra University,Hempstead,NY,Hispanic or Latino,10,64,15.62,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,148
+"Howard University, Washington, DC",Howard University,Washington,DC,Black or African American,127,133,95.49,2.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,6
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,Asian,65,272,23.9,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,73
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,Black or African American,20,272,7.35,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,85
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,Hispanic or Latino,23,272,8.46,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,73
+"Indiana University-Bloomington, Bloomington, IN",Indiana University-Bloomington,Bloomington,IN,White,168,272,61.76,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,29
+"Inter American University of Puerto Rico San German Campus, San German, PR",Inter American University of Puerto Rico San German Campus,San German,PR,Hispanic or Latino,14,15,93.33,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,122
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,Asian,249,470,52.98,1.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,15
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,Black or African American,59,470,12.55,1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,17
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,Hispanic or Latino,83,470,17.66,1.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,18
+"Johns Hopkins University, Baltimore, MD",Johns Hopkins University,Baltimore,MD,White,108,470,22.98,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,66
+"Kennesaw State University, Kennesaw, GA",Kennesaw State University,Kennesaw,GA,Black or African American,24,67,35.82,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,70
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,Black or African American,39,351,11.11,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,40
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,Hispanic or Latino,21,351,5.98,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,81
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,Middle Eastern or North African,15,351,4.27,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,64
+"Louisiana St University and Agricultural and Mechanical Col, Baton Rouge, LA",Louisiana St University and Agricultural and Mechanical Col,Baton Rouge,LA,White,244,351,69.52,1,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,15
+"Loyola Marymount University, Los Angeles, CA",Loyola Marymount University,Los Angeles,CA,Hispanic or Latino,13,50,26.0,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,127
+"Loyola University Chicago, Chicago, IL",Loyola University Chicago,Chicago,IL,Asian,68,201,33.83,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,69
+"Loyola University Chicago, Chicago, IL",Loyola University Chicago,Chicago,IL,Hispanic or Latino,24,201,11.94,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,70
+"McGill University, Montreal, QC",McGill University,Montreal,QC,Middle Eastern or North African,18,99,18.18,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,52
+"McMaster University, Hamilton, ON",McMaster University,Hamilton,ON,Asian,116,187,62.03,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,46
+"McMaster University, Hamilton, ON",McMaster University,Hamilton,ON,Middle Eastern or North African,28,187,14.97,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,31
+"Mercer University, Macon, GA",Mercer University,Macon,GA,Black or African American,15,76,19.74,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,118
+"Miami University, Oxford, OH",Miami University,Oxford,OH,White,110,140,78.57,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,63
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,American Indian or Alaska Native,7,370,1.89,1.1,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,16
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,Asian,82,370,22.16,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,63
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,Black or African American,34,370,9.19,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,46
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,Hispanic or Latino,22,370,5.95,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,78
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,Middle Eastern or North African,45,370,12.16,1.2,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,20
+"Michigan State University, East Lansing, MI",Michigan State University,East Lansing,MI,White,199,370,53.78,0.8,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,23
+"Middle Tennessee State University, Murfreesboro, TN",Middle Tennessee State University,Murfreesboro,TN,Middle Eastern or North African,15,39,38.46,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,65
+"Mississippi State University, Mississippi State, MS",Mississippi State University,Mississippi State,MS,Black or African American,18,99,18.18,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,94
+"Morehouse College, Atlanta, GA",Morehouse College,Atlanta,GA,Black or African American,24,25,96.0,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,71
+"New Mexico State University-Main Campus, Las Cruces, NM",New Mexico State University-Main Campus,Las Cruces,NM,Hispanic or Latino,17,27,62.96,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,97
+"New York University, New York, NY",New York University,New York,NY,Asian,145,331,43.81,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,36
+"New York University, New York, NY",New York University,New York,NY,Black or African American,52,331,15.71,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,20
+"New York University, New York, NY",New York University,New York,NY,Hispanic or Latino,53,331,16.01,0.8,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,29
+"New York University, New York, NY",New York University,New York,NY,Middle Eastern or North African,24,331,7.25,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,39
+"North Carolina Agricultural and Technical State University, Greensboro, NC",North Carolina Agricultural and Technical State University,Greensboro,NC,Black or African American,26,27,96.3,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,68
+"North Carolina State University, Raleigh, NC",North Carolina State University,Raleigh,NC,Black or African American,22,160,13.75,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,78
+"North Carolina State University, Raleigh, NC",North Carolina State University,Raleigh,NC,Hispanic or Latino,15,160,9.38,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,113
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,Asian,107,285,37.54,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,49
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,Black or African American,22,285,7.72,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,79
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,Hispanic or Latino,35,285,12.28,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,45
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,Middle Eastern or North African,16,285,5.61,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,59
+"Northeastern University, Boston, MA",Northeastern University,Boston,MA,White,124,285,43.51,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,49
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,Asian,107,253,42.29,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,50
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,Black or African American,28,253,11.07,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,62
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,Hispanic or Latino,20,253,7.91,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,83
+"Northwestern University-Evanston, Evanston, IL",Northwestern University-Evanston,Evanston,IL,Middle Eastern or North African,15,253,5.93,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,66
+"Nova Southeastern University, Fort Lauderdale, FL",Nova Southeastern University,Fort Lauderdale,FL,Asian,75,137,54.74,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,66
+"Nova Southeastern University, Fort Lauderdale, FL",Nova Southeastern University,Fort Lauderdale,FL,Black or African American,15,137,10.95,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,119
+"Nova Southeastern University, Fort Lauderdale, FL",Nova Southeastern University,Fort Lauderdale,FL,Hispanic or Latino,22,137,16.06,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,79
+"Oakland University, Rochester, MI",Oakland University,Rochester,MI,Middle Eastern or North African,34,91,37.36,0.9,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,26
+"Oakwood University, Huntsville, AL",Oakwood University,Huntsville,AL,Black or African American,36,36,100.0,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,45
+"Oklahoma State University, Stillwater, OK",Oklahoma State University,Stillwater,OK,American Indian or Alaska Native,18,65,27.69,2.7,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,7
+"Old Dominion University, Norfolk, VA",Old Dominion University,Norfolk,VA,Black or African American,16,40,40.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,105
+"Oregon State University, Corvallis, OR",Oregon State University,Corvallis,OR,Hispanic or Latino,15,89,16.85,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,114
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,Asian,84,277,30.32,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,61
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,Black or African American,27,277,9.75,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,64
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,Hispanic or Latino,24,277,8.66,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,71
+"Penn State University Park, University Park, PA",Penn State University Park,University Park,PA,White,137,277,49.46,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,41
+"Prairie View A & M University, Prairie View, TX",Prairie View A & M University,Prairie View,TX,Black or African American,20,27,74.07,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,86
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,Asian,53,150,35.33,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,90
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,Black or African American,19,150,12.67,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,90
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,Hispanic or Latino,16,150,10.67,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,104
+"Princeton University, Princeton, NJ",Princeton University,Princeton,NJ,Middle Eastern or North African,15,150,10.0,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,67
+"Purdue University-Main Campus, West Lafayette, IN",Purdue University-Main Campus,West Lafayette,IN,Asian,69,218,31.65,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,68
+"Purdue University-Main Campus, West Lafayette, IN",Purdue University-Main Campus,West Lafayette,IN,Hispanic or Latino,15,218,6.88,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,115
+"Purdue University-Main Campus, West Lafayette, IN",Purdue University-Main Campus,West Lafayette,IN,White,115,218,52.75,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,57
+"Rice University, Houston, TX",Rice University,Houston,TX,Asian,136,218,62.39,0.8,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,39
+"Rice University, Houston, TX",Rice University,Houston,TX,Black or African American,18,218,8.26,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,95
+"Rice University, Houston, TX",Rice University,Houston,TX,Hispanic or Latino,25,218,11.47,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,67
+"Rowan University, Glassboro, NJ",Rowan University,Glassboro,NJ,Hispanic or Latino,10,52,19.23,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,149
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,Asian,244,443,55.08,1.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,16
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,Black or African American,45,443,10.16,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,26
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,Hispanic or Latino,30,443,6.77,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,54
+"Rutgers University - New Brunswick, New Brunswick, NJ",Rutgers University - New Brunswick,New Brunswick,NJ,Middle Eastern or North African,55,443,12.42,1.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,14
+"Rutgers University - Newark, Newark, NJ",Rutgers University - Newark,Newark,NJ,Hispanic or Latino,11,52,21.15,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,139
+"Saint Louis University, St. Louis, MO",Saint Louis University,St. Louis,MO,Asian,88,179,49.16,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,60
+"San Diego State University, San Diego, CA",San Diego State University,San Diego,CA,Hispanic or Latino,17,87,19.54,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,98
+"San Francisco State University, San Francisco, CA",San Francisco State University,San Francisco,CA,Hispanic or Latino,14,46,30.43,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,123
+"Southern Adventist University, Collegedale, TN",Southern Adventist University,Collegedale,TN,Hispanic or Latino,17,58,29.31,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,99
+"Spelman College, Atlanta, GA",Spelman College,Atlanta,GA,Black or African American,70,70,100.0,1.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,13
+"St. John's University, Queens, NY",St. John's University,Queens,NY,Black or African American,16,73,21.92,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,106
+"St. John's University, Queens, NY",St. John's University,Queens,NY,Hispanic or Latino,13,73,17.81,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,128
+"St. Mary's University, San Antonio, TX",St. Mary's University,San Antonio,TX,Hispanic or Latino,10,13,76.92,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,150
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,American Indian or Alaska Native,11,228,4.82,1.7,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,8
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,Asian,89,228,39.04,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,58
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,Black or African American,29,228,12.72,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,60
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,Hispanic or Latino,38,228,16.67,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,40
+"Stanford University, Stanford, CA",Stanford University,Stanford,CA,Middle Eastern or North African,18,228,7.89,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,53
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,Asian,54,211,25.59,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,87
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,Black or African American,20,211,9.48,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,87
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,Hispanic or Latino,16,211,7.58,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,105
+"State University of New York at Binghamton, Binghamton, NY",State University of New York at Binghamton,Binghamton,NY,White,117,211,55.45,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,55
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,Asian,180,325,55.38,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,22
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,Black or African American,30,325,9.23,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,57
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,Hispanic or Latino,33,325,10.15,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,48
+"Stony Brook University, Stony Brook, NY",Stony Brook University,Stony Brook,NY,Middle Eastern or North African,16,325,4.92,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,60
+"Syracuse University, Syracuse, NY",Syracuse University,Syracuse,NY,Black or African American,16,77,20.78,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,107
+"Syracuse University, Syracuse, NY",Syracuse University,Syracuse,NY,Hispanic or Latino,15,77,19.48,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,116
+"Temple University, Philadelphia, PA",Temple University,Philadelphia,PA,Asian,58,150,38.67,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,81
+"Temple University, Philadelphia, PA",Temple University,Philadelphia,PA,Black or African American,33,150,22.0,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,49
+"Temple University, Philadelphia, PA",Temple University,Philadelphia,PA,Middle Eastern or North African,15,150,10.0,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,68
+"Tennessee State University, Nashville, TN",Tennessee State University,Nashville,TN,Black or African American,31,35,88.57,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,54
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,American Indian or Alaska Native,5,672,0.74,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,27
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,Asian,206,672,30.65,1.2,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,19
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,Black or African American,30,672,4.46,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,58
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,Hispanic or Latino,126,672,18.75,1.8,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,12
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,Middle Eastern or North African,15,672,2.23,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,69
+"Texas A & M University, College Station, TX",Texas A & M University,College Station,TX,White,379,672,56.4,1.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,8
+"Texas A & M University-Corpus Christi, Corpus Christi, TX",Texas A & M University-Corpus Christi,Corpus Christi,TX,Hispanic or Latino,11,22,50.0,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,140
+"Texas Christian University, Fort Worth, TX",Texas Christian University,Fort Worth,TX,Hispanic or Latino,10,86,11.63,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,151
+"Texas State University-San Marcos, San Marcos, TX",Texas State University-San Marcos,San Marcos,TX,Black or African American,18,73,24.66,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,96
+"Texas State University-San Marcos, San Marcos, TX",Texas State University-San Marcos,San Marcos,TX,Hispanic or Latino,28,73,38.36,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,60
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,American Indian or Alaska Native,5,234,2.14,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,28
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,Black or African American,29,234,12.39,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,61
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,Hispanic or Latino,58,234,24.79,0.8,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,26
+"Texas Tech University-Lubbock, Lubbock, TX",Texas Tech University-Lubbock,Lubbock,TX,White,137,234,58.55,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,42
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,Asian,190,583,32.59,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,21
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,Black or African American,60,583,10.29,1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,16
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,Hispanic or Latino,20,583,3.43,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,84
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,Middle Eastern or North African,58,583,9.95,1.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,12
+"The Ohio State University Main Campus, Columbus, OH",The Ohio State University Main Campus,Columbus,OH,White,273,583,46.83,1.1,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,13
+"The Pontifical Catholic University of Puerto Rico, Ponce, PR",The Pontifical Catholic University of Puerto Rico,Ponce,PR,Hispanic or Latino,49,49,100.0,0.7,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,31
+"The University of Alabama, Tuscaloosa, AL",The University of Alabama,Tuscaloosa,AL,Black or African American,19,225,8.44,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,91
+"The University of Alabama, Tuscaloosa, AL",The University of Alabama,Tuscaloosa,AL,White,175,225,77.78,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,27
+"The University of Texas Rio Grande Valley, Edinburg, TX",The University of Texas Rio Grande Valley,Edinburg,TX,Hispanic or Latino,79,96,82.29,1.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,21
+"The University of Texas at Arlington, Arlington, TX",The University of Texas at Arlington,Arlington,TX,Black or African American,16,83,19.28,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,108
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,Asian,340,486,69.96,2,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,10
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,Black or African American,31,486,6.38,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,55
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,Hispanic or Latino,20,486,4.12,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,85
+"The University of Texas at Dallas, Richardson, TX",The University of Texas at Dallas,Richardson,TX,Middle Eastern or North African,25,486,5.14,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,36
+"The University of Texas at San Antonio, San Antonio, TX",The University of Texas at San Antonio,San Antonio,TX,Black or African American,38,144,26.39,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,43
+"The University of Texas at San Antonio, San Antonio, TX",The University of Texas at San Antonio,San Antonio,TX,Hispanic or Latino,48,144,33.33,0.7,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,33
+"The University of Utah, Salt Lake City, UT",The University of Utah,Salt Lake City,UT,American Indian or Alaska Native,5,233,2.15,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,29
+"The University of Utah, Salt Lake City, UT",The University of Utah,Salt Lake City,UT,Hispanic or Latino,22,233,9.44,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,80
+"The University of Utah, Salt Lake City, UT",The University of Utah,Salt Lake City,UT,White,168,233,72.1,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,30
+"Towson University, Baltimore, MD",Towson University,Baltimore,MD,Black or African American,20,40,50.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,88
+"Tufts University, Medford, MA",Tufts University,Medford,MA,Asian,66,200,33.0,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,71
+"Tufts University, Medford, MA",Tufts University,Medford,MA,Hispanic or Latino,23,200,11.5,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,74
+"Tufts University, Medford, MA",Tufts University,Medford,MA,White,111,200,55.5,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,60
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,Asian,54,206,26.21,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,88
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,Black or African American,21,206,10.19,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,82
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,Hispanic or Latino,19,206,9.22,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,90
+"Tulane University, New Orleans, LA",Tulane University,New Orleans,LA,White,127,206,61.65,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,45
+"Tuskegee University, Tuskegee Inst., AL",Tuskegee University,Tuskegee Inst.,AL,Black or African American,16,16,100.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,109
+"Univ of Puerto Rico-Ponce, Ponce, PR",Univ of Puerto Rico-Ponce,Ponce,PR,Hispanic or Latino,18,19,94.74,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,93
+"University at Albany, SUNY, Albany, NY","University at Albany, SUNY",Albany,NY,Black or African American,30,79,37.97,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,59
+"University at Buffalo-SUNY, Buffalo, NY",University at Buffalo-SUNY,Buffalo,NY,Asian,66,168,39.29,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,72
+"University at Buffalo-SUNY, Buffalo, NY",University at Buffalo-SUNY,Buffalo,NY,Black or African American,23,168,13.69,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,75
+"University at Buffalo-SUNY, Buffalo, NY",University at Buffalo-SUNY,Buffalo,NY,Hispanic or Latino,11,168,6.55,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,141
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,American Indian or Alaska Native,6,245,2.45,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,18
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,Asian,94,245,38.37,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,57
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,Black or African American,39,245,15.92,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,41
+"University of Alabama at Birmingham, Birmingham, AL",University of Alabama at Birmingham,Birmingham,AL,Hispanic or Latino,16,245,6.53,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,106
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,American Indian or Alaska Native,10,386,2.59,1.5,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,9
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,Asian,89,386,23.06,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,59
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,Black or African American,32,386,8.29,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,52
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,Hispanic or Latino,80,386,20.73,1.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,19
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,Middle Eastern or North African,24,386,6.22,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,40
+"University of Arizona, Tucson, AZ",University of Arizona,Tucson,AZ,White,213,386,55.18,0.9,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,21
+"University of Arkansas Main Campus, Fayetteville, AR",University of Arkansas Main Campus,Fayetteville,AR,American Indian or Alaska Native,9,157,5.73,1.4,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,12
+"University of Arkansas Main Campus, Fayetteville, AR",University of Arkansas Main Campus,Fayetteville,AR,Hispanic or Latino,20,157,12.74,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,86
+"University of Arkansas Main Campus, Fayetteville, AR",University of Arkansas Main Campus,Fayetteville,AR,White,113,157,71.97,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,59
+"University of British Columbia, Vancouver, BC",University of British Columbia,Vancouver,BC,Asian,57,105,54.29,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,82
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,American Indian or Alaska Native,5,689,0.73,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,30
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,Asian,399,689,57.91,2.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,9
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,Hispanic or Latino,68,689,9.87,1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,24
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,Middle Eastern or North African,62,689,9.0,1.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,11
+"University of California-Berkeley, Berkeley, CA",University of California-Berkeley,Berkeley,CA,White,149,689,21.63,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,36
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,American Indian or Alaska Native,5,495,1.01,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,31
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,Asian,279,495,56.36,1.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,12
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,Black or African American,18,495,3.64,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,97
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,Hispanic or Latino,70,495,14.14,1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,23
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,Middle Eastern or North African,49,495,9.9,1.3,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,16
+"University of California-Davis, Davis, CA",University of California-Davis,Davis,CA,White,109,495,22.02,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,64
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,Asian,252,461,54.66,1.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,13
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,Black or African American,19,461,4.12,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,92
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,Hispanic or Latino,64,461,13.88,0.9,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,25
+"University of California-Irvine, Irvine, CA",University of California-Irvine,Irvine,CA,Middle Eastern or North African,84,461,18.22,2.3,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,9
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,American Indian or Alaska Native,9,1272,0.71,1.4,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,13
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,Asian,657,1272,51.65,3.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,6
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,Black or African American,45,1272,3.54,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,27
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,Hispanic or Latino,172,1272,13.52,2.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,8
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,Middle Eastern or North African,163,1272,12.81,4.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,6
+"University of California-Los Angeles, Los Angeles, CA",University of California-Los Angeles,Los Angeles,CA,White,304,1272,23.9,1.3,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,11
+"University of California-Merced, Merced, CA",University of California-Merced,Merced,CA,Hispanic or Latino,23,52,44.23,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,75
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,Asian,156,301,51.83,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,31
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,Black or African American,18,301,5.98,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,98
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,Hispanic or Latino,51,301,16.94,0.7,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,30
+"University of California-Riverside, Riverside, CA",University of California-Riverside,Riverside,CA,Middle Eastern or North African,57,301,18.94,1.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,13
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,American Indian or Alaska Native,6,739,0.81,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,19
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,Asian,411,739,55.62,2.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,8
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,Black or African American,16,739,2.17,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,110
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,Hispanic or Latino,99,739,13.4,1.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,16
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,Middle Eastern or North African,82,739,11.1,2.2,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,10
+"University of California-San Diego, La Jolla, CA",University of California-San Diego,La Jolla,CA,White,157,739,21.24,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,34
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,American Indian or Alaska Native,6,258,2.33,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,20
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,Asian,103,258,39.92,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,52
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,Hispanic or Latino,27,258,10.47,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,62
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,Middle Eastern or North African,39,258,15.12,1.1,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,23
+"University of California-Santa Barbara, Santa Barbara, CA",University of California-Santa Barbara,Santa Barbara,CA,White,114,258,44.19,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,58
+"University of California-Santa Cruz, Santa Cruz, CA",University of California-Santa Cruz,Santa Cruz,CA,Asian,56,139,40.29,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,85
+"University of California-Santa Cruz, Santa Cruz, CA",University of California-Santa Cruz,Santa Cruz,CA,Hispanic or Latino,30,139,21.58,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,55
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,Asian,100,430,23.26,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,54
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,Black or African American,98,430,22.79,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,7
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,Hispanic or Latino,130,430,30.23,1.9,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,11
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,Middle Eastern or North African,37,430,8.6,1,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,24
+"University of Central Florida, Orlando, FL",University of Central Florida,Orlando,FL,White,123,430,28.6,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,50
+"University of Chicago, Chicago, IL",University of Chicago,Chicago,IL,Asian,71,186,38.17,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,67
+"University of Chicago, Chicago, IL",University of Chicago,Chicago,IL,Hispanic or Latino,26,186,13.98,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,64
+"University of Cincinnati Main Campus, Cincinnati, OH",University of Cincinnati Main Campus,Cincinnati,OH,Asian,59,175,33.71,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,79
+"University of Cincinnati Main Campus, Cincinnati, OH",University of Cincinnati Main Campus,Cincinnati,OH,Black or African American,15,175,8.57,0.2,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,120
+"University of Cincinnati Main Campus, Cincinnati, OH",University of Cincinnati Main Campus,Cincinnati,OH,Middle Eastern or North African,16,175,9.14,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,61
+"University of Colorado Denver Anschutz Medical Campus, Aurora, CO",University of Colorado Denver Anschutz Medical Campus,Aurora,CO,Hispanic or Latino,15,61,24.59,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,117
+"University of Colorado at Boulder, Boulder, CO",University of Colorado at Boulder,Boulder,CO,Hispanic or Latino,16,172,9.3,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,107
+"University of Colorado at Boulder, Boulder, CO",University of Colorado at Boulder,Boulder,CO,White,119,172,69.19,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,53
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,Asian,81,240,33.75,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,64
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,Black or African American,23,240,9.58,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,76
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,Hispanic or Latino,30,240,12.5,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,56
+"University of Connecticut, Storrs, CT",University of Connecticut,Storrs,CT,White,105,240,43.75,0.4,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,68
+"University of Delaware, Newark, DE",University of Delaware,Newark,DE,Black or African American,17,104,16.35,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,102
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,American Indian or Alaska Native,10,896,1.12,1.5,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,10
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,Asian,233,896,26.0,1.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,17
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,Black or African American,82,896,9.15,1.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,10
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,Hispanic or Latino,240,896,26.79,3.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,7
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,Middle Eastern or North African,53,896,5.92,1.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,15
+"University of Florida, Gainesville, FL",University of Florida,Gainesville,FL,White,395,896,44.08,1.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,6
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,American Indian or Alaska Native,6,528,1.14,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,21
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,Asian,152,528,28.79,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,33
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,Black or African American,69,528,13.07,1.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,14
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,Hispanic or Latino,24,528,4.55,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,72
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,Middle Eastern or North African,25,528,4.73,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,37
+"University of Georgia, Athens, GA",University of Georgia,Athens,GA,White,253,528,47.92,1.1,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,14
+"University of Hawaii at Manoa, Honolulu, HI",University of Hawaii at Manoa,Honolulu,HI,Asian,57,81,70.37,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,83
+"University of Houston, Houston, TX",University of Houston,Houston,TX,Asian,164,306,53.59,1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,29
+"University of Houston, Houston, TX",University of Houston,Houston,TX,Black or African American,49,306,16.01,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,23
+"University of Houston, Houston, TX",University of Houston,Houston,TX,Hispanic or Latino,40,306,13.07,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,38
+"University of Houston, Houston, TX",University of Houston,Houston,TX,Middle Eastern or North African,22,306,7.19,0.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,44
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,Asian,119,279,42.65,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,44
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,Black or African American,22,279,7.89,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,80
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,Hispanic or Latino,32,279,11.47,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,51
+"University of Illinois at Chicago, Chicago, IL",University of Illinois at Chicago,Chicago,IL,Middle Eastern or North African,49,279,17.56,1.3,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,17
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,Asian,155,362,42.82,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,32
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,Black or African American,34,362,9.39,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,47
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,Hispanic or Latino,39,362,10.77,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,39
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,Middle Eastern or North African,23,362,6.35,0.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,41
+"University of Illinois at Urbana-Champaign, Champaign, IL",University of Illinois at Urbana-Champaign,Champaign,IL,White,128,362,35.36,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,44
+"University of Iowa, Iowa City, IA",University of Iowa,Iowa City,IA,American Indian or Alaska Native,5,196,2.55,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,32
+"University of Iowa, Iowa City, IA",University of Iowa,Iowa City,IA,Hispanic or Latino,17,196,8.67,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,100
+"University of Iowa, Iowa City, IA",University of Iowa,Iowa City,IA,White,139,196,70.92,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,39
+"University of Kansas Main Campus, Lawrence, KS",University of Kansas Main Campus,Lawrence,KS,Black or African American,16,181,8.84,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,111
+"University of Kansas Main Campus, Lawrence, KS",University of Kansas Main Campus,Lawrence,KS,Hispanic or Latino,12,181,6.63,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,133
+"University of Kansas Main Campus, Lawrence, KS",University of Kansas Main Campus,Lawrence,KS,White,105,181,58.01,0.4,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,69
+"University of Kentucky, Lexington, KY",University of Kentucky,Lexington,KY,Asian,54,246,21.95,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,89
+"University of Kentucky, Lexington, KY",University of Kentucky,Lexington,KY,Hispanic or Latino,12,246,4.88,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,134
+"University of Kentucky, Lexington, KY",University of Kentucky,Lexington,KY,White,167,246,67.89,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,31
+"University of Maryland-Baltimore County, Baltimore, MD",University of Maryland-Baltimore County,Baltimore,MD,Asian,56,140,40.0,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,86
+"University of Maryland-Baltimore County, Baltimore, MD",University of Maryland-Baltimore County,Baltimore,MD,Black or African American,50,140,35.71,0.8,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,22
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,Asian,176,403,43.67,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,26
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,Black or African American,64,403,15.88,1.1,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,15
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,Hispanic or Latino,28,403,6.95,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,61
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,Middle Eastern or North African,26,403,6.45,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,33
+"University of Maryland-College Park, College Park, MD",University of Maryland-College Park,College Park,MD,White,122,403,30.27,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,51
+"University of Massachusetts-Amherst, Amherst, MA",University of Massachusetts-Amherst,Amherst,MA,Asian,52,167,31.14,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,92
+"University of Massachusetts-Amherst, Amherst, MA",University of Massachusetts-Amherst,Amherst,MA,Black or African American,18,167,10.78,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,99
+"University of Massachusetts-Amherst, Amherst, MA",University of Massachusetts-Amherst,Amherst,MA,Hispanic or Latino,10,167,5.99,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,152
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,American Indian or Alaska Native,5,289,1.73,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,33
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,Asian,59,289,20.42,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,80
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,Black or African American,42,289,14.53,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,32
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,Hispanic or Latino,80,289,27.68,1.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,20
+"University of Miami, Coral Gables, FL",University of Miami,Coral Gables,FL,White,129,289,44.64,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,43
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,American Indian or Alaska Native,6,864,0.69,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,22
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,Asian,335,864,38.77,2,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,11
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,Black or African American,39,864,4.51,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,42
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,Hispanic or Latino,33,864,3.82,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,49
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,Middle Eastern or North African,114,864,13.19,3.1,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,7
+"University of Michigan-Ann Arbor, Ann Arbor, MI",University of Michigan-Ann Arbor,Ann Arbor,MI,White,373,864,43.17,1.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,10
+"University of Michigan-Dearborn, Dearborn, MI",University of Michigan-Dearborn,Dearborn,MI,Middle Eastern or North African,44,68,64.71,1.2,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,21
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,Asian,111,368,30.16,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,48
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,Black or African American,43,368,11.68,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,30
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,Hispanic or Latino,17,368,4.62,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,101
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,Middle Eastern or North African,18,368,4.89,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,54
+"University of Minnesota, Minneapolis, MN",University of Minnesota,Minneapolis,MN,White,192,368,52.17,0.8,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,24
+"University of Mississippi, University, MS",University of Mississippi,University,MS,White,109,144,75.69,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,65
+"University of Missouri-Columbia, Columbia, MO",University of Missouri-Columbia,Columbia,MO,Black or African American,16,194,8.25,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,112
+"University of Missouri-Columbia, Columbia, MO",University of Missouri-Columbia,Columbia,MO,Hispanic or Latino,10,194,5.15,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,153
+"University of Missouri-Columbia, Columbia, MO",University of Missouri-Columbia,Columbia,MO,White,142,194,73.2,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,37
+"University of Nevada-Las Vegas, Las Vegas, NV",University of Nevada-Las Vegas,Las Vegas,NV,Hispanic or Latino,19,100,19.0,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,91
+"University of Nevada-Las Vegas, Las Vegas, NV",University of Nevada-Las Vegas,Las Vegas,NV,Middle Eastern or North African,18,100,18.0,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,55
+"University of Nevada-Reno, Reno, NV",University of Nevada-Reno,Reno,NV,Asian,53,128,41.41,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,91
+"University of Nevada-Reno, Reno, NV",University of Nevada-Reno,Reno,NV,Hispanic or Latino,19,128,14.84,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,92
+"University of New Mexico-Main Campus, Albuquerque, NM",University of New Mexico-Main Campus,Albuquerque,NM,American Indian or Alaska Native,6,129,4.65,0.9,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,23
+"University of New Mexico-Main Campus, Albuquerque, NM",University of New Mexico-Main Campus,Albuquerque,NM,Hispanic or Latino,54,129,41.86,0.8,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,27
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,Asian,173,504,34.33,1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,27
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,Black or African American,53,504,10.52,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,19
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,Hispanic or Latino,41,504,8.13,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,35
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,Middle Eastern or North African,21,504,4.17,0.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,45
+"University of North Carolina at Chapel Hill, Chapel Hill, NC",University of North Carolina at Chapel Hill,Chapel Hill,NC,White,218,504,43.25,0.9,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,20
+"University of North Carolina at Charlotte, Charlotte, NC",University of North Carolina at Charlotte,Charlotte,NC,Black or African American,21,75,28.0,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,83
+"University of North Texas, Denton, TX",University of North Texas,Denton,TX,Black or African American,44,130,33.85,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,28
+"University of North Texas, Denton, TX",University of North Texas,Denton,TX,Hispanic or Latino,12,130,9.23,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,135
+"University of Notre Dame, Notre Dame, IN",University of Notre Dame,Notre Dame,IN,Black or African American,19,314,6.05,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,93
+"University of Notre Dame, Notre Dame, IN",University of Notre Dame,Notre Dame,IN,Hispanic or Latino,38,314,12.1,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,41
+"University of Notre Dame, Notre Dame, IN",University of Notre Dame,Notre Dame,IN,White,225,314,71.66,0.9,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,18
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,American Indian or Alaska Native,21,224,9.38,3.2,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,6
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,Asian,65,224,29.02,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,74
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,Black or African American,18,224,8.04,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,100
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,Hispanic or Latino,30,224,13.39,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,57
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,Middle Eastern or North African,16,224,7.14,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,62
+"University of Oklahoma Norman Campus, Norman, OK",University of Oklahoma Norman Campus,Norman,OK,White,118,224,52.68,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,54
+"University of Oregon, Eugene, OR",University of Oregon,Eugene,OR,Hispanic or Latino,11,114,9.65,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,142
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,Asian,179,368,48.64,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,23
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,Black or African American,52,368,14.13,0.9,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,21
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,Hispanic or Latino,27,368,7.34,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,63
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,Middle Eastern or North African,23,368,6.25,0.6,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,42
+"University of Pennsylvania, Philadelphia, PA",University of Pennsylvania,Philadelphia,PA,White,101,368,27.45,0.4,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,70
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,Asian,179,415,43.13,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,24
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,Black or African American,43,415,10.36,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,31
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,Hispanic or Latino,25,415,6.02,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,68
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,Middle Eastern or North African,20,415,4.82,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,46
+"University of Pittsburgh, Pittsburgh, PA",University of Pittsburgh,Pittsburgh,PA,White,160,415,38.55,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,33
+"University of Puerto Rico at Arecibo, Arecibo, PR",University of Puerto Rico at Arecibo,Arecibo,PR,Hispanic or Latino,18,20,90.0,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,94
+"University of Puerto Rico at Bayamon, Bayamon, PR",University of Puerto Rico at Bayamon,Bayamon,PR,Hispanic or Latino,23,23,100.0,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,76
+"University of Puerto Rico at Cayey, Cayey, PR",University of Puerto Rico at Cayey,Cayey,PR,Hispanic or Latino,41,42,97.62,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,36
+"University of Puerto Rico-Aguadilla, Aguadilla, PR",University of Puerto Rico-Aguadilla,Aguadilla,PR,Hispanic or Latino,20,20,100.0,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,87
+"University of Puerto Rico-Humacao, Humacao, PR",University of Puerto Rico-Humacao,Humacao,PR,Hispanic or Latino,11,11,100.0,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,143
+"University of Puerto Rico-Mayaguez Campus, Mayaguez, PR",University of Puerto Rico-Mayaguez Campus,Mayaguez,PR,Hispanic or Latino,119,123,96.75,1.7,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,13
+"University of Puerto Rico-Rio Piedras Campus, San Juan, PR",University of Puerto Rico-Rio Piedras Campus,San Juan,PR,Hispanic or Latino,153,159,96.23,2.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,10
+"University of Rochester, Rochester, NY",University of Rochester,Rochester,NY,Asian,64,151,42.38,0.4,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,75
+"University of Rochester, Rochester, NY",University of Rochester,Rochester,NY,Hispanic or Latino,11,151,7.28,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,144
+"University of San Diego, San Diego, CA",University of San Diego,San Diego,CA,Hispanic or Latino,13,59,22.03,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,129
+"University of South Carolina Columbia, Columbia, SC",University of South Carolina Columbia,Columbia,SC,Black or African American,24,266,9.02,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,72
+"University of South Carolina Columbia, Columbia, SC",University of South Carolina Columbia,Columbia,SC,White,183,266,68.8,0.8,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,25
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,American Indian or Alaska Native,5,512,0.98,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,34
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,Asian,152,512,29.69,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,34
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,Black or African American,77,512,15.04,1.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,11
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,Hispanic or Latino,107,512,20.9,1.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,14
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,Middle Eastern or North African,48,512,9.38,1.3,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,19
+"University of South Florida, Tampa, FL",University of South Florida,Tampa,FL,White,175,512,34.18,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,28
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,Asian,194,338,57.4,1.2,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,20
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,Black or African American,27,338,7.99,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,65
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,Hispanic or Latino,29,338,8.58,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,58
+"University of Southern California, Los Angeles, CA",University of Southern California,Los Angeles,CA,Middle Eastern or North African,30,338,8.88,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,27
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,Black or African American,23,204,11.27,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,77
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,Hispanic or Latino,10,204,4.9,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,154
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,Middle Eastern or North African,15,204,7.35,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,70
+"University of Tennessee-Knoxville, Knoxville, TN",University of Tennessee-Knoxville,Knoxville,TN,White,125,204,61.27,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,48
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,American Indian or Alaska Native,9,1072,0.84,1.4,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,14
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,Asian,520,1072,48.51,3.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,7
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,Black or African American,94,1072,8.77,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,9
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,Hispanic or Latino,159,1072,14.83,2.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,9
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,Middle Eastern or North African,30,1072,2.8,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,28
+"University of Texas at Austin, Austin, TX",University of Texas at Austin,Austin,TX,White,385,1072,35.91,1.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,7
+"University of Texas at El Paso, El Paso, TX",University of Texas at El Paso,El Paso,TX,Hispanic or Latino,54,61,88.52,0.8,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,28
+"University of Toronto, Toronto, ON",University of Toronto,Toronto,ON,Asian,97,205,47.32,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,56
+"University of Toronto, Toronto, ON",University of Toronto,Toronto,ON,Black or African American,16,205,7.8,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,113
+"University of Toronto, Toronto, ON",University of Toronto,Toronto,ON,Middle Eastern or North African,42,205,20.49,1.1,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,22
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,American Indian or Alaska Native,5,478,1.05,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,35
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,Asian,149,478,31.17,0.9,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,35
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,Black or African American,42,478,8.79,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,33
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,Hispanic or Latino,25,478,5.23,0.4,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,69
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,Middle Eastern or North African,29,478,6.07,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,29
+"University of Virginia, Charlottesville, VA",University of Virginia,Charlottesville,VA,White,235,478,49.16,1,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,16
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,American Indian or Alaska Native,8,495,1.62,1.2,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,15
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,Asian,251,495,50.71,1.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,14
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,Black or African American,27,495,5.45,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,66
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,Hispanic or Latino,44,495,8.89,0.6,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,34
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,Middle Eastern or North African,35,495,7.07,1,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,25
+"University of Washington, Seattle, WA",University of Washington,Seattle,WA,White,176,495,35.56,0.7,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,26
+"University of Western Ontario, London, ON",University of Western Ontario,London,ON,Asian,100,184,54.35,0.6,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,55
+"University of Western Ontario, London, ON",University of Western Ontario,London,ON,Middle Eastern or North African,28,184,15.22,0.8,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,32
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,American Indian or Alaska Native,5,547,0.91,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,36
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,Asian,132,547,24.13,0.8,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,40
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,Hispanic or Latino,33,547,6.03,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,50
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,Middle Eastern or North African,18,547,3.29,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,56
+"University of Wisconsin-Madison, Madison, WI",University of Wisconsin-Madison,Madison,WI,White,376,547,68.74,1.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,9
+"University of the Incarnate Word, San Antonio, TX",University of the Incarnate Word,San Antonio,TX,Hispanic or Latino,12,21,57.14,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,136
+"Utah Valley University, Orem, UT",Utah Valley University,Orem,UT,Hispanic or Latino,10,49,20.41,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,155
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,Asian,131,319,41.07,0.8,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,41
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,Black or African American,42,319,13.17,0.7,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,34
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,Hispanic or Latino,31,319,9.72,0.5,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,52
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,Middle Eastern or North African,19,319,5.96,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,51
+"Vanderbilt University, Nashville, TN",Vanderbilt University,Nashville,TN,White,127,319,39.81,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,46
+"Villanova University, Villanova, PA",Villanova University,Villanova,PA,Hispanic or Latino,13,91,14.29,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,130
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,Asian,119,228,52.19,0.7,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,45
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,Black or African American,37,228,16.23,0.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,44
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,Hispanic or Latino,14,228,6.14,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,124
+"Virginia Commonwealth University, Richmond, VA",Virginia Commonwealth University,Richmond,VA,Middle Eastern or North African,26,228,11.4,0.7,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,34
+"Virginia Polytechnic Institute and State University, Blacksburg, VA",Virginia Polytechnic Institute and State University,Blacksburg,VA,Black or African American,18,169,10.65,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,101
+"Virginia Polytechnic Institute and State University, Blacksburg, VA",Virginia Polytechnic Institute and State University,Blacksburg,VA,Hispanic or Latino,10,169,5.92,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,156
+"Virginia Polytechnic Institute and State University, Blacksburg, VA",Virginia Polytechnic Institute and State University,Blacksburg,VA,Middle Eastern or North African,20,169,11.83,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,47
+"Wake Forest University, Winston-Salem, NC",Wake Forest University,Winston-Salem,NC,Hispanic or Latino,14,188,7.45,0.2,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,125
+"Wake Forest University, Winston-Salem, NC",Wake Forest University,Winston-Salem,NC,White,126,188,67.02,0.5,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,47
+"Washington State University, Pullman, WA",Washington State University,Pullman,WA,Hispanic or Latino,10,73,13.7,0.1,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,157
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,Asian,178,389,45.76,1.1,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,25
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,Black or African American,32,389,8.23,0.5,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,53
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,Hispanic or Latino,20,389,5.14,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,88
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,Middle Eastern or North African,16,389,4.11,0.4,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,63
+"Washington University in St. Louis, St. Louis, MO",Washington University in St. Louis,St. Louis,MO,White,151,389,38.82,0.6,2025-2026,A-2.5,2025_FACTS_Table_A-2.5.xlsx,35
+"Wayne State University, Detroit, MI",Wayne State University,Detroit,MI,Asian,57,238,23.95,0.3,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,84
+"Wayne State University, Detroit, MI",Wayne State University,Detroit,MI,Black or African American,17,238,7.14,0.3,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,103
+"Wayne State University, Detroit, MI",Wayne State University,Detroit,MI,Middle Eastern or North African,105,238,44.12,2.9,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,8
+"Xavier University of Louisiana, New Orleans, LA",Xavier University of Louisiana,New Orleans,LA,Black or African American,98,102,96.08,1.6,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,8
+"Yale University, New Haven, CT",Yale University,New Haven,CT,American Indian or Alaska Native,5,189,2.65,0.8,2025-2026,A-2.2,2025_FACTS_Table_A-2.2.xlsx,37
+"Yale University, New Haven, CT",Yale University,New Haven,CT,Asian,84,189,44.44,0.5,2025-2026,A-2.4,2025_FACTS_Table_A-2.4.xlsx,62
+"Yale University, New Haven, CT",Yale University,New Haven,CT,Black or African American,24,189,12.7,0.4,2025-2026,A-2.1,2025_FACTS_Table_A-2.1.xlsx,73
+"Yale University, New Haven, CT",Yale University,New Haven,CT,Hispanic or Latino,21,189,11.11,0.3,2025-2026,A-2.3,2025_FACTS_Table_A-2.3.xlsx,82
+"York University, Toronto, ON",York University,Toronto,ON,Middle Eastern or North African,17,45,37.78,0.5,2025-2026,A-2.6,2025_FACTS_Table_A-2.6.xlsx,57
