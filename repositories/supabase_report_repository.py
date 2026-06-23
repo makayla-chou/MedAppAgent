@@ -129,3 +129,32 @@ def load_report_from_supabase(
         return None
 
     return response.data[0]
+
+
+def list_reports_for_user(
+    supabase_client,
+    user_id: str,
+    limit: int = 20,
+) -> list[dict[str, Any]]:
+    """
+    List recent report runs owned by the authenticated user.
+
+    This intentionally selects only metadata needed for a report picker. The
+    full report body and ranked-school rows are loaded on demand.
+    """
+    clean_user_id = str(user_id).strip()
+
+    if not clean_user_id:
+        raise ValueError("A user_id is required.")
+
+    response = (
+        supabase_client
+        .table("reports")
+        .select("run_id, generated_at_utc, student_name, warnings")
+        .eq("user_id", clean_user_id)
+        .order("generated_at_utc", desc=True)
+        .limit(limit)
+        .execute()
+    )
+
+    return list(response.data or [])

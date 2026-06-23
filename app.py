@@ -1,6 +1,7 @@
 import json
 import os
 
+import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 from supabase import ClientOptions, create_client
@@ -10,11 +11,39 @@ from repositories.supabase_profile_repository import (
     load_profile_from_supabase,
     save_profile_to_supabase,
 )
-from repositories.supabase_report_repository import save_report_to_supabase
+from repositories.supabase_report_repository import (
+    list_reports_for_user,
+    load_report_from_supabase,
+    save_report_to_supabase,
+)
+from services.followup_service import answer_followup_question
 from validation.profile_validator import validate_student_profile
 
 
 load_dotenv()
+
+
+def load_streamlit_secrets_into_environment() -> None:
+    for key in (
+        "SUPABASE_URL",
+        "SUPABASE_PUBLISHABLE_KEY",
+        "OPENAI_API_KEY",
+        "PROFILE_AGENT_MODEL",
+        "SCHOOL_FIT_AGENT_MODEL",
+        "CRITIC_AGENT_MODEL",
+        "FOLLOWUP_AGENT_MODEL",
+    ):
+        if os.getenv(key):
+            continue
+        try:
+            value = st.secrets.get(key)
+        except Exception:
+            value = None
+        if value:
+            os.environ[key] = str(value)
+
+
+load_streamlit_secrets_into_environment()
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_PUBLISHABLE_KEY")
@@ -489,6 +518,140 @@ def build_profile_form(existing: dict) -> dict | None:
     }
 
 
+def show_followup_panel() -> None:
+    report_state = st.session_state.get("latest_report")
+    if not report_state:
+        return
+
+    if st.session_state.pop("clear_followup_question", False):
+        st.session_state["followup_question"] = ""
+
+    st.header("Ask a Follow-up Question")
+    st.caption(
+        "Ask about the generated report, ranked schools, profile, or data limitations."
+    )
+
+    question = st.text_area(
+        "Follow-up question",
+        key="followup_question",
+        max_chars=1500,
+        placeholder="Example: Which five schools should I verify before applying?",
+    )
+
+    if st.button("Ask Follow-up", type="secondary", use_container_width=True):
+        try:
+            with st.spinner("Answering follow-up question..."):
+                answer = answer_followup_question(
+                    profile=report_state["profile"],
+                    final_report=report_state["final_report"],
+                    ranked_schools=report_state["ranked_schools"],
+                    question=question,
+                )
+        except Exception as error:
+            st.error(f"Could not answer follow-up question: {error}")
+        else:
+            st.session_state.setdefault("followup_history", []).append(
+                {
+                    "question": question.strip(),
+                    "answer": answer,
+                }
+            )
+            st.session_state["clear_followup_question"] = True
+            st.rerun()
+
+    for item in reversed(st.session_state.get("followup_history", [])):
+        with st.expander(item["question"], expanded=True):
+            st.markdown(item["answer"])
+
+
+def _set_latest_report_from_saved_row(row: dict) -> None:
+    ranked_records = row.get("ranked_schools") or []
+    ranked_schools = pd.DataFrame(ranked_records)
+
+    st.session_state["latest_report"] = {
+        "profile": row.get("profile_snapshot") or {},
+        "final_report": row.get("final_report", ""),
+        "ranked_schools": ranked_schools,
+        "run_id": row.get("run_id", ""),
+    }
+    st.session_state["followup_history"] = []
+
+
+def show_saved_reports_panel(supabase_client, user_id: str) -> None:
+    st.header("Saved Reports")
+
+    try:
+        reports = list_reports_for_user(
+            supabase_client=supabase_client,
+            user_id=user_id,
+        )
+    except Exception as error:
+        st.warning(f"Could not load saved reports: {error}")
+        return
+
+    if not reports:
+        st.caption("No saved reports yet.")
+        return
+
+    labels = []
+    reports_by_label = {}
+    for report in reports:
+        generated_at = str(report.get("generated_at_utc", "Unknown date"))
+        student_name = str(report.get("student_name", "student"))
+        run_id = str(report.get("run_id", ""))
+        label = f"{generated_at} | {student_name} | {run_id}"
+        labels.append(label)
+        reports_by_label[label] = report
+
+    selected_label = st.selectbox(
+        "Open a previous report",
+        labels,
+        key="saved_report_picker",
+    )
+
+    if st.button("Load Saved Report", use_container_width=True):
+        selected_report = reports_by_label[selected_label]
+        try:
+            row = load_report_from_supabase(
+                supabase_client=supabase_client,
+                user_id=user_id,
+                run_id=selected_report["run_id"],
+            )
+        except Exception as error:
+            st.error(f"Could not load the saved report: {error}")
+            return
+
+        if not row:
+            st.error("Saved report was not found.")
+            return
+
+        _set_latest_report_from_saved_row(row)
+        st.success("Saved report loaded.")
+
+
+def show_current_report_panel() -> None:
+    report_state = st.session_state.get("latest_report")
+    if not report_state:
+        return
+
+    run_id = report_state.get("run_id", "report")
+    final_report = report_state.get("final_report", "")
+
+    st.header("Current Report")
+    if run_id:
+        st.caption(f"Run ID: {run_id}")
+
+    show_followup_panel()
+
+    st.markdown(final_report)
+    st.download_button(
+        "Download final report",
+        data=final_report,
+        file_name=f"final_report_{run_id}.md",
+        mime="text/markdown",
+    )
+
+
 def main() -> None:
     st.set_page_config(
         page_title="Medical School Application Advisor",
@@ -563,6 +726,11 @@ def main() -> None:
                 mime="application/json",
             )
 
+        show_saved_reports_panel(
+            supabase_client=supabase_client,
+            user_id=str(st.session_state["user_id"]),
+        )
+
         if st.button("Generate Advising Report", type="primary", use_container_width=True):
             try:
                 with st.spinner("Generating rankings and agent reports..."):
@@ -574,6 +742,13 @@ def main() -> None:
             except Exception as error:
                 st.exception(error)
             else:
+                st.session_state["latest_report"] = {
+                    "profile": current_profile,
+                    "final_report": result.final_report,
+                    "ranked_schools": result.ranked_schools,
+                    "run_id": result.run_id,
+                }
+                st.session_state["followup_history"] = []
                 cloud_saved = False
 
                 try:
@@ -605,13 +780,7 @@ def main() -> None:
                         f"Local report path: {result.final_report_path}"
                     )
 
-                st.markdown(result.final_report)
-                st.download_button(
-                    "Download final report",
-                    data=result.final_report,
-                    file_name=f"final_report_{result.run_id}.md",
-                    mime="text/markdown",
-                )
+        show_current_report_panel()
 
 
 if __name__ == "__main__":
