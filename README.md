@@ -44,7 +44,7 @@ Optional arguments:
 
 ```bash
 python main.py data/student_profiles/student1_profile.json \
-  --schools data/final_med_school_data.csv \
+  --schools data/cleaned/final_med_school_data.csv \
   --top 25 \
   --output outputs
 ```
@@ -57,7 +57,7 @@ streamlit run app.py
 
 ## Current dataset limitation
 
-`data/final_med_school_data.csv` currently contains MD schools only. The validator will warn when an applicant requests DO or MD/PhD programs that are absent from the dataset.
+`data/cleaned/final_med_school_data.csv` currently contains MD schools only. The validator will warn when an applicant requests DO or MD/PhD programs that are absent from the dataset.
 
 ## Test without spending API credits
 

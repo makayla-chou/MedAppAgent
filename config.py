@@ -4,9 +4,8 @@ import os
 PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_ROOT / "data"
 PROFILE_DIR = DATA_DIR / "student_profiles"
-AAMC_CLEAN_DIR = DATA_DIR / "cleaned"
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
-DEFAULT_SCHOOLS_FILE = DATA_DIR / "final_med_school_data.csv"
+DEFAULT_SCHOOLS_FILE = DATA_DIR / "cleaned" / "final_med_school_data.csv"
 
 # These scales make score differences interpretable instead of assigning
 # unrelated point bonuses. A difference of 0.20 GPA points or 5 MCAT points

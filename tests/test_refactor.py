@@ -8,6 +8,7 @@ from repositories.school_repository import (
     normalize_state_code,
     parse_average_number,
 )
+from services.aamc_data_service import get_available_tables, get_context_for_profile
 from services.ranking_service import rank_schools
 from validation.profile_validator import validate_student_profile
 
@@ -69,6 +70,29 @@ class RefactorTests(unittest.TestCase):
         self.assertTrue(
             any(issue.field == "achievements.research_outputs" for issue in issues)
         )
+
+    def test_cleaned_context_tables_are_available(self):
+        tables = get_available_tables()
+
+        for table_name in (
+            "yearly",
+            "major",
+            "applicant_state",
+            "matriculant_state",
+            "acceptance_grid",
+        ):
+            self.assertIn(table_name, tables)
+            self.assertIn("data/cleaned", tables[table_name])
+
+    def test_profile_context_uses_cleaned_academic_tables(self):
+        profile_path = PROFILE_DIR / "student1_profile.json"
+        profile = json.loads(profile_path.read_text(encoding="utf-8"))
+        context = get_context_for_profile(profile)
+
+        self.assertIn("National academic benchmark context", context)
+        self.assertIn("Undergraduate-major aggregate context", context)
+        self.assertIn("Home-state academic context", context)
+        self.assertIn("Do not use demographic or access data to change school rankings", context)
 
 
 if __name__ == "__main__":

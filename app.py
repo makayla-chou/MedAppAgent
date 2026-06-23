@@ -31,6 +31,38 @@ STATES = [
     "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming",
 ]
 
+MAJOR_GROUPS = [
+    "Biological Sciences",
+    "Physical Sciences",
+    "Social Sciences",
+    "Humanities",
+    "Math and Statistics",
+    "Specialized Health Sciences",
+    "Other",
+]
+
+ADVISOR_GOALS = [
+    "Build my first school list",
+    "Review my existing school list",
+    "Identify risky choices",
+    "Find more in-state or regional schools",
+    "Explain my competitiveness",
+    "Improve my application narrative",
+]
+
+HARD_DEALBREAKERS = [
+    "Strong in-state preference",
+    "Rural location",
+    "Large city",
+]
+
+MAJOR_CONCERNS = [
+    "Very high tuition",
+    "Religious affiliation",
+    "Mandatory research requirement",
+    "Far from family",
+]
+
 
 def nested_get(data: dict, *keys, default=None):
     current = data
@@ -121,9 +153,36 @@ def build_profile_form(existing: dict) -> dict | None:
     goals = existing.get("goals", {})
     preferences = existing.get("school_preferences", {})
     sections = academics.get("mcat_sections", {})
+    major_aliases = {
+        "biology": "Biological Sciences",
+        "biological sciences": "Biological Sciences",
+        "neuroscience": "Biological Sciences",
+        "public health": "Specialized Health Sciences",
+    }
+    existing_major_group = basic.get("major_group")
+    if existing_major_group not in MAJOR_GROUPS:
+        existing_major_group = major_aliases.get(
+            str(basic.get("major", "")).strip().casefold(),
+            "Other",
+        )
+
+    if "profile_mcat_taken" not in st.session_state:
+        st.session_state["profile_mcat_taken"] = bool(
+            academics.get("mcat_taken", False)
+        )
+
+    st.subheader("MCAT Status")
+    mcat_taken = st.checkbox(
+        "I have taken the MCAT and want to enter my scores",
+        key="profile_mcat_taken",
+    )
+    if not mcat_taken:
+        st.caption(
+            "MCAT score fields will appear after this is checked. Reports can still be generated without an MCAT."
+        )
 
     with st.form("student_profile_form"):
-        st.header("Basic Information")
+        st.header("1. Basics")
         name = st.text_input(
             "Name",
             value=basic.get("name", ""),
@@ -149,7 +208,15 @@ def build_profile_form(existing: dict) -> dict | None:
             "Undergraduate institution",
             value=basic.get("undergraduate_school", ""),
         )
-        major = st.text_input("Major", value=basic.get("major", ""))
+        major_group = st.selectbox(
+            "AAMC major group",
+            MAJOR_GROUPS,
+            index=option_index(MAJOR_GROUPS, existing_major_group),
+        )
+        major = st.text_input(
+            "Specific major",
+            value=basic.get("major", ""),
+        )
         application_year = st.number_input(
             "Application cycle",
             min_value=2026,
@@ -158,7 +225,7 @@ def build_profile_form(existing: dict) -> dict | None:
             step=1,
         )
 
-        st.header("Academics")
+        st.header("2. Academic Profile")
         overall_gpa = st.number_input(
             "Cumulative GPA",
             min_value=0.0,
@@ -172,10 +239,6 @@ def build_profile_form(existing: dict) -> dict | None:
             max_value=4.0,
             value=float(academics.get("science_gpa") or 3.5),
             step=0.01,
-        )
-        mcat_taken = st.checkbox(
-            "I have taken the MCAT",
-            value=bool(academics.get("mcat_taken", False)),
         )
 
         if mcat_taken:
@@ -215,7 +278,7 @@ def build_profile_form(existing: dict) -> dict | None:
             max_chars=1500,
         )
 
-        st.header("Experience Hours")
+        st.header("3. Experience Hours")
         col1, col2 = st.columns(2)
         with col1:
             clinical_hours = st.number_input(
@@ -244,7 +307,7 @@ def build_profile_form(existing: dict) -> dict | None:
                 value=int(hours.get("teaching", 0)), step=10,
             )
 
-        st.header("Important Experiences")
+        st.header("4. Important Experiences")
         clinical_description = st.text_area(
             "Most important clinical experience",
             value=descriptions.get("clinical", ""),
@@ -261,7 +324,7 @@ def build_profile_form(existing: dict) -> dict | None:
             max_chars=2000,
         )
 
-        st.header("Achievements and Goals")
+        st.header("5. Achievements and Goals")
         research_options = [
             "No formal research output", "Internal presentation",
             "Poster presentation", "Conference presentation", "Abstract",
@@ -299,8 +362,16 @@ def build_profile_form(existing: dict) -> dict | None:
             value=goals.get("populations_of_interest", ""),
             max_chars=1000,
         )
+        advising_goals = st.multiselect(
+            "What do you want the advisor to help with?",
+            ADVISOR_GOALS,
+            default=[
+                value for value in goals.get("advising_goals", [])
+                if value in ADVISOR_GOALS
+            ],
+        )
 
-        st.header("School Preferences")
+        st.header("6. School Preferences")
         school_types = st.multiselect(
             "Programs you are willing to consider",
             ["MD", "DO", "MD/PhD"],
@@ -327,17 +398,24 @@ def build_profile_form(existing: dict) -> dict | None:
                 preferences.get("setting_preference", "No preference"),
             ),
         )
-        dealbreaker_options = [
-            "Very high tuition", "Strong in-state preference", "Rural location",
-            "Large city", "Religious affiliation", "Mandatory research requirement",
-            "Far from family",
-        ]
         dealbreakers = st.multiselect(
-            "Dealbreakers or major concerns",
-            dealbreaker_options,
+            "Hard dealbreakers that should exclude or strongly deprioritize schools",
+            HARD_DEALBREAKERS,
             default=[
                 value for value in preferences.get("dealbreakers", [])
-                if value in dealbreaker_options
+                if value in HARD_DEALBREAKERS
+            ],
+        )
+        major_concerns = st.multiselect(
+            "Concerns to flag for review, but not automatically exclude",
+            MAJOR_CONCERNS,
+            default=[
+                value for value in preferences.get("major_concerns", [])
+                if value in MAJOR_CONCERNS
+            ]
+            + [
+                value for value in preferences.get("dealbreakers", [])
+                if value in MAJOR_CONCERNS
             ],
         )
         additional_context = st.text_area(
@@ -361,6 +439,7 @@ def build_profile_form(existing: dict) -> dict | None:
             "state_residency": state_residency,
             "citizenship_status": citizenship_status,
             "undergraduate_school": undergraduate_school.strip(),
+            "major_group": major_group,
             "major": major.strip(),
             "application_year": int(application_year),
         },
@@ -397,12 +476,14 @@ def build_profile_form(existing: dict) -> dict | None:
         "goals": {
             "career_interests": career_interests,
             "populations_of_interest": populations_of_interest.strip(),
+            "advising_goals": advising_goals,
         },
         "school_preferences": {
             "school_types": school_types,
             "preferred_regions": preferred_regions,
             "setting_preference": setting_preference,
             "dealbreakers": dealbreakers,
+            "major_concerns": major_concerns,
         },
         "additional_context": additional_context.strip(),
     }

@@ -8,7 +8,7 @@ from typing import Any, Iterable
 
 import pandas as pd
 
-from config import AAMC_CLEAN_DIR, DATA_DIR
+from config import DATA_DIR
 
 
 CLEANED_ROOT = DATA_DIR / "cleaned"
@@ -26,38 +26,29 @@ SUMMARY_DIR = CLEANED_ROOT / "clean_summary"
 
 
 TABLE_FILES: dict[str, tuple[Path, ...]] = {
-    # Existing MCAT/GPA tables. The legacy directory is retained as a fallback.
     "yearly": (
         MCAT_GPA_DIR / "aamc_a16_clean.csv",
-        AAMC_CLEAN_DIR / "aamc_a16_clean.csv",
     ),
     "major": (
         MCAT_GPA_DIR / "aamc_a17_major_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a17_major_stats.csv",
     ),
     "race_ethnicity": (
         MCAT_GPA_DIR / "aamc_a18_race_ethnicity_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a18_race_ethnicity_stats.csv",
     ),
     "applicant_state": (
         MCAT_GPA_DIR / "aamc_a19_applicant_state_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a19_applicant_state_stats.csv",
     ),
     "matriculant_state": (
         MCAT_GPA_DIR / "aamc_a20_matriculant_state_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a20_matriculant_state_stats.csv",
     ),
     "applicant_gender": (
         MCAT_GPA_DIR / "aamc_a21_applicant_gender_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a21_applicant_gender_stats.csv",
     ),
     "matriculant_gender": (
         MCAT_GPA_DIR / "aamc_a22_matriculant_gender_stats.csv",
-        AAMC_CLEAN_DIR / "aamc_a22_matriculant_gender_stats.csv",
     ),
     "acceptance_grid": (
         MCAT_GPA_DIR / "aamc_a23_acceptance_grid.csv",
-        AAMC_CLEAN_DIR / "aamc_a23_acceptance_grid.csv",
     ),
 
     # Institution-level context.
@@ -189,6 +180,16 @@ STATE_ABBREVIATIONS = {
 }
 
 
+MAJOR_GROUP_ALIASES = {
+    "biology": "Biological Sciences",
+    "biological sciences": "Biological Sciences",
+    "biomedical engineering": "Other",
+    "biomedial engineering": "Other",
+    "neuroscience": "Biological Sciences",
+    "public health": "Specialized Health Sciences",
+}
+
+
 PROFILE_PATHS = {
     "gpa": (
         ("academics", "overall_gpa"),
@@ -219,6 +220,13 @@ PROFILE_PATHS = {
         ("basic_information", "undergraduate_institution"),
         ("undergraduate_institution",),
         ("college",),
+    ),
+    "major": (
+        ("basic_information", "major_group"),
+        ("basic_information", "major"),
+        ("academics", "major"),
+        ("education", "major"),
+        ("major",),
     ),
     "first_generation": (
         ("background", "first_generation_college_student"),
@@ -380,6 +388,47 @@ def _latest_row(
     if working.empty:
         return None
     return working.sort_values("_year_sort").iloc[-1]
+
+
+def _latest_metric_value(
+    dataframe: pd.DataFrame,
+    metric: str,
+    statistic: str,
+    **filters: str,
+) -> tuple[Any, Any] | None:
+    if dataframe.empty:
+        return None
+
+    result = dataframe[
+        (
+            dataframe["metric"].astype(str).str.casefold()
+            == metric.casefold()
+        )
+        & (
+            dataframe["statistic"].astype(str).str.casefold()
+            == statistic.casefold()
+        )
+    ].copy()
+
+    for column, expected_value in filters.items():
+        if column not in result.columns:
+            return None
+        result = result[
+            result[column].astype(str).str.casefold()
+            == str(expected_value).casefold()
+        ]
+
+    row = _latest_row(result)
+    if row is None:
+        return None
+    return row.get("value"), row.get("academic_year")
+
+
+def _format_mean(value: Any) -> str:
+    number = _to_float(value)
+    if number is None:
+        return "Not reported"
+    return f"{number:.1f}"
 
 
 def _safe_context_section(builder: Any, *args: Any) -> str | None:
@@ -576,6 +625,234 @@ def format_acceptance_context(
 # ---------------------------------------------------------------------------
 # New context builders
 # ---------------------------------------------------------------------------
+
+def get_national_academic_context() -> str | None:
+    dataframe = load_table("yearly")
+    applicant_gpa = _latest_metric_value(
+        dataframe,
+        "GPA Total",
+        "Mean",
+        population="Applicants",
+    )
+    matriculant_gpa = _latest_metric_value(
+        dataframe,
+        "GPA Total",
+        "Mean",
+        population="Matriculants",
+    )
+    applicant_mcat = _latest_metric_value(
+        dataframe,
+        "Total MCAT",
+        "Mean",
+        population="Applicants",
+    )
+    matriculant_mcat = _latest_metric_value(
+        dataframe,
+        "Total MCAT",
+        "Mean",
+        population="Matriculants",
+    )
+
+    if not any((applicant_gpa, matriculant_gpa, applicant_mcat, matriculant_mcat)):
+        return None
+
+    academic_year = next(
+        (
+            year
+            for value in (
+                applicant_gpa,
+                matriculant_gpa,
+                applicant_mcat,
+                matriculant_mcat,
+            )
+            if value is not None
+            for year in (value[1],)
+            if year is not None
+        ),
+        "latest available",
+    )
+
+    return (
+        "National academic benchmark context:\n"
+        f"- Academic year: {academic_year}\n"
+        "- Applicant mean GPA / MCAT: "
+        f"{_format_mean(applicant_gpa[0] if applicant_gpa else None)} / "
+        f"{_format_mean(applicant_mcat[0] if applicant_mcat else None)}\n"
+        "- Matriculant mean GPA / MCAT: "
+        f"{_format_mean(matriculant_gpa[0] if matriculant_gpa else None)} / "
+        f"{_format_mean(matriculant_mcat[0] if matriculant_mcat else None)}\n"
+        "- These are national descriptive benchmarks, not cutoffs."
+    )
+
+
+def get_major_academic_context(major: Any) -> str | None:
+    if major is None or not str(major).strip():
+        return None
+
+    dataframe = load_table("major")
+    requested_major = str(major).strip()
+    mapped_major = MAJOR_GROUP_ALIASES.get(
+        requested_major.casefold(),
+        requested_major,
+    )
+    target = _normalize_text(mapped_major)
+    matches = dataframe[
+        dataframe["major"].map(_normalize_text) == target
+    ]
+    if matches.empty:
+        return None
+
+    major_name = matches.iloc[0].get("major", str(major))
+    applicant_count = _latest_metric_value(
+        matches,
+        "Total Applicants",
+        "Count",
+        population="Applicants",
+    )
+    matriculant_count = _latest_metric_value(
+        matches,
+        "Total Matriculants",
+        "Count",
+        population="Matriculants",
+    )
+    applicant_gpa = _latest_metric_value(
+        matches,
+        "GPA Total",
+        "Mean",
+        population="Applicants",
+    )
+    applicant_mcat = _latest_metric_value(
+        matches,
+        "Total MCAT",
+        "Mean",
+        population="Applicants",
+    )
+    matriculant_gpa = _latest_metric_value(
+        matches,
+        "GPA Total",
+        "Mean",
+        population="Matriculants",
+    )
+    matriculant_mcat = _latest_metric_value(
+        matches,
+        "Total MCAT",
+        "Mean",
+        population="Matriculants",
+    )
+
+    academic_year = next(
+        (
+            year
+            for value in (
+                applicant_count,
+                matriculant_count,
+                applicant_gpa,
+                applicant_mcat,
+                matriculant_gpa,
+                matriculant_mcat,
+            )
+            if value is not None
+            for year in (value[1],)
+            if year is not None
+        ),
+        "latest available",
+    )
+
+    return (
+        "Undergraduate-major aggregate context:\n"
+        f"- Applicant-reported major: {requested_major}\n"
+        f"- AAMC major group used: {major_name}\n"
+        f"- Academic year: {academic_year}\n"
+        "- Applicants / matriculants: "
+        f"{_format_count(applicant_count[0] if applicant_count else None)} / "
+        f"{_format_count(matriculant_count[0] if matriculant_count else None)}\n"
+        "- Applicant mean GPA / MCAT: "
+        f"{_format_mean(applicant_gpa[0] if applicant_gpa else None)} / "
+        f"{_format_mean(applicant_mcat[0] if applicant_mcat else None)}\n"
+        "- Matriculant mean GPA / MCAT: "
+        f"{_format_mean(matriculant_gpa[0] if matriculant_gpa else None)} / "
+        f"{_format_mean(matriculant_mcat[0] if matriculant_mcat else None)}\n"
+        "- This is major-group context only; it should not change school rankings."
+    )
+
+
+def get_state_academic_context(state: Any) -> str | None:
+    state_name = _canonical_state_name(state)
+    if state_name is None:
+        return None
+
+    applicant_data = load_table("applicant_state")
+    matriculant_data = load_table("matriculant_state")
+
+    applicant_matches = applicant_data[
+        applicant_data["state"].map(_normalize_text)
+        == _normalize_text(state_name)
+    ]
+    matriculant_matches = matriculant_data[
+        matriculant_data["state"].map(_normalize_text)
+        == _normalize_text(state_name)
+    ]
+    if applicant_matches.empty and matriculant_matches.empty:
+        return None
+
+    applicant_count = _latest_metric_value(
+        applicant_matches,
+        "Total Applicants",
+        "Count",
+    )
+    applicant_gpa = _latest_metric_value(
+        applicant_matches,
+        "GPA Total",
+        "Mean",
+    )
+    applicant_mcat = _latest_metric_value(
+        applicant_matches,
+        "Total MCAT",
+        "Mean",
+    )
+    matriculant_gpa = _latest_metric_value(
+        matriculant_matches,
+        "GPA Total",
+        "Mean",
+    )
+    matriculant_mcat = _latest_metric_value(
+        matriculant_matches,
+        "Total MCAT",
+        "Mean",
+    )
+
+    academic_year = next(
+        (
+            year
+            for value in (
+                applicant_count,
+                applicant_gpa,
+                applicant_mcat,
+                matriculant_gpa,
+                matriculant_mcat,
+            )
+            if value is not None
+            for year in (value[1],)
+            if year is not None
+        ),
+        "latest available",
+    )
+
+    return (
+        "Home-state academic context:\n"
+        f"- State of legal residence: {state_name}\n"
+        f"- Academic year: {academic_year}\n"
+        f"- Applicants from this state: "
+        f"{_format_count(applicant_count[0] if applicant_count else None)}\n"
+        "- Applicant mean GPA / MCAT: "
+        f"{_format_mean(applicant_gpa[0] if applicant_gpa else None)} / "
+        f"{_format_mean(applicant_mcat[0] if applicant_mcat else None)}\n"
+        "- Matriculant mean GPA / MCAT: "
+        f"{_format_mean(matriculant_gpa[0] if matriculant_gpa else None)} / "
+        f"{_format_mean(matriculant_mcat[0] if matriculant_mcat else None)}\n"
+        "- These are legal-residence aggregates, not school-specific outcomes."
+    )
+
 
 def get_national_pipeline_context() -> str | None:
     dataframe = load_table("medical_pipeline")
@@ -797,11 +1074,20 @@ def get_context_for_profile(profile: dict[str, Any]) -> str:
         except FileNotFoundError:
             sections.append(
                 "GPA/MCAT aggregate context unavailable because "
-                "aamc_a23_acceptance_grid.csv was not found in either "
-                "data/cleaned/clean_MCAT_and_GPA or data/cleaned_aamc."
+                "aamc_a23_acceptance_grid.csv was not found in "
+                "data/cleaned/clean_MCAT_and_GPA."
             )
 
     optional_sections = (
+        _safe_context_section(get_national_academic_context),
+        _safe_context_section(
+            get_major_academic_context,
+            _first_profile_value(profile, "major"),
+        ),
+        _safe_context_section(
+            get_state_academic_context,
+            _first_profile_value(profile, "state"),
+        ),
         _safe_context_section(
             get_state_context,
             _first_profile_value(profile, "state"),
