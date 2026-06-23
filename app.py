@@ -577,6 +577,484 @@ def _set_latest_report_from_saved_row(row: dict) -> None:
     st.session_state["followup_history"] = []
 
 
+def _numeric_column(dataframe: pd.DataFrame, column: str) -> pd.Series:
+    if column not in dataframe.columns:
+        return pd.Series(dtype="float64")
+    return pd.to_numeric(dataframe[column], errors="coerce")
+
+
+def _format_metric_value(value: float | int | None) -> str:
+    if value is None or pd.isna(value):
+        return "N/A"
+    return f"{float(value):.1f}"
+
+
+def _to_float(value) -> float | None:
+    number = pd.to_numeric(pd.Series([value]), errors="coerce").iloc[0]
+    if pd.isna(number):
+        return None
+    return float(number)
+
+
+def _profile_academic_values(profile: dict) -> dict[str, float | None]:
+    academics = profile.get("academics", {}) if isinstance(profile, dict) else {}
+    return {
+        "overall_gpa": _to_float(academics.get("overall_gpa")),
+        "science_gpa": _to_float(academics.get("science_gpa")),
+        "mcat_total": _to_float(academics.get("mcat_total")),
+    }
+
+
+def _comparison_dataframe(
+    profile: dict,
+    ranked_schools: pd.DataFrame,
+) -> pd.DataFrame:
+    applicant = _profile_academic_values(profile)
+    columns = [
+        column
+        for column in (
+            "rank",
+            "school_name",
+            "school_state_code",
+            "school_gpa",
+            "school_mcat",
+            "gpa_difference",
+            "mcat_difference",
+            "academic_category",
+            "academic_score",
+            "basic_preference_score",
+            "eligibility_status",
+        )
+        if column in ranked_schools.columns
+    ]
+    if not columns:
+        return pd.DataFrame()
+
+    comparison = ranked_schools[columns].copy()
+    for column in (
+        "school_gpa",
+        "school_mcat",
+        "gpa_difference",
+        "mcat_difference",
+        "academic_score",
+        "basic_preference_score",
+    ):
+        if column in comparison.columns:
+            comparison[column] = pd.to_numeric(
+                comparison[column],
+                errors="coerce",
+            )
+
+    if "gpa_difference" not in comparison.columns:
+        comparison["gpa_difference"] = pd.NA
+    if applicant["overall_gpa"] is not None and "school_gpa" in comparison.columns:
+        comparison["gpa_difference"] = comparison["gpa_difference"].fillna(
+            round(applicant["overall_gpa"], 2) - comparison["school_gpa"]
+        )
+
+    if "mcat_difference" not in comparison.columns:
+        comparison["mcat_difference"] = pd.NA
+    if applicant["mcat_total"] is not None and "school_mcat" in comparison.columns:
+        comparison["mcat_difference"] = comparison["mcat_difference"].fillna(
+            round(applicant["mcat_total"], 1) - comparison["school_mcat"]
+        )
+
+    return comparison
+
+
+def _comparison_summary_text(
+    comparison: pd.DataFrame,
+    column: str,
+    unit: str,
+) -> str:
+    if column not in comparison.columns:
+        return "Not enough data"
+
+    values = pd.to_numeric(comparison[column], errors="coerce").dropna()
+    if values.empty:
+        return "Not enough data"
+
+    above = int((values >= 0).sum())
+    total = len(values)
+    average = values.mean()
+    return f"{above}/{total} schools, avg {average:+.1f} {unit}"
+
+
+def show_applicant_comparison_dashboard(
+    profile: dict,
+    ranked_schools: pd.DataFrame,
+) -> None:
+    applicant = _profile_academic_values(profile)
+    comparison = _comparison_dataframe(profile, ranked_schools)
+    if comparison.empty:
+        return
+
+    st.subheader("Applicant Comparison Dashboard")
+
+    school_gpa = _numeric_column(comparison, "school_gpa")
+    school_mcat = _numeric_column(comparison, "school_mcat")
+
+    metric_columns = st.columns(5)
+    metric_columns[0].metric(
+        "Applicant GPA",
+        _format_metric_value(applicant["overall_gpa"]),
+    )
+    metric_columns[1].metric(
+        "Science GPA",
+        _format_metric_value(applicant["science_gpa"]),
+    )
+    metric_columns[2].metric(
+        "MCAT",
+        "N/A"
+        if applicant["mcat_total"] is None
+        else f"{applicant['mcat_total']:.0f}",
+    )
+    metric_columns[3].metric(
+        "Median school GPA",
+        _format_metric_value(school_gpa.median()),
+    )
+    metric_columns[4].metric(
+        "Median school MCAT",
+        "N/A" if school_mcat.dropna().empty else f"{school_mcat.median():.0f}",
+    )
+
+    st.caption(
+        "GPA and MCAT comparisons use each school's reported average, not an admission probability."
+    )
+
+    academic_tab, map_tab, closest_tab = st.tabs(
+        ["Academic Compare", "Fit Map", "Closest Schools"]
+    )
+
+    with academic_tab:
+        col1, col2 = st.columns(2)
+        with col1:
+            st.metric(
+                "GPA at or above school average",
+                _comparison_summary_text(comparison, "gpa_difference", "GPA"),
+            )
+            if (
+                applicant["overall_gpa"] is not None
+                and "school_gpa" in comparison.columns
+            ):
+                gpa_chart = comparison[
+                    ["school_name", "school_gpa"]
+                ].dropna().head(12)
+                if not gpa_chart.empty:
+                    gpa_chart = gpa_chart.rename(
+                        columns={
+                            "school_name": "school",
+                            "school_gpa": "School average GPA",
+                        }
+                    )
+                    gpa_chart["Applicant GPA"] = applicant["overall_gpa"]
+                    st.bar_chart(
+                        gpa_chart.set_index("school"),
+                        horizontal=True,
+                        x_label="GPA",
+                        y_label="School",
+                    )
+        with col2:
+            st.metric(
+                "MCAT at or above school average",
+                _comparison_summary_text(comparison, "mcat_difference", "MCAT"),
+            )
+            if (
+                applicant["mcat_total"] is not None
+                and "school_mcat" in comparison.columns
+            ):
+                mcat_chart = comparison[
+                    ["school_name", "school_mcat"]
+                ].dropna().head(12)
+                if not mcat_chart.empty:
+                    mcat_chart = mcat_chart.rename(
+                        columns={
+                            "school_name": "school",
+                            "school_mcat": "School average MCAT",
+                        }
+                    )
+                    mcat_chart["Applicant MCAT"] = applicant["mcat_total"]
+                    st.bar_chart(
+                        mcat_chart.set_index("school"),
+                        horizontal=True,
+                        x_label="MCAT",
+                        y_label="School",
+                    )
+
+    with map_tab:
+        map_columns = {
+            "school_name",
+            "academic_score",
+            "basic_preference_score",
+        }
+        if map_columns.issubset(comparison.columns):
+            fit_map = comparison[
+                [
+                    "school_name",
+                    "academic_score",
+                    "basic_preference_score",
+                ]
+            ].copy()
+            fit_map["academic_score"] = pd.to_numeric(
+                fit_map["academic_score"],
+                errors="coerce",
+            )
+            fit_map["basic_preference_score"] = pd.to_numeric(
+                fit_map["basic_preference_score"],
+                errors="coerce",
+            )
+            fit_map = fit_map.dropna()
+            if not fit_map.empty:
+                st.scatter_chart(
+                    fit_map,
+                    x="academic_score",
+                    y="basic_preference_score",
+                    x_label="Academic comparison score",
+                    y_label="Basic preference score",
+                )
+
+        if "academic_category" in comparison.columns:
+            category_summary = (
+                comparison["academic_category"]
+                .fillna("Unknown")
+                .value_counts()
+            )
+            if not category_summary.empty:
+                st.caption("Academic category mix")
+                st.bar_chart(category_summary)
+
+    with closest_tab:
+        closeness = comparison.copy()
+        if "gpa_difference" in closeness.columns:
+            closeness["gpa_gap"] = pd.to_numeric(
+                closeness["gpa_difference"],
+                errors="coerce",
+            ).abs()
+        else:
+            closeness["gpa_gap"] = pd.NA
+
+        if "mcat_difference" in closeness.columns:
+            closeness["mcat_gap"] = (
+                pd.to_numeric(
+                    closeness["mcat_difference"],
+                    errors="coerce",
+                ).abs()
+                / 10
+            )
+        else:
+            closeness["mcat_gap"] = pd.NA
+
+        closeness["academic_distance"] = closeness[
+            ["gpa_gap", "mcat_gap"]
+        ].mean(axis=1, skipna=True)
+        closest = closeness.dropna(subset=["academic_distance"]).sort_values(
+            "academic_distance"
+        )
+
+        visible_columns = [
+            column
+            for column in (
+                "rank",
+                "school_name",
+                "school_state_code",
+                "school_gpa",
+                "gpa_difference",
+                "school_mcat",
+                "mcat_difference",
+                "academic_category",
+                "basic_preference_score",
+                "eligibility_status",
+            )
+            if column in closest.columns
+        ]
+        if visible_columns:
+            st.dataframe(
+                closest[visible_columns].head(15),
+                use_container_width=True,
+                hide_index=True,
+            )
+
+
+def _show_score_bar_chart(
+    ranked_schools: pd.DataFrame,
+    score_column: str,
+    label: str,
+) -> None:
+    required_columns = {"rank", "school_name", score_column}
+    if not required_columns.issubset(ranked_schools.columns):
+        return
+
+    chart_data = ranked_schools[
+        ["rank", "school_name", score_column]
+    ].copy()
+    chart_data[score_column] = pd.to_numeric(
+        chart_data[score_column],
+        errors="coerce",
+    )
+    chart_data = chart_data.dropna(subset=[score_column]).head(15)
+    if chart_data.empty:
+        return
+
+    chart_data["school"] = (
+        chart_data["rank"].astype(str) + ". " + chart_data["school_name"]
+    )
+    st.bar_chart(
+        chart_data.set_index("school")[[score_column]],
+        horizontal=True,
+        x_label=label,
+        y_label="School",
+    )
+
+
+def show_report_visuals(profile: dict, ranked_schools: pd.DataFrame) -> None:
+    if ranked_schools.empty:
+        return
+
+    if profile:
+        show_applicant_comparison_dashboard(profile, ranked_schools)
+
+    st.subheader("Report Visuals")
+
+    eligible_count = (
+        ranked_schools["eligibility_status"].eq("Eligible").sum()
+        if "eligibility_status" in ranked_schools.columns
+        else None
+    )
+    academic_scores = _numeric_column(ranked_schools, "academic_score")
+    preference_scores = _numeric_column(
+        ranked_schools,
+        "basic_preference_score",
+    )
+    completeness_scores = _numeric_column(
+        ranked_schools,
+        "data_completeness_score",
+    )
+
+    metric_columns = st.columns(4)
+    metric_columns[0].metric("Schools shown", len(ranked_schools))
+    metric_columns[1].metric(
+        "Eligible",
+        "N/A" if eligible_count is None else int(eligible_count),
+    )
+    metric_columns[2].metric(
+        "Avg academic score",
+        _format_metric_value(academic_scores.mean()),
+    )
+    metric_columns[3].metric(
+        "Avg preference score",
+        _format_metric_value(preference_scores.mean()),
+    )
+
+    score_tab, category_tab, table_tab = st.tabs(
+        ["Scores", "Breakdowns", "Ranked Table"]
+    )
+
+    with score_tab:
+        col1, col2 = st.columns(2)
+        with col1:
+            st.caption("Academic comparison")
+            _show_score_bar_chart(
+                ranked_schools,
+                "academic_score",
+                "Academic score",
+            )
+        with col2:
+            st.caption("Basic preference fit")
+            _show_score_bar_chart(
+                ranked_schools,
+                "basic_preference_score",
+                "Preference score",
+            )
+
+        scatter_columns = {
+            "school_name",
+            "academic_score",
+            "basic_preference_score",
+        }
+        if scatter_columns.issubset(ranked_schools.columns):
+            scatter_data = ranked_schools[
+                ["school_name", "academic_score", "basic_preference_score"]
+            ].copy()
+            scatter_data["academic_score"] = pd.to_numeric(
+                scatter_data["academic_score"],
+                errors="coerce",
+            )
+            scatter_data["basic_preference_score"] = pd.to_numeric(
+                scatter_data["basic_preference_score"],
+                errors="coerce",
+            )
+            scatter_data = scatter_data.dropna()
+            if not scatter_data.empty:
+                st.caption("Academic score vs. preference score")
+                st.scatter_chart(
+                    scatter_data,
+                    x="academic_score",
+                    y="basic_preference_score",
+                    x_label="Academic score",
+                    y_label="Preference score",
+                )
+
+    with category_tab:
+        col1, col2 = st.columns(2)
+        with col1:
+            if "eligibility_status" in ranked_schools.columns:
+                st.caption("Eligibility status")
+                st.bar_chart(
+                    ranked_schools["eligibility_status"]
+                    .fillna("Unknown")
+                    .value_counts()
+                )
+        with col2:
+            if "academic_category" in ranked_schools.columns:
+                st.caption("Academic category")
+                st.bar_chart(
+                    ranked_schools["academic_category"]
+                    .fillna("Unknown")
+                    .value_counts()
+                )
+
+        if not completeness_scores.dropna().empty:
+            st.caption("Data completeness")
+            st.bar_chart(
+                pd.DataFrame(
+                    {
+                        "school": ranked_schools.get(
+                            "school_name",
+                            pd.Series(dtype="object"),
+                        ),
+                        "data_completeness_score": completeness_scores,
+                    }
+                )
+                .dropna()
+                .head(15)
+                .set_index("school")
+            )
+
+    with table_tab:
+        display_columns = [
+            "rank",
+            "school_name",
+            "school_state_code",
+            "school_degree_type",
+            "eligibility_status",
+            "academic_category",
+            "academic_score",
+            "basic_preference_category",
+            "basic_preference_score",
+            "residency_context",
+            "data_completeness_score",
+        ]
+        visible_columns = [
+            column for column in display_columns if column in ranked_schools.columns
+        ]
+        if visible_columns:
+            st.dataframe(
+                ranked_schools[visible_columns],
+                use_container_width=True,
+                hide_index=True,
+            )
+
+
 def show_saved_reports_panel(supabase_client, user_id: str) -> None:
     st.header("Saved Reports")
 
@@ -636,12 +1114,16 @@ def show_current_report_panel() -> None:
 
     run_id = report_state.get("run_id", "report")
     final_report = report_state.get("final_report", "")
+    profile = report_state.get("profile", {})
+    ranked_schools = report_state.get("ranked_schools", pd.DataFrame())
 
     st.header("Current Report")
     if run_id:
         st.caption(f"Run ID: {run_id}")
 
     show_followup_panel()
+    if isinstance(ranked_schools, pd.DataFrame):
+        show_report_visuals(profile, ranked_schools)
 
     st.markdown(final_report)
     st.download_button(
