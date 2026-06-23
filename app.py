@@ -6,7 +6,9 @@ import streamlit as st
 from dotenv import load_dotenv
 from supabase import ClientOptions, create_client
 
+from config import DEFAULT_SCHOOLS_FILE
 from main import generate_report_for_profile
+from repositories.school_repository import load_schools
 from repositories.supabase_profile_repository import (
     load_profile_from_supabase,
     save_profile_to_supabase,
@@ -91,6 +93,26 @@ MAJOR_CONCERNS = [
     "Mandatory research requirement",
     "Far from family",
 ]
+
+
+@st.cache_data
+def load_school_catalog() -> pd.DataFrame:
+    schools = load_schools(DEFAULT_SCHOOLS_FILE)
+    columns = [
+        column
+        for column in (
+            "school_name",
+            "school_state_code",
+            "school_degree_type",
+            "school_region",
+            "school_setting",
+            "school_gpa",
+            "school_mcat",
+            "is_public_bool",
+        )
+        if column in schools.columns
+    ]
+    return schools[columns].drop_duplicates(subset=["school_name"]).copy()
 
 
 def nested_get(data: dict, *keys, default=None):
@@ -1055,6 +1077,185 @@ def show_report_visuals(profile: dict, ranked_schools: pd.DataFrame) -> None:
             )
 
 
+def show_school_list_summary(selected_schools: pd.DataFrame) -> None:
+    if selected_schools.empty:
+        return
+
+    metric_columns = st.columns(4)
+    metric_columns[0].metric("Schools in list", len(selected_schools))
+    if "school_state_code" in selected_schools.columns:
+        metric_columns[1].metric(
+            "States",
+            selected_schools["school_state_code"].dropna().nunique(),
+        )
+    if "school_gpa" in selected_schools.columns:
+        metric_columns[2].metric(
+            "Median GPA",
+            _format_metric_value(_numeric_column(selected_schools, "school_gpa").median()),
+        )
+    if "school_mcat" in selected_schools.columns:
+        mcat_values = _numeric_column(selected_schools, "school_mcat").dropna()
+        metric_columns[3].metric(
+            "Median MCAT",
+            "N/A" if mcat_values.empty else f"{mcat_values.median():.0f}",
+        )
+
+    chart_columns = st.columns(2)
+    with chart_columns[0]:
+        if "school_state_code" in selected_schools.columns:
+            st.caption("Schools by state")
+            st.bar_chart(
+                selected_schools["school_state_code"]
+                .fillna("Unknown")
+                .value_counts()
+            )
+    with chart_columns[1]:
+        if "school_degree_type" in selected_schools.columns:
+            st.caption("Programs by degree type")
+            st.bar_chart(
+                selected_schools["school_degree_type"]
+                .fillna("Unknown")
+                .value_counts()
+            )
+
+    display_columns = [
+        column
+        for column in (
+            "school_name",
+            "school_state_code",
+            "school_degree_type",
+            "school_region",
+            "school_setting",
+            "school_gpa",
+            "school_mcat",
+        )
+        if column in selected_schools.columns
+    ]
+    st.dataframe(
+        selected_schools[display_columns],
+        use_container_width=True,
+        hide_index=True,
+    )
+
+
+def generate_and_store_report(
+    *,
+    profile: dict,
+    top_n: int,
+    supabase_client,
+    user_id: str,
+    selected_school_names: list[str] | None = None,
+) -> None:
+    try:
+        with st.spinner("Generating rankings and agent reports..."):
+            result = generate_report_for_profile(
+                profile,
+                top_n=top_n,
+                report_owner_id=user_id,
+                selected_school_names=selected_school_names,
+            )
+    except Exception as error:
+        st.exception(error)
+        return
+
+    st.session_state["latest_report"] = {
+        "profile": profile,
+        "final_report": result.final_report,
+        "ranked_schools": result.ranked_schools,
+        "run_id": result.run_id,
+    }
+    st.session_state["followup_history"] = []
+    cloud_saved = False
+
+    try:
+        save_report_to_supabase(
+            supabase_client=supabase_client,
+            user_id=user_id,
+            run_id=result.run_id,
+            generated_at_utc=result.generated_at_utc,
+            student_name=result.student_name,
+            final_report=result.final_report,
+            ranked_schools=result.ranked_schools,
+            warnings=result.warnings,
+            profile_snapshot=profile,
+        )
+        cloud_saved = True
+    except Exception as error:
+        st.error(
+            "The report was generated locally, but it could not be "
+            f"saved to Supabase: {error}"
+        )
+
+    if cloud_saved:
+        st.success(
+            "Report saved locally and to Supabase. "
+            f"Run ID: {result.run_id}"
+        )
+    else:
+        st.warning(f"Local report path: {result.final_report_path}")
+
+
+def show_school_list_panel(
+    *,
+    profile: dict,
+    top_n: int,
+    supabase_client,
+    user_id: str,
+) -> None:
+    st.header("School List")
+
+    catalog = load_school_catalog()
+    if catalog.empty:
+        st.warning("No school catalog data is available.")
+        return
+
+    if "school_list_selection" not in st.session_state:
+        st.session_state["school_list_selection"] = []
+
+    school_names = catalog["school_name"].dropna().sort_values().tolist()
+    selected_names = st.multiselect(
+        "My schools",
+        school_names,
+        default=[
+            name
+            for name in st.session_state["school_list_selection"]
+            if name in school_names
+        ],
+        placeholder="Search for schools to add",
+    )
+    st.session_state["school_list_selection"] = selected_names
+
+    selected_schools = catalog[
+        catalog["school_name"].isin(selected_names)
+    ].copy()
+    show_school_list_summary(selected_schools)
+
+    button_columns = st.columns(2)
+    with button_columns[0]:
+        generate_disabled = not selected_names
+        if st.button(
+            "Generate Report from School List",
+            type="primary",
+            use_container_width=True,
+            disabled=generate_disabled,
+        ):
+            generate_and_store_report(
+                profile=profile,
+                top_n=max(1, len(selected_names)),
+                supabase_client=supabase_client,
+                user_id=user_id,
+                selected_school_names=selected_names,
+            )
+    with button_columns[1]:
+        if st.button(
+            "Clear School List",
+            use_container_width=True,
+            disabled=not selected_names,
+        ):
+            st.session_state["school_list_selection"] = []
+            st.rerun()
+
+
 def show_saved_reports_panel(supabase_client, user_id: str) -> None:
     st.header("Saved Reports")
 
@@ -1174,93 +1375,79 @@ def main() -> None:
             st.warning(f"Could not load the saved profile: {error}")
             st.session_state["current_profile"] = {}
 
-    saved_profile = build_profile_form(st.session_state["current_profile"])
+    profile_tab, school_list_tab, reports_tab = st.tabs(
+        ["Profile", "School List", "Reports"]
+    )
 
-    if saved_profile is not None:
-        issues = validate_student_profile(saved_profile)
-        errors = [issue for issue in issues if issue.severity == "error"]
-        if errors:
-            for issue in errors:
-                st.error(f"{issue.field}: {issue.message}")
-        else:
-            try:
-                save_profile_to_supabase(
-                    supabase_client,
-                    st.session_state["user_id"],
-                    saved_profile,
+    with profile_tab:
+        saved_profile = build_profile_form(st.session_state["current_profile"])
+
+        if saved_profile is not None:
+            issues = validate_student_profile(saved_profile)
+            errors = [issue for issue in issues if issue.severity == "error"]
+            if errors:
+                for issue in errors:
+                    st.error(f"{issue.field}: {issue.message}")
+            else:
+                try:
+                    save_profile_to_supabase(
+                        supabase_client,
+                        st.session_state["user_id"],
+                        saved_profile,
+                    )
+                    st.session_state["current_profile"] = saved_profile
+                    st.success("Profile saved.")
+                    for issue in issues:
+                        if issue.severity == "warning":
+                            st.warning(f"{issue.field}: {issue.message}")
+                except Exception as error:
+                    st.error(f"Could not save the profile: {error}")
+
+        current_profile = st.session_state.get("current_profile", {})
+        if current_profile:
+            with st.expander("Profile preview"):
+                st.json(current_profile)
+                st.download_button(
+                    "Download profile JSON",
+                    data=json.dumps(current_profile, indent=2),
+                    file_name="student_profile.json",
+                    mime="application/json",
                 )
-                st.session_state["current_profile"] = saved_profile
-                st.success("Profile saved.")
-                for issue in issues:
-                    if issue.severity == "warning":
-                        st.warning(f"{issue.field}: {issue.message}")
-            except Exception as error:
-                st.error(f"Could not save the profile: {error}")
 
     current_profile = st.session_state.get("current_profile", {})
-    if current_profile:
-        with st.expander("Profile preview"):
-            st.json(current_profile)
-            st.download_button(
-                "Download profile JSON",
-                data=json.dumps(current_profile, indent=2),
-                file_name="student_profile.json",
-                mime="application/json",
-            )
+    if not current_profile:
+        with school_list_tab:
+            st.info("Save a profile before building a school list.")
+        with reports_tab:
+            st.info("Save a profile before generating reports.")
+        return
 
-        show_saved_reports_panel(
+    user_id = str(st.session_state["user_id"])
+    with school_list_tab:
+        show_school_list_panel(
+            profile=current_profile,
+            top_n=top_n,
             supabase_client=supabase_client,
-            user_id=str(st.session_state["user_id"]),
+            user_id=user_id,
         )
 
-        if st.button("Generate Advising Report", type="primary", use_container_width=True):
-            try:
-                with st.spinner("Generating rankings and agent reports..."):
-                    result = generate_report_for_profile(
-                        current_profile,
-                        top_n=top_n,
-                        report_owner_id=str(st.session_state["user_id"]),
-                    )
-            except Exception as error:
-                st.exception(error)
-            else:
-                st.session_state["latest_report"] = {
-                    "profile": current_profile,
-                    "final_report": result.final_report,
-                    "ranked_schools": result.ranked_schools,
-                    "run_id": result.run_id,
-                }
-                st.session_state["followup_history"] = []
-                cloud_saved = False
+    with reports_tab:
+        show_saved_reports_panel(
+            supabase_client=supabase_client,
+            user_id=user_id,
+        )
 
-                try:
-                    save_report_to_supabase(
-                        supabase_client=supabase_client,
-                        user_id=str(st.session_state["user_id"]),
-                        run_id=result.run_id,
-                        generated_at_utc=result.generated_at_utc,
-                        student_name=result.student_name,
-                        final_report=result.final_report,
-                        ranked_schools=result.ranked_schools,
-                        warnings=result.warnings,
-                        profile_snapshot=current_profile,
-                    )
-                    cloud_saved = True
-                except Exception as error:
-                    st.error(
-                        "The report was generated locally, but it could not be "
-                        f"saved to Supabase: {error}"
-                    )
-
-                if cloud_saved:
-                    st.success(
-                        "Report saved locally and to Supabase. "
-                        f"Run ID: {result.run_id}"
-                    )
-                else:
-                    st.warning(
-                        f"Local report path: {result.final_report_path}"
-                    )
+        if st.button(
+            "Generate Advising Report",
+            type="primary",
+            use_container_width=True,
+        ):
+            generate_and_store_report(
+                profile=current_profile,
+                top_n=top_n,
+                supabase_client=supabase_client,
+                user_id=user_id,
+            )
 
         show_current_report_panel()
 

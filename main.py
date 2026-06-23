@@ -29,6 +29,7 @@ def generate_report_for_profile(
     top_n: int = 25,
     use_agents: bool = True,
     report_owner_id: str | None = None,
+    selected_school_names: list[str] | None = None,
 ) -> PipelineResult:
     profile_issues = validate_profile_data(student_data)
     student_name = get_student_name(student_data)
@@ -37,6 +38,15 @@ def generate_report_for_profile(
     generated_at_utc = datetime.now(timezone.utc).isoformat()
 
     schools = load_schools(schools_file)
+    if selected_school_names:
+        selected_names = {
+            str(name).strip() for name in selected_school_names if str(name).strip()
+        }
+        schools = schools[schools["school_name"].isin(selected_names)].copy()
+        if schools.empty:
+            raise ValueError("None of the selected schools were found.")
+        top_n = min(top_n, len(schools))
+
     ranking_output = rank_schools(
         student=student_data,
         schools=schools,

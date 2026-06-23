@@ -1,8 +1,10 @@
 import json
+import tempfile
 import unittest
 from pathlib import Path
 
 from config import DEFAULT_SCHOOLS_FILE, PROFILE_DIR
+from main import generate_report_for_profile
 from repositories.school_repository import (
     load_schools,
     normalize_state_code,
@@ -101,6 +103,24 @@ class RefactorTests(unittest.TestCase):
         self.assertIsNotNone(context)
         self.assertIn("The Ohio State University Main Campus", context)
         self.assertNotIn("Iowa State University", context)
+
+    def test_report_can_be_limited_to_selected_schools(self):
+        profile_path = PROFILE_DIR / "student1_profile.json"
+        profile = json.loads(profile_path.read_text(encoding="utf-8"))
+        schools = load_schools(DEFAULT_SCHOOLS_FILE)
+        selected_names = schools["school_name"].dropna().head(3).tolist()
+
+        with tempfile.TemporaryDirectory() as output_root:
+            result = generate_report_for_profile(
+                profile,
+                output_root=output_root,
+                top_n=25,
+                use_agents=False,
+                selected_school_names=selected_names,
+            )
+
+        self.assertEqual(set(result.ranked_schools["school_name"]), set(selected_names))
+        self.assertEqual(len(result.ranked_schools), len(selected_names))
 
 
 if __name__ == "__main__":
